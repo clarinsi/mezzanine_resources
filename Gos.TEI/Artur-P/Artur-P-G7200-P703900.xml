@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Artur-P-G7200-P703900" xml:lang="sl" source="#gos.P.A.P">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Artur-P-G7200-P703900 [Artur-P]</title>
+			</titleStmt>
+			<editionStmt>
+				<edition>2.1</edition>
+			</editionStmt>
+			<extent>
+				<measure unit="speeches" quantity="1" xml:lang="sl">1 govorov</measure>
+				<measure unit="speeches" quantity="1" xml:lang="en">1 speeches</measure>
+				<measure unit="words" quantity="29" xml:lang="sl">29 besed</measure>
+				<measure unit="words" quantity="29" xml:lang="en">29 words</measure>
+			</extent>
+			<publicationStmt>
+				<distributor>
+					<ref target="https://www.clarin.si">CLARIN.SI</ref>
+				</distributor>
+				<idno type="URI" subtype="handle">http://hdl.handle.net/11356/1863</idno>
+				<date when="2023-08-28">2023-08-28</date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<publisher>Državni zbor RS</publisher>
+				</bibl>
+				<recordingStmt>
+					<recording>
+						<media xml:id="Artur-P-G7200-P703900-avd" mimeType="audio/wav" url="../Artur.wav/Artur-P-G7200-P703900-avd.wav"/>
+						<broadcast>
+							<ab>Državni zbor RS</ab>
+						</broadcast>
+					</recording>
+				</recordingStmt>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<textClass>
+				<catRef target="#gos.T.J.I"/>
+				<catRef target="#gos.K.O"/>
+			</textClass>
+			<textDesc>
+				<channel/>
+				<constitution/>
+				<derivation/>
+				<domain>seja državnega zbora</domain>
+				<factuality/>
+				<interaction/>
+				<preparedness/>
+				<purpose/>
+			</textDesc>
+			<particDesc>
+				<listPerson n="1">
+					<person sameAs="#Artur-P-G7200"/>
+				</listPerson>
+			</particDesc>
+			<settingDesc>
+				<place>
+					<settlement>Ljubljana</settlement>
+				</place>
+			</settingDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<desc type="topic">Seja državnega zbora</desc>
+			<timeline unit="seg" origin="#Artur-P-G7200-P703900.t0" corresp="#Artur-P-G7200-P703900-avd">
+				<when xml:id="Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t1" interval="1.976" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t2" interval="2.932" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t3" interval="4.758" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t4" interval="8.189" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t5" interval="8.346" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t6" interval="10.428" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t7" interval="15.000" since="#Artur-P-G7200-P703900.t0"/>
+			</timeline>
+			<timeline unit="w" origin="#Artur-P-G7200-P703900.t0" corresp="#Artur-P-G7200-P703900-avd">
+				<when xml:id="Artur-P-G7200-P703900.t1.w0" interval="1.976" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t1.w1" interval="2.116" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t1.w2" interval="2.246" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t1.w3" interval="2.686" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t2.w0" interval="2.932" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t2.w1" interval="3.082" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t2.w2" interval="3.272" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t2.w3" interval="3.342" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t2.w4" interval="3.462" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t2.w5" interval="3.582" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t2.w6" interval="3.822" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t2.w7" interval="4.302" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t2.w8" interval="4.332" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t3.w0" interval="4.758" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t3.w1" interval="5.348" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t3.w2" interval="5.978" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t3.w3" interval="6.258" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t3.w4" interval="6.498" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t3.w5" interval="6.888" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t3.w6" interval="6.988" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t3.w7" interval="7.118" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t3.w8" interval="7.398" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t3.w9" interval="7.648" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t3.w10" interval="7.838" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t5.w0" interval="8.656" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t5.w1" interval="8.966" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t5.w2" interval="9.346" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t5.w3" interval="10.296" since="#Artur-P-G7200-P703900.t0"/>
+				<when xml:id="Artur-P-G7200-P703900.t5.w4" interval="13.536" since="#Artur-P-G7200-P703900.t0"/>
+			</timeline>
+			<u xml:id="Artur-P-G7200-P703900.u1" who="#Artur-P-G7200" start="#Artur-P-G7200-P703900.t0" end="#Artur-P-G7200-P703900.t7">
+				<pause/>
+				<seg xml:id="Artur-P-G7200-P703900.s1" synch="#Artur-P-G7200-P703900.t1">
+					<w xml:id="Artur-P-G7200-P703900.tok1" function="filler" lemma="a" ana="mte:I" join="right" synch="#Artur-P-G7200-P703900.t1.w0">a</w>
+					<pc xml:id="Artur-P-G7200-P703900.tok2" lemma="." ana="mte:Z">.</pc>
+					<w xml:id="Artur-P-G7200-P703900.tok3" norm="v" lemma="v" ana="mte:Sl" synch="#Artur-P-G7200-P703900.t1.w1">u</w>
+					<w xml:id="Artur-P-G7200-P703900.tok4" lemma="bistvo" ana="mte:Ncnsl" synch="#Artur-P-G7200-P703900.t1.w2">bistvu</w>
+					<w xml:id="Artur-P-G7200-P703900.tok5" lemma="glih" ana="mte:Rgp" synch="#Artur-P-G7200-P703900.t1.w3">glih</w>
+				</seg>
+				<seg xml:id="Artur-P-G7200-P703900.s2" synch="#Artur-P-G7200-P703900.t2">
+					<w xml:id="Artur-P-G7200-P703900.tok6" lemma="ne" ana="mte:Q" join="right" synch="#Artur-P-G7200-P703900.t2.w0">ne</w>
+					<pc xml:id="Artur-P-G7200-P703900.tok7" lemma="," ana="mte:Z">,</pc>
+					<w xml:id="Artur-P-G7200-P703900.tok8" lemma="no" ana="mte:Q" join="right" synch="#Artur-P-G7200-P703900.t2.w1">no</w>
+					<pc xml:id="Artur-P-G7200-P703900.tok9" lemma="." ana="mte:Z">.</pc>
+					<w xml:id="Artur-P-G7200-P703900.tok10" norm="jaz" lemma="jaz" ana="mte:Pp1-sn" synch="#Artur-P-G7200-P703900.t2.w2">jəs</w>
+					<w xml:id="Artur-P-G7200-P703900.tok11" lemma="se" ana="mte:Px------y" synch="#Artur-P-G7200-P703900.t2.w3">se</w>
+					<w xml:id="Artur-P-G7200-P703900.tok12" lemma="biti" ana="mte:Va-f1s-n" synch="#Artur-P-G7200-P703900.t2.w4">bom</w>
+					<w xml:id="Artur-P-G7200-P703900.tok13" norm="samo" lemma="samo" ana="mte:Q" synch="#Artur-P-G7200-P703900.t2.w5">sam</w>
+					<w xml:id="Artur-P-G7200-P703900.tok14" norm="zahvalil" lemma="zahvaliti" ana="mte:Vmep-sm" join="right" synch="#Artur-P-G7200-P703900.t2.w6">zahvalu</w>
+					<pc xml:id="Artur-P-G7200-P703900.tok15" lemma="," ana="mte:Z">,</pc>
+					<w xml:id="Artur-P-G7200-P703900.tok16" function="filler" lemma="a" ana="mte:I" join="right" synch="#Artur-P-G7200-P703900.t2.w7">a</w>
+					<pc xml:id="Artur-P-G7200-P703900.tok17" lemma="," ana="mte:Z">,</pc>
+					<w xml:id="Artur-P-G7200-P703900.tok18" lemma="minister" ana="mte:Ncmsd" synch="#Artur-P-G7200-P703900.t2.w8">ministru</w>
+				</seg>
+				<seg xml:id="Artur-P-G7200-P703900.s3" synch="#Artur-P-G7200-P703900.t3">
+					<w xml:id="Artur-P-G7200-P703900.tok19" norm="za" lemma="za" ana="mte:Sa" synch="#Artur-P-G7200-P703900.t3.w0">zaa</w>
+					<w xml:id="Artur-P-G7200-P703900.tok20" lemma="odgovor" ana="mte:Ncmsan" join="right" synch="#Artur-P-G7200-P703900.t3.w1">odgovor</w>
+					<pc xml:id="Artur-P-G7200-P703900.tok21" lemma="," ana="mte:Z">,</pc>
+					<w xml:id="Artur-P-G7200-P703900.tok22" function="filler" lemma="aa" ana="mte:I" join="right" synch="#Artur-P-G7200-P703900.t3.w2">aa</w>
+					<pc xml:id="Artur-P-G7200-P703900.tok23" lemma="," ana="mte:Z">,</pc>
+					<w xml:id="Artur-P-G7200-P703900.tok24" lemma="pa" ana="mte:Cc" synch="#Artur-P-G7200-P703900.t3.w3">pa</w>
+					<w xml:id="Artur-P-G7200-P703900.tok25" lemma="upati" ana="mte:Vmpr1s" join="right" synch="#Artur-P-G7200-P703900.t3.w4">upam</w>
+					<pc xml:id="Artur-P-G7200-P703900.tok26" lemma="," ana="mte:Z">,</pc>
+					<w xml:id="Artur-P-G7200-P703900.tok27" lemma="da" ana="mte:Cs" synch="#Artur-P-G7200-P703900.t3.w5">da</w>
+					<w xml:id="Artur-P-G7200-P703900.tok28" lemma="biti" ana="mte:Va-f3s-n" synch="#Artur-P-G7200-P703900.t3.w6">bo</w>
+					<w xml:id="Artur-P-G7200-P703900.tok29" norm="naredil" lemma="narediti" ana="mte:Vmep-sm" synch="#Artur-P-G7200-P703900.t3.w7">naredu</w>
+					<w xml:id="Artur-P-G7200-P703900.tok30" norm="tisto" lemma="tisti" ana="mte:Pd-nsa" join="right" synch="#Artur-P-G7200-P703900.t3.w8">tist</w>
+					<pc xml:id="Artur-P-G7200-P703900.tok31" lemma="," ana="mte:Z">,</pc>
+					<w xml:id="Artur-P-G7200-P703900.tok32" lemma="kar" ana="mte:Pr-nsn" synch="#Artur-P-G7200-P703900.t3.w9">kar</w>
+					<w xml:id="Artur-P-G7200-P703900.tok33" lemma="biti" ana="mte:Va-r3s-n" join="right" synch="#Artur-P-G7200-P703900.t3.w10">je</w>
+					<pc xml:id="Artur-P-G7200-P703900.tok34" lemma="," ana="mte:Z">,</pc>
+				</seg>
+				<pause/>
+				<seg xml:id="Artur-P-G7200-P703900.s4" synch="#Artur-P-G7200-P703900.t5">
+					<w xml:id="Artur-P-G7200-P703900.tok35" function="filler" lemma="aa" ana="mte:I" join="right" synch="#Artur-P-G7200-P703900.t5.w0">aa</w>
+					<pc xml:id="Artur-P-G7200-P703900.tok36" lemma="," ana="mte:Z">,</pc>
+					<w xml:id="Artur-P-G7200-P703900.tok37" lemma="danes" ana="mte:Rgp" synch="#Artur-P-G7200-P703900.t5.w1">danes</w>
+					<w xml:id="Artur-P-G7200-P703900.tok38" norm="povedal" lemma="povedati" ana="mte:Vmep-sm" join="right" synch="#Artur-P-G7200-P703900.t5.w2">povedu</w>
+					<pc xml:id="Artur-P-G7200-P703900.tok39" lemma="," ana="mte:Z">,</pc>
+					<w xml:id="Artur-P-G7200-P703900.tok40" lemma="no" ana="mte:Q" join="right" synch="#Artur-P-G7200-P703900.t5.w3">no</w>
+					<pc xml:id="Artur-P-G7200-P703900.tok41" lemma="." ana="mte:Z">.</pc>
+					<w xml:id="Artur-P-G7200-P703900.tok42" lemma="hvala" ana="mte:Ncfsn" join="right" synch="#Artur-P-G7200-P703900.t5.w4">hvala</w>
+					<pc xml:id="Artur-P-G7200-P703900.tok43" lemma="." ana="mte:Z">.</pc>
+				</seg>
+				<pause/>
+			</u>
+		</body>
+	</text>
+</TEI>

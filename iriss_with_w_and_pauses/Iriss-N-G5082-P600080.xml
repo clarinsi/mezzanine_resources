@@ -1,0 +1,1695 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Artur-N-G5082-P600080" xml:lang="sl" source="#gos.P.A.N">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Artur-N-G5082-P600080 [Artur-N]</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>2.1</edition>
+      </editionStmt>
+      <extent>
+        <measure unit="speeches" quantity="63" xml:lang="sl">63 govorov</measure>
+        <measure unit="speeches" quantity="63" xml:lang="en">63 speeches</measure>
+        <measure unit="words" quantity="1330" xml:lang="sl">1330 besed</measure>
+        <measure unit="words" quantity="1330" xml:lang="en">1330 words</measure>
+      </extent>
+      <publicationStmt>
+        <distributor>
+          <ref target="https://www.clarin.si">CLARIN.SI</ref>
+        </distributor>
+        <idno type="URI" subtype="handle">http://hdl.handle.net/11356/1863</idno>
+        <date when="2023-08-28">2023-08-28</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <publisher>lastni posnetek</publisher>
+          <date when="2021-07">2021-07</date>
+        </bibl>
+        <recordingStmt>
+          <recording>
+            <media xml:id="Artur-N-G5082-P600080-avd" mimeType="audio/wav" url="../Artur.wav/Artur-N-G5082-P600080-avd.wav"/>
+            <date when="2021-07">2021-07</date>
+          </recording>
+        </recordingStmt>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <catRef target="#gos.T.N.Z"/>
+        <catRef target="#gos.K.O"/>
+      </textClass>
+      <textDesc>
+        <channel/>
+        <constitution/>
+        <derivation/>
+        <domain>prosti dialog med dvema sogovornikoma</domain>
+        <factuality/>
+        <interaction/>
+        <preparedness/>
+        <purpose/>
+      </textDesc>
+      <particDesc>
+        <listPerson n="1">
+          <person sameAs="#Artur-N-G5082"/>
+        </listPerson>
+      </particDesc>
+      <settingDesc>
+        <place>
+          <settlement>Maribor</settlement>
+        </place>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <desc type="topic">Prosti dialog med dvema sogovornikoma</desc>
+      <timeline unit="seg" origin="#Artur-N-G5082-P600080.t0" corresp="#Artur-N-G5082-P600080-avd">
+        <when xml:id="Artur-N-G5082-P600080.t0" interval="0.0"/>
+        <when xml:id="Artur-N-G5082-P600080.t1" interval="1.875" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t2" interval="2.545" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t3" interval="9.665" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t4" interval="14.085" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t5" interval="16.799" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t6" interval="71.375" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t7" interval="72.581" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t8" interval="76.925" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t9" interval="81.648" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t10" interval="156.715" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t11" interval="158.903" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t12" interval="204.497" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t13" interval="210.872" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t14" interval="312.680" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t15" interval="314.421" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t16" interval="317.524" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17" interval="355.037" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t18" interval="366.935" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t19" interval="389.225" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t20" interval="390.520" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t21" interval="391.716" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t22" interval="393.346" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t23" interval="396.083" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t24" interval="401.163" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t25" interval="403.552" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t26" interval="404.548" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t27" interval="406.146" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t28" interval="462.932" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t29" interval="474.606" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t30" interval="568.472" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t31" interval="577.512" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t32" interval="581.887" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t33" interval="587.401" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t34" interval="627.905" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t35" interval="636.231" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t36" interval="681.030" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t37" interval="683.374" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t38" interval="687.191" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t39" interval="691.136" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t40" interval="692.065" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t41" interval="693.909" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t42" interval="696.757" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t43" interval="697.739" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t44" interval="699.213" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t45" interval="752.753" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t46" interval="755.066" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t47" interval="759.218" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t48" interval="766.776" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t49" interval="774.164" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t50" interval="776.888" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t51" interval="831.343" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t52" interval="839.892" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t53" interval="842.104" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t54" interval="849.738" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t55" interval="853.309" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t56" interval="854.515" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t57" interval="1071.976" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58" interval="1073.998" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t59" interval="1086.878" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t60" interval="1188.575" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t61" interval="1191.834" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t62" interval="1211.087" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t63" interval="1212.953" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t64" interval="1217.908" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t65" interval="1237.216" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t66" interval="1239.832" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67" interval="1241.854" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t68" interval="1252.903" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t69" interval="1361.545" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t70" interval="1366.992" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t71" interval="1370.778" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t72" interval="1377.399" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t73" interval="1379.622" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t74" interval="1391.006" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t75" interval="1394.046" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t76" interval="1441.824" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t77" interval="1445.619" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78" interval="1447.775" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t79" interval="1457.775" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t80" interval="1464.405" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t81" interval="1466.784" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t82" interval="1467.878" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t83" interval="1470.110" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t84" interval="1501.941" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t85" interval="1505.615" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t86" interval="1509.990" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87" interval="1612.423" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t88" interval="1623.204" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t89" interval="1626.865" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t90" interval="1627.535" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t91" interval="1635.048" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92" interval="1638.613" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t93" interval="1648.106" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94" interval="1677.102" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t95" interval="1687.115" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t96" interval="1714.258" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t97" interval="1717.205" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t98" interval="1721.861" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t99" interval="1729.026" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t100" interval="1731.214" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t101" interval="1738.236" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102" interval="1740.563" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t103" interval="1750.513" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t104" interval="1785.199" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t105" interval="1792.087" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t106" interval="1800.101" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t107" interval="1803.954" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t108" interval="1813.588" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109" interval="1815.856" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t110" interval="1828.392" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t111" interval="1845.013" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t112" interval="1848.084" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t113" interval="1864.200" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t114" interval="1868.196" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t115" interval="1871.767" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t116" interval="1877.873" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t117" interval="1882.261" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t118" interval="1885.944" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t119" interval="1890.543" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t120" interval="1898.570" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121" interval="1903.472" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t122" interval="1914.200" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t123" interval="1964.236" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t124" interval="1966.370" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t125" interval="1968.214" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t126" interval="2004.991" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t127" interval="2007.219" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t128" interval="2010.433" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t129" interval="2013.224" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t130" interval="2015.322" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t131" interval="2025.791" since="#Artur-N-G5082-P600080.t0"/>
+      </timeline>
+      <timeline unit="w" origin="#Artur-N-G5082-P600080.t0" corresp="#Artur-N-G5082-P600080-avd">
+        <when xml:id="Artur-N-G5082-P600080.t2.w0" interval="2.705" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t2.w1" interval="2.995" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t2.w2" interval="4.165" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t2.w3" interval="4.275" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t2.w4" interval="4.415" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t2.w5" interval="4.815" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t2.w6" interval="4.935" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t2.w7" interval="5.095" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t2.w8" interval="5.395" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t2.w9" interval="5.535" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t2.w10" interval="5.675" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t2.w11" interval="6.475" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t2.w12" interval="6.925" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t2.w13" interval="7.215" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t2.w14" interval="7.275" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t2.w15" interval="7.655" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t2.w16" interval="7.685" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t2.w17" interval="7.885" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t2.w18" interval="8.905" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t3.w0" interval="9.725" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t3.w1" interval="9.935" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t3.w2" interval="10.255" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t3.w3" interval="10.535" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t3.w4" interval="10.655" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t3.w5" interval="10.945" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t3.w6" interval="11.275" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t3.w7" interval="11.395" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t3.w8" interval="11.495" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t3.w9" interval="11.815" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t3.w10" interval="12.095" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t3.w11" interval="12.255" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t3.w12" interval="12.315" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t3.w13" interval="12.525" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t3.w14" interval="12.675" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t3.w15" interval="12.875" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t3.w16" interval="13.155" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t3.w17" interval="13.245" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t4.w0" interval="14.165" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t4.w1" interval="14.385" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t4.w2" interval="14.445" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t4.w3" interval="14.675" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t4.w4" interval="14.895" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t4.w5" interval="16.295" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t6.w0" interval="71.565" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t7.w0" interval="72.821" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t7.w1" interval="73.021" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t7.w2" interval="73.091" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t7.w3" interval="73.301" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t7.w4" interval="73.431" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t7.w5" interval="73.561" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t7.w6" interval="74.001" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t7.w7" interval="74.191" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t7.w8" interval="74.451" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t7.w9" interval="74.851" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t7.w10" interval="75.361" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t7.w11" interval="76.101" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t8.w0" interval="77.075" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t8.w1" interval="77.285" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t8.w2" interval="77.435" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t8.w3" interval="77.705" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t8.w4" interval="77.955" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t8.w5" interval="78.135" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t8.w6" interval="78.285" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t8.w7" interval="78.895" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t8.w8" interval="79.465" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t8.w9" interval="80.235" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t8.w10" interval="80.405" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t8.w11" interval="80.635" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t10.w0" interval="156.915" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t10.w1" interval="157.165" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t10.w2" interval="157.235" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t10.w3" interval="157.385" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t10.w4" interval="157.485" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t10.w5" interval="157.635" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t10.w6" interval="158.225" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t12.w0" interval="204.877" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t12.w1" interval="205.017" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t12.w2" interval="205.167" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t12.w3" interval="205.257" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t12.w4" interval="205.557" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t12.w5" interval="205.637" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t12.w6" interval="205.817" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t12.w7" interval="205.917" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t12.w8" interval="205.977" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t12.w9" interval="206.237" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t12.w10" interval="207.217" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t12.w11" interval="207.287" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t12.w12" interval="207.807" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t12.w13" interval="208.117" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t12.w14" interval="208.607" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t12.w15" interval="208.667" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t12.w16" interval="209.067" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t12.w17" interval="209.347" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t14.w0" interval="313.080" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t15.w0" interval="314.521" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t15.w1" interval="314.651" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t15.w2" interval="314.711" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t15.w3" interval="314.771" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t15.w4" interval="314.951" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t15.w5" interval="315.101" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t15.w6" interval="315.511" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t15.w7" interval="315.611" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t15.w8" interval="315.721" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t15.w9" interval="316.001" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t15.w10" interval="316.531" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t15.w11" interval="316.591" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t15.w12" interval="316.971" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w0" interval="355.287" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w1" interval="355.447" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w2" interval="355.587" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w3" interval="355.817" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w4" interval="356.297" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w5" interval="356.407" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w6" interval="356.617" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w7" interval="357.077" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w8" interval="357.307" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w9" interval="357.467" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w10" interval="357.597" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w11" interval="357.927" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w12" interval="358.017" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w13" interval="358.437" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w14" interval="358.617" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w15" interval="358.757" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w16" interval="359.197" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w17" interval="359.307" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w18" interval="359.477" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w19" interval="359.837" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w20" interval="360.097" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w21" interval="360.367" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w22" interval="360.577" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w23" interval="360.847" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w24" interval="361.007" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w25" interval="361.517" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w26" interval="361.657" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w27" interval="361.907" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w28" interval="362.037" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w29" interval="362.117" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w30" interval="362.597" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w31" interval="362.917" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w32" interval="363.187" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w33" interval="363.357" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w34" interval="363.527" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w35" interval="364.117" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w36" interval="364.437" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w37" interval="365.097" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w38" interval="365.327" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w39" interval="365.657" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w40" interval="366.097" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t17.w41" interval="366.197" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t19.w0" interval="389.365" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t19.w1" interval="389.515" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t19.w2" interval="389.805" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t21.w0" interval="391.916" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t21.w1" interval="392.466" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t23.w0" interval="396.413" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t23.w1" interval="396.513" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t23.w2" interval="396.573" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t23.w3" interval="396.663" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t23.w4" interval="396.763" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t23.w5" interval="396.893" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t23.w6" interval="396.963" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t23.w7" interval="397.423" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t23.w8" interval="397.533" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t23.w9" interval="397.713" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t23.w10" interval="399.373" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t23.w11" interval="399.523" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t24.w0" interval="401.233" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t25.w0" interval="403.672" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t26.w0" interval="404.638" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t26.w1" interval="404.778" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t26.w2" interval="404.898" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t26.w3" interval="405.158" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t26.w4" interval="405.258" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t28.w0" interval="463.322" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t28.w1" interval="463.492" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t28.w2" interval="463.692" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t28.w3" interval="463.872" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t28.w4" interval="464.162" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t28.w5" interval="464.522" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t28.w6" interval="464.792" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t28.w7" interval="465.422" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t28.w8" interval="466.082" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t28.w9" interval="466.222" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t28.w10" interval="466.592" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t28.w11" interval="466.952" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t28.w12" interval="467.272" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t28.w13" interval="468.642" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t28.w14" interval="468.732" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t28.w15" interval="469.102" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t28.w16" interval="469.922" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t28.w17" interval="470.052" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t28.w18" interval="470.432" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t28.w19" interval="470.632" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t28.w20" interval="470.922" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t28.w21" interval="470.992" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t28.w22" interval="471.202" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t28.w23" interval="471.522" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t28.w24" interval="472.232" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t28.w25" interval="472.562" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t28.w26" interval="472.642" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t28.w27" interval="473.142" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t30.w0" interval="568.652" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t30.w1" interval="568.812" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t30.w2" interval="568.902" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t30.w3" interval="569.002" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t30.w4" interval="569.152" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t30.w5" interval="569.542" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t30.w6" interval="569.772" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t30.w7" interval="570.262" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t30.w8" interval="570.442" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t30.w9" interval="571.412" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t30.w10" interval="571.952" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t30.w11" interval="572.092" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t30.w12" interval="572.242" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t30.w13" interval="572.712" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t30.w14" interval="572.752" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t30.w15" interval="572.892" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t30.w16" interval="573.352" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t30.w17" interval="573.722" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t30.w18" interval="573.922" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t30.w19" interval="574.082" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t30.w20" interval="574.182" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t30.w21" interval="574.352" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t30.w22" interval="575.072" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t30.w23" interval="575.242" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t30.w24" interval="575.382" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t30.w25" interval="575.442" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t30.w26" interval="575.662" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t30.w27" interval="575.812" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t30.w28" interval="576.052" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t30.w29" interval="576.622" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t31.w0" interval="577.622" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t31.w1" interval="577.702" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t31.w2" interval="577.762" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t31.w3" interval="577.862" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t31.w4" interval="578.482" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t31.w5" interval="578.732" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t31.w6" interval="578.912" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t31.w7" interval="579.262" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t31.w8" interval="579.362" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t31.w9" interval="579.742" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t31.w10" interval="580.252" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t31.w11" interval="580.662" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t31.w12" interval="580.842" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t32.w0" interval="582.067" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t32.w1" interval="582.187" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t32.w2" interval="582.257" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t32.w3" interval="582.317" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t32.w4" interval="582.417" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t32.w5" interval="582.587" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t32.w6" interval="582.967" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t32.w7" interval="583.627" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t32.w8" interval="583.767" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t32.w9" interval="583.847" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t32.w10" interval="584.017" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t32.w11" interval="584.327" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t32.w12" interval="585.007" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t32.w13" interval="585.347" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t32.w14" interval="585.497" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t32.w15" interval="585.707" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t32.w16" interval="585.977" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t32.w17" interval="586.127" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t32.w18" interval="586.307" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t32.w19" interval="586.387" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t32.w20" interval="586.557" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t34.w0" interval="628.225" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t34.w1" interval="628.315" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t34.w2" interval="628.395" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t34.w3" interval="628.475" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t34.w4" interval="628.535" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t34.w5" interval="628.845" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t34.w6" interval="629.085" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t34.w7" interval="629.195" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t34.w8" interval="629.405" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t34.w9" interval="629.835" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t34.w10" interval="630.125" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t34.w11" interval="630.215" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t34.w12" interval="630.505" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t34.w13" interval="630.645" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t34.w14" interval="630.765" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t34.w15" interval="631.405" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t34.w16" interval="631.635" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t34.w17" interval="631.935" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t34.w18" interval="632.175" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t34.w19" interval="632.295" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t34.w20" interval="632.435" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t34.w21" interval="633.035" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t34.w22" interval="633.365" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t34.w23" interval="633.605" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t34.w24" interval="634.335" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t34.w25" interval="634.675" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t34.w26" interval="634.785" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t36.w0" interval="681.310" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t36.w1" interval="681.490" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t36.w2" interval="681.640" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t36.w3" interval="681.780" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t36.w4" interval="681.880" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t36.w5" interval="681.980" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t36.w6" interval="682.200" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t36.w7" interval="682.930" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t36.w8" interval="683.020" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t37.w0" interval="683.544" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t37.w1" interval="683.844" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t37.w2" interval="684.174" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t37.w3" interval="684.324" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t37.w4" interval="684.444" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t37.w5" interval="684.754" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t37.w6" interval="685.434" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t37.w7" interval="685.674" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t37.w8" interval="685.954" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t37.w9" interval="686.014" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t37.w10" interval="686.374" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t37.w11" interval="686.654" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t38.w0" interval="687.291" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t38.w1" interval="687.531" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t38.w2" interval="687.731" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t38.w3" interval="687.791" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t38.w4" interval="688.171" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t38.w5" interval="688.351" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t38.w6" interval="688.951" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t38.w7" interval="689.191" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t38.w8" interval="689.301" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t38.w9" interval="689.431" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t38.w10" interval="689.581" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t38.w11" interval="689.951" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t38.w12" interval="690.021" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t38.w13" interval="690.371" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t38.w14" interval="690.501" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t38.w15" interval="690.811" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t39.w0" interval="691.206" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t40.w0" interval="692.465" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t40.w1" interval="692.655" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t40.w2" interval="692.835" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t42.w0" interval="696.927" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t43.w0" interval="697.839" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t45.w0" interval="752.923" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t46.w0" interval="755.336" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t46.w1" interval="755.566" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t46.w2" interval="755.686" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t46.w3" interval="755.766" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t46.w4" interval="755.856" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t46.w5" interval="756.526" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t46.w6" interval="756.766" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t46.w7" interval="756.836" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t46.w8" interval="756.896" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t46.w9" interval="757.096" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t46.w10" interval="757.836" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t46.w11" interval="758.656" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t47.w0" interval="759.288" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t47.w1" interval="759.518" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t47.w2" interval="759.658" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t47.w3" interval="759.748" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t47.w4" interval="759.858" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t47.w5" interval="759.968" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t47.w6" interval="760.078" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t47.w7" interval="760.408" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t47.w8" interval="760.538" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t47.w9" interval="760.928" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t47.w10" interval="761.178" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t47.w11" interval="761.368" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t47.w12" interval="761.568" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t47.w13" interval="762.078" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t47.w14" interval="762.438" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t47.w15" interval="762.598" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t47.w16" interval="762.978" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t47.w17" interval="763.408" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t47.w18" interval="763.918" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t47.w19" interval="764.098" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t47.w20" interval="764.228" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t47.w21" interval="764.458" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t47.w22" interval="765.118" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t48.w0" interval="766.806" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t48.w1" interval="767.006" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t48.w2" interval="767.106" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t48.w3" interval="767.166" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t48.w4" interval="767.416" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t48.w5" interval="767.536" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t48.w6" interval="767.976" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t48.w7" interval="768.126" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t48.w8" interval="768.396" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t48.w9" interval="769.536" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t48.w10" interval="770.436" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t48.w11" interval="771.026" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t48.w12" interval="771.656" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t48.w13" interval="771.726" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t48.w14" interval="772.096" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t48.w15" interval="772.196" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t48.w16" interval="772.896" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t49.w0" interval="774.244" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t49.w1" interval="774.744" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t49.w2" interval="775.074" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t49.w3" interval="775.514" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t49.w4" interval="775.634" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t49.w5" interval="775.784" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t49.w6" interval="776.004" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t51.w0" interval="831.953" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t51.w1" interval="832.043" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t51.w2" interval="832.383" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t51.w3" interval="832.873" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t51.w4" interval="833.183" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t51.w5" interval="833.333" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t51.w6" interval="833.393" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t51.w7" interval="833.633" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t51.w8" interval="833.783" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t51.w9" interval="833.933" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t51.w10" interval="834.093" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t51.w11" interval="834.723" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t51.w12" interval="835.053" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t51.w13" interval="835.283" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t51.w14" interval="835.583" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t51.w15" interval="835.673" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t51.w16" interval="835.843" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t51.w17" interval="835.903" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t51.w18" interval="836.403" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t51.w19" interval="836.733" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t51.w20" interval="836.823" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t51.w21" interval="836.943" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t51.w22" interval="838.003" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t51.w23" interval="838.933" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t53.w0" interval="842.934" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t53.w1" interval="843.214" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t53.w2" interval="843.344" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t53.w3" interval="844.764" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t53.w4" interval="844.974" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t53.w5" interval="845.424" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t53.w6" interval="845.734" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t53.w7" interval="845.794" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t53.w8" interval="845.854" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t53.w9" interval="846.094" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t53.w10" interval="846.254" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t53.w11" interval="846.344" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t53.w12" interval="846.804" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t53.w13" interval="846.924" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t53.w14" interval="847.394" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t53.w15" interval="847.594" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t53.w16" interval="847.684" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t53.w17" interval="848.004" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t53.w18" interval="848.654" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t53.w19" interval="849.064" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t53.w20" interval="849.334" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t54.w0" interval="849.858" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t54.w1" interval="850.428" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t54.w2" interval="850.728" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t54.w3" interval="852.638" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t55.w0" interval="948.909" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t57.w0" interval="1072.316" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t57.w1" interval="1072.506" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t57.w2" interval="1072.676" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t57.w3" interval="1072.826" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w0" interval="1074.148" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w1" interval="1074.428" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w2" interval="1074.488" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w3" interval="1074.978" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w4" interval="1075.278" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w5" interval="1075.398" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w6" interval="1075.538" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w7" interval="1076.038" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w8" interval="1076.378" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w9" interval="1076.778" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w10" interval="1077.368" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w11" interval="1077.718" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w12" interval="1078.128" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w13" interval="1078.618" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w14" interval="1078.758" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w15" interval="1078.958" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w16" interval="1079.358" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w17" interval="1079.908" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w18" interval="1080.078" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w19" interval="1080.778" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w20" interval="1080.978" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w21" interval="1081.098" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w22" interval="1081.428" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w23" interval="1082.018" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w24" interval="1082.438" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w25" interval="1082.968" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w26" interval="1083.248" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w27" interval="1083.318" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w28" interval="1083.588" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w29" interval="1083.808" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w30" interval="1084.418" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w31" interval="1085.388" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w32" interval="1085.688" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w33" interval="1086.298" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t58.w34" interval="1086.368" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t60.w0" interval="1188.885" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t60.w1" interval="1189.235" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t60.w2" interval="1189.315" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t60.w3" interval="1189.455" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t60.w4" interval="1189.675" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t60.w5" interval="1189.805" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t60.w6" interval="1190.235" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t60.w7" interval="1190.375" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t60.w8" interval="1190.445" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t60.w9" interval="1190.665" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t62.w0" interval="1211.207" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t62.w1" interval="1211.347" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t62.w2" interval="1211.477" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t62.w3" interval="1211.897" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t62.w4" interval="1212.347" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t62.w5" interval="1212.527" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t63.w0" interval="1213.173" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t63.w1" interval="1213.353" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t63.w2" interval="1213.763" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t63.w3" interval="1214.113" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t63.w4" interval="1214.243" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t63.w5" interval="1214.573" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t63.w6" interval="1214.653" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t63.w7" interval="1214.793" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t63.w8" interval="1214.953" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t63.w9" interval="1215.553" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t63.w10" interval="1216.053" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t63.w11" interval="1216.493" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t63.w12" interval="1216.643" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t63.w13" interval="1216.863" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t63.w14" interval="1217.113" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t65.w0" interval="1237.556" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t65.w1" interval="1237.726" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t65.w2" interval="1237.856" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t65.w3" interval="1238.046" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t65.w4" interval="1238.136" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t65.w5" interval="1238.196" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t65.w6" interval="1238.466" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t65.w7" interval="1238.626" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t65.w8" interval="1238.806" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t65.w9" interval="1239.296" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t66.w0" interval="1240.252" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t66.w1" interval="1240.462" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t66.w2" interval="1240.972" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w0" interval="1241.984" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w1" interval="1242.894" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w2" interval="1243.024" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w3" interval="1243.474" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w4" interval="1243.904" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w5" interval="1244.044" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w6" interval="1244.634" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w7" interval="1244.774" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w8" interval="1244.834" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w9" interval="1245.314" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w10" interval="1245.604" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w11" interval="1246.134" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w12" interval="1246.354" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w13" interval="1246.664" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w14" interval="1247.294" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w15" interval="1247.794" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w16" interval="1247.854" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w17" interval="1248.034" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w18" interval="1248.764" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w19" interval="1249.204" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w20" interval="1249.264" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w21" interval="1249.504" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w22" interval="1249.634" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w23" interval="1249.864" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w24" interval="1250.044" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w25" interval="1250.414" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w26" interval="1250.934" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w27" interval="1251.154" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w28" interval="1251.324" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w29" interval="1251.384" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w30" interval="1251.594" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w31" interval="1251.754" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t67.w32" interval="1252.184" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t69.w0" interval="1361.605" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t69.w1" interval="1361.745" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t69.w2" interval="1361.985" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t69.w3" interval="1362.045" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t69.w4" interval="1362.105" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t69.w5" interval="1362.275" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t69.w6" interval="1362.475" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t69.w7" interval="1363.125" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t69.w8" interval="1363.615" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t69.w9" interval="1363.765" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t69.w10" interval="1363.915" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t69.w11" interval="1365.195" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t69.w12" interval="1365.605" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t69.w13" interval="1365.835" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t69.w14" interval="1365.925" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t70.w0" interval="1367.392" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t70.w1" interval="1367.582" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t70.w2" interval="1367.672" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t70.w3" interval="1368.332" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t70.w4" interval="1368.632" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t70.w5" interval="1369.042" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t70.w6" interval="1369.262" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t71.w0" interval="1370.908" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t71.w1" interval="1371.598" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t71.w2" interval="1371.818" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t71.w3" interval="1372.258" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t71.w4" interval="1372.808" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t71.w5" interval="1373.638" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t71.w6" interval="1374.068" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t71.w7" interval="1374.348" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t71.w8" interval="1374.448" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t71.w9" interval="1374.538" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t71.w10" interval="1374.568" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t71.w11" interval="1374.808" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t71.w12" interval="1375.748" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t71.w13" interval="1376.668" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t72.w0" interval="1377.609" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t72.w1" interval="1377.699" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t72.w2" interval="1378.069" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t72.w3" interval="1378.739" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t72.w4" interval="1378.849" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t74.w0" interval="1391.116" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t74.w1" interval="1391.236" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t74.w2" interval="1391.406" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t74.w3" interval="1391.696" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t76.w0" interval="1442.134" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t76.w1" interval="1442.274" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t76.w2" interval="1442.434" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t76.w3" interval="1442.534" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t76.w4" interval="1442.634" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t76.w5" interval="1442.884" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t76.w6" interval="1443.364" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t76.w7" interval="1443.534" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t76.w8" interval="1443.774" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t76.w9" interval="1444.064" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t76.w10" interval="1444.204" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t77.w0" interval="1445.779" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t77.w1" interval="1445.859" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t77.w2" interval="1445.999" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t77.w3" interval="1446.289" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t77.w4" interval="1447.029" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w0" interval="1447.825" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w1" interval="1448.045" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w2" interval="1448.505" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w3" interval="1448.995" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w4" interval="1449.385" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w5" interval="1449.505" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w6" interval="1449.635" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w7" interval="1449.955" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w8" interval="1450.515" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w9" interval="1450.975" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w10" interval="1451.005" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w11" interval="1451.175" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w12" interval="1451.305" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w13" interval="1451.585" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w14" interval="1451.745" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w15" interval="1451.995" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w16" interval="1452.105" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w17" interval="1452.255" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w18" interval="1452.845" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w19" interval="1453.315" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w20" interval="1453.385" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w21" interval="1453.725" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w22" interval="1453.835" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w23" interval="1453.965" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w24" interval="1454.075" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w25" interval="1454.305" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w26" interval="1454.535" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w27" interval="1454.845" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w28" interval="1455.135" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w29" interval="1455.445" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w30" interval="1455.655" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w31" interval="1456.255" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w32" interval="1456.405" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w33" interval="1456.535" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w34" interval="1456.795" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w35" interval="1456.885" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t78.w36" interval="1456.945" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t79.w0" interval="1458.125" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t79.w1" interval="1458.275" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t79.w2" interval="1458.475" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t79.w3" interval="1458.585" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t79.w4" interval="1458.915" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t79.w5" interval="1459.155" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t79.w6" interval="1459.455" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t79.w7" interval="1459.625" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t79.w8" interval="1459.745" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t79.w9" interval="1460.175" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t79.w10" interval="1460.275" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t79.w11" interval="1460.565" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t79.w12" interval="1460.695" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t79.w13" interval="1461.005" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t79.w14" interval="1461.185" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t79.w15" interval="1461.485" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t79.w16" interval="1461.625" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t79.w17" interval="1461.735" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t79.w18" interval="1462.135" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t79.w19" interval="1462.615" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t79.w20" interval="1462.835" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t79.w21" interval="1462.975" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t79.w22" interval="1463.095" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t79.w23" interval="1463.175" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t79.w24" interval="1463.295" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t79.w25" interval="1463.375" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t79.w26" interval="1463.445" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t79.w27" interval="1463.545" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t79.w28" interval="1463.895" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t80.w0" interval="1464.555" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t80.w1" interval="1465.305" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t80.w2" interval="1465.405" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t80.w3" interval="1465.575" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t80.w4" interval="1465.835" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t80.w5" interval="1465.995" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t81.w0" interval="1466.934" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t81.w1" interval="1467.034" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t82.w0" interval="1468.008" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t82.w1" interval="1468.668" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t82.w2" interval="1468.798" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t82.w3" interval="1469.018" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t82.w4" interval="1469.628" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t84.w0" interval="1502.251" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t84.w1" interval="1502.581" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t84.w2" interval="1502.801" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t84.w3" interval="1503.181" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t84.w4" interval="1503.541" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t84.w5" interval="1504.311" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t84.w6" interval="1504.751" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t85.w0" interval="1505.755" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t85.w1" interval="1505.835" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t85.w2" interval="1506.265" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t85.w3" interval="1506.425" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t85.w4" interval="1506.665" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t85.w5" interval="1507.035" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t85.w6" interval="1507.695" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t85.w7" interval="1508.045" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t85.w8" interval="1508.135" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t85.w9" interval="1508.395" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t85.w10" interval="1508.695" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t85.w11" interval="1508.965" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t85.w12" interval="1509.285" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w0" interval="1612.633" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w1" interval="1613.353" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w2" interval="1613.573" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w3" interval="1613.663" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w4" interval="1613.913" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w5" interval="1614.093" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w6" interval="1614.413" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w7" interval="1614.473" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w8" interval="1614.723" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w9" interval="1614.823" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w10" interval="1615.373" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w11" interval="1615.613" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w12" interval="1616.043" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w13" interval="1616.523" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w14" interval="1616.793" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w15" interval="1616.913" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w16" interval="1617.383" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w17" interval="1617.613" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w18" interval="1617.753" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w19" interval="1617.923" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w20" interval="1618.093" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w21" interval="1618.143" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w22" interval="1618.243" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w23" interval="1618.563" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w24" interval="1619.133" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w25" interval="1619.213" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w26" interval="1619.273" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w27" interval="1619.433" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w28" interval="1619.783" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w29" interval="1620.303" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w30" interval="1620.513" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w31" interval="1620.673" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w32" interval="1620.883" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w33" interval="1621.013" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w34" interval="1621.643" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w35" interval="1621.783" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t87.w36" interval="1621.993" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t88.w0" interval="1623.364" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t88.w1" interval="1623.614" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t88.w2" interval="1623.724" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t88.w3" interval="1624.044" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t88.w4" interval="1624.314" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t88.w5" interval="1624.534" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t88.w6" interval="1624.804" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t88.w7" interval="1625.194" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t88.w8" interval="1625.624" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t89.w0" interval="1627.255" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t91.w0" interval="1635.098" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t91.w1" interval="1635.258" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t91.w2" interval="1635.338" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t91.w3" interval="1635.448" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t91.w4" interval="1635.568" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t91.w5" interval="1635.888" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t91.w6" interval="1636.468" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t91.w7" interval="1636.578" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t91.w8" interval="1636.878" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t91.w9" interval="1637.488" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t91.w10" interval="1637.958" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w0" interval="1638.673" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w1" interval="1639.263" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w2" interval="1639.603" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w3" interval="1640.183" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w4" interval="1640.533" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w5" interval="1640.643" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w6" interval="1640.753" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w7" interval="1640.983" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w8" interval="1641.333" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w9" interval="1641.373" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w10" interval="1641.793" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w11" interval="1641.983" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w12" interval="1642.123" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w13" interval="1642.283" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w14" interval="1642.403" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w15" interval="1642.663" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w16" interval="1642.803" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w17" interval="1643.313" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w18" interval="1643.453" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w19" interval="1643.723" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w20" interval="1643.863" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w21" interval="1644.123" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w22" interval="1644.283" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w23" interval="1644.403" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w24" interval="1644.643" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w25" interval="1644.733" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w26" interval="1644.973" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w27" interval="1645.293" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w28" interval="1645.393" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w29" interval="1645.473" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w30" interval="1645.543" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w31" interval="1645.693" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w32" interval="1646.323" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w33" interval="1646.483" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w34" interval="1646.623" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w35" interval="1647.063" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w36" interval="1647.353" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w37" interval="1647.663" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t92.w38" interval="1647.783" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w0" interval="1677.342" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w1" interval="1677.482" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w2" interval="1677.702" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w3" interval="1677.862" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w4" interval="1678.042" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w5" interval="1678.202" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w6" interval="1678.262" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w7" interval="1678.682" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w8" interval="1679.052" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w9" interval="1679.382" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w10" interval="1679.562" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w11" interval="1679.802" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w12" interval="1680.182" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w13" interval="1680.392" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w14" interval="1680.672" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w15" interval="1680.942" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w16" interval="1681.312" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w17" interval="1681.772" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w18" interval="1681.972" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w19" interval="1682.612" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w20" interval="1682.652" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w21" interval="1682.792" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w22" interval="1682.902" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w23" interval="1683.322" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w24" interval="1683.442" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w25" interval="1683.572" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w26" interval="1683.942" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w27" interval="1684.242" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w28" interval="1684.392" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w29" interval="1684.502" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w30" interval="1685.022" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w31" interval="1685.192" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w32" interval="1685.422" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w33" interval="1685.762" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w34" interval="1685.872" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w35" interval="1686.392" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t94.w36" interval="1686.552" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t96.w0" interval="1714.318" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t96.w1" interval="1714.598" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t96.w2" interval="1714.698" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t96.w3" interval="1714.848" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t96.w4" interval="1715.538" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t96.w5" interval="1715.678" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t96.w6" interval="1715.738" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t96.w7" interval="1715.928" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t96.w8" interval="1716.248" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t96.w9" interval="1716.328" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t96.w10" interval="1716.588" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t97.w0" interval="1717.205" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t97.w1" interval="1717.465" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t97.w2" interval="1717.575" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t97.w3" interval="1717.675" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t97.w4" interval="1717.735" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t97.w5" interval="1717.925" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t97.w6" interval="1718.005" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t97.w7" interval="1718.065" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t97.w8" interval="1720.745" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t98.w0" interval="1721.991" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t98.w1" interval="1722.281" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t98.w2" interval="1722.521" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t98.w3" interval="1722.731" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t98.w4" interval="1722.941" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t98.w5" interval="1723.061" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t98.w6" interval="1723.511" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t98.w7" interval="1723.581" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t98.w8" interval="1723.871" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t98.w9" interval="1724.091" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t98.w10" interval="1724.691" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t98.w11" interval="1725.141" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t98.w12" interval="1725.381" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t98.w13" interval="1726.041" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t98.w14" interval="1726.121" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t98.w15" interval="1726.241" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t98.w16" interval="1726.821" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t98.w17" interval="1726.911" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t98.w18" interval="1727.071" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t98.w19" interval="1727.561" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t99.w0" interval="1729.176" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t99.w1" interval="1729.356" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t99.w2" interval="1729.446" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t99.w3" interval="1729.546" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t99.w4" interval="1729.736" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t99.w5" interval="1730.176" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t99.w6" interval="1730.306" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t99.w7" interval="1730.436" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t100.w0" interval="1731.314" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t100.w1" interval="1731.554" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t100.w2" interval="1731.684" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t100.w3" interval="1731.964" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t100.w4" interval="1732.074" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t100.w5" interval="1732.154" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t100.w6" interval="1732.304" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t100.w7" interval="1732.394" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t100.w8" interval="1732.844" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t100.w9" interval="1732.934" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t100.w10" interval="1733.054" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t100.w11" interval="1733.164" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t100.w12" interval="1733.444" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t100.w13" interval="1733.974" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t100.w14" interval="1734.094" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t100.w15" interval="1734.314" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t100.w16" interval="1734.604" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t100.w17" interval="1735.014" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t100.w18" interval="1735.134" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t100.w19" interval="1735.454" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t100.w20" interval="1735.674" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t100.w21" interval="1737.344" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t100.w22" interval="1737.434" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t101.w0" interval="1738.366" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t101.w1" interval="1739.236" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t101.w2" interval="1739.346" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t101.w3" interval="1739.456" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w0" interval="1740.633" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w1" interval="1740.823" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w2" interval="1741.093" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w3" interval="1741.173" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w4" interval="1741.333" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w5" interval="1741.533" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w6" interval="1741.663" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w7" interval="1742.083" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w8" interval="1742.143" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w9" interval="1742.413" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w10" interval="1742.713" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w11" interval="1742.833" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w12" interval="1743.053" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w13" interval="1743.193" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w14" interval="1743.813" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w15" interval="1743.963" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w16" interval="1744.373" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w17" interval="1744.653" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w18" interval="1744.853" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w19" interval="1744.913" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w20" interval="1745.173" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w21" interval="1745.523" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w22" interval="1745.753" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w23" interval="1746.263" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w24" interval="1746.393" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w25" interval="1746.993" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w26" interval="1747.113" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w27" interval="1747.213" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w28" interval="1747.633" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w29" interval="1747.853" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w30" interval="1748.203" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w31" interval="1748.313" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w32" interval="1748.383" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w33" interval="1748.603" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w34" interval="1748.963" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w35" interval="1749.483" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w36" interval="1749.543" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w37" interval="1749.683" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w38" interval="1749.793" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t102.w39" interval="1750.113" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t104.w0" interval="1785.379" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t104.w1" interval="1785.619" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t104.w2" interval="1785.839" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t104.w3" interval="1785.989" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t104.w4" interval="1786.119" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t104.w5" interval="1786.239" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t104.w6" interval="1786.359" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t104.w7" interval="1786.559" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t104.w8" interval="1786.709" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t104.w9" interval="1786.899" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t104.w10" interval="1787.289" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t104.w11" interval="1788.149" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t104.w12" interval="1788.349" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t104.w13" interval="1788.539" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t104.w14" interval="1788.719" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t104.w15" interval="1788.879" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t104.w16" interval="1789.469" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t104.w17" interval="1789.919" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t104.w18" interval="1790.059" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t104.w19" interval="1790.109" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t104.w20" interval="1790.669" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t104.w21" interval="1790.749" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t104.w22" interval="1790.909" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t105.w0" interval="1792.127" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t105.w1" interval="1792.237" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t105.w2" interval="1792.847" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t105.w3" interval="1792.967" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t105.w4" interval="1793.247" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t105.w5" interval="1793.687" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t105.w6" interval="1793.757" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t105.w7" interval="1793.907" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t105.w8" interval="1794.087" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t105.w9" interval="1794.167" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t105.w10" interval="1794.717" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t105.w11" interval="1794.877" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t105.w12" interval="1794.917" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t105.w13" interval="1795.287" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t105.w14" interval="1795.427" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t105.w15" interval="1795.567" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t105.w16" interval="1795.677" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t105.w17" interval="1795.787" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t105.w18" interval="1796.217" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t105.w19" interval="1796.337" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t105.w20" interval="1796.637" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t105.w21" interval="1796.877" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t105.w22" interval="1797.517" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t105.w23" interval="1797.867" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t105.w24" interval="1798.067" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t105.w25" interval="1798.847" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t105.w26" interval="1798.937" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t105.w27" interval="1799.087" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t106.w0" interval="1800.161" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t106.w1" interval="1800.361" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t106.w2" interval="1800.471" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t106.w3" interval="1800.631" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t106.w4" interval="1800.841" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t106.w5" interval="1801.131" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t106.w6" interval="1801.651" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t106.w7" interval="1802.121" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t106.w8" interval="1802.391" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t106.w9" interval="1802.631" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t106.w10" interval="1803.551" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t107.w0" interval="1803.984" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t107.w1" interval="1804.164" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t107.w2" interval="1804.314" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t107.w3" interval="1804.404" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t107.w4" interval="1804.564" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t107.w5" interval="1804.704" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t107.w6" interval="1805.044" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t107.w7" interval="1805.384" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t107.w8" interval="1805.964" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t107.w9" interval="1806.124" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t107.w10" interval="1806.254" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t107.w11" interval="1806.524" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t107.w12" interval="1807.054" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t107.w13" interval="1807.274" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t107.w14" interval="1807.764" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t107.w15" interval="1808.264" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t107.w16" interval="1808.304" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t107.w17" interval="1808.454" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t107.w18" interval="1808.574" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t107.w19" interval="1808.934" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t107.w20" interval="1809.164" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t107.w21" interval="1809.524" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t107.w22" interval="1809.764" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t107.w23" interval="1809.864" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t107.w24" interval="1810.044" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t107.w25" interval="1810.444" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t107.w26" interval="1811.204" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t107.w27" interval="1811.824" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t107.w28" interval="1811.864" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t107.w29" interval="1812.594" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t108.w0" interval="1813.648" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t108.w1" interval="1813.788" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t108.w2" interval="1813.998" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t108.w3" interval="1814.238" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w0" interval="1816.116" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w1" interval="1816.146" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w2" interval="1816.496" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w3" interval="1816.576" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w4" interval="1816.686" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w5" interval="1816.736" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w6" interval="1817.076" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w7" interval="1817.456" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w8" interval="1818.286" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w9" interval="1818.416" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w10" interval="1818.566" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w11" interval="1818.896" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w12" interval="1818.976" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w13" interval="1819.136" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w14" interval="1819.506" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w15" interval="1819.566" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w16" interval="1819.766" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w17" interval="1819.866" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w18" interval="1819.966" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w19" interval="1820.086" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w20" interval="1820.266" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w21" interval="1820.506" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w22" interval="1820.866" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w23" interval="1821.136" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w24" interval="1821.616" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w25" interval="1821.906" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w26" interval="1822.086" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w27" interval="1822.276" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w28" interval="1822.666" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w29" interval="1823.106" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w30" interval="1823.296" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w31" interval="1823.506" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w32" interval="1823.636" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w33" interval="1824.226" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w34" interval="1824.436" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w35" interval="1824.886" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w36" interval="1825.356" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w37" interval="1825.446" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w38" interval="1825.726" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w39" interval="1825.896" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w40" interval="1825.996" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w41" interval="1826.096" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w42" interval="1826.236" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w43" interval="1826.296" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w44" interval="1826.486" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w45" interval="1827.386" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w46" interval="1827.466" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w47" interval="1827.616" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t109.w48" interval="1827.986" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t111.w0" interval="1845.183" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t111.w1" interval="1845.343" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t111.w2" interval="1845.493" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t111.w3" interval="1845.583" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t111.w4" interval="1845.693" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t111.w5" interval="1845.973" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t111.w6" interval="1846.063" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t111.w7" interval="1846.353" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t111.w8" interval="1846.413" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t111.w9" interval="1846.653" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t111.w10" interval="1846.763" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t111.w11" interval="1847.063" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t111.w12" interval="1847.233" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t111.w13" interval="1847.383" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t113.w0" interval="1864.350" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t113.w1" interval="1864.580" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t113.w2" interval="1864.830" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t113.w3" interval="1865.050" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t113.w4" interval="1865.390" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t113.w5" interval="1865.860" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t113.w6" interval="1865.970" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t113.w7" interval="1866.090" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t113.w8" interval="1866.340" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t113.w9" interval="1866.480" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t113.w10" interval="1866.820" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t113.w11" interval="1867.190" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t114.w0" interval="1868.326" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t114.w1" interval="1868.786" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t114.w2" interval="1869.006" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t114.w3" interval="1869.606" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t114.w4" interval="1869.996" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t114.w5" interval="1870.106" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t114.w6" interval="1870.416" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t114.w7" interval="1870.506" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t114.w8" interval="1870.656" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t114.w9" interval="1870.786" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t114.w10" interval="1871.086" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t115.w0" interval="1871.817" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t115.w1" interval="1871.947" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t115.w2" interval="1872.087" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t115.w3" interval="1872.737" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t115.w4" interval="1873.057" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t115.w5" interval="1873.167" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t115.w6" interval="1873.417" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t115.w7" interval="1873.647" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t115.w8" interval="1874.377" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t115.w9" interval="1874.587" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t115.w10" interval="1874.707" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t115.w11" interval="1875.227" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t115.w12" interval="1875.287" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t115.w13" interval="1875.827" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t115.w14" interval="1875.907" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t115.w15" interval="1876.067" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t116.w0" interval="1877.993" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t116.w1" interval="1878.253" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t116.w2" interval="1878.383" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t116.w3" interval="1878.443" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t116.w4" interval="1878.553" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t116.w5" interval="1878.893" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t116.w6" interval="1879.013" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t116.w7" interval="1879.133" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t116.w8" interval="1879.403" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t116.w9" interval="1879.853" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t116.w10" interval="1880.213" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t116.w11" interval="1881.433" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t117.w0" interval="1882.401" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t117.w1" interval="1882.911" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t117.w2" interval="1883.661" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t117.w3" interval="1883.991" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t117.w4" interval="1884.391" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t117.w5" interval="1885.161" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t118.w0" interval="1886.064" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t118.w1" interval="1886.294" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t118.w2" interval="1886.504" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t118.w3" interval="1886.634" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t118.w4" interval="1886.794" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t118.w5" interval="1886.924" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t118.w6" interval="1887.044" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t118.w7" interval="1887.324" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t118.w8" interval="1887.444" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t118.w9" interval="1887.624" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t118.w10" interval="1887.724" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t118.w11" interval="1887.914" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t119.w0" interval="1890.643" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t119.w1" interval="1890.793" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t119.w2" interval="1891.093" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t119.w3" interval="1891.353" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t119.w4" interval="1891.463" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t119.w5" interval="1891.813" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t119.w6" interval="1892.313" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t119.w7" interval="1892.773" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t119.w8" interval="1893.463" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t119.w9" interval="1894.033" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t119.w10" interval="1894.203" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t119.w11" interval="1894.693" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t119.w12" interval="1894.823" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t119.w13" interval="1894.913" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t119.w14" interval="1895.083" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t119.w15" interval="1895.413" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t119.w16" interval="1895.703" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t119.w17" interval="1895.803" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t119.w18" interval="1895.933" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t119.w19" interval="1896.053" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t119.w20" interval="1896.243" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t119.w21" interval="1896.563" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t119.w22" interval="1896.693" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t119.w23" interval="1896.913" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t119.w24" interval="1897.253" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t119.w25" interval="1897.323" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t119.w26" interval="1897.473" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t120.w0" interval="1898.650" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t120.w1" interval="1898.850" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t120.w2" interval="1898.950" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t120.w3" interval="1899.400" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t120.w4" interval="1899.580" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t120.w5" interval="1899.690" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t120.w6" interval="1900.040" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t120.w7" interval="1900.420" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t120.w8" interval="1901.210" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t120.w9" interval="1901.910" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t120.w10" interval="1902.200" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t120.w11" interval="1902.310" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t120.w12" interval="1902.400" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w0" interval="1903.592" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w1" interval="1904.182" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w2" interval="1904.472" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w3" interval="1904.952" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w4" interval="1905.142" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w5" interval="1905.252" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w6" interval="1905.402" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w7" interval="1905.702" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w8" interval="1905.842" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w9" interval="1906.032" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w10" interval="1906.372" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w11" interval="1906.562" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w12" interval="1907.002" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w13" interval="1907.542" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w14" interval="1907.602" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w15" interval="1907.712" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w16" interval="1907.832" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w17" interval="1907.992" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w18" interval="1908.182" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w19" interval="1908.272" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w20" interval="1908.762" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w21" interval="1909.242" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w22" interval="1909.492" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w23" interval="1910.012" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w24" interval="1910.092" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w25" interval="1910.252" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w26" interval="1910.622" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w27" interval="1910.752" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w28" interval="1910.852" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w29" interval="1910.942" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w30" interval="1911.432" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w31" interval="1911.562" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w32" interval="1912.142" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w33" interval="1912.442" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w34" interval="1912.652" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t121.w35" interval="1913.242" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t123.w0" interval="1964.426" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t123.w1" interval="1964.626" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t123.w2" interval="1964.736" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t123.w3" interval="1965.056" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t123.w4" interval="1965.476" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t124.w0" interval="1966.590" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t124.w1" interval="1966.650" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t124.w2" interval="1966.790" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t124.w3" interval="1966.860" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t124.w4" interval="1967.410" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t126.w0" interval="2005.151" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t126.w1" interval="2005.301" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t126.w2" interval="2005.431" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t127.w0" interval="2007.309" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t127.w1" interval="2007.659" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t127.w2" interval="2007.859" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t127.w3" interval="2007.969" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t127.w4" interval="2008.039" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t127.w5" interval="2008.349" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t127.w6" interval="2008.719" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t127.w7" interval="2008.949" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t127.w8" interval="2009.119" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t128.w0" interval="2010.763" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t128.w1" interval="2011.473" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t128.w2" interval="2011.653" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t128.w3" interval="2012.173" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t128.w4" interval="2012.853" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t129.w0" interval="2013.514" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t129.w1" interval="2013.684" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t129.w2" interval="2014.214" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t129.w3" interval="2014.384" since="#Artur-N-G5082-P600080.t0"/>
+        <when xml:id="Artur-N-G5082-P600080.t129.w4" interval="2014.604" since="#Artur-N-G5082-P600080.t0"/>
+      </timeline>
+      <u xml:id="Artur-N-G5082-P600080.u1" start="#Artur-N-G5082-P600080.t0" end="#Artur-N-G5082-P600080.t2">
+        <pause/>
+        <vocal type="voice"/>
+      </u>
+      <u xml:id="Artur-N-G5082-P600080.u2" who="#Artur-N-G5082" start="#Artur-N-G5082-P600080.t2" end="#Artur-N-G5082-P600080.t5">
+        <seg xml:id="Artur-N-G5082-P600080.s1" synch="#Artur-N-G5082-P600080.t2">
+          <w xml:id="Artur-N-G5082-P600080.tok1" lemma="okej" ana="mte:Rgp" join="right" synch="#Artur-N-G5082-P600080.t2.w0">okej</w>
+          <pc xml:id="Artur-N-G5082-P600080.tok2" lemma="," ana="mte:Z">,</pc>
+          <w xml:id="Artur-N-G5082-P600080.tok3" function="filler" lemma="eee" ana="mte:I" join="right" synch="#Artur-N-G5082-P600080.t2.w1">eee</w>
+          <pc xml:id="Artur-N-G5082-P600080.tok4" lemma="," ana="mte:Z">,</pc>
+          <w xml:id="Artur-N-G5082-P600080.tok5" norm="jaz" lemma="jaz" ana="mte:Pp1-sn" synch="#Artur-N-G5082-P600080.t2.w2">j&#x259;s</w>
+          <w xml:id="Artur-N-G5082-P600080.tok6" norm="sem" lemma="biti" ana="mte:Va-r1s-n" synch="#Artur-N-G5082-P600080.t2.w3">s&#x259;m</w>
+          <w xml:id="Artur-N-G5082-P600080.tok7" lemma="sli&#x161;ati" ana="mte:Vmbp-sf" join="right" synch="#Artur-N-G5082-P600080.t2.w4">sli&#x161;ala</w>
+          <pc xml:id="Artur-N-G5082-P600080.tok8" lemma="," ana="mte:Z">,</pc>
+          <w xml:id="Artur-N-G5082-P600080.tok9" lemma="da" ana="mte:Cs" synch="#Artur-N-G5082-P600080.t2.w5">da</w>
+          <w xml:id="Artur-N-G5082-P600080.tok10" lemma="pa&#x10D;" ana="mte:Q" synch="#Artur-N-G5082-P600080.t2.w6">pa&#x10D;</w>
+          <w xml:id="Artur-N-G5082-P600080.tok11" lemma="delati" ana="mte:Vmpr2s" synch="#Artur-N-G5082-P600080.t2.w7">dela&#x161;</w>
+          <w xml:id="Artur-N-G5082-P600080.tok12" lemma="ti" ana="mte:Pp2-sn" synch="#Artur-N-G5082-P600080.t2.w8">ti</w>
+          <w xml:id="Artur-N-G5082-P600080.tok13" norm="zdaj" lemma="zdaj" ana="mte:Rgp" synch="#Artur-N-G5082-P600080.t2.w9">zdej</w>
+          <w xml:id="Artur-N-G5082-P600080.tok14" lemma="magistrski" ana="mte:Agpfsa" join="right" synch="#Artur-N-G5082-P600080.t2.w10">magistrsko</w>
+          <pc xml:id="Artur-N-G5082-P600080.tok15" lemma="," ana="mte:Z">,</pc>
+          <w xml:id="Artur-N-G5082-P600080.tok16" lemma="ne" ana="mte:Q" join="right" synch="#Artur-N-G5082-P600080.t2.w11">ne</w>
+          <pc xml:id="Artur-N-G5082-P600080.tok17" lemma="?" ana="mte:Z">?</pc>
+          <w xml:id="Artur-N-G5082-P600080.tok18" lemma="pa&#x10D;" ana="mte:Q" synch="#Artur-N-G5082-P600080.t2.w12">pa&#x10D;</w>
+          <w xml:id="Artur-N-G5082-P600080.tok19" lemma="v" ana="mte:Sl" synch="#Artur-N-G5082-P600080.t2.w13">v</w>
+          <w xml:id="Artur-N-G5082-P600080.tok20" lemma="zveza" ana="mte:Ncfsl" synch="#Artur-N-G5082-P600080.t2.w14">zvezi</w>
+          <w xml:id="Artur-N-G5082-P600080.tok21" lemma="z" ana="mte:Si" synch="#Artur-N-G5082-P600080.t2.w15">s</w>
+          <w xml:id="Artur-N-G5082-P600080.tok22" lemma="z" ana="mte:Si" synch="#Artur-N-G5082-P600080.t2.w16">s</w>
+          <w xml:id="Artur-N-G5082-P600080.tok23" lemma="pekarna" ana="mte:Ncfsi" join="right" synch="#Artur-N-G5082-P600080.t2.w17">Pekarno</w>
+          <pc xml:id="Artur-N-G5082-P600080.tok24" lemma="," ana="mte:Z">,</pc>
+          <w xml:id="Artur-N-G5082-P600080.tok25" lemma="ne" ana="mte:Q" join="right" synch="#Artur-N-G5082-P600080.t2.w18">ne</w>
+          <pc xml:id="Artur-N-G5082-P600080.tok26" lemma="," ana="mte:Z">,</pc>
+        </seg>
+        <seg xml:id="Artur-N-G5082-P600080.s2" synch="#Artur-N-G5082-P600080.t3">
+          <w xml:id="Artur-N-G5082-P600080.tok27" lemma="med" ana="mte:Si" synch="#Artur-N-G5082-P600080.t3.w0">med</w>
+          <w xml:id="Artur-N-G5082-P600080.tok28" lemma="drug" ana="mte:Mlpnsi" synch="#Artur-N-G5082-P600080.t3.w1">drugim</w>
+          <w xml:id="Artur-N-G5082-P600080.tok29" lemma="tudi" ana="mte:Q" join="right" synch="#Artur-N-G5082-P600080.t3.w2">tudi</w>
+          <pc xml:id="Artur-N-G5082-P600080.tok30" lemma="," ana="mte:Z">,</pc>
+          <w xml:id="Artur-N-G5082-P600080.tok31" lemma="no" ana="mte:Q" join="right" synch="#Artur-N-G5082-P600080.t3.w3">no</w>
+          <pc xml:id="Artur-N-G5082-P600080.tok32" lemma="," ana="mte:Z">,</pc>
+          <w xml:id="Artur-N-G5082-P600080.tok33" lemma="misliti" ana="mte:Vmpr1s" join="right" synch="#Artur-N-G5082-P600080.t3.w4">mislim</w>
+          <pc xml:id="Artur-N-G5082-P600080.tok34" lemma="," ana="mte:Z">,</pc>
+          <w xml:id="Artur-N-G5082-P600080.tok35" lemma="ja" ana="mte:Q" join="right" synch="#Artur-N-G5082-P600080.t3.w5">ja</w>
+          <pc xml:id="Artur-N-G5082-P600080.tok36" lemma="." ana="mte:Z">.</pc>
+          <w xml:id="Artur-N-G5082-P600080.tok37" lemma="pa" ana="mte:Cc" synch="#Artur-N-G5082-P600080.t3.w6">pa</w>
+          <w xml:id="Artur-N-G5082-P600080.tok38" lemma="jaz" ana="mte:Pp1-sa--y" synch="#Artur-N-G5082-P600080.t3.w7">me</w>
+          <w xml:id="Artur-N-G5082-P600080.tok39" lemma="zanimati" ana="mte:Vmpr3s" synch="#Artur-N-G5082-P600080.t3.w8">zanima</w>
+          <w xml:id="Artur-N-G5082-P600080.tok40" lemma="okej" ana="mte:Rgp" join="right" synch="#Artur-N-G5082-P600080.t3.w9">okej</w>
+          <pc xml:id="Artur-N-G5082-P600080.tok41" lemma="," ana="mte:Z">,</pc>
+          <w xml:id="Artur-N-G5082-P600080.tok42" lemma="&#x10D;e" ana="mte:Cs" synch="#Artur-N-G5082-P600080.t3.w10">&#x10D;e</w>
+          <w xml:id="Artur-N-G5082-P600080.tok43" lemma="jaz" ana="mte:Pp1-sd--y" synch="#Artur-N-G5082-P600080.t3.w11">mi</w>
+          <w xml:id="Artur-N-G5082-P600080.tok44" lemma="lahko" ana="mte:Rgp" synch="#Artur-N-G5082-P600080.t3.w12">lahko</w>
+          <w xml:id="Artur-N-G5082-P600080.tok45" norm="kaj" lemma="kaj" ana="mte:Pq-nsa" synch="#Artur-N-G5082-P600080.t3.w13">kej</w>
+          <w xml:id="Artur-N-G5082-P600080.tok46" lemma="ve&#x10D;" ana="mte:Q" synch="#Artur-N-G5082-P600080.t3.w14">ve&#x10D;</w>
+          <w xml:id="Artur-N-G5082-P600080.tok47" lemma="povedati" ana="mte:Vmer2s" synch="#Artur-N-G5082-P600080.t3.w15">pove&#x161;</w>
+          <w xml:id="Artur-N-G5082-P600080.tok48" lemma="o" ana="mte:Sl" synch="#Artur-N-G5082-P600080.t3.w16">o</w>
+          <w xml:id="Artur-N-G5082-P600080.tok49" lemma="ta" ana="mte:Pd-nsl" join="right" synch="#Artur-N-G5082-P600080.t3.w17">tem</w>
+          <pc xml:id="Artur-N-G5082-P600080.tok50" lemma="." ana="mte:Z">.</pc>
+        </seg>
+        <seg xml:id="Artur-N-G5082-P600080.s3" synch="#Artur-N-G5082-P600080.t4">
+          <w xml:id="Artur-N-G5082-P600080.tok51" lemma="pa&#x10D;" ana="mte:Q" synch="#Artur-N-G5082-P600080.t4.w0">pa&#x10D;</w>
+          <w xml:id="Artur-N-G5082-P600080.tok52" lemma="v" ana="mte:Sl" synch="#Artur-N-G5082-P600080.t4.w1">v</w>
+          <w xml:id="Artur-N-G5082-P600080.tok53" lemma="bistvo" ana="mte:Ncnsl" join="right" synch="#Artur-N-G5082-P600080.t4.w2">bistvu</w>
+          <pc xml:id="Artur-N-G5082-P600080.tok54" lemma="," ana="mte:Z">,</pc>
+          <w xml:id="Artur-N-G5082-P600080.tok55" lemma="kaj" ana="mte:Pq-nsa" synch="#Artur-N-G5082-P600080.t4.w3">kaj</w>
+          <w xml:id="Artur-N-G5082-P600080.tok56" lemma="raziskovati" ana="mte:Vmpr2s" join="right" synch="#Artur-N-G5082-P600080.t4.w4">raziskuje&#x161;</w>
+          <pc xml:id="Artur-N-G5082-P600080.tok57" lemma="," ana="mte:Z">,</pc>
+          <w xml:id="Artur-N-G5082-P600080.tok58" lemma="ne" ana="mte:Q" join="right" synch="#Artur-N-G5082-P600080.t4.w5">ne</w>
+          <pc xml:id="Artur-N-G5082-P600080.tok59" lemma="?" ana="mte:Z">?</pc>
+        </seg>
+      </u>
+      <u xml:id="Artur-N-G5082-P600080.u3" start="#Artur-N-G5082-P600080.t5" end="#Artur-N-G5082-P600080.t6">
+        <pause/>
+      </u>
+      <u xml:id="Artur-N-G5082-P600080.u4" who="#Artur-N-G5082" start="#Artur-N-G5082-P600080.t6" end="#Artur-N-G5082-P600080.t9">
+        <seg xml:id="Artur-N-G5082-P600080.s4" synch="#Artur-N-G5082-P600080.t6">
+          <w xml:id="Artur-N-G5082-P600080.tok60" function="filler" lemma="mhm" ana="mte:I" join="right" synch="#Artur-N-G5082-P600080.t6.w0">mhm</w>
+          <pc xml:id="Artur-N-G5082-P600080.tok61" lemma="." ana="mte:Z">.</pc>
+        </seg>
+        <seg xml:id="Artur-N-G5082-P600080.s5" synch="#Artur-N-G5082-P600080.t7">
+          <w xml:id="Artur-N-G5082-P600080.tok62" lemma="okej" ana="mte:Rgp" join="right" synch="#Artur-N-G5082-P600080.t7.w0">okej</w>
+          <pc xml:id="Artur-N-G5082-P600080.tok63" lemma="," ana="mte:Z">,</pc>
+          <w xml:id="Artur-N-G5082-P600080.tok64" lemma="in" ana="mte:Cc" synch="#Artur-N-G5082-P600080.t7.w1">in</w>
+          <w xml:id="Artur-N-G5082-P600080.tok65" lemma="kaj" ana="mte:Pq-nsn" synch="#Artur-N-G5082-P600080.t7.w2">kaj</w>
+          <w xml:id="Artur-N-G5082-P600080.tok66" lemma="biti" ana="mte:Va-r3p-n" synch="#Artur-N-G5082-P600080.t7.w3">so</w>
+          <w xml:id="Artur-N-G5082-P600080.tok67" lemma="ta" ana="mte:Pd-fpn" synch="#Artur-N-G5082-P600080.t7.w4">te</w>
+          <w xml:id="Artur-N-G5082-P600080.tok68" lemma="razlika" ana="mte:Ncfpn" synch="#Artur-N-G5082-P600080.t7.w5">razlike</w>
+          <w xml:id="Artur-N-G5082-P600080.tok69" lemma="med" ana="mte:Si" synch="#Artur-N-G5082-P600080.t7.w6">med</w>
+          <w xml:id="Artur-N-G5082-P600080.tok70" lemma="ta" ana="mte:Pd-mpi" synch="#Artur-N-G5082-P600080.t7.w7">temi</w>
+          <w xml:id="Artur-N-G5082-P600080.tok71" lemma="trije" ana="mte:Mlcmpi" synch="#Artur-N-G5082-P600080.t7.w8">tremi</w>
+          <w xml:id="Artur-N-G5082-P600080.tok72" lemma="razli&#x10D;en" ana="mte:Agpmpi" synch="#Artur-N-G5082-P600080.t7.w9">razli&#x10D;nimi</w>
+          <w xml:id="Artur-N-G5082-P600080.tok73" lemma="kapital" ana="mte:Ncmpi" synch="#Artur-N-G5082-P600080.t7.w10">kapitali</w>
+          <w xml:id="Artur-N-G5082-P600080.tok74" lemma="pa&#x10D;" ana="mte:Q" join="right" synch="#Artur-N-G5082-P600080.t7.w11">pa&#x10D;</w>
+          <pc xml:id="Artur-N-G5082-P600080.tok75" lemma="," ana="mte:Z">,</pc>
+        </seg>
+        <seg xml:id="Artur-N-G5082-P600080.s6" synch="#Artur-N-G5082-P600080.t8">
+          <w xml:id="Artur-N-G5082-P600080.tok76" lemma="&#x10D;e" ana="mte:Cs" synch="#Artur-N-G5082-P600080.t8.w0">&#x10D;e</w>
+          <w xml:id="Artur-N-G5082-P600080.tok77" lemma="biti" ana="mte:Va-c" synch="#Artur-N-G5082-P600080.t8.w1">bi</w>
+          <w xml:id="Artur-N-G5082-P600080.tok78" lemma="lahko" ana="mte:Rgp" synch="#Artur-N-G5082-P600080.t8.w2">lahko</w>
+          <w xml:id="Artur-N-G5082-P600080.tok79" lemma="znati" ana="mte:Vmpp-sm" synch="#Artur-N-G5082-P600080.t8.w3">znal</w>
+          <w xml:id="Artur-N-G5082-P600080.tok80" norm="tako" lemma="tako" ana="mte:Rgp" synch="#Artur-N-G5082-P600080.t8.w4">tko</w>
+          <w xml:id="Artur-N-G5082-P600080.tok81" lemma="jaz" ana="mte:Pp1-sd--y" synch="#Artur-N-G5082-P600080.t8.w5">mi</w>
+          <w xml:id="Artur-N-G5082-P600080.tok82" norm="malo" lemma="malo" ana="mte:Rgp" synch="#Artur-N-G5082-P600080.t8.w6">mal</w>
+          <w xml:id="Artur-N-G5082-P600080.tok83" norm="povedati" lemma="povedati" ana="mte:Vmen" join="right" synch="#Artur-N-G5082-P600080.t8.w7">povedat</w>
+          <pc xml:id="Artur-N-G5082-P600080.tok84" lemma="," ana="mte:Z">,</pc>
+          <w xml:id="Artur-N-G5082-P600080.tok85" lemma="da" ana="mte:Cs" synch="#Artur-N-G5082-P600080.t8.w8">da</w>
+          <w xml:id="Artur-N-G5082-P600080.tok86" lemma="se" ana="mte:Px---d--y" synch="#Artur-N-G5082-P600080.t8.w9">si</w>
+          <w xml:id="Artur-N-G5082-P600080.tok87" lemma="lahko" ana="mte:Rgc" synch="#Artur-N-G5082-P600080.t8.w10">la&#x17E;je</w>
+          <w xml:id="Artur-N-G5082-P600080.tok88" lemma="predstavljati" ana="mte:Vmpr1s" join="right" synch="#Artur-N-G5082-P600080.t8.w11">predstavljam</w>
+          <pc xml:id="Artur-N-G5082-P600080.tok89" lemma="." ana="mte:Z">.</pc>
+        </seg>
+      </u>
+      <u xml:id="Artur-N-G5082-P600080.u5" start="#Artur-N-G5082-P600080.t9" end="#Artur-N-G5082-P600080.t10">
+        <pause/>
+      </u>
+      <u xml:id="Artur-N-G5082-P600080.u6" who="#Artur-N-G5082" start="#Artur-N-G5082-P600080.t10" end="#Artur-N-G5082-P600080.t11">
+        <seg xml:id="Artur-N-G5082-P600080.s7" synch="#Artur-N-G5082-P600080.t10">
+          <w xml:id="Artur-N-G5082-P600080.tok90" lemma="okej" ana="mte:Rgp" join="right" synch="#Artur-N-G5082-P600080.t10.w0">okej</w>
+          <pc xml:id="Artur-N-G5082-P600080.tok91" lemma="," ana="mte:Z">,</pc>
+          <w xml:id="Artur-N-G5082-P600080.tok92" lemma="in" ana="mte:Cc" synch="#Artur-N-G5082-P600080.t10.w1">in</w>
+          <w xml:id="Artur-N-G5082-P600080.tok93" lemma="ti" ana="mte:Pp2-sn" synch="#Artur-N-G5082-P600080.t10.w2">ti</w>
+          <w xml:id="Artur-N-G5082-P600080.tok94" lemma="se" ana="mte:Px------y" synch="#Artur-N-G5082-P600080.t10.w3">se</w>
+          <w xml:id="Artur-N-G5082-P600080.tok95" lemma="biti" ana="mte:Va-f2s-n" synch="#Artur-N-G5082-P600080.t10.w4">bo&#x161;</w>
+          <w xml:id="Artur-N-G5082-P600080.tok96" norm="osredoto&#x10D;il" lemma="osredoto&#x10D;iti" ana="mte:Vmep-sm" synch="#Artur-N-G5082-P600080.t10.w5">osredoto&#x10D;u</w>
+          <w xml:id="Artur-N-G5082-P600080.tok97" lemma="kam" ana="mte:Rgp" join="right" synch="#Artur-N-G5082-P600080.t10.w6">kam</w>
+          <pc xml:id="Artur-N-G5082-P600080.tok98" lemma="?" ana="mte:Z">?</pc>
+        </seg>
+      </u>
+      <u xml:id="Artur-N-G5082-P600080.u7" start="#Artur-N-G5082-P600080.t11" end="#Artur-N-G5082-P600080.t12">
+        <pause/>
+      </u>
+      <u xml:id="Artur-N-G5082-P600080.u8" who="#Artur-N-G5082" start="#Artur-N-G5082-P600080.t12" end="#Artur-N-G5082-P600080.t13">
+        <seg xml:id="Artur-N-G5082-P600080.s8" synch="#Artur-N-G5082-P600080.t12">
+          <w xml:id="Artur-N-G5082-P600080.tok99" norm="zdaj" lemma="zdaj" ana="mte:Rgp" synch="#Artur-N-G5082-P600080.t12.w0">zdej</w>
+          <w xml:id="Artur-N-G5082-P600080.tok100" lemma="biti" ana="mte:Va-r2s-n" synch="#Artur-N-G5082-P600080.t12.w1">si</w>
+          <w xml:id="Artur-N-G5082-P600080.tok101" lemma="se" ana="mte:Px------y" synch="#Artur-N-G5082-P600080.t12.w2">se</w>
+          <w xml:id="Artur-N-G5082-P600080.tok102" norm="odlo&#x10D;il" lemma="odlo&#x10D;iti" ana="mte:Vmep-sm" join="right" synch="#Artur-N-G5082-P600080.t12.w3">odlo&#x10D;u</w>
+          <pc xml:id="Artur-N-G5082-P600080.tok103" lemma="," ana="mte:Z">,</pc>
+          <w xml:id="Artur-N-G5082-P600080.tok104" lemma="da" ana="mte:Cs" synch="#Artur-N-G5082-P600080.t12.w4">da</w>
+          <w xml:id="Artur-N-G5082-P600080.tok105" lemma="biti" ana="mte:Va-f2s-n" synch="#Artur-N-G5082-P600080.t12.w5">bo&#x161;</w>
+          <w xml:id="Artur-N-G5082-P600080.tok106" norm="imel" lemma="imeti" ana="mte:Vmpp-sm" synch="#Artur-N-G5082-P600080.t12.w6">meu</w>
+          <w xml:id="Artur-N-G5082-P600080.tok107" lemma="v" ana="mte:Sl" synch="#Artur-N-G5082-P600080.t12.w7">v</w>
+          <w xml:id="Artur-N-G5082-P600080.tok108" lemma="bistvo" ana="mte:Ncnsl" synch="#Artur-N-G5082-P600080.t12.w8">bistvu</w>
+          <w xml:id="Artur-N-G5082-P600080.tok109" lemma="intervju" ana="mte:Ncmpa" synch="#Artur-N-G5082-P600080.t12.w9">intervjuje</w>
+          <w xml:id="Artur-N-G5082-P600080.tok110" norm="z" lemma="z" ana="mte:Si" synch="#Artur-N-G5082-P600080.t12.w10">s&#x259;</w>
+          <w xml:id="Artur-N-G5082-P600080.tok111" norm="z" lemma="z" ana="mte:Si" synch="#Artur-N-G5082-P600080.t12.w11">s&#x259;</w>
+          <w xml:id="Artur-N-G5082-P600080.tok112" lemma="&#x10D;lovek" ana="mte:Ncmpi" join="right" synch="#Artur-N-G5082-P600080.t12.w12">ljudmi</w>
+          <pc xml:id="Artur-N-G5082-P600080.tok113" lemma="," ana="mte:Z">,</pc>
+          <w xml:id="Artur-N-G5082-P600080.tok114" lemma="ki" ana="mte:Cs" synch="#Artur-N-G5082-P600080.t12.w13">ki</w>
+          <w xml:id="Artur-N-G5082-P600080.tok115" lemma="v" ana="mte:Sl" synch="#Artur-N-G5082-P600080.t12.w14">v</w>
+          <w xml:id="Artur-N-G5082-P600080.tok116" lemma="bistvo" ana="mte:Ncnsl" synch="#Artur-N-G5082-P600080.t12.w15">bistvu</w>
+          <w xml:id="Artur-N-G5082-P600080.tok117" norm="nekako" lemma="nekako" ana="mte:Rgp" synch="#Artur-N-G5082-P600080.t12.w16">nekak</w>
+          <w xml:id="Artur-N-G5082-P600080.tok118" lemma="delati" ana="mte:Vmpr3p" join="right" synch="#Artur-N-G5082-P600080.t12.w17">delajo</w>
+          <pc xml:id="Artur-N-G5082-P600080.tok119" lemma="?" ana="mte:Z">?</pc>
+        </seg>
+      </u>
+      <u xml:id="Artur-N-G5082-P600080.u9" start="#Artur-N-G5082-P600080.t13" end="#Artur-N-G5082-P600080.t14">
+        <pause/>
+      </u>
+      <u xml:id="Artur-N-G5082-P600080.u10" who="#Artur-N-G5082" start="#Artur-N-G5082-P600080.t14" end="#Artur-N-G5082-P600080.t16">
+        <seg xml:id="Artur-N-G5082-P600080.s9" synch="#Artur-N-G5082-P600080.t14">
+          <w xml:id="Artur-N-G5082-P600080.tok120" function="filler" lemma="mmm" ana="mte:I" synch="#Artur-N-G5082-P600080.t14.w0">mmm</w>
+          <vocal type="voice"/>
+          <pc xml:id="Artur-N-G5082-P600080.tok121" lemma="." ana="mte:Z">.</pc>
+        </seg>
+        <seg xml:id="Artur-N-G5082-P600080.s10" synch="#Artur-N-G5082-P600080.t15">
+          <w xml:id="Artur-N-G5082-P600080.tok122" lemma="ta" ana="mte:Pd-nsn" synch="#Artur-N-G5082-P600080.t15.w0">to</w>
+          <w xml:id="Artur-N-G5082-P600080.tok123" lemma="biti" ana="mte:Va-r3s-n" synch="#Artur-N-G5082-P600080.t15.w1">je</w>
+          <w xml:id="Artur-N-G5082-P600080.tok124" lemma="v" ana="mte:Sl" synch="#Artur-N-G5082-P600080.t15.w2">v</w>
+          <w xml:id="Artur-N-G5082-P600080.tok125" lemma="bistvo" ana="mte:Ncnsl" synch="#Artur-N-G5082-P600080.t15.w3">bistvu</w>
+          <w xml:id="Artur-N-G5082-P600080.tok126" lemma="ful" ana="mte:Rgp" synch="#Artur-N-G5082-P600080.t15.w4">ful</w>
+          <w xml:id="Artur-N-G5082-P600080.tok127" lemma="podoben" ana="mte:Agpnsn" join="right" synch="#Artur-N-G5082-P600080.t15.w5">podobno</w>
+          <pc xml:id="Artur-N-G5082-P600080.tok128" lemma="," ana="mte:Z">,</pc>
+          <w xml:id="Artur-N-G5082-P600080.tok129" lemma="kot" ana="mte:Cs" synch="#Artur-N-G5082-P600080.t15.w6">kot</w>
+          <w xml:id="Artur-N-G5082-P600080.tok130" lemma="na" ana="mte:Sa" synch="#Artur-N-G5082-P600080.t15.w7">na</w>
+          <w xml:id="Artur-N-G5082-P600080.tok131" lemma="primer" ana="mte:Ncmsan" synch="#Artur-N-G5082-P600080.t15.w8">primer</w>
+          <w xml:id="Artur-N-G5082-P600080.tok132" lemma="Metelkov" ana="mte:Aspfsn" synch="#Artur-N-G5082-P600080.t15.w9">Metelkova</w>
+          <w xml:id="Artur-N-G5082-P600080.tok133" lemma="v" ana="mte:Sl" synch="#Artur-N-G5082-P600080.t15.w10">v</w>
+          <w xml:id="Artur-N-G5082-P600080.tok134" lemma="Ljubljana" ana="mte:Npfsl" join="right" synch="#Artur-N-G5082-P600080.t15.w11">Ljubljani</w>
+          <pc xml:id="Artur-N-G5082-P600080.tok135" lemma="," ana="mte:Z">,</pc>
+          <w xml:id="Artur-N-G5082-P600080.tok136" lemma="ne" ana="mte:Q" join="right" synch="#Artur-N-G5082-P600080.t15.w12">ne</w>
+          <pc xml:id="Artur-N-G5082-P600080.tok137" lemma="?" ana="mte:Z">?</pc>
+        </seg>
+      </u>
+    </body>
+  </text>
+</TEI>

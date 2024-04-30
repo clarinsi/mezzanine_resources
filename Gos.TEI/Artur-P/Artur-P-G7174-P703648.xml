@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Artur-P-G7174-P703648" xml:lang="sl" source="#gos.P.A.P">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Artur-P-G7174-P703648 [Artur-P]</title>
+			</titleStmt>
+			<editionStmt>
+				<edition>2.1</edition>
+			</editionStmt>
+			<extent>
+				<measure unit="speeches" quantity="1" xml:lang="sl">1 govorov</measure>
+				<measure unit="speeches" quantity="1" xml:lang="en">1 speeches</measure>
+				<measure unit="words" quantity="5" xml:lang="sl">5 besed</measure>
+				<measure unit="words" quantity="5" xml:lang="en">5 words</measure>
+			</extent>
+			<publicationStmt>
+				<distributor>
+					<ref target="https://www.clarin.si">CLARIN.SI</ref>
+				</distributor>
+				<idno type="URI" subtype="handle">http://hdl.handle.net/11356/1863</idno>
+				<date when="2023-08-28">2023-08-28</date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<publisher>Državni zbor RS</publisher>
+				</bibl>
+				<recordingStmt>
+					<recording>
+						<media xml:id="Artur-P-G7174-P703648-avd" mimeType="audio/wav" url="../Artur.wav/Artur-P-G7174-P703648-avd.wav"/>
+						<broadcast>
+							<ab>Državni zbor RS</ab>
+						</broadcast>
+					</recording>
+				</recordingStmt>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<textClass>
+				<catRef target="#gos.T.J.I"/>
+				<catRef target="#gos.K.O"/>
+			</textClass>
+			<textDesc>
+				<channel/>
+				<constitution/>
+				<derivation/>
+				<domain>seja državnega zbora</domain>
+				<factuality/>
+				<interaction/>
+				<preparedness/>
+				<purpose/>
+			</textDesc>
+			<particDesc>
+				<listPerson n="1">
+					<person sameAs="#Artur-P-G7174"/>
+				</listPerson>
+			</particDesc>
+			<settingDesc>
+				<place>
+					<settlement>Ljubljana</settlement>
+				</place>
+			</settingDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<desc type="topic">Seja državnega zbora</desc>
+			<timeline unit="seg" origin="#Artur-P-G7174-P703648.t0" corresp="#Artur-P-G7174-P703648-avd">
+				<when xml:id="Artur-P-G7174-P703648.t0"/>
+				<when xml:id="Artur-P-G7174-P703648.t1" interval="4.364" since="#Artur-P-G7174-P703648.t0"/>
+				<when xml:id="Artur-P-G7174-P703648.t2" interval="12.000" since="#Artur-P-G7174-P703648.t0"/>
+			</timeline>
+			<timeline unit="w" origin="#Artur-P-G7174-P703648.t0" corresp="#Artur-P-G7174-P703648-avd">
+				<when xml:id="Artur-P-G7174-P703648.t0.w0" interval="0.640" since="#Artur-P-G7174-P703648.t0"/>
+				<when xml:id="Artur-P-G7174-P703648.t0.w1" interval="1.480" since="#Artur-P-G7174-P703648.t0"/>
+				<when xml:id="Artur-P-G7174-P703648.t0.w2" interval="2.440" since="#Artur-P-G7174-P703648.t0"/>
+				<when xml:id="Artur-P-G7174-P703648.t0.w3" interval="3.050" since="#Artur-P-G7174-P703648.t0"/>
+				<when xml:id="Artur-P-G7174-P703648.t0.w4" interval="3.370" since="#Artur-P-G7174-P703648.t0"/>
+			</timeline>
+			<u xml:id="Artur-P-G7174-P703648.u1" who="#Artur-P-G7174" start="#Artur-P-G7174-P703648.t0" end="#Artur-P-G7174-P703648.t2">
+				<seg xml:id="Artur-P-G7174-P703648.s1" synch="#Artur-P-G7174-P703648.t0">
+					<w xml:id="Artur-P-G7174-P703648.tok1" function="filler" lemma="eee" ana="mte:I" join="right" synch="#Artur-P-G7174-P703648.t0.w0">eee</w>
+					<pc xml:id="Artur-P-G7174-P703648.tok2" lemma="." ana="mte:Z">.</pc>
+					<w xml:id="Artur-P-G7174-P703648.tok3" lemma="spoštovan" ana="mte:Appfsn" synch="#Artur-P-G7174-P703648.t0.w1">spoštovana</w>
+					<w xml:id="Artur-P-G7174-P703648.tok4" norm="podpredsednica" lemma="podpredsednica" ana="mte:Ncfsn" join="right" synch="#Artur-P-G7174-P703648.t0.w2">podprecednica</w>
+					<pc xml:id="Artur-P-G7174-P703648.tok5" lemma="," ana="mte:Z">,</pc>
+					<w xml:id="Artur-P-G7174-P703648.tok6" lemma="imeti" ana="mte:Vmpr1s-y" synch="#Artur-P-G7174-P703648.t0.w3">nimam</w>
+					<w xml:id="Artur-P-G7174-P703648.tok7" lemma="replika" ana="mte:Ncfsg" join="right" synch="#Artur-P-G7174-P703648.t0.w4">replike</w>
+					<pc xml:id="Artur-P-G7174-P703648.tok8" lemma="." ana="mte:Z">.</pc>
+				</seg>
+				<vocal type="voice"/>
+			</u>
+		</body>
+	</text>
+</TEI>

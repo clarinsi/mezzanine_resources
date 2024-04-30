@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Artur-P-G7173-P700979" xml:lang="sl" source="#gos.P.A.P">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Artur-P-G7173-P700979 [Artur-P]</title>
+			</titleStmt>
+			<editionStmt>
+				<edition>2.1</edition>
+			</editionStmt>
+			<extent>
+				<measure unit="speeches" quantity="1" xml:lang="sl">1 govorov</measure>
+				<measure unit="speeches" quantity="1" xml:lang="en">1 speeches</measure>
+				<measure unit="words" quantity="19" xml:lang="sl">19 besed</measure>
+				<measure unit="words" quantity="19" xml:lang="en">19 words</measure>
+			</extent>
+			<publicationStmt>
+				<distributor>
+					<ref target="https://www.clarin.si">CLARIN.SI</ref>
+				</distributor>
+				<idno type="URI" subtype="handle">http://hdl.handle.net/11356/1863</idno>
+				<date when="2023-08-28">2023-08-28</date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<publisher>Državni zbor RS</publisher>
+				</bibl>
+				<recordingStmt>
+					<recording>
+						<media xml:id="Artur-P-G7173-P700979-avd" mimeType="audio/wav" url="../Artur.wav/Artur-P-G7173-P700979-avd.wav"/>
+						<broadcast>
+							<ab>Državni zbor RS</ab>
+						</broadcast>
+					</recording>
+				</recordingStmt>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<textClass>
+				<catRef target="#gos.T.J.I"/>
+				<catRef target="#gos.K.O"/>
+			</textClass>
+			<textDesc>
+				<channel/>
+				<constitution/>
+				<derivation/>
+				<domain>seja državnega zbora</domain>
+				<factuality/>
+				<interaction/>
+				<preparedness/>
+				<purpose/>
+			</textDesc>
+			<particDesc>
+				<listPerson n="1">
+					<person sameAs="#Artur-P-G7173"/>
+				</listPerson>
+			</particDesc>
+			<settingDesc>
+				<place>
+					<settlement>Ljubljana</settlement>
+				</place>
+			</settingDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<desc type="topic">Seja državnega zbora</desc>
+			<timeline unit="seg" origin="#Artur-P-G7173-P700979.t0" corresp="#Artur-P-G7173-P700979-avd">
+				<when xml:id="Artur-P-G7173-P700979.t0"/>
+				<when xml:id="Artur-P-G7173-P700979.t1" interval="1.438" since="#Artur-P-G7173-P700979.t0"/>
+				<when xml:id="Artur-P-G7173-P700979.t2" interval="3.525" since="#Artur-P-G7173-P700979.t0"/>
+				<when xml:id="Artur-P-G7173-P700979.t3" interval="4.366" since="#Artur-P-G7173-P700979.t0"/>
+				<when xml:id="Artur-P-G7173-P700979.t4" interval="6.233" since="#Artur-P-G7173-P700979.t0"/>
+				<when xml:id="Artur-P-G7173-P700979.t5" interval="8.628" since="#Artur-P-G7173-P700979.t0"/>
+				<when xml:id="Artur-P-G7173-P700979.t6" interval="10.974" since="#Artur-P-G7173-P700979.t0"/>
+				<when xml:id="Artur-P-G7173-P700979.t7" interval="16.000" since="#Artur-P-G7173-P700979.t0"/>
+			</timeline>
+			<timeline unit="w" origin="#Artur-P-G7173-P700979.t0" corresp="#Artur-P-G7173-P700979-avd">
+				<when xml:id="Artur-P-G7173-P700979.t1.w0" interval="1.528" since="#Artur-P-G7173-P700979.t0"/>
+				<when xml:id="Artur-P-G7173-P700979.t1.w1" interval="1.748" since="#Artur-P-G7173-P700979.t0"/>
+				<when xml:id="Artur-P-G7173-P700979.t1.w2" interval="1.888" since="#Artur-P-G7173-P700979.t0"/>
+				<when xml:id="Artur-P-G7173-P700979.t1.w3" interval="2.018" since="#Artur-P-G7173-P700979.t0"/>
+				<when xml:id="Artur-P-G7173-P700979.t1.w4" interval="2.498" since="#Artur-P-G7173-P700979.t0"/>
+				<when xml:id="Artur-P-G7173-P700979.t1.w5" interval="2.918" since="#Artur-P-G7173-P700979.t0"/>
+				<when xml:id="Artur-P-G7173-P700979.t1.w6" interval="3.228" since="#Artur-P-G7173-P700979.t0"/>
+				<when xml:id="Artur-P-G7173-P700979.t3.w0" interval="4.366" since="#Artur-P-G7173-P700979.t0"/>
+				<when xml:id="Artur-P-G7173-P700979.t3.w1" interval="4.816" since="#Artur-P-G7173-P700979.t0"/>
+				<when xml:id="Artur-P-G7173-P700979.t3.w2" interval="5.146" since="#Artur-P-G7173-P700979.t0"/>
+				<when xml:id="Artur-P-G7173-P700979.t3.w3" interval="5.706" since="#Artur-P-G7173-P700979.t0"/>
+				<when xml:id="Artur-P-G7173-P700979.t4.w0" interval="6.413" since="#Artur-P-G7173-P700979.t0"/>
+				<when xml:id="Artur-P-G7173-P700979.t4.w1" interval="6.603" since="#Artur-P-G7173-P700979.t0"/>
+				<when xml:id="Artur-P-G7173-P700979.t4.w2" interval="6.763" since="#Artur-P-G7173-P700979.t0"/>
+				<when xml:id="Artur-P-G7173-P700979.t4.w3" interval="7.753" since="#Artur-P-G7173-P700979.t0"/>
+				<when xml:id="Artur-P-G7173-P700979.t5.w0" interval="8.888" since="#Artur-P-G7173-P700979.t0"/>
+				<when xml:id="Artur-P-G7173-P700979.t5.w1" interval="9.608" since="#Artur-P-G7173-P700979.t0"/>
+				<when xml:id="Artur-P-G7173-P700979.t5.w2" interval="10.158" since="#Artur-P-G7173-P700979.t0"/>
+				<when xml:id="Artur-P-G7173-P700979.t5.w3" interval="10.468" since="#Artur-P-G7173-P700979.t0"/>
+			</timeline>
+			<u xml:id="Artur-P-G7173-P700979.u1" who="#Artur-P-G7173" start="#Artur-P-G7173-P700979.t0" end="#Artur-P-G7173-P700979.t7">
+				<pause/>
+				<seg xml:id="Artur-P-G7173-P700979.s1" synch="#Artur-P-G7173-P700979.t1">
+					<w xml:id="Artur-P-G7173-P700979.tok1" synch="#Artur-P-G7173-P700979.t1.w0">jsm<w xml:id="Artur-P-G7173-P700979.tok1.n1" norm="Jaz" lemma="jaz" ana="mte:Pp1-sn"/>
+						<w xml:id="Artur-P-G7173-P700979.tok1.n2" norm="sem" lemma="biti" ana="mte:Va-r1s-n"/>
+					</w>
+					<w xml:id="Artur-P-G7173-P700979.tok2" norm="bila" lemma="biti" ana="mte:Va-p-sf" synch="#Artur-P-G7173-P700979.t1.w1">bla</w>
+					<w xml:id="Artur-P-G7173-P700979.tok3" lemma="že" ana="mte:Q" synch="#Artur-P-G7173-P700979.t1.w2">že</w>
+					<w xml:id="Artur-P-G7173-P700979.tok4" lemma="omenjen" ana="mte:Appfsn" join="right" synch="#Artur-P-G7173-P700979.t1.w3">omenjena</w>
+					<pc xml:id="Artur-P-G7173-P700979.tok5" lemma="," ana="mte:Z">,</pc>
+					<w xml:id="Artur-P-G7173-P700979.tok6" lemma="mogoče" ana="mte:Rgp" synch="#Artur-P-G7173-P700979.t1.w4">mogoče</w>
+					<w xml:id="Artur-P-G7173-P700979.tok7" lemma="samo" ana="mte:Q" synch="#Artur-P-G7173-P700979.t1.w5">samo</w>
+					<w xml:id="Artur-P-G7173-P700979.tok8" lemma="še" ana="mte:Q" join="right" synch="#Artur-P-G7173-P700979.t1.w6">še</w>
+					<pc xml:id="Artur-P-G7173-P700979.tok9" lemma="," ana="mte:Z">,</pc>
+				</seg>
+				<pause/>
+				<seg xml:id="Artur-P-G7173-P700979.s2" synch="#Artur-P-G7173-P700979.t3">
+					<w xml:id="Artur-P-G7173-P700979.tok10" lemma="vesel" ana="mte:Agpmpn" synch="#Artur-P-G7173-P700979.t3.w0">veseli</w>
+					<w xml:id="Artur-P-G7173-P700979.tok11" lemma="jaz" ana="mte:Pp1-sa--y" join="right" synch="#Artur-P-G7173-P700979.t3.w1">me</w>
+					<pc xml:id="Artur-P-G7173-P700979.tok12" lemma="," ana="mte:Z">,</pc>
+					<w xml:id="Artur-P-G7173-P700979.tok13" lemma="ponosen" ana="mte:Agpfsn" synch="#Artur-P-G7173-P700979.t3.w2">ponosna</w>
+					<w xml:id="Artur-P-G7173-P700979.tok14" norm="sem" lemma="biti" ana="mte:Va-r1s-n" join="right" synch="#Artur-P-G7173-P700979.t3.w3">sm</w>
+					<pc xml:id="Artur-P-G7173-P700979.tok15" lemma="," ana="mte:Z">,</pc>
+				</seg>
+				<seg xml:id="Artur-P-G7173-P700979.s3" synch="#Artur-P-G7173-P700979.t4">
+					<w xml:id="Artur-P-G7173-P700979.tok16" lemma="da" ana="mte:Cs" synch="#Artur-P-G7173-P700979.t4.w0">da</w>
+					<w xml:id="Artur-P-G7173-P700979.tok17" lemma="biti" ana="mte:Va-r1s-n" synch="#Artur-P-G7173-P700979.t4.w1">sem</w>
+					<w xml:id="Artur-P-G7173-P700979.tok18" lemma="poslanka" ana="mte:Ncfsn" synch="#Artur-P-G7173-P700979.t4.w2">poslanka</w>
+					<w xml:id="Artur-P-G7173-P700979.tok19" lemma="namesto" ana="mte:Sg" synch="#Artur-P-G7173-P700979.t4.w3">namesto</w>
+				</seg>
+				<seg xml:id="Artur-P-G7173-P700979.s4" synch="#Artur-P-G7173-P700979.t5">
+					<w xml:id="Artur-P-G7173-P700979.tok20" norm="predsednika" lemma="predsednik" ana="mte:Ncmsay" synch="#Artur-P-G7173-P700979.t5.w0">precednika</w>
+					<w xml:id="Artur-P-G7173-P700979.tok21" lemma="vlada" ana="mte:Ncfsg" synch="#Artur-P-G7173-P700979.t5.w1">vlade</w>
+					<w xml:id="Artur-P-G7173-P700979.tok22" lemma="Marjan" ana="mte:Npmsg" synch="#Artur-P-G7173-P700979.t5.w2">Marjana</w>
+					<w xml:id="Artur-P-G7173-P700979.tok23" lemma="šarec" ana="mte:Ncmsg" join="right" synch="#Artur-P-G7173-P700979.t5.w3">Šarca</w>
+					<pc xml:id="Artur-P-G7173-P700979.tok24" lemma="." ana="mte:Z">.</pc>
+				</seg>
+				<pause/>
+			</u>
+		</body>
+	</text>
+</TEI>

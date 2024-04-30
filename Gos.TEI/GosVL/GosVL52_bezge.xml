@@ -1,0 +1,1930 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="GosVL52_bezge" xml:lang="sl" source="#gos.P.V">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>O jeziku glasbe in tišine [GosVL]</title>
+			</titleStmt>
+			<editionStmt>
+				<edition>2.1</edition>
+			</editionStmt>
+			<extent>
+				<measure unit="speeches" quantity="16" xml:lang="sl">16 govorov</measure>
+				<measure unit="speeches" quantity="16" xml:lang="en">16 speeches</measure>
+				<measure unit="words" quantity="1362" xml:lang="sl">1362 besed</measure>
+				<measure unit="words" quantity="1362" xml:lang="en">1362 words</measure>
+			</extent>
+			<publicationStmt>
+				<distributor>
+					<ref target="https://www.clarin.si">CLARIN.SI</ref>
+				</distributor>
+				<idno type="URI" subtype="handle">http://hdl.handle.net/11356/1863</idno>
+				<date when="2023-08-28">2023-08-28</date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<publisher>VideoLectures.NET</publisher>
+					<title>O jeziku glasbe in tišine</title>
+					<date when="2009-09">2009-09</date>
+					<idno type="URI" subtype="URL">http://videolectures.net/tedxjesen09_bezget_ojgit/</idno>
+				</bibl>
+				<recordingStmt>
+					<recording>
+						<media xml:id="GosVL52_bezge.wav" mimeType="audio/wav" url="../GosVL.wav/GosVL52_bezge.wav"/>
+						<date when="2009-09-15">2009-09-15</date>
+					</recording>
+				</recordingStmt>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<textClass>
+				<catRef target="#gos.T.J.I"/>
+				<catRef target="#gos.K.O"/>
+				<catRef target="#gos.F.H"/>
+			</textClass>
+			<textDesc>
+				<channel/>
+				<constitution/>
+				<derivation/>
+				<domain>javno predavanje, umetnost</domain>
+				<factuality/>
+				<interaction/>
+				<preparedness/>
+				<purpose/>
+			</textDesc>
+			<particDesc>
+				<listPerson n="2">
+					<person sameAs="#Um-vl220"/>
+					<person sameAs="#GosVL52_bezge-audience"/>
+				</listPerson>
+			</particDesc>
+			<settingDesc>
+				<place>
+					<settlement>Ljubljana</settlement>
+				</place>
+			</settingDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<timeline unit="seg" origin="#GosVL52_bezge.t0" corresp="#GosVL52_bezge.wav">
+				<when xml:id="GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t1" interval="6.935" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t2" interval="13.851" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t3" interval="17.129" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4" interval="20.839" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t5" interval="45.056" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t6" interval="57.841" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t7" interval="59.179" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t8" interval="61.199" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t9" interval="63.748" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t10" interval="66.361" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t11" interval="77.595" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t12" interval="82.107" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t13" interval="95.674" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t14" interval="106.263" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t15" interval="117.305" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t16" interval="122.685" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t17" interval="134.675" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t18" interval="150.120" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t19" interval="154.259" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t20" interval="157.119" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t21" interval="170.685" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t22" interval="174.571" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t23" interval="184.347" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t24" interval="192.060" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t25" interval="199.547" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t26" interval="208.525" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t27" interval="224.748" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t28" interval="235.517" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t29" interval="237.223" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t30" interval="239.640" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t31" interval="247.395" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t32" interval="249.051" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t33" interval="252.812" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t34" interval="256.092" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t35" interval="258.673" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t36" interval="266.353" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t37" interval="269.852" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t38" interval="284.635" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t39" interval="292.397" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t40" interval="301.415" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t41" interval="305.077" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t42" interval="306.598" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t43" interval="308.455" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t44" interval="315.997" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t45" interval="320.218" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t46" interval="326.242" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t47" interval="332.391" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t48" interval="344.944" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t49" interval="347.017" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t50" interval="362.971" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t51" interval="373.164" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t52" interval="381.312" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t53" interval="391.185" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t54" interval="392.919" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t55" interval="407.434" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t56" interval="417.379" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t57" interval="418.723" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t58" interval="422.429" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t59" interval="429.298" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t60" interval="444.228" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t61" interval="466.776" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t62" interval="474.327" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t63" interval="477.822" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t64" interval="483.302" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t65" interval="486.181" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t66" interval="487.912" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t67" interval="492.066" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t68" interval="497.882" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t69" interval="505.244" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t70" interval="508.964" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t71" interval="518.962" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t72" interval="526.167" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t73" interval="531.314" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t74" interval="534.424" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t75" interval="535.658" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t76" interval="538.165" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t77" interval="543.211" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t78" interval="570.229" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t79" interval="575.797" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t80" interval="582.353" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t81" interval="596.010" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t82" interval="602.692" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t83" interval="608.154" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t84" interval="608.870" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t85" interval="612.937" since="#GosVL52_bezge.t0"/>
+			</timeline>
+			<timeline unit="w" origin="#GosVL52_bezge.t0" corresp="#GosVL52_bezge.wav">
+				<when xml:id="GosVL52_bezge.t0.w0" interval="1.030" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t0.w1" interval="1.920" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t0.w2" interval="2.740" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t0.w3" interval="3.440" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t0.w4" interval="3.720" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t0.w5" interval="3.980" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t0.w6" interval="4.320" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t0.w7" interval="4.470" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t0.w8" interval="4.530" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t0.w9" interval="5.020" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t0.w10" interval="5.380" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t0.w11" interval="5.740" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t1.w0" interval="8.145" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t1.w1" interval="8.665" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t1.w2" interval="8.855" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t1.w3" interval="8.935" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t1.w4" interval="9.115" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t1.w5" interval="9.355" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t1.w6" interval="9.575" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t1.w7" interval="9.885" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t1.w8" interval="10.375" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t1.w9" interval="11.205" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t1.w10" interval="11.935" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t1.w11" interval="12.045" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t1.w12" interval="12.255" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t1.w13" interval="12.575" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t2.w0" interval="13.951" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t2.w1" interval="14.691" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t2.w2" interval="15.261" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t2.w3" interval="15.571" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t2.w4" interval="15.731" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t2.w5" interval="15.871" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t2.w6" interval="15.931" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t2.w7" interval="16.101" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t3.w0" interval="17.219" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t3.w1" interval="17.439" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t3.w2" interval="17.529" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t3.w3" interval="17.739" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t3.w4" interval="18.139" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t3.w5" interval="18.239" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t3.w6" interval="18.649" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t3.w7" interval="18.829" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t3.w8" interval="19.179" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t3.w9" interval="19.239" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t3.w10" interval="19.549" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t3.w11" interval="19.789" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t3.w12" interval="20.099" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w0" interval="21.019" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w1" interval="22.249" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w2" interval="22.469" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w3" interval="23.009" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w4" interval="24.499" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w5" interval="24.729" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w6" interval="24.939" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w7" interval="25.089" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w8" interval="25.219" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w9" interval="25.549" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w10" interval="25.719" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w11" interval="25.829" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w12" interval="25.949" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w13" interval="26.169" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w14" interval="26.799" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w15" interval="27.159" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w16" interval="27.689" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w17" interval="28.169" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w18" interval="28.579" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w19" interval="28.739" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w20" interval="28.849" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w21" interval="29.049" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w22" interval="30.229" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w23" interval="30.689" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w24" interval="31.189" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w25" interval="31.289" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w26" interval="31.819" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w27" interval="32.869" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w28" interval="33.059" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w29" interval="33.389" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w30" interval="33.799" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w31" interval="34.129" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w32" interval="34.229" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w33" interval="34.419" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w34" interval="34.749" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w35" interval="34.889" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w36" interval="35.169" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w37" interval="35.819" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w38" interval="36.689" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w39" interval="36.889" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w40" interval="37.109" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w41" interval="38.569" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w42" interval="38.749" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w43" interval="39.419" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w44" interval="39.899" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w45" interval="41.119" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w46" interval="41.649" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w47" interval="42.189" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w48" interval="43.349" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w49" interval="43.639" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w50" interval="43.869" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w51" interval="44.059" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w52" interval="44.139" since="#GosVL52_bezge.t0"/>
+				<when xml:id="GosVL52_bezge.t4.w53" interval="44.609" since="#GosVL52_bezge.t0"/>
+			</timeline>
+			<u xml:id="GosVL52_bezge.u1" who="#Um-vl220" start="#GosVL52_bezge.t0" end="#GosVL52_bezge.t7">
+				<seg xml:id="GosVL52_bezge.s1" synch="#GosVL52_bezge.t0">
+					<w xml:id="GosVL52_bezge.tok1" function="filler" lemma="eee" ana="mte:I" synch="#GosVL52_bezge.t0.w0">eee</w>
+					<w xml:id="GosVL52_bezge.tok2" lemma="evo" ana="mte:Q" synch="#GosVL52_bezge.t0.w1">evo</w>
+					<w xml:id="GosVL52_bezge.tok3" lemma="lep" ana="mte:Agpmsan" synch="#GosVL52_bezge.t0.w2">lep</w>
+					<gap reason="unclear"/>
+					<w xml:id="GosVL52_bezge.tok4" lemma="dober" ana="mte:Agpmsan" synch="#GosVL52_bezge.t0.w3">dober</w>
+					<w xml:id="GosVL52_bezge.tok5" lemma="dan" ana="mte:Ncmsan" synch="#GosVL52_bezge.t0.w4">dan</w>
+					<w xml:id="GosVL52_bezge.tok6" lemma="dober" ana="mte:Agpmsan" synch="#GosVL52_bezge.t0.w5">dober</w>
+					<w xml:id="GosVL52_bezge.tok7" lemma="večer" ana="mte:Ncmsan" synch="#GosVL52_bezge.t0.w6">večer</w>
+					<w xml:id="GosVL52_bezge.tok8" lemma="tu" ana="mte:Rgp" synch="#GosVL52_bezge.t0.w7">tu</w>
+					<w xml:id="GosVL52_bezge.tok9" norm="je" lemma="biti" ana="mte:Va-r3s-n" synch="#GosVL52_bezge.t0.w8">j</w>
+					<w xml:id="GosVL52_bezge.tok10" lemma="dan" ana="mte:Ncmsn" synch="#GosVL52_bezge.t0.w9">dan</w>
+					<w xml:id="GosVL52_bezge.tok11" norm="izgleda" lemma="izgledati" ana="mte:Vmpr3s" synch="#GosVL52_bezge.t0.w10">zgleda</w>
+					<w xml:id="GosVL52_bezge.tok12" lemma="vedno" ana="mte:Rgp" synch="#GosVL52_bezge.t0.w11">vedno</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s2" synch="#GosVL52_bezge.t1">
+					<w xml:id="GosVL52_bezge.tok13" function="filler" lemma="eee" ana="mte:I" synch="#GosVL52_bezge.t1.w0">eee</w>
+					<w xml:id="GosVL52_bezge.tok14" norm="tako" lemma="tako" ana="mte:Cc" synch="#GosVL52_bezge.t1.w1">tak</w>
+					<w xml:id="GosVL52_bezge.tok15" lemma="da" ana="mte:Cs" synch="#GosVL52_bezge.t1.w2">da</w>
+					<w xml:id="GosVL52_bezge.tok16" lemma="jaz" ana="mte:Pp1-sn" synch="#GosVL52_bezge.t1.w3">jaz</w>
+					<w xml:id="GosVL52_bezge.tok17" norm="tudi" lemma="tudi" ana="mte:Q" synch="#GosVL52_bezge.t1.w4">tui</w>
+					<w xml:id="GosVL52_bezge.tok18" norm="nimam" lemma="imeti" ana="mte:Vmpr1s-y" synch="#GosVL52_bezge.t1.w5">niam</w>
+					<w xml:id="GosVL52_bezge.tok19" lemma="nek" ana="mte:Pi-npg" synch="#GosVL52_bezge.t1.w6">nekih</w>
+					<w xml:id="GosVL52_bezge.tok20" lemma="moderen" ana="mte:Agpnpg" synch="#GosVL52_bezge.t1.w7">modernih</w>
+					<w xml:id="GosVL52_bezge.tok21" lemma="sredstvo" ana="mte:Ncnpg" synch="#GosVL52_bezge.t1.w8">sredstev</w>
+					<w xml:id="GosVL52_bezge.tok22" lemma="komunikacija" ana="mte:Ncfsg" synch="#GosVL52_bezge.t1.w9">komunikacije</w>
+					<w xml:id="GosVL52_bezge.tok23" lemma="ne" ana="mte:Q" synch="#GosVL52_bezge.t1.w10">ne</w>
+					<w xml:id="GosVL52_bezge.tok24" lemma="biti" ana="mte:Va-f1s-n" synch="#GosVL52_bezge.t1.w11">bom</w>
+					<w xml:id="GosVL52_bezge.tok25" lemma="danes" ana="mte:Rgp" synch="#GosVL52_bezge.t1.w12">danes</w>
+					<w xml:id="GosVL52_bezge.tok26" lemma="uporabljati" ana="mte:Vmpp-sm" synch="#GosVL52_bezge.t1.w13">uporabljal</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s3" synch="#GosVL52_bezge.t2">
+					<w xml:id="GosVL52_bezge.tok27" lemma="staromoden" ana="mte:Agpmsny" synch="#GosVL52_bezge.t2.w0">staromodni</w>
+					<w xml:id="GosVL52_bezge.tok28" lemma="jezik" ana="mte:Ncmsn" synch="#GosVL52_bezge.t2.w1">jezik</w>
+					<w xml:id="GosVL52_bezge.tok29" norm="koliko" lemma="koliko" ana="mte:Rgp" synch="#GosVL52_bezge.t2.w2">koko</w>
+					<w xml:id="GosVL52_bezge.tok30" lemma="se" ana="mte:Px------y" synch="#GosVL52_bezge.t2.w3">se</w>
+					<w xml:id="GosVL52_bezge.tok31" lemma="biti" ana="mte:Va-f1s-n" synch="#GosVL52_bezge.t2.w4">bom</w>
+					<w xml:id="GosVL52_bezge.tok32" lemma="v" ana="mte:Sl" synch="#GosVL52_bezge.t2.w5">v</w>
+					<w xml:id="GosVL52_bezge.tok33" lemma="on" ana="mte:Pp3msl" synch="#GosVL52_bezge.t2.w6">njem</w>
+					<w xml:id="GosVL52_bezge.tok34" norm="znašel" lemma="znajti" ana="mte:Vmep-sm" synch="#GosVL52_bezge.t2.w7">znašu</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s4" synch="#GosVL52_bezge.t3">
+					<w xml:id="GosVL52_bezge.tok35" norm="zdaj" lemma="zdaj" ana="mte:Rgp" synch="#GosVL52_bezge.t3.w0">zaj</w>
+					<w xml:id="GosVL52_bezge.tok36" lemma="biti" ana="mte:Va-c" synch="#GosVL52_bezge.t3.w1">bi</w>
+					<w xml:id="GosVL52_bezge.tok37" lemma="pa" ana="mte:Cc" synch="#GosVL52_bezge.t3.w2">pa</w>
+					<w xml:id="GosVL52_bezge.tok38" lemma="najprej" ana="mte:Rgs" synch="#GosVL52_bezge.t3.w3">najprej</w>
+					<w xml:id="GosVL52_bezge.tok39" lemma="za" ana="mte:Sa" synch="#GosVL52_bezge.t3.w4">za</w>
+					<w xml:id="GosVL52_bezge.tok40" lemma="začetek" ana="mte:Ncmsan" synch="#GosVL52_bezge.t3.w5">začetek</w>
+					<w xml:id="GosVL52_bezge.tok41" lemma="pač" ana="mte:Q" synch="#GosVL52_bezge.t3.w6">pač</w>
+					<w xml:id="GosVL52_bezge.tok42" lemma="povedati" ana="mte:Vmep-sm" synch="#GosVL52_bezge.t3.w7">povedal</w>
+					<w xml:id="GosVL52_bezge.tok43" lemma="o" ana="mte:Sl" synch="#GosVL52_bezge.t3.w8">o</w>
+					<w xml:id="GosVL52_bezge.tok44" lemma="ta" ana="mte:Pd-nsl" synch="#GosVL52_bezge.t3.w9">tem</w>
+					<w xml:id="GosVL52_bezge.tok45" lemma="kar" ana="mte:Pr-nsa" synch="#GosVL52_bezge.t3.w10">kar</w>
+					<w xml:id="GosVL52_bezge.tok46" lemma="misliti" ana="mte:Vmpr1s" synch="#GosVL52_bezge.t3.w11">mislim</w>
+					<w xml:id="GosVL52_bezge.tok47" norm="povedati" lemma="povedati" ana="mte:Vmen" synch="#GosVL52_bezge.t3.w12">poveat</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s5" synch="#GosVL52_bezge.t4">
+					<w xml:id="GosVL52_bezge.tok48" function="filler" lemma="eee" ana="mte:I" synch="#GosVL52_bezge.t4.w0">eee</w>
+					<w xml:id="GosVL52_bezge.tok49" lemma="in" ana="mte:Cc" synch="#GosVL52_bezge.t4.w1">in</w>
+					<w xml:id="GosVL52_bezge.tok50" lemma="ta" ana="mte:Pd-nsn" synch="#GosVL52_bezge.t4.w2">to</w>
+					<w xml:id="GosVL52_bezge.tok51" lemma="da" ana="mte:Cs" synch="#GosVL52_bezge.t4.w3">da</w>
+					<w xml:id="GosVL52_bezge.tok52" lemma="pač" ana="mte:Q" synch="#GosVL52_bezge.t4.w4">pač</w>
+					<w xml:id="GosVL52_bezge.tok53" lemma="ta" ana="mte:Pd-nsa" synch="#GosVL52_bezge.t4.w5">to</w>
+					<w xml:id="GosVL52_bezge.tok54" lemma="kaj" ana="mte:Pq-nsa" synch="#GosVL52_bezge.t4.w6">kaj</w>
+					<w xml:id="GosVL52_bezge.tok55" lemma="biti" ana="mte:Va-f1s-n" synch="#GosVL52_bezge.t4.w7">bom</w>
+					<w xml:id="GosVL52_bezge.tok56" lemma="povedati" ana="mte:Vmep-sm" synch="#GosVL52_bezge.t4.w8">povedal</w>
+					<w xml:id="GosVL52_bezge.tok57" lemma="se" ana="mte:Px------y" synch="#GosVL52_bezge.t4.w9">se</w>
+					<w xml:id="GosVL52_bezge.tok58" lemma="jaz" ana="mte:Pp1-sd--y" synch="#GosVL52_bezge.t4.w10">mi</w>
+					<w xml:id="GosVL52_bezge.tok59" lemma="ne" ana="mte:Q" synch="#GosVL52_bezge.t4.w11">ne</w>
+					<w xml:id="GosVL52_bezge.tok60" lemma="zdeti" ana="mte:Vmpr3s" synch="#GosVL52_bezge.t4.w12">zdi</w>
+					<w xml:id="GosVL52_bezge.tok61" lemma="kot" ana="mte:Cs" synch="#GosVL52_bezge.t4.w13">kot</w>
+					<w xml:id="GosVL52_bezge.tok62" lemma="nek" ana="mte:Pi-fsn" synch="#GosVL52_bezge.t4.w14">neka</w>
+					<w xml:id="GosVL52_bezge.tok63" lemma="splošen" ana="mte:Agpfsn" synch="#GosVL52_bezge.t4.w15">splošna</w>
+					<w xml:id="GosVL52_bezge.tok64" lemma="resnica" ana="mte:Ncfsn" synch="#GosVL52_bezge.t4.w16">resnica</w>
+					<w xml:id="GosVL52_bezge.tok65" lemma="ampak" ana="mte:Cc" synch="#GosVL52_bezge.t4.w17">ampak</w>
+					<w xml:id="GosVL52_bezge.tok66" lemma="se" ana="mte:Px------y" synch="#GosVL52_bezge.t4.w18">se</w>
+					<w xml:id="GosVL52_bezge.tok67" lemma="jaz" ana="mte:Pp1-sd--y" synch="#GosVL52_bezge.t4.w19">mi</w>
+					<w xml:id="GosVL52_bezge.tok68" lemma="zdeti" ana="mte:Vmpr3s" synch="#GosVL52_bezge.t4.w20">zdi</w>
+					<w xml:id="GosVL52_bezge.tok69" lemma="samo" ana="mte:Q" synch="#GosVL52_bezge.t4.w21">samo</w>
+					<w xml:id="GosVL52_bezge.tok70" lemma="moj" ana="mte:Ps1nsns" synch="#GosVL52_bezge.t4.w22">moje</w>
+					<w xml:id="GosVL52_bezge.tok71" lemma="mnenje" ana="mte:Ncnsn" synch="#GosVL52_bezge.t4.w23">mnenje</w>
+					<w xml:id="GosVL52_bezge.tok72" lemma="o" ana="mte:Sl" synch="#GosVL52_bezge.t4.w24">o</w>
+					<w xml:id="GosVL52_bezge.tok73" lemma="nekateri" ana="mte:Pi-fpl" synch="#GosVL52_bezge.t4.w25">nekaterih</w>
+					<w xml:id="GosVL52_bezge.tok74" lemma="stvar" ana="mte:Ncfpl" synch="#GosVL52_bezge.t4.w26">stvareh</w>
+					<w xml:id="GosVL52_bezge.tok75" lemma="ker" ana="mte:Cs" synch="#GosVL52_bezge.t4.w27">ker</w>
+					<w xml:id="GosVL52_bezge.tok76" norm="izgleda" lemma="izgledati" ana="mte:Vmpr3s" synch="#GosVL52_bezge.t4.w28">zglea</w>
+					<w xml:id="GosVL52_bezge.tok77" lemma="da" ana="mte:Cs" synch="#GosVL52_bezge.t4.w29">da</w>
+					<w xml:id="GosVL52_bezge.tok78" lemma="glede" ana="mte:Rgp" synch="#GosVL52_bezge.t4.w30">glede</w>
+					<w xml:id="GosVL52_bezge.tok79" lemma="na" ana="mte:Sa" synch="#GosVL52_bezge.t4.w31">na</w>
+					<w xml:id="GosVL52_bezge.tok80" lemma="ves" ana="mte:Pg-mpa" synch="#GosVL52_bezge.t4.w32">vse</w>
+					<w xml:id="GosVL52_bezge.tok81" lemma="ostal" ana="mte:Appmpa" synch="#GosVL52_bezge.t4.w33">ostale</w>
+					<w xml:id="GosVL52_bezge.tok82" lemma="kaj" ana="mte:Pq-nsa" synch="#GosVL52_bezge.t4.w34">kaj</w>
+					<w xml:id="GosVL52_bezge.tok83" lemma="biti" ana="mte:Va-r1s-n" synch="#GosVL52_bezge.t4.w35">sem</w>
+					<w xml:id="GosVL52_bezge.tok84" lemma="slišati" ana="mte:Vmbp-sm" synch="#GosVL52_bezge.t4.w36">slišal</w>
+					<w xml:id="GosVL52_bezge.tok85" lemma="tukaj" ana="mte:Rgp" synch="#GosVL52_bezge.t4.w37">tukaj</w>
+					<w xml:id="GosVL52_bezge.tok86" norm="sem" lemma="biti" ana="mte:Va-r1s-n" synch="#GosVL52_bezge.t4.w38">sn</w>
+					<w xml:id="GosVL52_bezge.tok87" lemma="se" ana="mte:Px------y" synch="#GosVL52_bezge.t4.w39">se</w>
+					<w xml:id="GosVL52_bezge.tok88" lemma="jaz" ana="mte:Pp1-sn" synch="#GosVL52_bezge.t4.w40">jaz</w>
+					<w xml:id="GosVL52_bezge.tok89" lemma="te" ana="mte:Rgp" synch="#GosVL52_bezge.t4.w41">te</w>
+					<w xml:id="GosVL52_bezge.tok90" function="filler" lemma="eee" ana="mte:I" synch="#GosVL52_bezge.t4.w42">eee</w>
+					<w xml:id="GosVL52_bezge.tok91" lemma="on" ana="mte:Pp3msa--y" synch="#GosVL52_bezge.t4.w43">ga</w>
+					<w xml:id="GosVL52_bezge.tok92" function="filler" lemma="eee" ana="mte:I" synch="#GosVL52_bezge.t4.w44">eee</w>
+					<w xml:id="GosVL52_bezge.tok93" lemma="glasba" ana="mte:Ncfsg" synch="#GosVL52_bezge.t4.w45">glasbe</w>
+					<w xml:id="GosVL52_bezge.tok94" lemma="kot" ana="mte:Cs" synch="#GosVL52_bezge.t4.w46">kot</w>
+					<w xml:id="GosVL52_bezge.tok95" lemma="jezik" ana="mte:Ncmsg" synch="#GosVL52_bezge.t4.w47">jezika</w>
+					<w xml:id="GosVL52_bezge.tok96" norm="lotil" lemma="lotiti" ana="mte:Vmep-sm" synch="#GosVL52_bezge.t4.w48">lotu</w>
+					<w xml:id="GosVL52_bezge.tok97" lemma="malo" ana="mte:Rgp" synch="#GosVL52_bezge.t4.w49">malo</w>
+					<w xml:id="GosVL52_bezge.tok98" lemma="bolj" ana="mte:Rgc" synch="#GosVL52_bezge.t4.w50">bolj</w>
+					<w xml:id="GosVL52_bezge.tok99" lemma="na" ana="mte:Sa" synch="#GosVL52_bezge.t4.w51">na</w>
+					<w xml:id="GosVL52_bezge.tok100" norm="splošen" lemma="splošen" ana="mte:Agpmsan" synch="#GosVL52_bezge.t4.w52">splošn</w>
+					<w xml:id="GosVL52_bezge.tok101" lemma="način" ana="mte:Ncmsan" synch="#GosVL52_bezge.t4.w53">način</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s6" synch="#GosVL52_bezge.t5">
+					<w xml:id="GosVL52_bezge.tok102" function="filler" lemma="eee" ana="mte:I">eee</w>
+					<w xml:id="GosVL52_bezge.tok103" lemma="prvič" ana="mte:Rgp">prvič</w>
+					<w xml:id="GosVL52_bezge.tok104" norm="opravičil" lemma="opravičiti" ana="mte:Vmep-sm">opravičo</w>
+					<w xml:id="GosVL52_bezge.tok105" lemma="biti" ana="mte:Va-c">bi</w>
+					<w xml:id="GosVL52_bezge.tok106" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok107" norm="tudi" lemma="tudi" ana="mte:Q">tud</w>
+					<w xml:id="GosVL52_bezge.tok108" lemma="ta" ana="mte:Pd-nsa">to</w>
+					<w xml:id="GosVL52_bezge.tok109" lemma="kot" ana="mte:Cs">kot</w>
+					<w xml:id="GosVL52_bezge.tok110" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok111" lemma="že" ana="mte:Q">že</w>
+					<name type="per">
+						<gap reason="anon">
+							<desc>[ime]</desc>
+						</gap>
+					</name>
+					<w xml:id="GosVL52_bezge.tok112" lemma="povedati" ana="mte:Vmep-sm">povedal</w>
+					<w xml:id="GosVL52_bezge.tok113" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok114" lemma="jaz" ana="mte:Pp1-sn">jaz</w>
+					<w xml:id="GosVL52_bezge.tok115" lemma="biti" ana="mte:Va-r1s-y">nisem</w>
+					<w xml:id="GosVL52_bezge.tok116" lemma="ravno" ana="mte:Q">ravno</w>
+					<w xml:id="GosVL52_bezge.tok117" lemma="govornik" ana="mte:Ncmsn">govornik</w>
+					<w xml:id="GosVL52_bezge.tok118" norm="tako" lemma="tako" ana="mte:Cc">tak</w>
+					<w xml:id="GosVL52_bezge.tok119" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok120" lemma="če" ana="mte:Cs">če</w>
+					<w xml:id="GosVL52_bezge.tok121" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok122" norm="bom" lemma="biti" ana="mte:Va-f1s-n">m</w>
+					<w xml:id="GosVL52_bezge.tok123" lemma="slučajno" ana="mte:Rgp">slučajno</w>
+					<w xml:id="GosVL52_bezge.tok124" lemma="po" ana="mte:Sl">po</w>
+					<w xml:id="GosVL52_bezge.tok125" lemma="nos" ana="mte:Ncmsl">nosu</w>
+					<w xml:id="GosVL52_bezge.tok126" lemma="vmes" ana="mte:Rgp">vmes</w>
+					<w xml:id="GosVL52_bezge.tok127" lemma="čohati" ana="mte:Vmpp-sm">čohal</w>
+					<w xml:id="GosVL52_bezge.tok128" norm="ali" lemma="ali" ana="mte:Cc">al</w>
+					<w xml:id="GosVL52_bezge.tok129" lemma="pa" ana="mte:Cc">pa</w>
+					<w xml:id="GosVL52_bezge.tok130" lemma="po" ana="mte:Sa">po</w>
+					<w xml:id="GosVL52_bezge.tok131" lemma="naj" ana="mte:Q">naj</w>
+					<w xml:id="GosVL52_bezge.tok132" lemma="jaz" ana="mte:Pp1-sd--y">mi</w>
+					<w xml:id="GosVL52_bezge.tok133" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok134" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok135" lemma="preveč" ana="mte:Rgp">preveč</w>
+					<w xml:id="GosVL52_bezge.tok136" lemma="upati" ana="mte:Vmpr1s">upam</w>
+					<w xml:id="GosVL52_bezge.tok137" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok138" lemma="ne" ana="mte:Q">ne</w>
+					<w xml:id="GosVL52_bezge.tok139" lemma="biti" ana="mte:Va-f3s-n">bo</w>
+					<w xml:id="GosVL52_bezge.tok140" norm="zamerila" lemma="zameriti" ana="mte:Vmep-sf">zamerla</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s7" synch="#GosVL52_bezge.t6">
+					<vocal type="voice"/>
+					<w xml:id="GosVL52_bezge.tok141" function="filler" lemma="eee" ana="mte:I">eee</w>
+				</seg>
+			</u>
+			<u xml:id="GosVL52_bezge.u2" start="#GosVL52_bezge.t7" end="#GosVL52_bezge.t8">
+				<pause/>
+			</u>
+			<u xml:id="GosVL52_bezge.u3" who="#Um-vl220" start="#GosVL52_bezge.t8" end="#GosVL52_bezge.t28">
+				<seg xml:id="GosVL52_bezge.s8" synch="#GosVL52_bezge.t8">
+					<w xml:id="GosVL52_bezge.tok142" lemma="pol" ana="mte:Rgp">pol</w>
+					<w xml:id="GosVL52_bezge.tok143" lemma="pa" ana="mte:Cc">pa</w>
+					<w xml:id="GosVL52_bezge.tok144" lemma="biti" ana="mte:Va-c">bi</w>
+					<w xml:id="GosVL52_bezge.tok145" lemma="reči" ana="mte:Vmem1p">recimo</w>
+					<w xml:id="GosVL52_bezge.tok146" lemma="začeti" ana="mte:Vmep-sm">začel</w>
+					<w xml:id="GosVL52_bezge.tok147" lemma="z" ana="mte:Si">z</w>
+					<w xml:id="GosVL52_bezge.tok148" lemma="jezik" ana="mte:Ncmsi">jezikom</w>
+					<w xml:id="GosVL52_bezge.tok149" lemma="nasploh" ana="mte:Rgp">nasploh</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s9" synch="#GosVL52_bezge.t9">
+					<w xml:id="GosVL52_bezge.tok150" lemma="kaj" ana="mte:Pq-nsn">kaj</w>
+					<w xml:id="GosVL52_bezge.tok151" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok152" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok153" lemma="jezik" ana="mte:Ncmsn">jezik</w>
+					<w xml:id="GosVL52_bezge.tok154" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok155" lemma="raje" ana="mte:Rgc">raje</w>
+					<w xml:id="GosVL52_bezge.tok156" lemma="ne" ana="mte:Q">ne</w>
+					<w xml:id="GosVL52_bezge.tok157" lemma="biti" ana="mte:Va-c">bi</w>
+					<w xml:id="GosVL52_bezge.tok158" lemma="sploh" ana="mte:Q">sploh</w>
+					<w xml:id="GosVL52_bezge.tok159" lemma="vprašati" ana="mte:Vmep-sm">vprašal</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s10" synch="#GosVL52_bezge.t10">
+					<w xml:id="GosVL52_bezge.tok160" lemma="ampak" ana="mte:Cc">ampak</w>
+					<w xml:id="GosVL52_bezge.tok161" function="filler" lemma="eee" ana="mte:I">eee</w>
+					<w xml:id="GosVL52_bezge.tok162" lemma="biti" ana="mte:Va-c">bi</w>
+					<w xml:id="GosVL52_bezge.tok163" lemma="pa" ana="mte:Cc">pa</w>
+					<w xml:id="GosVL52_bezge.tok164" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok165" lemma="vprašati" ana="mte:Vmep-sm">vprašal</w>
+					<w xml:id="GosVL52_bezge.tok166" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok167" lemma="kaj" ana="mte:Pq-nsn">kaj</w>
+					<w xml:id="GosVL52_bezge.tok168" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok169" norm="tisto" lemma="tisti" ana="mte:Pd-nsn">tist</w>
+					<w xml:id="GosVL52_bezge.tok170" lemma="en" ana="mte:Mlpmsn">en</w>
+					<w xml:id="GosVL52_bezge.tok171" lemma="osnoven" ana="mte:Agpmsnn">osnoven</w>
+					<w xml:id="GosVL52_bezge.tok172" lemma="jezik" ana="mte:Ncmsn">jezik</w>
+					<w xml:id="GosVL52_bezge.tok173" norm="s" lemma="z" ana="mte:Si">z</w>
+					<w xml:id="GosVL52_bezge.tok174" lemma="kateri" ana="mte:Pq-msi">katerim</w>
+					<w xml:id="GosVL52_bezge.tok175" lemma="kateri" ana="mte:Pq-msd">kateremu</w>
+					<w xml:id="GosVL52_bezge.tok176" lemma="biti" ana="mte:Va-r1p-n">smo</w>
+					<w xml:id="GosVL52_bezge.tok177" lemma="nekako" ana="mte:Rgp">nekako</w>
+					<w xml:id="GosVL52_bezge.tok178" lemma="ves" ana="mte:Pg-mpn">vsi</w>
+					<w xml:id="GosVL52_bezge.tok179" lemma="podvržen" ana="mte:Appmpn">podvrženi</w>
+					<w xml:id="GosVL52_bezge.tok180" lemma="in" ana="mte:Cc">in</w>
+					<w xml:id="GosVL52_bezge.tok181" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok182" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<vocal type="voice"/>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s11" synch="#GosVL52_bezge.t11">
+					<w xml:id="GosVL52_bezge.tok183" lemma="jaz" ana="mte:Pp1-sn">jaz</w>
+					<w xml:id="GosVL52_bezge.tok184" lemma="biti" ana="mte:Va-c">bi</w>
+					<w xml:id="GosVL52_bezge.tok185" lemma="ta" ana="mte:Pd-nsd">temu</w>
+					<w xml:id="GosVL52_bezge.tok186" norm="rekel" lemma="reči" ana="mte:Vmep-sm">reku</w>
+					<w xml:id="GosVL52_bezge.tok187" lemma="jaz" ana="mte:Pp1-sn">jaz</w>
+					<w xml:id="GosVL52_bezge.tok188" lemma="osebno" ana="mte:Rgp">osebno</w>
+					<w xml:id="GosVL52_bezge.tok189" lemma="biti" ana="mte:Va-c">bi</w>
+					<w xml:id="GosVL52_bezge.tok190" lemma="ta" ana="mte:Pd-nsd">temu</w>
+					<w xml:id="GosVL52_bezge.tok191" norm="rekel" lemma="reči" ana="mte:Vmep-sm">reku</w>
+					<w xml:id="GosVL52_bezge.tok192" lemma="jezik" ana="mte:Ncmsan">jezik</w>
+					<w xml:id="GosVL52_bezge.tok193" lemma="splošen" ana="mte:Agpmsg">splošnega</w>
+					<w xml:id="GosVL52_bezge.tok194" lemma="obstoj" ana="mte:Ncmsg">obstoja</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s12" synch="#GosVL52_bezge.t12">
+					<w xml:id="GosVL52_bezge.tok195" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok196" lemma="praviti" ana="mte:Vmbr3s">pravi</w>
+					<w xml:id="GosVL52_bezge.tok197" lemma="z" ana="mte:Si">s</w>
+					<w xml:id="GosVL52_bezge.tok198" lemma="ta" ana="mte:Pd-msi">tem</w>
+					<w xml:id="GosVL52_bezge.tok199" lemma="jezik" ana="mte:Ncmsi">jezikom</w>
+					<w xml:id="GosVL52_bezge.tok200" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok201" lemma="jaz" ana="mte:Pp1-sd--y">mi</w>
+					<w xml:id="GosVL52_bezge.tok202" lemma="zdeti" ana="mte:Vmpr3s">zdi</w>
+					<w xml:id="GosVL52_bezge.tok203" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok204" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok205" lemma="bolj" ana="mte:Rgc">bolj</w>
+					<w xml:id="GosVL52_bezge.tok206" norm="ali" lemma="ali" ana="mte:Cc">al</w>
+					<w xml:id="GosVL52_bezge.tok207" norm="manj" lemma="manj" ana="mte:Rgc">majn</w>
+					<w xml:id="GosVL52_bezge.tok208" lemma="ves" ana="mte:Pg-mpn">vsi</w>
+					<w xml:id="GosVL52_bezge.tok209" lemma="ukvarjati" ana="mte:Vmpr1p">ukvarjamo</w>
+					<w xml:id="GosVL52_bezge.tok210" lemma="na" ana="mte:Sl">na</w>
+					<w xml:id="GosVL52_bezge.tok211" norm="neki" lemma="nek" ana="mte:Pi-fsl">nek</w>
+					<w xml:id="GosVL52_bezge.tok212" lemma="bolj" ana="mte:Rgc">bolj</w>
+					<del type="falseStart" subtype="missingEnd">
+						<w xml:id="GosVL52_bezge.tok213" lemma="n…" ana="mte:Xt">n…</w>
+					</del>
+					<w xml:id="GosVL52_bezge.tok214" lemma="naš" ana="mte:Ps1mplp">naših</w>
+					<w xml:id="GosVL52_bezge.tok215" lemma="okvir" ana="mte:Ncmpl">okvirih</w>
+					<del type="falseStart" subtype="missingEnd">
+						<w xml:id="GosVL52_bezge.tok216" lemma="m…" ana="mte:Xt">m…</w>
+					</del>
+					<w xml:id="GosVL52_bezge.tok217" norm="možen" lemma="možen" ana="mte:Agpmsan">možn</w>
+					<w xml:id="GosVL52_bezge.tok218" lemma="način" ana="mte:Ncmsan">način</w>
+					<w xml:id="GosVL52_bezge.tok219" lemma="kot" ana="mte:Cs">kot</w>
+					<w xml:id="GosVL52_bezge.tok220" lemma="biti" ana="mte:Va-c">bi</w>
+					<w xml:id="GosVL52_bezge.tok221" norm="rekel" lemma="reči" ana="mte:Vmep-sm">reku</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s13" synch="#GosVL52_bezge.t13">
+					<vocal type="breath"/>
+					<w xml:id="GosVL52_bezge.tok222" function="filler" lemma="eee" ana="mte:I">eee</w>
+					<w xml:id="GosVL52_bezge.tok223" lemma="jezik" ana="mte:Ncmsn">jezik</w>
+					<w xml:id="GosVL52_bezge.tok224" lemma="splošen" ana="mte:Agpmsg">splošnega</w>
+					<w xml:id="GosVL52_bezge.tok225" lemma="obstoj" ana="mte:Ncmsg">obstoja</w>
+					<w xml:id="GosVL52_bezge.tok226" lemma="reči" ana="mte:Vmem1p">recimo</w>
+					<w xml:id="GosVL52_bezge.tok227" lemma="lahko" ana="mte:Rgp">lahko</w>
+					<w xml:id="GosVL52_bezge.tok228" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok229" lemma="na" ana="mte:Sa">na</w>
+					<w xml:id="GosVL52_bezge.tok230" norm="neki" lemma="nek" ana="mte:Pi-msa">nek</w>
+					<w xml:id="GosVL52_bezge.tok231" lemma="način" ana="mte:Ncmsan">način</w>
+					<del type="falseStart" subtype="missingEnd">
+						<w xml:id="GosVL52_bezge.tok232" lemma="raz…" ana="mte:Xt">raz…</w>
+					</del>
+					<w xml:id="GosVL52_bezge.tok233" lemma="raziskovati" ana="mte:Vmpr3s">raziskuje</w>
+					<w xml:id="GosVL52_bezge.tok234" lemma="znanost" ana="mte:Ncfsa">znanost</w>
+					<w xml:id="GosVL52_bezge.tok235" lemma="iz" ana="mte:Sg">iz</w>
+					<w xml:id="GosVL52_bezge.tok236" lemma="en" ana="mte:Mlpmsg">enega</w>
+					<del type="falseStart" subtype="missingEnd">
+						<w xml:id="GosVL52_bezge.tok237" lemma="eksak…" ana="mte:Xt">eksak…</w>
+					</del>
+					<w xml:id="GosVL52_bezge.tok238" lemma="eksakten" ana="mte:Agpmsg">eksaktnega</w>
+					<w xml:id="GosVL52_bezge.tok239" lemma="konec" ana="mte:Ncmsg">konca</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s14" synch="#GosVL52_bezge.t14">
+					<w xml:id="GosVL52_bezge.tok240" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok241" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok242" lemma="praviti" ana="mte:Vmbr3s">pravi</w>
+					<w xml:id="GosVL52_bezge.tok243" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok244" function="filler" lemma="eee" ana="mte:I">eee</w>
+					<w xml:id="GosVL52_bezge.tok245" lemma="glede" ana="mte:Rgp">glede</w>
+					<w xml:id="GosVL52_bezge.tok246" lemma="na" ana="mte:Sa">na</w>
+					<w xml:id="GosVL52_bezge.tok247" lemma="dejstvo" ana="mte:Ncnpa">dejstva</w>
+					<w xml:id="GosVL52_bezge.tok248" lemma="ki" ana="mte:Cs">ki</w>
+					<w xml:id="GosVL52_bezge.tok249" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok250" lemma="potrjevati" ana="mte:Vmpr3p">potrjujejo</w>
+					<w xml:id="GosVL52_bezge.tok251" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok252" lemma="potrjevati" ana="mte:Vmpr3p">potrjujejo</w>
+					<w xml:id="GosVL52_bezge.tok253" norm="tudi" lemma="tudi" ana="mte:Q">tud</w>
+					<w xml:id="GosVL52_bezge.tok254" lemma="resnica" ana="mte:Ncfpn">resnice</w>
+					<w xml:id="GosVL52_bezge.tok255" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok256" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok257" lemma="praviti" ana="mte:Vmbr3s">pravi</w>
+					<w xml:id="GosVL52_bezge.tok258" lemma="v" ana="mte:Sl">v</w>
+					<w xml:id="GosVL52_bezge.tok259" lemma="nek" ana="mte:Pi-fsl">neki</w>
+					<w xml:id="GosVL52_bezge.tok260" lemma="določen" ana="mte:Appfsl">določeni</w>
+					<w xml:id="GosVL52_bezge.tok261" lemma="ponovljivost" ana="mte:Ncfsl">ponovljivosti</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s15" synch="#GosVL52_bezge.t15">
+					<w xml:id="GosVL52_bezge.tok262" lemma="biti" ana="mte:Va-r1p-n">smo</w>
+					<w xml:id="GosVL52_bezge.tok263" lemma="lahko" ana="mte:Rgp">lahko</w>
+					<w xml:id="GosVL52_bezge.tok264" lemma="prepričan" ana="mte:Appmpn">prepričani</w>
+					<w xml:id="GosVL52_bezge.tok265" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok266" lemma="v" ana="mte:Sl">v</w>
+					<w xml:id="GosVL52_bezge.tok267" lemma="določen" ana="mte:Appmpl">določenih</w>
+					<w xml:id="GosVL52_bezge.tok268" lemma="parameter" ana="mte:Ncmpl">parametrih</w>
+					<w xml:id="GosVL52_bezge.tok269" lemma="biti" ana="mte:Va-f3s-n">bo</w>
+					<w xml:id="GosVL52_bezge.tok270" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok271" lemma="stvar" ana="mte:Ncfsn">stvar</w>
+					<w xml:id="GosVL52_bezge.tok272" lemma="zgoditi" ana="mte:Vmep-sf">zgodila</w>
+					<w xml:id="GosVL52_bezge.tok273" lemma="na" ana="mte:Sa">na</w>
+					<w xml:id="GosVL52_bezge.tok274" norm="neki" lemma="nek" ana="mte:Pi-msa">nek</w>
+					<w xml:id="GosVL52_bezge.tok275" lemma="način" ana="mte:Ncmsan">način</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s16" synch="#GosVL52_bezge.t16">
+					<w xml:id="GosVL52_bezge.tok276" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok277" lemma="praviti" ana="mte:Vmbr3s">pravi</w>
+					<w xml:id="GosVL52_bezge.tok278" lemma="ko" ana="mte:Cs">ko</w>
+					<w xml:id="GosVL52_bezge.tok279" lemma="ta" ana="mte:Pd-nsa">to</w>
+					<w xml:id="GosVL52_bezge.tok280" lemma="vnaprej" ana="mte:Rgp">vnaprej</w>
+					<w xml:id="GosVL52_bezge.tok281" lemma="vedeti" ana="mte:Vmpr1p">vemo</w>
+					<w xml:id="GosVL52_bezge.tok282" lemma="lahko" ana="mte:Rgp">lahko</w>
+					<w xml:id="GosVL52_bezge.tok283" lemma="ta" ana="mte:Pd-nsa">to</w>
+					<w xml:id="GosVL52_bezge.tok284" lemma="uporabljati" ana="mte:Vmpr1p">uporabljamo</w>
+					<w xml:id="GosVL52_bezge.tok285" norm="tudi" lemma="tudi" ana="mte:Q">tud</w>
+					<w xml:id="GosVL52_bezge.tok286" lemma="na" ana="mte:Sa">na</w>
+					<w xml:id="GosVL52_bezge.tok287" norm="neki" lemma="nek" ana="mte:Pi-msa">nek</w>
+					<w xml:id="GosVL52_bezge.tok288" lemma="način" ana="mte:Ncmsan">način</w>
+					<w xml:id="GosVL52_bezge.tok289" lemma="kot" ana="mte:Cs">kot</w>
+					<w xml:id="GosVL52_bezge.tok290" lemma="sredstvo" ana="mte:Ncnsn">sredstvo</w>
+					<w xml:id="GosVL52_bezge.tok291" lemma="vedenje" ana="mte:Ncnsg">vedenja</w>
+					<w xml:id="GosVL52_bezge.tok292" lemma="ali" ana="mte:Cc">ali</w>
+					<w xml:id="GosVL52_bezge.tok293" lemma="mogoč" ana="mte:Agpnsn">mogoče</w>
+					<w xml:id="GosVL52_bezge.tok294" lemma="celo" ana="mte:Q">celo</w>
+					<w xml:id="GosVL52_bezge.tok295" lemma="komunikacija" ana="mte:Ncfsg">komunikacije</w>
+					<w xml:id="GosVL52_bezge.tok296" lemma="ker" ana="mte:Cs">ker</w>
+					<del type="falseStart" subtype="missingEnd">
+						<w xml:id="GosVL52_bezge.tok297" lemma="z…" ana="mte:Xt">z…</w>
+					</del>
+					<w xml:id="GosVL52_bezge.tok298" lemma="jezik" ana="mte:Ncmsn">jezik</w>
+					<w xml:id="GosVL52_bezge.tok299" lemma="mogoč" ana="mte:Agpnsn">mogoče</w>
+					<w xml:id="GosVL52_bezge.tok300" lemma="biti" ana="mte:Va-r3s-y">ni</w>
+					<w xml:id="GosVL52_bezge.tok301" lemma="samo" ana="mte:Q">samo</w>
+					<w xml:id="GosVL52_bezge.tok302" lemma="sredstvo" ana="mte:Ncnsn">sredstvo</w>
+					<w xml:id="GosVL52_bezge.tok303" lemma="komunikacija" ana="mte:Ncfsg">komunikacije</w>
+					<w xml:id="GosVL52_bezge.tok304" lemma="ampak" ana="mte:Cc">ampak</w>
+					<w xml:id="GosVL52_bezge.tok305" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok306" norm="tudi" lemma="tudi" ana="mte:Q">tud</w>
+					<w xml:id="GosVL52_bezge.tok307" lemma="sredstvo" ana="mte:Ncnsn">sredstvo</w>
+					<w xml:id="GosVL52_bezge.tok308" lemma="zavedanje" ana="mte:Ncnsg">zavedanja</w>
+					<w xml:id="GosVL52_bezge.tok309" lemma="za" ana="mte:Sa">za</w>
+					<w xml:id="GosVL52_bezge.tok310" lemma="moj" ana="mte:Ps1nsas">moje</w>
+					<w xml:id="GosVL52_bezge.tok311" lemma="pojem" ana="mte:Ncmpa">pojme</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s17" synch="#GosVL52_bezge.t17">
+					<vocal type="breath"/>
+					<w xml:id="GosVL52_bezge.tok312" function="filler" lemma="eee" ana="mte:I">eee</w>
+					<w xml:id="GosVL52_bezge.tok313" lemma="drug" ana="mte:Mlpmsan">drug</w>
+					<w xml:id="GosVL52_bezge.tok314" lemma="način" ana="mte:Ncmsan">način</w>
+					<w xml:id="GosVL52_bezge.tok315" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok316" lemma="reči" ana="mte:Vmem1p">recimo</w>
+					<vocal type="voice"/>
+					<w xml:id="GosVL52_bezge.tok317" lemma="bolj" ana="mte:Rgc">bolj</w>
+					<w xml:id="GosVL52_bezge.tok318" lemma="reči" ana="mte:Vmem1p">recimo</w>
+					<w xml:id="GosVL52_bezge.tok319" lemma="če" ana="mte:Cs">če</w>
+					<w xml:id="GosVL52_bezge.tok320" lemma="biti" ana="mte:Va-c">bi</w>
+					<w xml:id="GosVL52_bezge.tok321" norm="zdaj" lemma="zdaj" ana="mte:Rgp">zaj</w>
+					<w xml:id="GosVL52_bezge.tok322" lemma="ta" ana="mte:Pd-fsa">to</w>
+					<w xml:id="GosVL52_bezge.tok323" lemma="analogija" ana="mte:Ncfsa">analogijo</w>
+					<w xml:id="GosVL52_bezge.tok324" lemma="tu" ana="mte:Rgp">tu</w>
+					<w xml:id="GosVL52_bezge.tok325" norm="potegnil" lemma="potegniti" ana="mte:Vmep-sm">potegno</w>
+					<w xml:id="GosVL52_bezge.tok326" lemma="do" ana="mte:Sg">do</w>
+					<w xml:id="GosVL52_bezge.tok327" function="filler" lemma="eee" ana="mte:I">eee</w>
+					<w xml:id="GosVL52_bezge.tok328" lemma="reči" ana="mte:Vmem1p">recimo</w>
+					<w xml:id="GosVL52_bezge.tok329" lemma="biti" ana="mte:Va-c">bi</w>
+					<w xml:id="GosVL52_bezge.tok330" norm="rekel" lemma="reči" ana="mte:Vmep-sm">reku</w>
+					<w xml:id="GosVL52_bezge.tok331" lemma="če" ana="mte:Cs">če</w>
+					<w xml:id="GosVL52_bezge.tok332" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok333" lemma="če" ana="mte:Cs">če</w>
+					<w xml:id="GosVL52_bezge.tok334" lemma="jaz" ana="mte:Pp1mpn">mi</w>
+					<w xml:id="GosVL52_bezge.tok335" norm="gledamo" lemma="gledati" ana="mte:Vmpr1p">gleamo</w>
+					<w xml:id="GosVL52_bezge.tok336" lemma="ta" ana="mte:Pd-nsa">to</w>
+					<w xml:id="GosVL52_bezge.tok337" lemma="iz" ana="mte:Sg">iz</w>
+					<w xml:id="GosVL52_bezge.tok338" lemma="en" ana="mte:Mlpfsg">ene</w>
+					<w xml:id="GosVL52_bezge.tok339" lemma="točka" ana="mte:Ncfsg">točke</w>
+					<w xml:id="GosVL52_bezge.tok340" lemma="in" ana="mte:Cc">in</w>
+					<w xml:id="GosVL52_bezge.tok341" norm="gledamo" lemma="gledati" ana="mte:Vmpr1p">gleamo</w>
+					<w xml:id="GosVL52_bezge.tok342" lemma="v" ana="mte:Sa">v</w>
+					<w xml:id="GosVL52_bezge.tok343" lemma="širok" ana="mte:Agcnsa">širše</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s18" synch="#GosVL52_bezge.t18">
+					<w xml:id="GosVL52_bezge.tok344" lemma="kot" ana="mte:Cs">kot</w>
+					<w xml:id="GosVL52_bezge.tok345" lemma="biti" ana="mte:Va-c">bi</w>
+					<w xml:id="GosVL52_bezge.tok346" norm="rekel" lemma="reči" ana="mte:Vmep-sm">reku</w>
+					<w xml:id="GosVL52_bezge.tok347" lemma="če" ana="mte:Cs">če</w>
+					<w xml:id="GosVL52_bezge.tok348" lemma="stati" ana="mte:Vmpr1p">stojimo</w>
+					<w xml:id="GosVL52_bezge.tok349" lemma="ob" ana="mte:Sl">ob</w>
+					<w xml:id="GosVL52_bezge.tok350" lemma="plaža" ana="mte:Ncfsl">plaži</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s19" synch="#GosVL52_bezge.t19">
+					<w xml:id="GosVL52_bezge.tok351" lemma="rad" ana="mte:Rgp">rad</w>
+					<w xml:id="GosVL52_bezge.tok352" norm="imam" lemma="imeti" ana="mte:Vmpr1s-n">mam</w>
+					<w xml:id="GosVL52_bezge.tok353" lemma="morje" ana="mte:Ncnsa">morje</w>
+					<w xml:id="GosVL52_bezge.tok354" lemma="in" ana="mte:Cc">in</w>
+					<w xml:id="GosVL52_bezge.tok355" norm="vse" lemma="ves" ana="mte:Pg-fpa">fse</w>
+					<w xml:id="GosVL52_bezge.tok356" lemma="lepota" ana="mte:Ncfpa">lepote</w>
+					<w xml:id="GosVL52_bezge.tok357" lemma="ki" ana="mte:Cs">ki</w>
+					<w xml:id="GosVL52_bezge.tok358" lemma="zraven" ana="mte:Rgp">zraven</w>
+					<w xml:id="GosVL52_bezge.tok359" lemma="spadati" ana="mte:Vmpr3p">spadajo</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s20" synch="#GosVL52_bezge.t20">
+					<w xml:id="GosVL52_bezge.tok360" function="filler" lemma="eee" ana="mte:I">eee</w>
+					<w xml:id="GosVL52_bezge.tok361" lemma="potem" ana="mte:Rgp">potem</w>
+					<w xml:id="GosVL52_bezge.tok362" function="filler" lemma="eee" ana="mte:I">eee</w>
+					<w xml:id="GosVL52_bezge.tok363" lemma="in" ana="mte:Cc">in</w>
+					<w xml:id="GosVL52_bezge.tok364" norm="gledamo" lemma="gledati" ana="mte:Vmpr1p">gleamo</w>
+					<w xml:id="GosVL52_bezge.tok365" lemma="reči" ana="mte:Vmem1p">recimo</w>
+					<w xml:id="GosVL52_bezge.tok366" lemma="probati" ana="mte:Vmer1p">probamo</w>
+					<w xml:id="GosVL52_bezge.tok367" norm="osvojiti" lemma="osvojiti" ana="mte:Vmen">osvojit</w>
+					<w xml:id="GosVL52_bezge.tok368" norm="neki" lemma="nek" ana="mte:Pi-msa">nek</w>
+					<w xml:id="GosVL52_bezge.tok369" lemma="del" ana="mte:Ncmsan">del</w>
+					<w xml:id="GosVL52_bezge.tok370" lemma="ta" ana="mte:Pd-nsg">tega</w>
+					<w xml:id="GosVL52_bezge.tok371" lemma="morje" ana="mte:Ncnsg">morja</w>
+					<vocal type="voice"/>
+					<w xml:id="GosVL52_bezge.tok372" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok373" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok374" lemma="praviti" ana="mte:Vmbr3s">pravi</w>
+					<w xml:id="GosVL52_bezge.tok375" lemma="biti" ana="mte:Va-f1p-n">bomo</w>
+					<w xml:id="GosVL52_bezge.tok376" norm="neki" lemma="nek" ana="mte:Pi-msa">nek</w>
+					<w xml:id="GosVL52_bezge.tok377" lemma="omejen" ana="mte:Appmsan">omejen</w>
+					<w xml:id="GosVL52_bezge.tok378" lemma="del" ana="mte:Ncmsan">del</w>
+					<w xml:id="GosVL52_bezge.tok379" lemma="ki" ana="mte:Cs">ki</w>
+					<w xml:id="GosVL52_bezge.tok380" lemma="on" ana="mte:Pp3msa--y">ga</w>
+					<w xml:id="GosVL52_bezge.tok381" lemma="jaz" ana="mte:Pp1mpn">mi</w>
+					<w xml:id="GosVL52_bezge.tok382" lemma="kot" ana="mte:Cs">kot</w>
+					<w xml:id="GosVL52_bezge.tok383" lemma="omejen" ana="mte:Appnsa">omejeno</w>
+					<w xml:id="GosVL52_bezge.tok384" lemma="ljudski" ana="mte:Agpnsa">ljudsko</w>
+					<w xml:id="GosVL52_bezge.tok385" lemma="bitje" ana="mte:Ncnsa">bitje</w>
+					<w xml:id="GosVL52_bezge.tok386" lemma="lahko" ana="mte:Rgp">lahko</w>
+					<w xml:id="GosVL52_bezge.tok387" lemma="zaznati" ana="mte:Vmer1p">zaznamo</w>
+					<w xml:id="GosVL52_bezge.tok388" lemma="on" ana="mte:Pp3msa--y">ga</w>
+					<w xml:id="GosVL52_bezge.tok389" lemma="biti" ana="mte:Va-f1p-n">bomo</w>
+					<w xml:id="GosVL52_bezge.tok390" lemma="zaznati" ana="mte:Vmep-pm">zaznali</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s21" synch="#GosVL52_bezge.t21">
+					<w xml:id="GosVL52_bezge.tok391" lemma="drug" ana="mte:Mlpmsnn">drug</w>
+					<w xml:id="GosVL52_bezge.tok392" lemma="vidik" ana="mte:Ncmsn">vidik</w>
+					<w xml:id="GosVL52_bezge.tok393" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok394" lemma="pa" ana="mte:Cc">pa</w>
+					<w xml:id="GosVL52_bezge.tok395" lemma="gledanje" ana="mte:Ncnsn">gledanje</w>
+					<w xml:id="GosVL52_bezge.tok396" lemma="iz" ana="mte:Sg">iz</w>
+					<w xml:id="GosVL52_bezge.tok397" lemma="en" ana="mte:Mlpfsg">ene</w>
+					<w xml:id="GosVL52_bezge.tok398" lemma="širok" ana="mte:Agpfsg">široke</w>
+					<w xml:id="GosVL52_bezge.tok399" lemma="perspektiva" ana="mte:Ncfsg">perspektive</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s22" synch="#GosVL52_bezge.t22">
+					<w xml:id="GosVL52_bezge.tok400" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok401" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok402" lemma="pa" ana="mte:Cc">pa</w>
+					<w xml:id="GosVL52_bezge.tok403" lemma="reči" ana="mte:Vmem1p">recimo</w>
+					<w xml:id="GosVL52_bezge.tok404" lemma="ko" ana="mte:Cs">ko</w>
+					<w xml:id="GosVL52_bezge.tok405" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok406" lemma="biti" ana="mte:Va-c">bi</w>
+					<w xml:id="GosVL52_bezge.tok407" lemma="na" ana="mte:Sa">na</w>
+					<del type="falseStart" subtype="missingEnd">
+						<w xml:id="GosVL52_bezge.tok408" lemma="is…" ana="mte:Xt">is…</w>
+					</del>
+					<w xml:id="GosVL52_bezge.tok409" lemma="na" ana="mte:Sa">na</w>
+					<w xml:id="GosVL52_bezge.tok410" lemma="isti" ana="mte:Pi-msa">isti</w>
+					<w xml:id="GosVL52_bezge.tok411" lemma="ocean" ana="mte:Ncmsan">ocean</w>
+					<w xml:id="GosVL52_bezge.tok412" lemma="gledati" ana="mte:Vmpp-sm">gledal</w>
+					<w xml:id="GosVL52_bezge.tok413" lemma="iz" ana="mte:Sg">iz</w>
+					<w xml:id="GosVL52_bezge.tok414" norm="aviona" lemma="avion" ana="mte:Ncmsg">avjona</w>
+					<w xml:id="GosVL52_bezge.tok415" norm="ali" lemma="ali" ana="mte:Cc">al</w>
+					<w xml:id="GosVL52_bezge.tok416" lemma="pa" ana="mte:Cc">pa</w>
+					<w xml:id="GosVL52_bezge.tok417" lemma="balon" ana="mte:Ncmsg">balona</w>
+					<w xml:id="GosVL52_bezge.tok418" lemma="zgoraj" ana="mte:Rgp">zgoraj</w>
+					<w xml:id="GosVL52_bezge.tok419" lemma="navzdol" ana="mte:Rgp">navzdol</w>
+					<w xml:id="GosVL52_bezge.tok420" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok421" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok422" lemma="praviti" ana="mte:Vmbr3s">pravi</w>
+					<w xml:id="GosVL52_bezge.tok423" lemma="ne" ana="mte:Q">ne</w>
+					<w xml:id="GosVL52_bezge.tok424" lemma="biti" ana="mte:Va-f1p-n">bomo</w>
+					<w xml:id="GosVL52_bezge.tok425" norm="videli" lemma="videti" ana="mte:Vmbp-pm">vidli</w>
+					<w xml:id="GosVL52_bezge.tok426" lemma="detajal" ana="mte:Ncmpg">detajalov</w>
+					<w xml:id="GosVL52_bezge.tok427" lemma="biti" ana="mte:Va-f1p-n">bomo</w>
+					<w xml:id="GosVL52_bezge.tok428" lemma="pa" ana="mte:Cc">pa</w>
+					<w xml:id="GosVL52_bezge.tok429" norm="videli" lemma="videti" ana="mte:Vmbp-pm">vidli</w>
+					<w xml:id="GosVL52_bezge.tok430" lemma="širok" ana="mte:Agcfsa">širšo</w>
+					<w xml:id="GosVL52_bezge.tok431" lemma="slika" ana="mte:Ncfsa">sliko</w>
+					<w xml:id="GosVL52_bezge.tok432" lemma="ne" ana="mte:Q">ne</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s23" synch="#GosVL52_bezge.t23">
+					<vocal type="breath"/>
+					<w xml:id="GosVL52_bezge.tok433" function="filler" lemma="eee" ana="mte:I">eee</w>
+					<w xml:id="GosVL52_bezge.tok434" lemma="ta" ana="mte:Pd-fsn">ta</w>
+					<w xml:id="GosVL52_bezge.tok435" norm="ima" lemma="imeti" ana="mte:Vmpr3s-n">ma</w>
+					<w xml:id="GosVL52_bezge.tok436" lemma="po" ana="mte:Sl">po</w>
+					<w xml:id="GosVL52_bezge.tok437" lemma="moj" ana="mte:Ps1nsls">mojem</w>
+					<w xml:id="GosVL52_bezge.tok438" lemma="bolj" ana="mte:Rgc">bolj</w>
+					<w xml:id="GosVL52_bezge.tok439" lemma="v" ana="mte:Sl">v</w>
+					<w xml:id="GosVL52_bezge.tok440" lemma="jaz" ana="mte:Pp1-pl">nas</w>
+					<del type="falseStart" subtype="missingEnd">
+						<w xml:id="GosVL52_bezge.tok441" lemma="opra…" ana="mte:Xt">opra…</w>
+					</del>
+					<w xml:id="GosVL52_bezge.tok442" lemma="ta" ana="mte:Pd-msa">ta</w>
+					<w xml:id="GosVL52_bezge.tok443" lemma="del" ana="mte:Ncmsan">del</w>
+					<w xml:id="GosVL52_bezge.tok444" norm="ima" lemma="imeti" ana="mte:Vmpr3s-n">ma</w>
+					<w xml:id="GosVL52_bezge.tok445" lemma="bolj" ana="mte:Rgc">bolj</w>
+					<w xml:id="GosVL52_bezge.tok446" lemma="v" ana="mte:Sl">v</w>
+					<w xml:id="GosVL52_bezge.tok447" lemma="jaz" ana="mte:Pp1-pl">nas</w>
+					<w xml:id="GosVL52_bezge.tok448" norm="opraviti" lemma="opraviti" ana="mte:Vmen">opravit</w>
+					<w xml:id="GosVL52_bezge.tok449" lemma="z" ana="mte:Si">z</w>
+					<w xml:id="GosVL52_bezge.tok450" lemma="intuitiven" ana="mte:Agpmsi">intuitivnim</w>
+					<incident type="sound"/>
+					<w xml:id="GosVL52_bezge.tok451" lemma="in" ana="mte:Cc">in</w>
+					<w xml:id="GosVL52_bezge.tok452" lemma="čustven" ana="mte:Agpmsi">čustvenim</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s24" synch="#GosVL52_bezge.t24">
+					<w xml:id="GosVL52_bezge.tok453" lemma="in" ana="mte:Cc">in</w>
+					<vocal type="voice"/>
+					<w xml:id="GosVL52_bezge.tok454" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok455" lemma="jaz" ana="mte:Pp1-sd--y">mi</w>
+					<w xml:id="GosVL52_bezge.tok456" lemma="zdeti" ana="mte:Vmpr3s">zdi</w>
+					<w xml:id="GosVL52_bezge.tok457" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok458" lemma="večina" ana="mte:Ncfsn">večina</w>
+					<w xml:id="GosVL52_bezge.tok459" lemma="svetoven" ana="mte:Agpfpg">svetovnih</w>
+					<w xml:id="GosVL52_bezge.tok460" lemma="religija" ana="mte:Ncfpg">religij</w>
+					<w xml:id="GosVL52_bezge.tok461" lemma="drug" ana="mte:Mlpmpg">drugih</w>
+					<w xml:id="GosVL52_bezge.tok462" lemma="kot" ana="mte:Cs">kot</w>
+					<w xml:id="GosVL52_bezge.tok463" lemma="svetoven" ana="mte:Agpmpg">svetovnih</w>
+					<w xml:id="GosVL52_bezge.tok464" lemma="ne" ana="mte:Q">ne</w>
+					<w xml:id="GosVL52_bezge.tok465" lemma="poznati" ana="mte:Vmpr1s">poznam</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s25" synch="#GosVL52_bezge.t25">
+					<w xml:id="GosVL52_bezge.tok466" function="filler" lemma="eee" ana="mte:I">eee</w>
+					<w xml:id="GosVL52_bezge.tok467" norm="tako" lemma="tako" ana="mte:Cc">tak</w>
+					<w xml:id="GosVL52_bezge.tok468" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok469" lemma="reči" ana="mte:Vmem1p">recimo</w>
+					<w xml:id="GosVL52_bezge.tok470" lemma="ampak" ana="mte:Cc">ampak</w>
+					<w xml:id="GosVL52_bezge.tok471" lemma="za" ana="mte:Sa">za</w>
+					<w xml:id="GosVL52_bezge.tok472" lemma="svetoven" ana="mte:Agpmpa">svetovne</w>
+					<w xml:id="GosVL52_bezge.tok473" lemma="lahko" ana="mte:Rgp">lahko</w>
+					<w xml:id="GosVL52_bezge.tok474" lemma="vedeti" ana="mte:Vmpr1s">vem</w>
+					<w xml:id="GosVL52_bezge.tok475" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok476" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok477" lemma="ukvarjati" ana="mte:Vmpr3p">ukvarjajo</w>
+					<w xml:id="GosVL52_bezge.tok478" lemma="z" ana="mte:Si">z</w>
+					<w xml:id="GosVL52_bezge.tok479" lemma="večina" ana="mte:Ncfsn">večina</w>
+					<w xml:id="GosVL52_bezge.tok480" lemma="svetoven" ana="mte:Agpfpg">svetovnih</w>
+					<w xml:id="GosVL52_bezge.tok481" lemma="religija" ana="mte:Ncfpg">religij</w>
+					<w xml:id="GosVL52_bezge.tok482" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok483" lemma="ukvarjati" ana="mte:Vmpr3s">ukvarja</w>
+					<w xml:id="GosVL52_bezge.tok484" lemma="z" ana="mte:Si">s</w>
+					<w xml:id="GosVL52_bezge.tok485" lemma="ta" ana="mte:Pd-nsi">tem</w>
+					<w xml:id="GosVL52_bezge.tok486" lemma="ne" ana="mte:Q">ne</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s26" synch="#GosVL52_bezge.t26">
+					<vocal type="breath"/>
+					<w xml:id="GosVL52_bezge.tok487" function="filler" lemma="eem" ana="mte:I">eem</w>
+					<w xml:id="GosVL52_bezge.tok488" lemma="zdaj" ana="mte:Rgp">zdaj</w>
+					<w xml:id="GosVL52_bezge.tok489" lemma="reči" ana="mte:Vmem1p">recimo</w>
+					<w xml:id="GosVL52_bezge.tok490" lemma="če" ana="mte:Cs">če</w>
+					<w xml:id="GosVL52_bezge.tok491" lemma="biti" ana="mte:Va-c">bi</w>
+					<w xml:id="GosVL52_bezge.tok492" lemma="ta" ana="mte:Pd-nsa">to</w>
+					<w xml:id="GosVL52_bezge.tok493" lemma="navezati" ana="mte:Vmep-sm">navezal</w>
+					<w xml:id="GosVL52_bezge.tok494" lemma="jaz" ana="mte:Pp1-sn">jaz</w>
+					<w xml:id="GosVL52_bezge.tok495" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok496" lemma="lahko" ana="mte:Rgp">lahko</w>
+					<w xml:id="GosVL52_bezge.tok497" lemma="iz" ana="mte:Sg">iz</w>
+					<w xml:id="GosVL52_bezge.tok498" lemma="svoj" ana="mte:Px-fpg">svojih</w>
+					<w xml:id="GosVL52_bezge.tok499" lemma="glasben" ana="mte:Agpfpg">glasbenih</w>
+					<w xml:id="GosVL52_bezge.tok500" norm="izkušenj" lemma="izkušnja" ana="mte:Ncfpg">izkušn</w>
+					<w xml:id="GosVL52_bezge.tok501" lemma="edino" ana="mte:Q">edino</w>
+					<w xml:id="GosVL52_bezge.tok502" lemma="v" ana="mte:Sl">v</w>
+					<w xml:id="GosVL52_bezge.tok503" lemma="ta" ana="mte:Pd-fsl">tej</w>
+					<w xml:id="GosVL52_bezge.tok504" lemma="smer" ana="mte:Ncfsl">smeri</w>
+					<w xml:id="GosVL52_bezge.tok505" lemma="govoriti" ana="mte:Vmpr1s">govorim</w>
+					<w xml:id="GosVL52_bezge.tok506" lemma="potem" ana="mte:Rgp">potem</w>
+					<w xml:id="GosVL52_bezge.tok507" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok508" lemma="ta" ana="mte:Pd-nsa">to</w>
+					<w xml:id="GosVL52_bezge.tok509" lemma="ves" ana="mte:Pg-nsa">vse</w>
+					<w xml:id="GosVL52_bezge.tok510" lemma="skupaj" ana="mte:Rgp">skupaj</w>
+					<w xml:id="GosVL52_bezge.tok511" lemma="navezati" ana="mte:Vmer1s">navežem</w>
+					<w xml:id="GosVL52_bezge.tok512" lemma="na" ana="mte:Sa">na</w>
+					<w xml:id="GosVL52_bezge.tok513" lemma="glasba" ana="mte:Ncfsa">glasbo</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s27" synch="#GosVL52_bezge.t27">
+					<w xml:id="GosVL52_bezge.tok514" function="filler" lemma="eee" ana="mte:I">eee</w>
+					<w xml:id="GosVL52_bezge.tok515" lemma="glasba" ana="mte:Ncfsn">glasba</w>
+					<w xml:id="GosVL52_bezge.tok516" lemma="vsaj" ana="mte:Q">vsaj</w>
+					<w xml:id="GosVL52_bezge.tok517" lemma="v" ana="mte:Sl">v</w>
+					<w xml:id="GosVL52_bezge.tok518" lemma="moj" ana="mte:Ps1nsls">mojem</w>
+					<w xml:id="GosVL52_bezge.tok519" lemma="videnje" ana="mte:Ncnsl">videnju</w>
+					<w xml:id="GosVL52_bezge.tok520" lemma="obstoj" ana="mte:Ncmsg">obstoja</w>
+					<w xml:id="GosVL52_bezge.tok521" lemma="kot" ana="mte:Cs">kot</w>
+					<w xml:id="GosVL52_bezge.tok522" norm="neki" lemma="neki" ana="mte:Pi-msn">nek</w>
+					<del type="falseStart" subtype="missingEnd">
+						<w xml:id="GosVL52_bezge.tok523" lemma="pa…" ana="mte:Xt">pa…</w>
+					</del>
+					<del type="falseStart" subtype="missingEnd">
+						<w xml:id="GosVL52_bezge.tok524" lemma="paralel…" ana="mte:Xt">paralel…</w>
+					</del>
+					<del type="falseStart" subtype="missingEnd">
+						<w xml:id="GosVL52_bezge.tok525" lemma="s…" ana="mte:Xt">s…</w>
+					</del>
+					<w xml:id="GosVL52_bezge.tok526" norm="ali" lemma="ali" ana="mte:Cc">al</w>
+					<w xml:id="GosVL52_bezge.tok527" lemma="pa" ana="mte:Cc">pa</w>
+					<w xml:id="GosVL52_bezge.tok528" lemma="reči" ana="mte:Vmem1p">recimo</w>
+					<w xml:id="GosVL52_bezge.tok529" lemma="zrcalen" ana="mte:Agpmsnn">zrcalen</w>
+					<w xml:id="GosVL52_bezge.tok530" lemma="svet" ana="mte:Ncmsn">svet</w>
+				</seg>
+			</u>
+			<u xml:id="GosVL52_bezge.u4" start="#GosVL52_bezge.t28" end="#GosVL52_bezge.t29">
+				<pause/>
+			</u>
+			<u xml:id="GosVL52_bezge.u5" who="#Um-vl220" start="#GosVL52_bezge.t29" end="#GosVL52_bezge.t31">
+				<seg xml:id="GosVL52_bezge.s28" synch="#GosVL52_bezge.t29">
+					<w xml:id="GosVL52_bezge.tok531" lemma="ta" ana="mte:Pd-nsd">temu</w>
+					<w xml:id="GosVL52_bezge.tok532" lemma="reči" ana="mte:Vmem1p">recimo</w>
+					<w xml:id="GosVL52_bezge.tok533" lemma="vsesplošen" ana="mte:Agpmsd">vsesplošnemu</w>
+					<w xml:id="GosVL52_bezge.tok534" lemma="obstoj" ana="mte:Ncmsd">obstoju</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s29" synch="#GosVL52_bezge.t30">
+					<w xml:id="GosVL52_bezge.tok535" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok536" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok537" lemma="praviti" ana="mte:Vmbr3s">pravi</w>
+					<w xml:id="GosVL52_bezge.tok538" lemma="jezik" ana="mte:Ncmsn">jezik</w>
+					<w xml:id="GosVL52_bezge.tok539" lemma="glasba" ana="mte:Ncfsg">glasbe</w>
+					<w xml:id="GosVL52_bezge.tok540" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok541" lemma="na" ana="mte:Sa">na</w>
+					<w xml:id="GosVL52_bezge.tok542" norm="neki" lemma="nek" ana="mte:Pi-msa">nek</w>
+					<w xml:id="GosVL52_bezge.tok543" lemma="način" ana="mte:Ncmsan">način</w>
+					<w xml:id="GosVL52_bezge.tok544" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok545" lemma="zrcaliti" ana="mte:Vmpr3s">zrcali</w>
+					<w xml:id="GosVL52_bezge.tok546" lemma="v" ana="mte:Sl">v</w>
+					<w xml:id="GosVL52_bezge.tok547" lemma="misliti" ana="mte:Vmpr1s">mislim</w>
+					<w xml:id="GosVL52_bezge.tok548" lemma="se" ana="mte:Px------y">se</w>
+				</seg>
+			</u>
+			<u xml:id="GosVL52_bezge.u6" start="#GosVL52_bezge.t31" end="#GosVL52_bezge.t32">
+				<pause/>
+			</u>
+			<u xml:id="GosVL52_bezge.u7" who="#Um-vl220" start="#GosVL52_bezge.t32" end="#GosVL52_bezge.t33">
+				<seg xml:id="GosVL52_bezge.s30" synch="#GosVL52_bezge.t32">
+					<w xml:id="GosVL52_bezge.tok549" lemma="samo" ana="mte:Q">samo</w>
+					<w xml:id="GosVL52_bezge.tok550" lemma="malo" ana="mte:Rgp">malo</w>
+					<w xml:id="GosVL52_bezge.tok551" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok552" lemma="biti" ana="mte:Va-r2s-n">si</w>
+					<w xml:id="GosVL52_bezge.tok553" norm="zdaj" lemma="zdaj" ana="mte:Rgp">zaj</w>
+					<w xml:id="GosVL52_bezge.tok554" lemma="stavek" ana="mte:Ncmsan">stavek</w>
+					<w xml:id="GosVL52_bezge.tok555" lemma="skupaj" ana="mte:Rgp">skupaj</w>
+					<w xml:id="GosVL52_bezge.tok556" lemma="sestaviti" ana="mte:Vmer1s">sestavim</w>
+					<vocal type="laughter" who="#GosVL52_bezge-audience"/>
+					<w xml:id="GosVL52_bezge.tok557" function="filler" lemma="eee" ana="mte:I">eee</w>
+					<vocal type="voice"/>
+				</seg>
+			</u>
+			<u xml:id="GosVL52_bezge.u8" start="#GosVL52_bezge.t33" end="#GosVL52_bezge.t34">
+				<pause/>
+			</u>
+			<u xml:id="GosVL52_bezge.u9" who="#Um-vl220" start="#GosVL52_bezge.t34" end="#GosVL52_bezge.t35">
+				<seg xml:id="GosVL52_bezge.s31" synch="#GosVL52_bezge.t34">
+					<w xml:id="GosVL52_bezge.tok558" lemma="biti" ana="mte:Va-c">bi</w>
+					<w xml:id="GosVL52_bezge.tok559" norm="rekel" lemma="reči" ana="mte:Vmep-sm">reku</w>
+					<w xml:id="GosVL52_bezge.tok560" lemma="da" ana="mte:Cs">da</w>
+				</seg>
+			</u>
+			<u xml:id="GosVL52_bezge.u10" start="#GosVL52_bezge.t35" end="#GosVL52_bezge.t36">
+				<incident type="sound"/>
+				<pause/>
+			</u>
+			<u xml:id="GosVL52_bezge.u11" who="#Um-vl220" start="#GosVL52_bezge.t36" end="#GosVL52_bezge.t42">
+				<seg xml:id="GosVL52_bezge.s32" synch="#GosVL52_bezge.t36">
+					<w xml:id="GosVL52_bezge.tok561" lemma="tišina" ana="mte:Ncfsn">tišina</w>
+					<w xml:id="GosVL52_bezge.tok562" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok563" norm="tudi" lemma="tudi" ana="mte:Q">tud</w>
+					<w xml:id="GosVL52_bezge.tok564" lemma="del" ana="mte:Ncmsn">del</w>
+					<w xml:id="GosVL52_bezge.tok565" lemma="glasba" ana="mte:Ncfsg">glasbe</w>
+					<w xml:id="GosVL52_bezge.tok566" lemma="ne" ana="mte:Q">ne</w>
+					<w xml:id="GosVL52_bezge.tok567" norm="tako" lemma="tako" ana="mte:Cc">tak</w>
+					<w xml:id="GosVL52_bezge.tok568" lemma="da" ana="mte:Cs">da</w>
+					<vocal type="laughter" who="#GosVL52_bezge-audience"/>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s33" synch="#GosVL52_bezge.t37">
+					<w xml:id="GosVL52_bezge.tok569" lemma="in" ana="mte:Cc">in</w>
+					<w xml:id="GosVL52_bezge.tok570" norm="tudi" lemma="tudi" ana="mte:Q">tud</w>
+					<w xml:id="GosVL52_bezge.tok571" lemma="del" ana="mte:Ncmsn">del</w>
+					<w xml:id="GosVL52_bezge.tok572" lemma="glasben" ana="mte:Agpmsg">glasbenega</w>
+					<w xml:id="GosVL52_bezge.tok573" lemma="jezik" ana="mte:Ncmsg">jezika</w>
+					<w xml:id="GosVL52_bezge.tok574" norm="zelo" lemma="zelo" ana="mte:Rgp">zlo</w>
+					<w xml:id="GosVL52_bezge.tok575" norm="pomemben" lemma="pomemben" ana="mte:Agpmsnn">pomembn</w>
+					<w xml:id="GosVL52_bezge.tok576" lemma="ampak" ana="mte:Cc">ampak</w>
+					<vocal type="laughter" who="#GosVL52_bezge-audience"/>
+					<w xml:id="GosVL52_bezge.tok577" lemma="no" ana="mte:Q">no</w>
+					<w xml:id="GosVL52_bezge.tok578" lemma="kaj" ana="mte:Pq-nsa">kaj</w>
+					<w xml:id="GosVL52_bezge.tok579" lemma="biti" ana="mte:Va-r1s-n">sem</w>
+					<w xml:id="GosVL52_bezge.tok580" norm="hotel" lemma="hoteti" ana="mte:Vmpp-sm">htel</w>
+					<w xml:id="GosVL52_bezge.tok581" norm="povedati" lemma="povedati" ana="mte:Vmen">poveat</w>
+					<w xml:id="GosVL52_bezge.tok582" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok583" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok584" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok585" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok586" lemma="jezik" ana="mte:Ncmsn">jezik</w>
+					<w xml:id="GosVL52_bezge.tok587" lemma="vsesplošen" ana="mte:Agpnsg">vsesplošnega</w>
+					<w xml:id="GosVL52_bezge.tok588" norm="ali" lemma="ali" ana="mte:Cc">al</w>
+					<w xml:id="GosVL52_bezge.tok589" lemma="pa" ana="mte:Cc">pa</w>
+					<w xml:id="GosVL52_bezge.tok590" lemma="ta" ana="mte:Pd-nsg">tega</w>
+					<w xml:id="GosVL52_bezge.tok591" lemma="kaj" ana="mte:Pq-nsa">kaj</w>
+					<w xml:id="GosVL52_bezge.tok592" lemma="biti" ana="mte:Va-r1s-n">sem</w>
+					<w xml:id="GosVL52_bezge.tok593" lemma="na" ana="mte:Sl">na</w>
+					<w xml:id="GosVL52_bezge.tok594" lemma="začetek" ana="mte:Ncmsl">začetku</w>
+					<w xml:id="GosVL52_bezge.tok595" norm="omenil" lemma="omeniti" ana="mte:Vmep-sm">omenu</w>
+					<del type="falseStart" subtype="missingEnd">
+						<w xml:id="GosVL52_bezge.tok596" lemma="vz…" ana="mte:Xt">vz…</w>
+					</del>
+					<del type="falseStart" subtype="missingEnd">
+						<w xml:id="GosVL52_bezge.tok597" lemma="sp…" ana="mte:Xt">sp…</w>
+					</del>
+					<w xml:id="GosVL52_bezge.tok598" lemma="kazati" ana="mte:Vmpr3s">kaže</w>
+					<del type="falseStart" subtype="missingEnd">
+						<w xml:id="GosVL52_bezge.tok599" lemma="vz…" ana="mte:Xt">vz…</w>
+					</del>
+					<w xml:id="GosVL52_bezge.tok600" lemma="kot" ana="mte:Cs">kot</w>
+					<w xml:id="GosVL52_bezge.tok601" lemma="zrcalen" ana="mte:Agpfsn">zrcalna</w>
+					<w xml:id="GosVL52_bezge.tok602" lemma="slika" ana="mte:Ncfsn">slika</w>
+					<w xml:id="GosVL52_bezge.tok603" lemma="v" ana="mte:Sl">v</w>
+					<w xml:id="GosVL52_bezge.tok604" lemma="jezik" ana="mte:Ncmsl">jeziku</w>
+					<w xml:id="GosVL52_bezge.tok605" lemma="glasba" ana="mte:Ncfsg">glasbe</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s34" synch="#GosVL52_bezge.t38">
+					<w xml:id="GosVL52_bezge.tok606" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok607" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok608" norm="pravi" lemma="praviti" ana="mte:Vmbr3s">prai</w>
+					<w xml:id="GosVL52_bezge.tok609" lemma="v" ana="mte:Sl">v</w>
+					<w xml:id="GosVL52_bezge.tok610" lemma="v" ana="mte:Sl">v</w>
+					<w xml:id="GosVL52_bezge.tok611" lemma="glasba" ana="mte:Ncfsl">glasbi</w>
+					<w xml:id="GosVL52_bezge.tok612" lemma="poznati" ana="mte:Vmpr1p">poznamo</w>
+					<w xml:id="GosVL52_bezge.tok613" lemma="in" ana="mte:Cc">in</w>
+					<w xml:id="GosVL52_bezge.tok614" lemma="popoln" ana="mte:Agpfsa">popolno</w>
+					<w xml:id="GosVL52_bezge.tok615" lemma="eksaktnost" ana="mte:Ncfsa">eksaktnost</w>
+					<w xml:id="GosVL52_bezge.tok616" lemma="in" ana="mte:Cc">in</w>
+					<w xml:id="GosVL52_bezge.tok617" lemma="prisoten" ana="mte:Agpfpn">prisotne</w>
+					<w xml:id="GosVL52_bezge.tok618" lemma="biti" ana="mte:Va-r3p-n">so</w>
+					<w xml:id="GosVL52_bezge.tok619" lemma="popoln" ana="mte:Agpfpn">popolne</w>
+					<w xml:id="GosVL52_bezge.tok620" lemma="emocija" ana="mte:Ncfpn">emocije</w>
+					<w xml:id="GosVL52_bezge.tok621" lemma="lahko" ana="mte:Rgp">lahko</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s35" synch="#GosVL52_bezge.t39">
+					<incident type="other"/>
+					<w xml:id="GosVL52_bezge.tok622" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok623" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok624" lemma="praviti" ana="mte:Vmbr3s">pravi</w>
+					<w xml:id="GosVL52_bezge.tok625" lemma="brez" ana="mte:Sg">brez</w>
+					<w xml:id="GosVL52_bezge.tok626" lemma="en" ana="mte:Mlpmsg">enega</w>
+					<w xml:id="GosVL52_bezge.tok627" lemma="in" ana="mte:Cc">in</w>
+					<w xml:id="GosVL52_bezge.tok628" lemma="brez" ana="mte:Sg">brez</w>
+					<w xml:id="GosVL52_bezge.tok629" lemma="drug" ana="mte:Mlpnsg">drugega</w>
+					<w xml:id="GosVL52_bezge.tok630" lemma="glasba" ana="mte:Ncfsn">glasba</w>
+					<w xml:id="GosVL52_bezge.tok631" lemma="kot" ana="mte:Cs">kot</w>
+					<w xml:id="GosVL52_bezge.tok632" lemma="tak" ana="mte:Pd-fsn">taka</w>
+					<w xml:id="GosVL52_bezge.tok633" lemma="ne" ana="mte:Q">ne</w>
+					<w xml:id="GosVL52_bezge.tok634" lemma="obstoj" ana="mte:Ncmsg">obstoja</w>
+					<w xml:id="GosVL52_bezge.tok635" lemma="ne" ana="mte:Q">ne</w>
+					<w xml:id="GosVL52_bezge.tok636" lemma="zato" ana="mte:Cc">zato</w>
+					<w xml:id="GosVL52_bezge.tok637" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok638" lemma="za" ana="mte:Sa">za</w>
+					<w xml:id="GosVL52_bezge.tok639" lemma="moj" ana="mte:Ps1nsas">moje</w>
+					<w xml:id="GosVL52_bezge.tok640" lemma="pojem" ana="mte:Ncmpa">pojme</w>
+					<w xml:id="GosVL52_bezge.tok641" function="filler" lemma="eee" ana="mte:I">eee</w>
+					<w xml:id="GosVL52_bezge.tok642" lemma="ta" ana="mte:Pd-nsa">to</w>
+					<w xml:id="GosVL52_bezge.tok643" lemma="v" ana="mte:Sl">v</w>
+					<w xml:id="GosVL52_bezge.tok644" lemma="glasba" ana="mte:Ncfsl">glasbi</w>
+					<w xml:id="GosVL52_bezge.tok645" lemma="zrcaliti" ana="mte:Vmpr3s">zrcali</w>
+					<w xml:id="GosVL52_bezge.tok646" lemma="ne" ana="mte:Q">ne</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s36" synch="#GosVL52_bezge.t40">
+					<w xml:id="GosVL52_bezge.tok647" norm="zdaj" lemma="zdaj" ana="mte:Rgp">zaj</w>
+					<w xml:id="GosVL52_bezge.tok648" lemma="pa" ana="mte:Cc">pa</w>
+					<w xml:id="GosVL52_bezge.tok649" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok650" lemma="se" ana="mte:Px---d--y">si</w>
+					<w xml:id="GosVL52_bezge.tok651" lemma="še" ana="mte:Q">še</w>
+					<w xml:id="GosVL52_bezge.tok652" lemma="jaz" ana="mte:Pp1-sn">jaz</w>
+					<w xml:id="GosVL52_bezge.tok653" lemma="ta" ana="mte:Pd-nsa">to</w>
+					<w xml:id="GosVL52_bezge.tok654" lemma="malo" ana="mte:Rgp">malo</w>
+					<w xml:id="GosVL52_bezge.tok655" lemma="na" ana="mte:Sa">na</w>
+					<w xml:id="GosVL52_bezge.tok656" lemma="švingl" ana="mte:Ncmsan">švingl</w>
+					<w xml:id="GosVL52_bezge.tok657" lemma="listek" ana="mte:Ncmsan">listek</w>
+					<w xml:id="GosVL52_bezge.tok658" lemma="dalje" ana="mte:Rgp">dalje</w>
+					<w xml:id="GosVL52_bezge.tok659" lemma="pogledati" ana="mte:Vmer1s">pogledam</w>
+					<w xml:id="GosVL52_bezge.tok660" lemma="kaj" ana="mte:Pq-nsa">kaj</w>
+					<w xml:id="GosVL52_bezge.tok661" lemma="tu" ana="mte:Rgp">tu</w>
+					<w xml:id="GosVL52_bezge.tok662" lemma="pisati" ana="mte:Vmpr3s">piše</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s37" synch="#GosVL52_bezge.t41">
+					<vocal type="breath"/>
+					<w xml:id="GosVL52_bezge.tok663" function="filler" lemma="eee" ana="mte:I">eee</w>
+				</seg>
+			</u>
+			<u xml:id="GosVL52_bezge.u12" start="#GosVL52_bezge.t42" end="#GosVL52_bezge.t43">
+				<pause/>
+			</u>
+			<u xml:id="GosVL52_bezge.u13" who="#Um-vl220" start="#GosVL52_bezge.t43" end="#GosVL52_bezge.t53">
+				<seg xml:id="GosVL52_bezge.s38" synch="#GosVL52_bezge.t43">
+					<w xml:id="GosVL52_bezge.tok664" lemma="ja" ana="mte:Q">ja</w>
+					<w xml:id="GosVL52_bezge.tok665" lemma="reči" ana="mte:Vmem1p">recimo</w>
+					<w xml:id="GosVL52_bezge.tok666" lemma="kot" ana="mte:Cs">kot</w>
+					<w xml:id="GosVL52_bezge.tok667" lemma="znanstven" ana="mte:Agpmsny">znanstveni</w>
+					<w xml:id="GosVL52_bezge.tok668" lemma="del" ana="mte:Ncmsn">del</w>
+					<w xml:id="GosVL52_bezge.tok669" lemma="ta" ana="mte:Pd-msg">tega</w>
+					<w xml:id="GosVL52_bezge.tok670" lemma="glasben" ana="mte:Agpmsg">glasbenega</w>
+					<w xml:id="GosVL52_bezge.tok671" lemma="jezik" ana="mte:Ncmsg">jezika</w>
+					<w xml:id="GosVL52_bezge.tok672" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok673" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok674" lemma="glasben" ana="mte:Agpnsn">glasbeno</w>
+					<w xml:id="GosVL52_bezge.tok675" lemma="teoretičen" ana="mte:Agpmsny">teoretični</w>
+					<w xml:id="GosVL52_bezge.tok676" lemma="princip" ana="mte:Ncmsn">princip</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s39" synch="#GosVL52_bezge.t44">
+					<w xml:id="GosVL52_bezge.tok677" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok678" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok679" lemma="bistvo" ana="mte:Ncnsd">bistvu</w>
+					<w xml:id="GosVL52_bezge.tok680" lemma="večina" ana="mte:Ncfsn">večina</w>
+					<w xml:id="GosVL52_bezge.tok681" lemma="ta" ana="mte:Pd-fpg">teh</w>
+					<w xml:id="GosVL52_bezge.tok682" lemma="stvar" ana="mte:Ncfpg">stvari</w>
+					<w xml:id="GosVL52_bezge.tok683" lemma="ki" ana="mte:Cs">ki</w>
+					<w xml:id="GosVL52_bezge.tok684" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok685" lemma="on" ana="mte:Pp3mpa--y">jih</w>
+					<w xml:id="GosVL52_bezge.tok686" lemma="učiti" ana="mte:Vmpr1p">učimo</w>
+					<w xml:id="GosVL52_bezge.tok687" lemma="v" ana="mte:Sl">v</w>
+					<w xml:id="GosVL52_bezge.tok688" lemma="glasben" ana="mte:Agpfpl">glasbenih</w>
+					<w xml:id="GosVL52_bezge.tok689" lemma="šola" ana="mte:Ncfpl">šolah</w>
+					<w xml:id="GosVL52_bezge.tok690" lemma="reči" ana="mte:Vmem1p">recimo</w>
+					<w xml:id="GosVL52_bezge.tok691" lemma="ne" ana="mte:Q">ne</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s40" synch="#GosVL52_bezge.t45">
+					<w xml:id="GosVL52_bezge.tok692" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok693" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok694" lemma="praviti" ana="mte:Vmbr3s">pravi</w>
+					<w xml:id="GosVL52_bezge.tok695" lemma="kaj" ana="mte:Pq-nsn">kaj</w>
+					<w xml:id="GosVL52_bezge.tok696" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<del type="falseStart" subtype="missingEnd">
+						<w xml:id="GosVL52_bezge.tok697" lemma="no…" ana="mte:Xt">no…</w>
+					</del>
+					<w xml:id="GosVL52_bezge.tok698" norm="koliko" lemma="koliko" ana="mte:Rgp">kolk</w>
+					<w xml:id="GosVL52_bezge.tok699" lemma="dolgo" ana="mte:Rgp">dolgo</w>
+					<w xml:id="GosVL52_bezge.tok700" lemma="trajati" ana="mte:Vmpr3s">traja</w>
+					<w xml:id="GosVL52_bezge.tok701" lemma="ton" ana="mte:Ncmsn">ton</w>
+					<w xml:id="GosVL52_bezge.tok702" lemma="kaj" ana="mte:Pq-nsn">kaj</w>
+					<w xml:id="GosVL52_bezge.tok703" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok704" lemma="tona" ana="mte:Ncfpg">ton</w>
+					<w xml:id="GosVL52_bezge.tok705" lemma="kaj" ana="mte:Pq-nsn">kaj</w>
+					<w xml:id="GosVL52_bezge.tok706" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok707" lemma="ritem" ana="mte:Ncmsn">ritem</w>
+					<w xml:id="GosVL52_bezge.tok708" norm="kako" lemma="kako" ana="mte:Rgp">kak</w>
+					<w xml:id="GosVL52_bezge.tok709" lemma="na" ana="mte:Sa">na</w>
+					<w xml:id="GosVL52_bezge.tok710" lemma="kak" ana="mte:Pq-msa">kak</w>
+					<w xml:id="GosVL52_bezge.tok711" lemma="način" ana="mte:Ncmsan">način</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s41" synch="#GosVL52_bezge.t46">
+					<w xml:id="GosVL52_bezge.tok712" norm="vse" lemma="ves" ana="mte:Pg-nsn">fse</w>
+					<w xml:id="GosVL52_bezge.tok713" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok714" lemma="skupaj" ana="mte:Rgp">skupaj</w>
+					<w xml:id="GosVL52_bezge.tok715" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok716" lemma="zložiti" ana="mte:Vmer3s">zloži</w>
+					<w xml:id="GosVL52_bezge.tok717" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok718" lemma="dobiti" ana="mte:Vmer1p">dobimo</w>
+					<incident type="sound"/>
+					<w xml:id="GosVL52_bezge.tok719" lemma="jaz" ana="mte:Pp1-sd--y">mi</w>
+					<del type="falseStart" subtype="missingEnd">
+						<w xml:id="GosVL52_bezge.tok720" lemma="ne…" ana="mte:Xt">ne…</w>
+					</del>
+					<w xml:id="GosVL52_bezge.tok721" lemma="nekaj" ana="mte:Rgp">nekaj</w>
+					<w xml:id="GosVL52_bezge.tok722" lemma="kar" ana="mte:Pr-nsd">čemur</w>
+					<w xml:id="GosVL52_bezge.tok723" lemma="lahko" ana="mte:Rgp">lahko</w>
+					<w xml:id="GosVL52_bezge.tok724" lemma="na" ana="mte:Sl">na</w>
+					<w xml:id="GosVL52_bezge.tok725" lemma="konec" ana="mte:Ncmsl">koncu</w>
+					<w xml:id="GosVL52_bezge.tok726" lemma="konec" ana="mte:Ncmpg">koncev</w>
+					<w xml:id="GosVL52_bezge.tok727" lemma="reči" ana="mte:Vmer1p">rečemo</w>
+					<w xml:id="GosVL52_bezge.tok728" lemma="skladba" ana="mte:Ncfsn">skladba</w>
+					<w xml:id="GosVL52_bezge.tok729" lemma="ne" ana="mte:Q">ne</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s42" synch="#GosVL52_bezge.t47">
+					<vocal type="breath"/>
+					<w xml:id="GosVL52_bezge.tok730" lemma="ampak" ana="mte:Cc">ampak</w>
+					<w xml:id="GosVL52_bezge.tok731" lemma="potem" ana="mte:Rgp">potem</w>
+					<w xml:id="GosVL52_bezge.tok732" norm="ima" lemma="imeti" ana="mte:Vmpr3s-n">ma</w>
+					<w xml:id="GosVL52_bezge.tok733" lemma="pa" ana="mte:Cc">pa</w>
+					<w xml:id="GosVL52_bezge.tok734" lemma="ta" ana="mte:Pd-nsa">to</w>
+					<w xml:id="GosVL52_bezge.tok735" lemma="en" ana="mte:Mlpfsa">eno</w>
+					<w xml:id="GosVL52_bezge.tok736" lemma="tisti" ana="mte:Pd-fsa">tisto</w>
+					<w xml:id="GosVL52_bezge.tok737" lemma="oseben" ana="mte:Agpfsa">osebno</w>
+					<w xml:id="GosVL52_bezge.tok738" lemma="nota" ana="mte:Ncfsa">noto</w>
+					<w xml:id="GosVL52_bezge.tok739" lemma="v" ana="mte:Sl">v</w>
+					<w xml:id="GosVL52_bezge.tok740" lemma="jaz" ana="mte:Pp1-pl">nas</w>
+					<w xml:id="GosVL52_bezge.tok741" lemma="kjer" ana="mte:Cs">kjer</w>
+					<w xml:id="GosVL52_bezge.tok742" lemma="kjer" ana="mte:Cs">kjer</w>
+					<w xml:id="GosVL52_bezge.tok743" lemma="jaz" ana="mte:Pp1mpn">mi</w>
+					<w xml:id="GosVL52_bezge.tok744" norm="skozi" lemma="skozi" ana="mte:Sa">skoz</w>
+					<w xml:id="GosVL52_bezge.tok745" lemma="naš" ana="mte:Ps1fsap">našo</w>
+					<del type="falseStart" subtype="missingEnd">
+						<w xml:id="GosVL52_bezge.tok746" lemma="intur…" ana="mte:Xt">intur…</w>
+					</del>
+					<w xml:id="GosVL52_bezge.tok747" lemma="intuicija" ana="mte:Ncfsa">intuicijo</w>
+					<w xml:id="GosVL52_bezge.tok748" lemma="in" ana="mte:Cc">in</w>
+					<w xml:id="GosVL52_bezge.tok749" lemma="skoz" ana="mte:Sa">skoz</w>
+					<w xml:id="GosVL52_bezge.tok750" lemma="naš" ana="mte:Ps1fsap">našo</w>
+					<w xml:id="GosVL52_bezge.tok751" lemma="emocija" ana="mte:Ncfsa">emocijo</w>
+					<w xml:id="GosVL52_bezge.tok752" lemma="izraziti" ana="mte:Vmer1p">izrazimo</w>
+					<w xml:id="GosVL52_bezge.tok753" norm="svoje" lemma="svoj" ana="mte:Px-nsa">svojo</w>
+					<w xml:id="GosVL52_bezge.tok754" lemma="občutenje" ana="mte:Ncnsa">občutenje</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s43" synch="#GosVL52_bezge.t48">
+					<w xml:id="GosVL52_bezge.tok755" lemma="in" ana="mte:Cc">in</w>
+					<w xml:id="GosVL52_bezge.tok756" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok757" lemma="potem" ana="mte:Rgp">potem</w>
+					<w xml:id="GosVL52_bezge.tok758" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok759" lemma="glasba" ana="mte:Ncfsd">glasbi</w>
+					<w xml:id="GosVL52_bezge.tok760" lemma="ta" ana="mte:Pd-msn">ta</w>
+					<w xml:id="GosVL52_bezge.tok761" lemma="smisel" ana="mte:Ncmsn">smisel</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s44" synch="#GosVL52_bezge.t49">
+					<incident type="other"/>
+					<w xml:id="GosVL52_bezge.tok762" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok763" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok764" lemma="reči" ana="mte:Vmem1p">recimo</w>
+					<w xml:id="GosVL52_bezge.tok765" lemma="en" ana="mte:Mlpfsn">ena</w>
+					<w xml:id="GosVL52_bezge.tok766" lemma="stvar" ana="mte:Ncfsn">stvar</w>
+					<w xml:id="GosVL52_bezge.tok767" lemma="ki" ana="mte:Cs">ki</w>
+					<w xml:id="GosVL52_bezge.tok768" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok769" lemma="on" ana="mte:Pp3fsa--y">jo</w>
+					<w xml:id="GosVL52_bezge.tok770" lemma="dejansko" ana="mte:Rgp">dejansko</w>
+					<w xml:id="GosVL52_bezge.tok771" lemma="v" ana="mte:Sl">v</w>
+					<w xml:id="GosVL52_bezge.tok772" lemma="šola" ana="mte:Ncfpl">šolah</w>
+					<w xml:id="GosVL52_bezge.tok773" lemma="dati" ana="mte:Vmer3s">da</w>
+					<w xml:id="GosVL52_bezge.tok774" norm="zelo" lemma="zelo" ana="mte:Rgp">zlo</w>
+					<w xml:id="GosVL52_bezge.tok775" lemma="težko" ana="mte:Rgp">težko</w>
+					<w xml:id="GosVL52_bezge.tok776" norm="naučiti" lemma="naučiti" ana="mte:Vmen">naučit</w>
+					<w xml:id="GosVL52_bezge.tok777" lemma="ker" ana="mte:Cs">ker</w>
+					<w xml:id="GosVL52_bezge.tok778" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok779" lemma="misliti" ana="mte:Vmpr1s">mislim</w>
+					<w xml:id="GosVL52_bezge.tok780" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok781" lemma="ta" ana="mte:Pd-fsa">to</w>
+					<w xml:id="GosVL52_bezge.tok782" lemma="stvar" ana="mte:Ncfsn">stvar</w>
+					<w xml:id="GosVL52_bezge.tok783" lemma="ki" ana="mte:Cs">ki</w>
+					<w xml:id="GosVL52_bezge.tok784" lemma="vsak" ana="mte:Pg-msn">vsak</w>
+					<w xml:id="GosVL52_bezge.tok785" lemma="posameznik" ana="mte:Ncmsn">posameznik</w>
+					<w xml:id="GosVL52_bezge.tok786" lemma="morati" ana="mte:Vmpr3s">mora</w>
+					<w xml:id="GosVL52_bezge.tok787" lemma="v" ana="mte:Sa">v</w>
+					<w xml:id="GosVL52_bezge.tok788" lemma="sam" ana="mte:Agpmsan">sam</w>
+					<w xml:id="GosVL52_bezge.tok789" lemma="v" ana="mte:Sl">v</w>
+					<w xml:id="GosVL52_bezge.tok790" lemma="se" ana="mte:Px---l">sebi</w>
+					<w xml:id="GosVL52_bezge.tok791" norm="najti" lemma="najti" ana="mte:Vmen">najt</w>
+					<w xml:id="GosVL52_bezge.tok792" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok793" lemma="on" ana="mte:Pp3fsa--y">jo</w>
+					<w xml:id="GosVL52_bezge.tok794" lemma="lahko" ana="mte:Rgp">lahko</w>
+					<w xml:id="GosVL52_bezge.tok795" lemma="izraziti" ana="mte:Vmer3s">izrazi</w>
+					<w xml:id="GosVL52_bezge.tok796" lemma="ker" ana="mte:Cs">ker</w>
+					<w xml:id="GosVL52_bezge.tok797" lemma="če" ana="mte:Cs">če</w>
+					<w xml:id="GosVL52_bezge.tok798" lemma="sam" ana="mte:Agpmsnn">sam</w>
+					<w xml:id="GosVL52_bezge.tok799" lemma="v" ana="mte:Sl">v</w>
+					<w xml:id="GosVL52_bezge.tok800" lemma="se" ana="mte:Px---l">sebi</w>
+					<w xml:id="GosVL52_bezge.tok801" lemma="ne" ana="mte:Q">ne</w>
+					<w xml:id="GosVL52_bezge.tok802" lemma="najti" ana="mte:Vmer3s">najde</w>
+					<w xml:id="GosVL52_bezge.tok803" lemma="potem" ana="mte:Rgp">potem</w>
+					<w xml:id="GosVL52_bezge.tok804" norm="tudi" lemma="tudi" ana="mte:Q">tud</w>
+					<w xml:id="GosVL52_bezge.tok805" lemma="imeti" ana="mte:Vmpr3s-y">nima</w>
+					<w xml:id="GosVL52_bezge.tok806" lemma="na" ana="mte:Sl">na</w>
+					<w xml:id="GosVL52_bezge.tok807" lemma="konec" ana="mte:Ncmsl">koncu</w>
+					<w xml:id="GosVL52_bezge.tok808" lemma="konec" ana="mte:Ncmpg">koncev</w>
+					<w xml:id="GosVL52_bezge.tok809" lemma="kaj" ana="mte:Pq-nsa">kaj</w>
+					<w xml:id="GosVL52_bezge.tok810" norm="izraziti" lemma="izraziti" ana="mte:Vmen">izrazit</w>
+					<w xml:id="GosVL52_bezge.tok811" lemma="ne" ana="mte:Q">ne</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s45" synch="#GosVL52_bezge.t50">
+					<w xml:id="GosVL52_bezge.tok812" lemma="in" ana="mte:Cc">in</w>
+					<w xml:id="GosVL52_bezge.tok813" norm="tako" lemma="tako" ana="mte:Rgp">tak</w>
+					<w xml:id="GosVL52_bezge.tok814" lemma="tako" ana="mte:Rgp">tako</w>
+					<w xml:id="GosVL52_bezge.tok815" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok816" lemma="ta" ana="mte:Pd-msn">ta</w>
+					<w xml:id="GosVL52_bezge.tok817" lemma="dva" ana="mte:Mlcmdn">dva</w>
+					<w xml:id="GosVL52_bezge.tok818" lemma="princip" ana="mte:Ncmdn">principa</w>
+					<w xml:id="GosVL52_bezge.tok819" lemma="tudi" ana="mte:Q">tudi</w>
+					<w xml:id="GosVL52_bezge.tok820" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok821" lemma="jaz" ana="mte:Pp1-sd--y">mi</w>
+					<w xml:id="GosVL52_bezge.tok822" lemma="zdeti" ana="mte:Vmpr3s">zdi</w>
+					<w xml:id="GosVL52_bezge.tok823" lemma="skoz" ana="mte:Sa">skoz</w>
+					<w xml:id="GosVL52_bezge.tok824" lemma="glasben" ana="mte:Agpfsa">glasbeno</w>
+					<w xml:id="GosVL52_bezge.tok825" function="filler" lemma="eee" ana="mte:I">eee</w>
+					<del type="falseStart" subtype="missingEnd">
+						<w xml:id="GosVL52_bezge.tok826" lemma="re…" ana="mte:Xt">re…</w>
+					</del>
+					<w xml:id="GosVL52_bezge.tok827" lemma="skoz" ana="mte:Sa">skoz</w>
+					<w xml:id="GosVL52_bezge.tok828" lemma="glasben" ana="mte:Agpmsay">glasbeni</w>
+					<w xml:id="GosVL52_bezge.tok829" lemma="jezik" ana="mte:Ncmsan">jezik</w>
+					<w xml:id="GosVL52_bezge.tok830" lemma="prikazovati" ana="mte:Vmpr3d">prikazujeta</w>
+					<w xml:id="GosVL52_bezge.tok831" lemma="ne" ana="mte:Q">ne</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s46" synch="#GosVL52_bezge.t51">
+					<vocal type="breath"/>
+					<w xml:id="GosVL52_bezge.tok832" function="filler" lemma="eee" ana="mte:I">eee</w>
+					<w xml:id="GosVL52_bezge.tok833" lemma="zdaj" ana="mte:Rgp">zdaj</w>
+					<w xml:id="GosVL52_bezge.tok834" lemma="pa" ana="mte:Cc">pa</w>
+					<w xml:id="GosVL52_bezge.tok835" lemma="reči" ana="mte:Vmem1p">recimo</w>
+					<w xml:id="GosVL52_bezge.tok836" lemma="če" ana="mte:Cs">če</w>
+					<del type="falseStart" subtype="missingEnd">
+						<w xml:id="GosVL52_bezge.tok837" lemma="s…" ana="mte:Xt">s…</w>
+					</del>
+					<w xml:id="GosVL52_bezge.tok838" lemma="če" ana="mte:Cs">če</w>
+					<w xml:id="GosVL52_bezge.tok839" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok840" lemma="pa" ana="mte:Cc">pa</w>
+					<w xml:id="GosVL52_bezge.tok841" lemma="postaviti" ana="mte:Vmer1p">postavimo</w>
+					<w xml:id="GosVL52_bezge.tok842" norm="zdaj" lemma="zdaj" ana="mte:Rgp">zaj</w>
+					<w xml:id="GosVL52_bezge.tok843" lemma="čisto" ana="mte:Rgp">čisto</w>
+					<w xml:id="GosVL52_bezge.tok844" lemma="med" ana="mte:Si">med</w>
+					<w xml:id="GosVL52_bezge.tok845" lemma="tukaj" ana="mte:Rgp">tukaj</w>
+					<w xml:id="GosVL52_bezge.tok846" lemma="med" ana="mte:Si">med</w>
+					<w xml:id="GosVL52_bezge.tok847" lemma="jaz" ana="mte:Pp1-pa">nas</w>
+					<w xml:id="GosVL52_bezge.tok848" lemma="med" ana="mte:Sa">med</w>
+					<w xml:id="GosVL52_bezge.tok849" lemma="ljudski" ana="mte:Agpnpa">ljudska</w>
+					<w xml:id="GosVL52_bezge.tok850" lemma="bitje" ana="mte:Ncnpa">bitja</w>
+					<w xml:id="GosVL52_bezge.tok851" lemma="ne" ana="mte:Q">ne</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s47" synch="#GosVL52_bezge.t52">
+					<w xml:id="GosVL52_bezge.tok852" function="filler" lemma="eee" ana="mte:I">eee</w>
+					<vocal type="voice"/>
+					<w xml:id="GosVL52_bezge.tok853" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok854" lemma="glasba" ana="mte:Ncfsn">glasba</w>
+					<w xml:id="GosVL52_bezge.tok855" lemma="v" ana="mte:Sl">v</w>
+					<w xml:id="GosVL52_bezge.tok856" lemma="določen" ana="mte:Appmpl">določenih</w>
+					<w xml:id="GosVL52_bezge.tok857" lemma="primer" ana="mte:Ncmpl">primerih</w>
+					<w xml:id="GosVL52_bezge.tok858" lemma="direktno" ana="mte:Rgp">direktno</w>
+					<del type="falseStart" subtype="missingEnd">
+						<w xml:id="GosVL52_bezge.tok859" lemma="slu…" ana="mte:Xt">slu…</w>
+					</del>
+					<w xml:id="GosVL52_bezge.tok860" lemma="služiti" ana="mte:Vmpr3s">služi</w>
+					<w xml:id="GosVL52_bezge.tok861" lemma="kot" ana="mte:Cs">kot</w>
+					<w xml:id="GosVL52_bezge.tok862" lemma="sredstvo" ana="mte:Ncnsn">sredstvo</w>
+					<w xml:id="GosVL52_bezge.tok863" lemma="komunikacija" ana="mte:Ncfsg">komunikacije</w>
+					<w xml:id="GosVL52_bezge.tok864" lemma="in" ana="mte:Cc">in</w>
+					<w xml:id="GosVL52_bezge.tok865" lemma="komuniciranje" ana="mte:Ncnsg">komuniciranja</w>
+					<w xml:id="GosVL52_bezge.tok866" lemma="reči" ana="mte:Vmem1p">recimo</w>
+				</seg>
+			</u>
+			<u xml:id="GosVL52_bezge.u14" start="#GosVL52_bezge.t53" end="#GosVL52_bezge.t54">
+				<pause/>
+			</u>
+			<u xml:id="GosVL52_bezge.u15" who="#Um-vl220" start="#GosVL52_bezge.t54" end="#GosVL52_bezge.t84">
+				<seg xml:id="GosVL52_bezge.s48" synch="#GosVL52_bezge.t54">
+					<vocal type="breath"/>
+					<w xml:id="GosVL52_bezge.tok867" lemma="en" ana="mte:Mlpmsn">en</w>
+					<w xml:id="GosVL52_bezge.tok868" lemma="osnoven" ana="mte:Agpmpg">osnovnih</w>
+					<w xml:id="GosVL52_bezge.tok869" lemma="reči" ana="mte:Vmem1p">recimo</w>
+					<w xml:id="GosVL52_bezge.tok870" lemma="tak" ana="mte:Pd-mpg">takih</w>
+					<w xml:id="GosVL52_bezge.tok871" lemma="primer" ana="mte:Ncmpg">primerov</w>
+					<w xml:id="GosVL52_bezge.tok872" lemma="ki" ana="mte:Cs">ki</w>
+					<w xml:id="GosVL52_bezge.tok873" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok874" norm="tudi" lemma="tudi" ana="mte:Q">tud</w>
+					<w xml:id="GosVL52_bezge.tok875" lemma="jaz" ana="mte:Pp1-pd">nam</w>
+					<w xml:id="GosVL52_bezge.tok876" lemma="mogoč" ana="mte:Agpnsn">mogoče</w>
+					<w xml:id="GosVL52_bezge.tok877" lemma="zdaj" ana="mte:Rgp">zdaj</w>
+					<w xml:id="GosVL52_bezge.tok878" lemma="v" ana="mte:Sl">v</w>
+					<w xml:id="GosVL52_bezge.tok879" lemma="ta" ana="mte:Pd-msl">tem</w>
+					<w xml:id="GosVL52_bezge.tok880" lemma="čas" ana="mte:Ncmsl">času</w>
+					<w xml:id="GosVL52_bezge.tok881" lemma="ne" ana="mte:Q">ne</w>
+					<w xml:id="GosVL52_bezge.tok882" lemma="več" ana="mte:Q">več</w>
+					<w xml:id="GosVL52_bezge.tok883" lemma="tako" ana="mte:Rgp">tako</w>
+					<w xml:id="GosVL52_bezge.tok884" lemma="dobro" ana="mte:Rgp">dobro</w>
+					<w xml:id="GosVL52_bezge.tok885" lemma="znan" ana="mte:Appmsnn">znan</w>
+					<w xml:id="GosVL52_bezge.tok886" lemma="ampak" ana="mte:Cc">ampak</w>
+					<w xml:id="GosVL52_bezge.tok887" lemma="sto" ana="mte:Mlc-pa">sto</w>
+					<w xml:id="GosVL52_bezge.tok888" lemma="leto" ana="mte:Ncnpg">let</w>
+					<w xml:id="GosVL52_bezge.tok889" lemma="nazaj" ana="mte:Rgp">nazaj</w>
+					<w xml:id="GosVL52_bezge.tok890" lemma="pa" ana="mte:Cc">pa</w>
+					<w xml:id="GosVL52_bezge.tok891" lemma="še" ana="mte:Q">še</w>
+					<w xml:id="GosVL52_bezge.tok892" lemma="niti" ana="mte:Q">niti</w>
+					<w xml:id="GosVL52_bezge.tok893" lemma="sto" ana="mte:Mlc-pa">sto</w>
+					<w xml:id="GosVL52_bezge.tok894" lemma="leto" ana="mte:Ncnpg">let</w>
+					<w xml:id="GosVL52_bezge.tok895" lemma="ne" ana="mte:Q">ne</w>
+					<w xml:id="GosVL52_bezge.tok896" lemma="mogoč" ana="mte:Agpnsn">mogoče</w>
+					<w xml:id="GosVL52_bezge.tok897" norm="tudi" lemma="tudi" ana="mte:Q">tud</w>
+					<w xml:id="GosVL52_bezge.tok898" norm="petdeset" lemma="petdeset" ana="mte:Mlc-pa">peeset</w>
+					<w xml:id="GosVL52_bezge.tok899" lemma="leto" ana="mte:Ncnpg">let</w>
+					<w xml:id="GosVL52_bezge.tok900" lemma="nazaj" ana="mte:Rgp">nazaj</w>
+					<w xml:id="GosVL52_bezge.tok901" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok902" lemma="biti" ana="mte:Va-p-sm">bil</w>
+					<w xml:id="GosVL52_bezge.tok903" lemma="pa" ana="mte:Cc">pa</w>
+					<w xml:id="GosVL52_bezge.tok904" norm="zelo" lemma="zelo" ana="mte:Rgp">zlo</w>
+					<w xml:id="GosVL52_bezge.tok905" lemma="širok" ana="mte:Agpnsn">široko</w>
+					<w xml:id="GosVL52_bezge.tok906" lemma="v" ana="mte:Sl">v</w>
+					<w xml:id="GosVL52_bezge.tok907" lemma="uporaba" ana="mte:Ncfsl">uporabi</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s49" synch="#GosVL52_bezge.t55">
+					<w xml:id="GosVL52_bezge.tok908" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok909" lemma="en" ana="mte:Mlpmsn">en</w>
+					<w xml:id="GosVL52_bezge.tok910" lemma="jezik" ana="mte:Ncmsn">jezik</w>
+					<w xml:id="GosVL52_bezge.tok911" lemma="ritem" ana="mte:Ncmsg">ritma</w>
+					<w xml:id="GosVL52_bezge.tok912" lemma="ki" ana="mte:Cs">ki</w>
+					<w xml:id="GosVL52_bezge.tok913" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok914" lemma="biti" ana="mte:Va-p-sm">bil</w>
+					<w xml:id="GosVL52_bezge.tok915" lemma="zelo" ana="mte:Rgp">zelo</w>
+					<w xml:id="GosVL52_bezge.tok916" lemma="človek" ana="mte:Ncmsn">človek</w>
+					<w xml:id="GosVL52_bezge.tok917" lemma="biti" ana="mte:Va-c">bi</w>
+					<w xml:id="GosVL52_bezge.tok918" norm="rekel" lemma="reči" ana="mte:Vmep-sm">reku</w>
+					<w xml:id="GosVL52_bezge.tok919" lemma="edin" ana="mte:Agpmsny">edini</w>
+					<w xml:id="GosVL52_bezge.tok920" lemma="možen" ana="mte:Agpmsny">možni</w>
+					<w xml:id="GosVL52_bezge.tok921" lemma="in" ana="mte:Cc">in</w>
+					<w xml:id="GosVL52_bezge.tok922" lemma="zelo" ana="mte:Rgp">zelo</w>
+					<w xml:id="GosVL52_bezge.tok923" norm="popularen" lemma="popularen" ana="mte:Agpmsnn">popularn</w>
+					<w xml:id="GosVL52_bezge.tok924" lemma="v" ana="mte:Sl">v</w>
+					<w xml:id="GosVL52_bezge.tok925" lemma="določen" ana="mte:Appmsl">določenem</w>
+					<w xml:id="GosVL52_bezge.tok926" lemma="čas" ana="mte:Ncmsl">času</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s50" synch="#GosVL52_bezge.t56">
+					<w xml:id="GosVL52_bezge.tok927" lemma="kaj" ana="mte:Pq-nsn">kaj</w>
+					<w xml:id="GosVL52_bezge.tok928" lemma="biti" ana="mte:Va-c">bi</w>
+					<w xml:id="GosVL52_bezge.tok929" lemma="lahko" ana="mte:Rgp">lahko</w>
+					<w xml:id="GosVL52_bezge.tok930" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok931" norm="bilo" lemma="biti" ana="mte:Va-p-sn">blo</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s51" synch="#GosVL52_bezge.t57">
+					<w xml:id="GosVL52_bezge.tok932" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok933" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<name>
+						<w xml:id="GosVL52_bezge.tok934" norm="Morsejeva" lemma="Morsejev" ana="mte:Aspfsn">Morzejeva</w>
+					</name>
+					<w xml:id="GosVL52_bezge.tok935" lemma="abeceda" ana="mte:Ncfsn">abeceda</w>
+					<w xml:id="GosVL52_bezge.tok936" lemma="reči" ana="mte:Vmem1p">recimo</w>
+					<w xml:id="GosVL52_bezge.tok937" lemma="ne" ana="mte:Q">ne</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s52" synch="#GosVL52_bezge.t58">
+					<name>
+						<w xml:id="GosVL52_bezge.tok938" norm="Morsejeva" lemma="Morsejev" ana="mte:Aspfsn">Morzejeva</w>
+					</name>
+					<w xml:id="GosVL52_bezge.tok939" lemma="abeceda" ana="mte:Ncfsn">abeceda</w>
+					<w xml:id="GosVL52_bezge.tok940" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok941" norm="tipičen" lemma="tipičen" ana="mte:Agpmsnn">tipičn</w>
+					<w xml:id="GosVL52_bezge.tok942" lemma="primer" ana="mte:Ncmsn">primer</w>
+					<del type="falseStart" subtype="missingEnd">
+						<w xml:id="GosVL52_bezge.tok943" lemma="jezi…" ana="mte:Xt">jezi…</w>
+					</del>
+					<w xml:id="GosVL52_bezge.tok944" lemma="glasben" ana="mte:Agpmsg">glasbenega</w>
+					<vocal type="voice"/>
+					<w xml:id="GosVL52_bezge.tok945" lemma="jezik" ana="mte:Ncmsg">jezika</w>
+					<w xml:id="GosVL52_bezge.tok946" norm="zaradi" lemma="zaradi" ana="mte:Sg">zarad</w>
+					<w xml:id="GosVL52_bezge.tok947" lemma="ta" ana="mte:Pd-nsg">tega</w>
+					<w xml:id="GosVL52_bezge.tok948" lemma="ker" ana="mte:Cs">ker</w>
+					<w xml:id="GosVL52_bezge.tok949" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok950" lemma="sestavljen" ana="mte:Appfsn">sestavljena</w>
+					<w xml:id="GosVL52_bezge.tok951" lemma="iz" ana="mte:Sg">iz</w>
+					<w xml:id="GosVL52_bezge.tok952" lemma="dolg" ana="mte:Agpfpg">dolgih</w>
+					<w xml:id="GosVL52_bezge.tok953" lemma="in" ana="mte:Cc">in</w>
+					<w xml:id="GosVL52_bezge.tok954" lemma="kratek" ana="mte:Agpmpg">kratkih</w>
+					<w xml:id="GosVL52_bezge.tok955" lemma="doba" ana="mte:Ncfpg">dob</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s53" synch="#GosVL52_bezge.t59">
+					<w xml:id="GosVL52_bezge.tok956" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok957" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok958" lemma="praviti" ana="mte:Vmbr3s">pravi</w>
+					<w xml:id="GosVL52_bezge.tok959" lemma="kot" ana="mte:Cs">kot</w>
+					<w xml:id="GosVL52_bezge.tok960" lemma="ritem" ana="mte:Ncmsn">ritem</w>
+					<incident type="sound"/>
+					<w xml:id="GosVL52_bezge.tok961" lemma="v" ana="mte:Sl">v</w>
+					<w xml:id="GosVL52_bezge.tok962" lemma="glasba" ana="mte:Ncfsl">glasbi</w>
+					<w xml:id="GosVL52_bezge.tok963" lemma="preko" ana="mte:Sg">preko</w>
+					<w xml:id="GosVL52_bezge.tok964" lemma="ritem" ana="mte:Ncmsg">ritma</w>
+					<w xml:id="GosVL52_bezge.tok965" lemma="jaz" ana="mte:Pp1-sd--y">mi</w>
+					<w xml:id="GosVL52_bezge.tok966" lemma="konkretno" ana="mte:Rgp">konkretno</w>
+					<w xml:id="GosVL52_bezge.tok967" lemma="lahko" ana="mte:Rgp">lahko</w>
+					<w xml:id="GosVL52_bezge.tok968" lemma="glede" ana="mte:Rgp">glede</w>
+					<w xml:id="GosVL52_bezge.tok969" lemma="na" ana="mte:Sa">na</w>
+					<w xml:id="GosVL52_bezge.tok970" lemma="reči" ana="mte:Vmem1p">recimo</w>
+					<w xml:id="GosVL52_bezge.tok971" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok972" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok973" lemma="praviti" ana="mte:Vmbr3s">pravi</w>
+					<w xml:id="GosVL52_bezge.tok974" lemma="šifra" ana="mte:Ncfsa">šifro</w>
+					<w xml:id="GosVL52_bezge.tok975" lemma="v" ana="mte:Sl">v</w>
+					<w xml:id="GosVL52_bezge.tok976" lemma="kateri" ana="mte:Pq-fsl">kateri</w>
+					<w xml:id="GosVL52_bezge.tok977" lemma="obstoj" ana="mte:Ncmsg">obstoja</w>
+					<w xml:id="GosVL52_bezge.tok978" lemma="razpoznati" ana="mte:Vmer1p">razpoznamo</w>
+					<w xml:id="GosVL52_bezge.tok979" function="filler" lemma="eee" ana="mte:I">eee</w>
+					<w xml:id="GosVL52_bezge.tok980" norm="direkten" lemma="direkten" ana="mte:Agpmsan">direktn</w>
+					<w xml:id="GosVL52_bezge.tok981" lemma="prevod" ana="mte:Ncmsan">prevod</w>
+					<w xml:id="GosVL52_bezge.tok982" lemma="v" ana="mte:Sa">v</w>
+					<w xml:id="GosVL52_bezge.tok983" lemma="naš" ana="mte:Ps1fpap">naše</w>
+					<w xml:id="GosVL52_bezge.tok984" lemma="črka" ana="mte:Ncfpa">črke</w>
+					<w xml:id="GosVL52_bezge.tok985" lemma="v" ana="mte:Sa">v</w>
+					<w xml:id="GosVL52_bezge.tok986" lemma="ta" ana="mte:Pd-fpa">te</w>
+					<w xml:id="GosVL52_bezge.tok987" lemma="zadeva" ana="mte:Ncfpa">zadeve</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s54" synch="#GosVL52_bezge.t60">
+					<w xml:id="GosVL52_bezge.tok988" lemma="reči" ana="mte:Vmem1p">recimo</w>
+					<w xml:id="GosVL52_bezge.tok989" lemma="če" ana="mte:Cs">če</w>
+					<w xml:id="GosVL52_bezge.tok990" lemma="iti" ana="mte:Vmbr1p">gremo</w>
+					<w xml:id="GosVL52_bezge.tok991" lemma="tu" ana="mte:Rgp">tu</w>
+					<w xml:id="GosVL52_bezge.tok992" lemma="malo" ana="mte:Rgp">malo</w>
+					<w xml:id="GosVL52_bezge.tok993" lemma="širok" ana="mte:Agcmsl">širšem</w>
+					<w xml:id="GosVL52_bezge.tok994" lemma="smisel" ana="mte:Ncmsl">smislu</w>
+					<w xml:id="GosVL52_bezge.tok995" lemma="ves" ana="mte:Pg-mpn">vsi</w>
+					<w xml:id="GosVL52_bezge.tok996" lemma="vedeti" ana="mte:Vmpr1p">vemo</w>
+					<w xml:id="GosVL52_bezge.tok997" lemma="da" ana="mte:Cs">da</w>
+					<name>
+						<w xml:id="GosVL52_bezge.tok998" lemma="Afrika" ana="mte:Npfsn">Afrika</w>
+					</name>
+					<w xml:id="GosVL52_bezge.tok999" function="filler" lemma="eee" ana="mte:I">eee</w>
+					<w xml:id="GosVL52_bezge.tok1000" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok1001" function="filler" lemma="eee" ana="mte:I">eee</w>
+					<w xml:id="GosVL52_bezge.tok1002" lemma="v" ana="mte:Sl">v</w>
+					<name>
+						<w xml:id="GosVL52_bezge.tok1003" lemma="Afrika" ana="mte:Npfsl">Afriki</w>
+					</name>
+					<w xml:id="GosVL52_bezge.tok1004" lemma="biti" ana="mte:Va-r3p-n">so</w>
+					<w xml:id="GosVL52_bezge.tok1005" lemma="tudi" ana="mte:Q">tudi</w>
+					<w xml:id="GosVL52_bezge.tok1006" lemma="konkretno" ana="mte:Rgp">konkretno</w>
+					<w xml:id="GosVL52_bezge.tok1007" lemma="z" ana="mte:Si">z</w>
+					<w xml:id="GosVL52_bezge.tok1008" lemma="ritmičen" ana="mte:Agpmpi">ritmičnimi</w>
+					<w xml:id="GosVL52_bezge.tok1009" lemma="vzorec" ana="mte:Ncmpi">vzorci</w>
+					<w xml:id="GosVL52_bezge.tok1010" lemma="in" ana="mte:Cc">in</w>
+					<w xml:id="GosVL52_bezge.tok1011" lemma="fraza" ana="mte:Ncfpi">frazami</w>
+					<vocal type="voice"/>
+					<w xml:id="GosVL52_bezge.tok1012" lemma="med" ana="mte:Si">med</w>
+					<w xml:id="GosVL52_bezge.tok1013" lemma="pleme" ana="mte:Ncnpi">plemeni</w>
+					<w xml:id="GosVL52_bezge.tok1014" lemma="v" ana="mte:Sl">v</w>
+					<w xml:id="GosVL52_bezge.tok1015" lemma="džungla" ana="mte:Ncfsl">džungli</w>
+					<w xml:id="GosVL52_bezge.tok1016" lemma="komunicirati" ana="mte:Vmpr3s">komunicira</w>
+					<w xml:id="GosVL52_bezge.tok1017" lemma="in" ana="mte:Cc">in</w>
+					<w xml:id="GosVL52_bezge.tok1018" lemma="še" ana="mte:Q">še</w>
+					<w xml:id="GosVL52_bezge.tok1019" lemma="upati" ana="mte:Vmpr1s">upam</w>
+					<w xml:id="GosVL52_bezge.tok1020" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok1021" lemma="še" ana="mte:Q">še</w>
+					<w xml:id="GosVL52_bezge.tok1022" lemma="dandanes" ana="mte:Rgp">dandanes</w>
+					<w xml:id="GosVL52_bezge.tok1023" lemma="in" ana="mte:Cc">in</w>
+					<w xml:id="GosVL52_bezge.tok1024" lemma="upati" ana="mte:Vmpr1s">upam</w>
+					<w xml:id="GosVL52_bezge.tok1025" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok1026" lemma="še" ana="mte:Q">še</w>
+					<w xml:id="GosVL52_bezge.tok1027" lemma="dolgo" ana="mte:Rgp">dolgo</w>
+					<w xml:id="GosVL52_bezge.tok1028" lemma="biti" ana="mte:Va-f3p-n">bodo</w>
+					<w xml:id="GosVL52_bezge.tok1029" lemma="komunicirati" ana="mte:Vmpp-pm">komunicirali</w>
+					<w xml:id="GosVL52_bezge.tok1030" lemma="med" ana="mte:Si">med</w>
+					<w xml:id="GosVL52_bezge.tok1031" lemma="se" ana="mte:Px---i">sabo</w>
+					<w xml:id="GosVL52_bezge.tok1032" lemma="na" ana="mte:Sa">na</w>
+					<w xml:id="GosVL52_bezge.tok1033" lemma="ta" ana="mte:Pd-msa">ta</w>
+					<w xml:id="GosVL52_bezge.tok1034" lemma="način" ana="mte:Ncmsan">način</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s55" synch="#GosVL52_bezge.t61">
+					<incident type="other"/>
+					<w xml:id="GosVL52_bezge.tok1035" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok1036" lemma="ne" ana="mte:Q">ne</w>
+					<w xml:id="GosVL52_bezge.tok1037" lemma="biti" ana="mte:Va-f3s-n">bo</w>
+					<w xml:id="GosVL52_bezge.tok1038" norm="tako" lemma="tako" ana="mte:Rgp">tak</w>
+					<w xml:id="GosVL52_bezge.tok1039" lemma="kot" ana="mte:Cs">kot</w>
+					<w xml:id="GosVL52_bezge.tok1040" lemma="oni" ana="mte:Pd-msa">oni</w>
+					<w xml:id="GosVL52_bezge.tok1041" lemma="teksaški" ana="mte:Agpmsay">teksaški</w>
+					<w xml:id="GosVL52_bezge.tok1042" lemma="jezik" ana="mte:Ncmsan">jezik</w>
+					<w xml:id="GosVL52_bezge.tok1043" lemma="ko" ana="mte:Cs">ko</w>
+					<w xml:id="GosVL52_bezge.tok1044" lemma="biti" ana="mte:Va-r1p-n">smo</w>
+					<w xml:id="GosVL52_bezge.tok1045" lemma="on" ana="mte:Pp3msa--y">ga</w>
+					<w xml:id="GosVL52_bezge.tok1046" lemma="prej" ana="mte:Rgc">prej</w>
+					<w xml:id="GosVL52_bezge.tok1047" norm="omenili" lemma="omeniti" ana="mte:Vmep-pm">omenli</w>
+					<w xml:id="GosVL52_bezge.tok1048" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok1049" lemma="biti" ana="mte:Va-f3p-n">bojo</w>
+					<w xml:id="GosVL52_bezge.tok1050" lemma="še" ana="mte:Q">še</w>
+					<w xml:id="GosVL52_bezge.tok1051" lemma="trije" ana="mte:Mlcmpn">trije</w>
+					<name>
+						<w xml:id="GosVL52_bezge.tok1052" lemma="Afričan" ana="mte:Npmpn">Afričani</w>
+					</name>
+					<w xml:id="GosVL52_bezge.tok1053" lemma="samo" ana="mte:Q">samo</w>
+					<w xml:id="GosVL52_bezge.tok1054" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok1055" lemma="z" ana="mte:Si">s</w>
+					<w xml:id="GosVL52_bezge.tok1056" lemma="ta" ana="mte:Pd-msi">tem</w>
+					<w xml:id="GosVL52_bezge.tok1057" lemma="jezik" ana="mte:Ncmsi">jezikom</w>
+					<w xml:id="GosVL52_bezge.tok1058" lemma="ukvarjati" ana="mte:Vmpp-pm">ukvarjali</w>
+					<w xml:id="GosVL52_bezge.tok1059" lemma="ne" ana="mte:Q">ne</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s56" synch="#GosVL52_bezge.t62">
+					<w xml:id="GosVL52_bezge.tok1060" norm="tako" lemma="tako" ana="mte:Cc">tak</w>
+					<w xml:id="GosVL52_bezge.tok1061" lemma="da" ana="mte:Cs">da</w>
+					<incident type="sound"/>
+					<w xml:id="GosVL52_bezge.tok1062" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok1063" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok1064" norm="tudi" lemma="tudi" ana="mte:Q">tud</w>
+					<w xml:id="GosVL52_bezge.tok1065" norm="pri" lemma="pri" ana="mte:Sl">pr</w>
+					<w xml:id="GosVL52_bezge.tok1066" lemma="ta" ana="mte:Pd-mpl">teh</w>
+					<w xml:id="GosVL52_bezge.tok1067" lemma="jezik" ana="mte:Ncmpl">jezikih</w>
+					<w xml:id="GosVL52_bezge.tok1068" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok1069" norm="treba" lemma="treba" ana="mte:Rgp">trea</w>
+					<w xml:id="GosVL52_bezge.tok1070" norm="paziti" lemma="paziti" ana="mte:Vmpn">pazit</w>
+					<vocal type="breath"/>
+					<w xml:id="GosVL52_bezge.tok1071" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok1072" lemma="ne" ana="mte:Q">ne</w>
+					<w xml:id="GosVL52_bezge.tok1073" lemma="izumreti" ana="mte:Vmer3p">izumrejo</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s57" synch="#GosVL52_bezge.t63">
+					<vocal type="breath"/>
+					<w xml:id="GosVL52_bezge.tok1074" function="filler" lemma="eee" ana="mte:I">eee</w>
+					<w xml:id="GosVL52_bezge.tok1075" lemma="reči" ana="mte:Vmem1p">recimo</w>
+					<w xml:id="GosVL52_bezge.tok1076" lemma="glasba" ana="mte:Ncfsn">glasba</w>
+					<w xml:id="GosVL52_bezge.tok1077" lemma="jaz" ana="mte:Pp1-pd">nam</w>
+					<w xml:id="GosVL52_bezge.tok1078" lemma="lahko" ana="mte:Rgp">lahko</w>
+					<w xml:id="GosVL52_bezge.tok1079" lemma="sporočati" ana="mte:Vmpr3s">sporoča</w>
+					<w xml:id="GosVL52_bezge.tok1080" lemma="tudi" ana="mte:Q">tudi</w>
+					<w xml:id="GosVL52_bezge.tok1081" lemma="drug" ana="mte:Mlpfpa">druge</w>
+					<w xml:id="GosVL52_bezge.tok1082" lemma="stvar" ana="mte:Ncfpa">stvari</w>
+					<w xml:id="GosVL52_bezge.tok1083" lemma="ne" ana="mte:Q">ne</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s58" synch="#GosVL52_bezge.t64">
+					<w xml:id="GosVL52_bezge.tok1084" lemma="drug" ana="mte:Mlpfpa">druge</w>
+					<w xml:id="GosVL52_bezge.tok1085" lemma="stvar" ana="mte:Ncfpn">stvari</w>
+					<w xml:id="GosVL52_bezge.tok1086" lemma="ki" ana="mte:Cs">ki</w>
+					<w xml:id="GosVL52_bezge.tok1087" lemma="jaz" ana="mte:Pp1-pd">nam</w>
+					<w xml:id="GosVL52_bezge.tok1088" lemma="on" ana="mte:Pp3mpa--y">jih</w>
+					<w xml:id="GosVL52_bezge.tok1089" lemma="glasba" ana="mte:Ncfsn">glasba</w>
+					<w xml:id="GosVL52_bezge.tok1090" lemma="lahko" ana="mte:Rgp">lahko</w>
+					<w xml:id="GosVL52_bezge.tok1091" lemma="sporočati" ana="mte:Vmpr3s">sporoča</w>
+					<w xml:id="GosVL52_bezge.tok1092" lemma="biti" ana="mte:Va-r3p-n">so</w>
+					<w xml:id="GosVL52_bezge.tok1093" lemma="reči" ana="mte:Vmem1p">recimo</w>
+				</seg>
+				<pause/>
+				<vocal type="breath"/>
+				<seg xml:id="GosVL52_bezge.s59" synch="#GosVL52_bezge.t66">
+					<w xml:id="GosVL52_bezge.tok1094" lemma="kot" ana="mte:Cs">kot</w>
+					<w xml:id="GosVL52_bezge.tok1095" lemma="biti" ana="mte:Va-r1p-n">smo</w>
+					<w xml:id="GosVL52_bezge.tok1096" lemma="v" ana="mte:Sl">v</w>
+					<w xml:id="GosVL52_bezge.tok1097" lemma="prejšnji" ana="mte:Agpnsl">prejšnjem</w>
+					<w xml:id="GosVL52_bezge.tok1098" lemma="že" ana="mte:Q">že</w>
+					<w xml:id="GosVL52_bezge.tok1099" function="filler" lemma="eee" ana="mte:I">eee</w>
+					<w xml:id="GosVL52_bezge.tok1100" lemma="lekcija" ana="mte:Ncfsl">lekciji</w>
+					<w xml:id="GosVL52_bezge.tok1101" lemma="lahko" ana="mte:Rgp">lahko</w>
+					<w xml:id="GosVL52_bezge.tok1102" lemma="slišati" ana="mte:Vmbp-pm">slišali</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s60" synch="#GosVL52_bezge.t67">
+					<vocal type="breath"/>
+					<w xml:id="GosVL52_bezge.tok1103" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok1104" lemma="biti" ana="mte:Va-r3p-n">so</w>
+					<w xml:id="GosVL52_bezge.tok1105" lemma="emocija" ana="mte:Ncfpn">emocije</w>
+					<w xml:id="GosVL52_bezge.tok1106" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok1107" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok1108" lemma="praviti" ana="mte:Vmbr3s">pravi</w>
+					<w xml:id="GosVL52_bezge.tok1109" lemma="skoz" ana="mte:Sa">skoz</w>
+					<w xml:id="GosVL52_bezge.tok1110" lemma="glasba" ana="mte:Ncfsa">glasbo</w>
+					<w xml:id="GosVL52_bezge.tok1111" lemma="jaz" ana="mte:Pp1mpn">mi</w>
+					<w xml:id="GosVL52_bezge.tok1112" lemma="lahko" ana="mte:Rgp">lahko</w>
+					<w xml:id="GosVL52_bezge.tok1113" lemma="hitro" ana="mte:Rgp">hitro</w>
+					<w xml:id="GosVL52_bezge.tok1114" lemma="razpoznati" ana="mte:Vmer1p">razpoznamo</w>
+					<w xml:id="GosVL52_bezge.tok1115" lemma="veselje" ana="mte:Ncnsa">veselje</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s61" synch="#GosVL52_bezge.t68">
+					<w xml:id="GosVL52_bezge.tok1116" lemma="lahko" ana="mte:Rgp">lahko</w>
+					<w xml:id="GosVL52_bezge.tok1117" lemma="razpoznati" ana="mte:Vmer1p">razpoznamo</w>
+					<w xml:id="GosVL52_bezge.tok1118" lemma="žalost" ana="mte:Ncfsa">žalost</w>
+					<w xml:id="GosVL52_bezge.tok1119" lemma="lahko" ana="mte:Rgp">lahko</w>
+					<w xml:id="GosVL52_bezge.tok1120" lemma="razpoznati" ana="mte:Vmer1p">razpoznamo</w>
+					<w xml:id="GosVL52_bezge.tok1121" lemma="dolgčas" ana="mte:Ncmsan">dolgčas</w>
+					<w xml:id="GosVL52_bezge.tok1122" lemma="skoz" ana="mte:Sa">skoz</w>
+					<w xml:id="GosVL52_bezge.tok1123" lemma="glasba" ana="mte:Ncfsa">glasbo</w>
+					<incident type="sound"/>
+					<w xml:id="GosVL52_bezge.tok1124" lemma="lahko" ana="mte:Rgp">lahko</w>
+					<w xml:id="GosVL52_bezge.tok1125" lemma="razpoznati" ana="mte:Vmer1p">razpoznamo</w>
+					<w xml:id="GosVL52_bezge.tok1126" lemma="igrivost" ana="mte:Ncfsa">igrivost</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s62" synch="#GosVL52_bezge.t69">
+					<w xml:id="GosVL52_bezge.tok1127" lemma="ogromno" ana="mte:Rgp">ogromno</w>
+					<w xml:id="GosVL52_bezge.tok1128" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok1129" lemma="ta" ana="mte:Pd-fpg">teh</w>
+					<w xml:id="GosVL52_bezge.tok1130" lemma="emocija" ana="mte:Ncfpg">emocij</w>
+					<w xml:id="GosVL52_bezge.tok1131" lemma="ki" ana="mte:Cs">ki</w>
+					<w xml:id="GosVL52_bezge.tok1132" lemma="on" ana="mte:Pp3mpa--y">jih</w>
+					<w xml:id="GosVL52_bezge.tok1133" lemma="glasba" ana="mte:Ncfsn">glasba</w>
+					<incident type="sound"/>
+					<w xml:id="GosVL52_bezge.tok1134" lemma="lahko" ana="mte:Rgp">lahko</w>
+					<w xml:id="GosVL52_bezge.tok1135" lemma="izražati" ana="mte:Vmpr3s">izraža</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s63" synch="#GosVL52_bezge.t70">
+					<w xml:id="GosVL52_bezge.tok1136" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok1137" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok1138" lemma="praviti" ana="mte:Vmbr3s">pravi</w>
+					<vocal type="breath"/>
+					<w xml:id="GosVL52_bezge.tok1139" lemma="na" ana="mte:Sl">na</w>
+					<incident type="sound"/>
+					<w xml:id="GosVL52_bezge.tok1140" lemma="na" ana="mte:Sl">na</w>
+					<w xml:id="GosVL52_bezge.tok1141" lemma="področje" ana="mte:Ncnsl">področju</w>
+					<w xml:id="GosVL52_bezge.tok1142" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok1143" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok1144" lemma="sredstvo" ana="mte:Ncnsn">sredstvo</w>
+					<w xml:id="GosVL52_bezge.tok1145" function="filler" lemma="eee" ana="mte:I">eee</w>
+					<del type="falseStart" subtype="missingEnd">
+						<w xml:id="GosVL52_bezge.tok1146" lemma="veli…" ana="mte:Xt">veli…</w>
+					</del>
+					<w xml:id="GosVL52_bezge.tok1147" lemma="zelo" ana="mte:Rgp">zelo</w>
+					<w xml:id="GosVL52_bezge.tok1148" lemma="močen" ana="mte:Agpnsn">močno</w>
+					<w xml:id="GosVL52_bezge.tok1149" lemma="sredstvo" ana="mte:Ncnsn">sredstvo</w>
+					<w xml:id="GosVL52_bezge.tok1150" lemma="na" ana="mte:Sl">na</w>
+					<w xml:id="GosVL52_bezge.tok1151" lemma="področje" ana="mte:Ncnsl">področju</w>
+					<w xml:id="GosVL52_bezge.tok1152" lemma="emocija" ana="mte:Ncfpg">emocij</w>
+					<w xml:id="GosVL52_bezge.tok1153" lemma="sredstvo" ana="mte:Ncnsn">sredstvo</w>
+					<w xml:id="GosVL52_bezge.tok1154" lemma="komuniciranje" ana="mte:Ncnsg">komuniciranja</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s64" synch="#GosVL52_bezge.t71">
+					<w xml:id="GosVL52_bezge.tok1155" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok1156" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok1157" lemma="reči" ana="mte:Vmem1p">recimo</w>
+					<w xml:id="GosVL52_bezge.tok1158" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok1159" lemma="zelo" ana="mte:Rgp">zelo</w>
+					<w xml:id="GosVL52_bezge.tok1160" lemma="dober" ana="mte:Agpnsn">dobro</w>
+					<w xml:id="GosVL52_bezge.tok1161" lemma="v" ana="mte:Sl">v</w>
+					<w xml:id="GosVL52_bezge.tok1162" lemma="tudi" ana="mte:Q">tudi</w>
+					<w xml:id="GosVL52_bezge.tok1163" lemma="v" ana="mte:Sl">v</w>
+					<w xml:id="GosVL52_bezge.tok1164" lemma="povezava" ana="mte:Ncfsl">povezavi</w>
+					<w xml:id="GosVL52_bezge.tok1165" lemma="med" ana="mte:Si">med</w>
+					<w xml:id="GosVL52_bezge.tok1166" lemma="medij" ana="mte:Ncmpi">mediji</w>
+					<del type="falseStart" subtype="missingEnd">
+						<w xml:id="GosVL52_bezge.tok1167" lemma="u…" ana="mte:Xt">u…</w>
+					</del>
+					<w xml:id="GosVL52_bezge.tok1168" lemma="uporabljen" ana="mte:Appnsn">uporabljeno</w>
+					<w xml:id="GosVL52_bezge.tok1169" lemma="v" ana="mte:Sl">v</w>
+					<w xml:id="GosVL52_bezge.tok1170" lemma="film" ana="mte:Ncmpl">filmih</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s65" synch="#GosVL52_bezge.t72">
+					<w xml:id="GosVL52_bezge.tok1171" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok1172" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok1173" lemma="praviti" ana="mte:Vmbr3s">pravi</w>
+					<w xml:id="GosVL52_bezge.tok1174" lemma="če" ana="mte:Cs">če</w>
+					<w xml:id="GosVL52_bezge.tok1175" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok1176" lemma="predstavljati" ana="mte:Vmpr1p">predstavljamo</w>
+					<w xml:id="GosVL52_bezge.tok1177" lemma="film" ana="mte:Ncmsan">film</w>
+					<w xml:id="GosVL52_bezge.tok1178" lemma="brez" ana="mte:Sg">brez</w>
+					<w xml:id="GosVL52_bezge.tok1179" lemma="glasba" ana="mte:Ncfsg">glasbe</w>
+					<w xml:id="GosVL52_bezge.tok1180" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok1181" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok1182" lemma="jaz" ana="mte:Pp1-pa">nas</w>
+					<w xml:id="GosVL52_bezge.tok1183" lemma="dejansko" ana="mte:Rgp">dejansko</w>
+					<w xml:id="GosVL52_bezge.tok1184" lemma="skoraj" ana="mte:Q">skoraj</w>
+					<w xml:id="GosVL52_bezge.tok1185" lemma="ne" ana="mte:Q">ne</w>
+					<w xml:id="GosVL52_bezge.tok1186" lemma="dotakniti" ana="mte:Vmer3s">dotakne</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s66" synch="#GosVL52_bezge.t73">
+					<w xml:id="GosVL52_bezge.tok1187" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok1188" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok1189" norm="pravi" lemma="praviti" ana="mte:Vmbr3s">prai</w>
+					<w xml:id="GosVL52_bezge.tok1190" lemma="zakaj" ana="mte:Rgp">zakaj</w>
+					<w xml:id="GosVL52_bezge.tok1191" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok1192" lemma="zakaj" ana="mte:Rgp">zakaj</w>
+					<w xml:id="GosVL52_bezge.tok1193" lemma="biti" ana="mte:Va-r3p-n">so</w>
+					<w xml:id="GosVL52_bezge.tok1194" norm="vse" lemma="ves" ana="mte:Pg-fpn">fse</w>
+					<w xml:id="GosVL52_bezge.tok1195" lemma="grozljivka" ana="mte:Ncfpn">grozljivke</w>
+					<w xml:id="GosVL52_bezge.tok1196" lemma="grozen" ana="mte:Agpfpn">grozne</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s67" synch="#GosVL52_bezge.t74">
+					<w xml:id="GosVL52_bezge.tok1197" lemma="kdaj" ana="mte:Rgp">kdaj</w>
+					<w xml:id="GosVL52_bezge.tok1198" lemma="postati" ana="mte:Vmer3s">postane</w>
+					<w xml:id="GosVL52_bezge.tok1199" lemma="grozen" ana="mte:Agpfsn">grozna</w>
+					<pc xml:id="GosVL52_bezge.tok1200" lemma="?" ana="mte:Z">?</pc>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s68" synch="#GosVL52_bezge.t75">
+					<w xml:id="GosVL52_bezge.tok1201" lemma="takrat" ana="mte:Rgp">takrat</w>
+					<w xml:id="GosVL52_bezge.tok1202" lemma="ko" ana="mte:Cs">ko</w>
+					<w xml:id="GosVL52_bezge.tok1203" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok1204" lemma="pojaviti" ana="mte:Vmer3s">pojavi</w>
+					<w xml:id="GosVL52_bezge.tok1205" norm="grozen" lemma="grozen" ana="mte:Agpmsnn">grozn</w>
+					<w xml:id="GosVL52_bezge.tok1206" lemma="zvok" ana="mte:Ncmsn">zvok</w>
+					<w xml:id="GosVL52_bezge.tok1207" lemma="ne" ana="mte:Q">ne</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s69" synch="#GosVL52_bezge.t76">
+					<w xml:id="GosVL52_bezge.tok1208" lemma="večina" ana="mte:Ncfsd">večini</w>
+					<w xml:id="GosVL52_bezge.tok1209" lemma="primer" ana="mte:Ncmpg">primerov</w>
+					<w xml:id="GosVL52_bezge.tok1210" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok1211" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok1212" lemma="praviti" ana="mte:Vmbr3s">pravi</w>
+					<w xml:id="GosVL52_bezge.tok1213" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok1214" lemma="jaz" ana="mte:Pp1-pd">nam</w>
+					<w xml:id="GosVL52_bezge.tok1215" lemma="glasba" ana="mte:Ncfsn">glasba</w>
+					<w xml:id="GosVL52_bezge.tok1216" lemma="potemtakem" ana="mte:Rgp">potemtakem</w>
+					<w xml:id="GosVL52_bezge.tok1217" lemma="tudi" ana="mte:Q">tudi</w>
+					<w xml:id="GosVL52_bezge.tok1218" lemma="sporočati" ana="mte:Vmpr3s">sporoča</w>
+					<w xml:id="GosVL52_bezge.tok1219" lemma="ne" ana="mte:Q">ne</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s70" synch="#GosVL52_bezge.t77">
+					<w xml:id="GosVL52_bezge.tok1220" function="filler" lemma="eee" ana="mte:I">eee</w>
+					<w xml:id="GosVL52_bezge.tok1221" lemma="ne" ana="mte:Q">ne</w>
+					<w xml:id="GosVL52_bezge.tok1222" lemma="vedeti" ana="mte:Vmpr1s">vem</w>
+					<w xml:id="GosVL52_bezge.tok1223" norm="zdaj" lemma="zdaj" ana="mte:Rgp">zaj</w>
+					<w xml:id="GosVL52_bezge.tok1224" lemma="reči" ana="mte:Vmem1p">recimo</w>
+					<w xml:id="GosVL52_bezge.tok1225" lemma="glasba" ana="mte:Ncfsn">glasba</w>
+					<w xml:id="GosVL52_bezge.tok1226" lemma="kot" ana="mte:Cs">kot</w>
+					<w xml:id="GosVL52_bezge.tok1227" lemma="tak" ana="mte:Pd-fsn">taka</w>
+					<w xml:id="GosVL52_bezge.tok1228" lemma="jaz" ana="mte:Pp1-sn">jaz</w>
+					<w xml:id="GosVL52_bezge.tok1229" lemma="biti" ana="mte:Va-c">bi</w>
+					<w xml:id="GosVL52_bezge.tok1230" norm="rekel" lemma="reči" ana="mte:Vmep-sm">reku</w>
+					<w xml:id="GosVL52_bezge.tok1231" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok1232" lemma="glasba" ana="mte:Ncfsn">glasba</w>
+					<w xml:id="GosVL52_bezge.tok1233" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok1234" lemma="nek" ana="mte:Pi-fsn">neka</w>
+					<w xml:id="GosVL52_bezge.tok1235" lemma="oblika" ana="mte:Ncfsn">oblika</w>
+					<w xml:id="GosVL52_bezge.tok1236" lemma="estetsko" ana="mte:Rgp">estetsko</w>
+					<w xml:id="GosVL52_bezge.tok1237" function="filler" lemma="eee" ana="mte:I">eee</w>
+					<w xml:id="GosVL52_bezge.tok1238" lemma="urejen" ana="mte:Appmsg">urejenega</w>
+					<w xml:id="GosVL52_bezge.tok1239" lemma="čas" ana="mte:Ncmsg">časa</w>
+					<w xml:id="GosVL52_bezge.tok1240" lemma="ki" ana="mte:Cs">ki</w>
+					<w xml:id="GosVL52_bezge.tok1241" lemma="na" ana="mte:Sl">na</w>
+					<w xml:id="GosVL52_bezge.tok1242" lemma="jaz" ana="mte:Pp1-pl">nas</w>
+					<w xml:id="GosVL52_bezge.tok1243" lemma="tudi" ana="mte:Q">tudi</w>
+					<del type="falseStart" subtype="missingEnd">
+						<w xml:id="GosVL52_bezge.tok1244" lemma="v…" ana="mte:Xt">v…</w>
+					</del>
+					<del type="falseStart" subtype="missingEnd">
+						<w xml:id="GosVL52_bezge.tok1245" lemma="na…" ana="mte:Xt">na…</w>
+					</del>
+					<w xml:id="GosVL52_bezge.tok1246" lemma="zelo" ana="mte:Rgp">zelo</w>
+					<w xml:id="GosVL52_bezge.tok1247" lemma="različen" ana="mte:Agpmpa">različne</w>
+					<w xml:id="GosVL52_bezge.tok1248" lemma="način" ana="mte:Ncmpa">načine</w>
+					<w xml:id="GosVL52_bezge.tok1249" lemma="vplivati" ana="mte:Vmpr3s">vpliva</w>
+					<w xml:id="GosVL52_bezge.tok1250" lemma="in" ana="mte:Cc">in</w>
+					<w xml:id="GosVL52_bezge.tok1251" lemma="ker" ana="mte:Cs">ker</w>
+					<w xml:id="GosVL52_bezge.tok1252" lemma="komunicirati" ana="mte:Vmpr3s">komunicira</w>
+					<w xml:id="GosVL52_bezge.tok1253" lemma="z" ana="mte:Si">z</w>
+					<w xml:id="GosVL52_bezge.tok1254" lemma="jaz" ana="mte:Pp1-pi">nami</w>
+					<w xml:id="GosVL52_bezge.tok1255" lemma="kot" ana="mte:Cs">kot</w>
+					<w xml:id="GosVL52_bezge.tok1256" lemma="zavesten" ana="mte:Agpnpi">zavestnimi</w>
+					<w xml:id="GosVL52_bezge.tok1257" lemma="bitje" ana="mte:Ncnpi">bitji</w>
+					<w xml:id="GosVL52_bezge.tok1258" lemma="komunicirati" ana="mte:Vmpr3s">komunicira</w>
+					<w xml:id="GosVL52_bezge.tok1259" lemma="z" ana="mte:Si">z</w>
+					<w xml:id="GosVL52_bezge.tok1260" lemma="jaz" ana="mte:Pp1-pi">nami</w>
+					<w xml:id="GosVL52_bezge.tok1261" lemma="tudi" ana="mte:Q">tudi</w>
+					<w xml:id="GosVL52_bezge.tok1262" lemma="kot" ana="mte:Cs">kot</w>
+					<del type="falseStart" subtype="missingEnd">
+						<w xml:id="GosVL52_bezge.tok1263" lemma="vz…" ana="mte:Xt">vz…</w>
+					</del>
+					<w xml:id="GosVL52_bezge.tok1264" lemma="podzavesten" ana="mte:Agpnpi">podzavestnimi</w>
+					<w xml:id="GosVL52_bezge.tok1265" lemma="bitje" ana="mte:Ncnpi">bitji</w>
+					<w xml:id="GosVL52_bezge.tok1266" lemma="zato" ana="mte:Cc">zato</w>
+					<w xml:id="GosVL52_bezge.tok1267" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok1268" lemma="glasba" ana="mte:Ncfsn">glasba</w>
+					<w xml:id="GosVL52_bezge.tok1269" lemma="tudi" ana="mte:Q">tudi</w>
+					<w xml:id="GosVL52_bezge.tok1270" lemma="v" ana="mte:Sa">v</w>
+					<w xml:id="GosVL52_bezge.tok1271" lemma="terapevtski" ana="mte:Agpmpa">terapevtske</w>
+					<w xml:id="GosVL52_bezge.tok1272" lemma="namen" ana="mte:Ncmpa">namene</w>
+					<w xml:id="GosVL52_bezge.tok1273" lemma="zadnji" ana="mte:Agpmpa">zadnje</w>
+					<w xml:id="GosVL52_bezge.tok1274" lemma="čas" ana="mte:Ncmpa">čase</w>
+					<vocal type="breath"/>
+					<w xml:id="GosVL52_bezge.tok1275" lemma="lahko" ana="mte:Rgp">lahko</w>
+					<w xml:id="GosVL52_bezge.tok1276" lemma="v" ana="mte:Sl">v</w>
+					<w xml:id="GosVL52_bezge.tok1277" lemma="marsikter" ana="mte:Mlcmpl">marsikterih</w>
+					<w xml:id="GosVL52_bezge.tok1278" lemma="okvir" ana="mte:Ncmpl">okvirih</w>
+					<w xml:id="GosVL52_bezge.tok1279" lemma="uporabljati" ana="mte:Vmpr3s">uporablja</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s71" synch="#GosVL52_bezge.t78">
+					<w xml:id="GosVL52_bezge.tok1280" lemma="in" ana="mte:Cc">in</w>
+					<w xml:id="GosVL52_bezge.tok1281" lemma="vsak" ana="mte:Pg-msd">vsakemu</w>
+					<w xml:id="GosVL52_bezge.tok1282" lemma="ki" ana="mte:Cs">ki</w>
+					<w xml:id="GosVL52_bezge.tok1283" lemma="ta" ana="mte:Pd-nsa">to</w>
+					<w xml:id="GosVL52_bezge.tok1284" lemma="korist" ana="mte:Ncfpa">koristi</w>
+					<w xml:id="GosVL52_bezge.tok1285" lemma="biti" ana="mte:Va-c">bi</w>
+					<w xml:id="GosVL52_bezge.tok1286" lemma="lahko" ana="mte:Rgp">lahko</w>
+					<w xml:id="GosVL52_bezge.tok1287" norm="rekel" lemma="reči" ana="mte:Vmep-sm">reku</w>
+					<w xml:id="GosVL52_bezge.tok1288" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok1289" lemma="sigurno" ana="mte:Rgp">sigurno</w>
+					<w xml:id="GosVL52_bezge.tok1290" lemma="on" ana="mte:Pp3msd--y">mu</w>
+					<w xml:id="GosVL52_bezge.tok1291" lemma="ne" ana="mte:Q">ne</w>
+					<w xml:id="GosVL52_bezge.tok1292" lemma="moči" ana="mte:Vmpr3s">more</w>
+					<w xml:id="GosVL52_bezge.tok1293" norm="škoditi" lemma="škoditi" ana="mte:Vmbn">škodit</w>
+					<w xml:id="GosVL52_bezge.tok1294" lemma="ne" ana="mte:Q">ne</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s72" synch="#GosVL52_bezge.t79">
+					<vocal type="breath"/>
+					<w xml:id="GosVL52_bezge.tok1295" function="filler" lemma="eee" ana="mte:I">eee</w>
+					<vocal type="laughter" who="#GosVL52_bezge-audience"/>
+					<w xml:id="GosVL52_bezge.tok1296" norm="tako" lemma="tako" ana="mte:Cc">tak</w>
+					<w xml:id="GosVL52_bezge.tok1297" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok1298" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok1299" lemma="ne" ana="mte:Q">ne</w>
+					<w xml:id="GosVL52_bezge.tok1300" lemma="biti" ana="mte:Va-c">bi</w>
+					<vocal type="voice"/>
+					<w xml:id="GosVL52_bezge.tok1301" lemma="preveč" ana="mte:Rgp">preveč</w>
+					<w xml:id="GosVL52_bezge.tok1302" lemma="zakomplicirati" ana="mte:Vmep-pm">zakomplicirali</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s73" synch="#GosVL52_bezge.t80">
+					<w xml:id="GosVL52_bezge.tok1303" function="filler" lemma="eee" ana="mte:I">eee</w>
+					<w xml:id="GosVL52_bezge.tok1304" lemma="jaz" ana="mte:Pp1-sn">jaz</w>
+					<w xml:id="GosVL52_bezge.tok1305" lemma="misliti" ana="mte:Vmpr1s">mislim</w>
+					<w xml:id="GosVL52_bezge.tok1306" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok1307" lemma="v" ana="mte:Sl">v</w>
+					<w xml:id="GosVL52_bezge.tok1308" lemma="vsesplošen" ana="mte:Agpnsl">vsesplošnem</w>
+					<w xml:id="GosVL52_bezge.tok1309" lemma="okolje" ana="mte:Ncnsl">okolju</w>
+					<w xml:id="GosVL52_bezge.tok1310" lemma="moj" ana="mte:Ps1nsgs">mojega</w>
+					<w xml:id="GosVL52_bezge.tok1311" lemma="videnje" ana="mte:Ncnsg">videnja</w>
+					<del type="falseStart" subtype="missingEnd">
+						<w xml:id="GosVL52_bezge.tok1312" lemma="je…" ana="mte:Xt">je…</w>
+					</del>
+					<w xml:id="GosVL52_bezge.tok1313" lemma="jezik" ana="mte:Ncmsg">jezika</w>
+					<w xml:id="GosVL52_bezge.tok1314" lemma="glasba" ana="mte:Ncfsg">glasbe</w>
+					<w xml:id="GosVL52_bezge.tok1315" lemma="ne" ana="mte:Q">ne</w>
+					<w xml:id="GosVL52_bezge.tok1316" lemma="biti" ana="mte:Va-c">bi</w>
+					<w xml:id="GosVL52_bezge.tok1317" norm="mogel" lemma="moči" ana="mte:Vmpp-sm">mogu</w>
+					<w xml:id="GosVL52_bezge.tok1318" norm="reči" lemma="reči" ana="mte:Vmen">rečt</w>
+					<w xml:id="GosVL52_bezge.tok1319" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok1320" lemma="biti" ana="mte:Va-r3s-n">je</w>
+					<w xml:id="GosVL52_bezge.tok1321" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<w xml:id="GosVL52_bezge.tok1322" lemma="ta" ana="mte:Pd-nsn">to</w>
+					<vocal type="voice"/>
+					<w xml:id="GosVL52_bezge.tok1323" lemma="ker" ana="mte:Cs">ker</w>
+					<w xml:id="GosVL52_bezge.tok1324" lemma="se" ana="mte:Px------y">se</w>
+					<w xml:id="GosVL52_bezge.tok1325" lemma="z" ana="mte:Si">z</w>
+					<w xml:id="GosVL52_bezge.tok1326" lemma="glasba" ana="mte:Ncfsi">glasbo</w>
+					<w xml:id="GosVL52_bezge.tok1327" lemma="dosti" ana="mte:Rgp">dosti</w>
+					<w xml:id="GosVL52_bezge.tok1328" lemma="lahko" ana="mte:Rgc">lažje</w>
+					<w xml:id="GosVL52_bezge.tok1329" lemma="izražati" ana="mte:Vmpr1s">izražam</w>
+					<w xml:id="GosVL52_bezge.tok1330" lemma="kot" ana="mte:Cs">kot</w>
+					<w xml:id="GosVL52_bezge.tok1331" lemma="beseda" ana="mte:Ncfpi">besedami</w>
+					<w xml:id="GosVL52_bezge.tok1332" lemma="in" ana="mte:Cc">in</w>
+					<w xml:id="GosVL52_bezge.tok1333" lemma="raje" ana="mte:Rgc">raje</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s74" synch="#GosVL52_bezge.t81">
+					<w xml:id="GosVL52_bezge.tok1334" norm="tako" lemma="tako" ana="mte:Cc">tak</w>
+					<w xml:id="GosVL52_bezge.tok1335" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok1336" lemma="biti" ana="mte:Va-c">bi</w>
+					<w xml:id="GosVL52_bezge.tok1337" lemma="ti" ana="mte:Pp2-pa">vas</w>
+					<w xml:id="GosVL52_bezge.tok1338" lemma="raje" ana="mte:Rgc">raje</w>
+					<w xml:id="GosVL52_bezge.tok1339" norm="povabil" lemma="povabiti" ana="mte:Vmep-sm">povabu</w>
+					<del type="falseStart" subtype="missingEnd">
+						<w xml:id="GosVL52_bezge.tok1340" lemma="k…" ana="mte:Xt">k…</w>
+					</del>
+					<w xml:id="GosVL52_bezge.tok1341" lemma="na" ana="mte:Sa">na</w>
+					<w xml:id="GosVL52_bezge.tok1342" lemma="kak" ana="mte:Pq-msa">kak</w>
+					<w xml:id="GosVL52_bezge.tok1343" lemma="koncert" ana="mte:Ncmsan">koncert</w>
+					<w xml:id="GosVL52_bezge.tok1344" lemma="ko" ana="mte:Cs">ko</w>
+					<w xml:id="GosVL52_bezge.tok1345" lemma="kot" ana="mte:Cs">kot</w>
+					<w xml:id="GosVL52_bezge.tok1346" lemma="pa" ana="mte:Cc">pa</w>
+					<w xml:id="GosVL52_bezge.tok1347" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok1348" lemma="biti" ana="mte:Va-c">bi</w>
+					<w xml:id="GosVL52_bezge.tok1349" lemma="ti" ana="mte:Pp2-pd">vam</w>
+					<w xml:id="GosVL52_bezge.tok1350" lemma="še" ana="mte:Q">še</w>
+					<w xml:id="GosVL52_bezge.tok1351" lemma="tukaj" ana="mte:Rgp">tukaj</w>
+					<w xml:id="GosVL52_bezge.tok1352" lemma="dalje" ana="mte:Rgp">dalje</w>
+					<w xml:id="GosVL52_bezge.tok1353" lemma="težiti" ana="mte:Vmpp-sm">težil</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s75" synch="#GosVL52_bezge.t82">
+					<incident type="other"/>
+					<incident type="sound"/>
+					<w xml:id="GosVL52_bezge.tok1354" norm="tako" lemma="tako" ana="mte:Cc">tak</w>
+					<w xml:id="GosVL52_bezge.tok1355" lemma="da" ana="mte:Cs">da</w>
+					<w xml:id="GosVL52_bezge.tok1356" lemma="biti" ana="mte:Va-f1s-n">bom</w>
+					<w xml:id="GosVL52_bezge.tok1357" lemma="zdaj" ana="mte:Rgp">zdaj</w>
+					<w xml:id="GosVL52_bezge.tok1358" norm="zaključil" lemma="zaključiti" ana="mte:Vmep-sm">zaključo</w>
+					<vocal type="laughter" who="#GosVL52_bezge-audience"/>
+					<w xml:id="GosVL52_bezge.tok1359" lemma="pa" ana="mte:Cc">pa</w>
+					<w xml:id="GosVL52_bezge.tok1360" lemma="naslednji" ana="mte:Agpmsd">naslednjemu</w>
+					<w xml:id="GosVL52_bezge.tok1361" lemma="prepustiti" ana="mte:Vmep-sm">prepustil</w>
+					<w xml:id="GosVL52_bezge.tok1362" lemma="beseda" ana="mte:Ncfsa">besedo</w>
+				</seg>
+				<seg xml:id="GosVL52_bezge.s76" synch="#GosVL52_bezge.t83">
+					<w xml:id="GosVL52_bezge.tok1363" lemma="hvala" ana="mte:Ncfsn">hvala</w>
+				</seg>
+			</u>
+			<u xml:id="GosVL52_bezge.u16" start="#GosVL52_bezge.t84" end="#GosVL52_bezge.t85"/>
+		</body>
+	</text>
+</TEI>
