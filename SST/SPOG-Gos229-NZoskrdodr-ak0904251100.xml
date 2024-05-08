@@ -1,0 +1,675 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Gos229" xml:lang="sl" source="#gos.P.G">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vsakotedenski pogovar vnukinje na obisku pri babici o trenutnih dogodkih, dogodkih iz preteklosti... [Gos1.1]</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>2.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="417" xml:lang="sl">417 govorov</measure>
+            <measure unit="speeches" quantity="417" xml:lang="en">417 speeches</measure>
+            <measure unit="words" quantity="4227" xml:lang="sl">4227 besed</measure>
+            <measure unit="words" quantity="4227" xml:lang="en">4227 words</measure>
+         </extent>
+         <publicationStmt>
+            <distributor>
+               <ref target="https://www.clarin.si/">CLARIN.SI</ref>
+            </distributor>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/XXXX</idno>
+            <date when="2023-06-09">2023-06-09</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <publisher>lastni posnetek</publisher>
+               <title>Vsakotedenski pogovar vnukinje na obisku pri babici o trenutnih dogodkih, dogodkih iz preteklosti...</title>
+               <date when="2009-04">2009-04</date>
+            </bibl>
+            <recordingStmt>
+               <recording>
+                  <media xml:id="SPOG-Gos229-NZoskrdodr-ak0904251100-avd.wav" mimeType="audio/wav" url="./SPOG-Gos229-NZoskrdodr-ak0904251100-avd.wav"/>
+                  <date when="2009-04-25">2009-04-25</date>
+               </recording>
+            </recordingStmt>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <catRef target="#gos.T.N.Z"/>
+            <catRef target="#gos.K.O"/>
+         </textClass>
+         <textDesc>
+            <channel/>
+            <constitution/>
+            <derivation/>
+            <domain>doma, družina</domain>
+            <factuality/>
+            <interaction/>
+            <preparedness/>
+            <purpose/>
+         </textDesc>
+         <particDesc>
+            <listPerson n="4">
+               <person sameAs="#Ef-ssta-06566"/>
+               <person sameAs="#Lf-otro-06567"/>
+               <person sameAs="#audience"/>
+               <person sameAs="#all"/>
+            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <place>
+               <settlement>Tržič</settlement>
+            </place>
+         </settingDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <timeline unit="seg" xml:id="NZoskrdodr-ak0904251100" origin="#NZoskrdodr-ak0904251100.t0" corresp="#NZoskrdodr-ak0904251100.wav">
+            <when xml:id="NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t2.478" interval="2.478" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t5.882" interval="5.882" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t12.800" interval="12.800" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t16.039" interval="16.039" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t18.818" interval="18.818" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t19.43" interval="19.43" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t23.98" interval="23.98" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t24.871" interval="24.871" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t30.295" interval="30.295" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t31.732" interval="31.732" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t33.226" interval="33.226" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t33.899" interval="33.899" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t37.233" interval="37.233" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t46.979" interval="46.979" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t49.667" interval="49.667" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t55.228" interval="55.228" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t55.822" interval="55.822" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t59.082" interval="59.082" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t67.283" interval="67.283" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t68.257" interval="68.257" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t72.885" interval="72.885" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t73.657" interval="73.657" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t84.008" interval="84.008" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t84.809" interval="84.809" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t85.825" interval="85.825" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t89.419" interval="89.419" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t93.072" interval="93.072" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t100.141" interval="100.141" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t100.891" interval="100.891" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t102.781" interval="102.781" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t105.958" interval="105.958" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t106.88" interval="106.88" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t110.716" interval="110.716" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t115.952" interval="115.952" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t117.224" interval="117.224" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t122.083" interval="122.083" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t122.63" interval="122.63" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t126.758" interval="126.758" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t130.91" interval="130.91" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t134.035" interval="134.035" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t140.133019063" interval="140.133019063" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t142.768" interval="142.768" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t148.455" interval="148.455" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t152.324" interval="152.324" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t153.019" interval="153.019" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t154.629" interval="154.629" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t159.693" interval="159.693" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t160.605" interval="160.605" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t167.753" interval="167.753" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t168.534" interval="168.534" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t171.645" interval="171.645" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t172.973" interval="172.973" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t174.341" interval="174.341" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t175.118" interval="175.118" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t179.086" interval="179.086" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t182.038" interval="182.038" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t184.696" interval="184.696" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t190.427" interval="190.427" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t194.864" interval="194.864" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t197.349" interval="197.349" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t198.914" interval="198.914" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t199.99" interval="199.99" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t202.486" interval="202.486" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t205.095" interval="205.095" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t210.567" interval="210.567" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t212.005" interval="212.005" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t218.672" interval="218.672" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t220.52" interval="220.52" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t223.544" interval="223.544" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t226.929" interval="226.929" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t227.617" interval="227.617" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t233.065" interval="233.065" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t243.0" interval="243.0" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t248.952" interval="248.952" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t251.087" interval="251.087" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t265.912" interval="265.912" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t268.072" interval="268.072" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t277.494" interval="277.494" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t283.356" interval="283.356" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t284.985" interval="284.985" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t300.391" interval="300.391" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t306.5" interval="306.5" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t307.688" interval="307.688" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t313.086" interval="313.086" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t313.519" interval="313.519" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t316.418" interval="316.418" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t318.894" interval="318.894" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t323.688" interval="323.688" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t324.709" interval="324.709" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t325.318" interval="325.318" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t327.712" interval="327.712" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t337.91" interval="337.91" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t338.597" interval="338.597" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t343.331" interval="343.331" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t347.078" interval="347.078" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t350.112" interval="350.112" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t352.097" interval="352.097" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t352.55" interval="352.55" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t360.792" interval="360.792" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t367.021" interval="367.021" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t372.503" interval="372.503" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t376.174" interval="376.174" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t380.375" interval="380.375" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t385.03" interval="385.03" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t387.874" interval="387.874" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t394.978" interval="394.978" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t398.056" interval="398.056" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t412.12" interval="412.12" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t414.472" interval="414.472" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t415.773" interval="415.773" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t417.8" interval="417.8" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t423.268" interval="423.268" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t426.722" interval="426.722" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t430.041" interval="430.041" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t437.472" interval="437.472" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t444.263" interval="444.263" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t446.45" interval="446.45" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t449.716" interval="449.716" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t455.267" interval="455.267" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t458.392" interval="458.392" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t460.811" interval="460.811" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t468.611" interval="468.611" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t469.547" interval="469.547" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t471.563" interval="471.563" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t480.264" interval="480.264" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t488.067" interval="488.067" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t491.108" interval="491.108" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t491.544" interval="491.544" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t493.341" interval="493.341" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t500.366" interval="500.366" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t501.132" interval="501.132" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t504.978" interval="504.978" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t510.013" interval="510.013" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t517.024" interval="517.024" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t518.227" interval="518.227" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t520.096" interval="520.096" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t526.627" interval="526.627" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t528.847" interval="528.847" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t535.207" interval="535.207" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t539.119" interval="539.119" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t540.823" interval="540.823" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t541.245" interval="541.245" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t545.842" interval="545.842" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t547.077" interval="547.077" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t548.467" interval="548.467" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t554.377" interval="554.377" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t560.283" interval="560.283" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t561.299" interval="561.299" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t564.108" interval="564.108" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t567.946" interval="567.946" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t572.64" interval="572.64" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t575.796" interval="575.796" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t577.359" interval="577.359" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t578.312" interval="578.312" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t580.234" interval="580.234" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t582.769" interval="582.769" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t590.939" interval="590.939" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t592.212" interval="592.212" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t596.181" interval="596.181" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t603.447" interval="603.447" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t606.759" interval="606.759" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t612.306" interval="612.306" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t616.636" interval="616.636" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t618.573" interval="618.573" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t625.565" interval="625.565" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t628.783" interval="628.783" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t632.967" interval="632.967" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t633.436" interval="633.436" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t639.803" interval="639.803" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t641.1" interval="641.1" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t644.651" interval="644.651" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t645.372" interval="645.372" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t650.622" interval="650.622" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t651.523" interval="651.523" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t652.78" interval="652.78" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t653.723" interval="653.723" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t659.73" interval="659.73" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t660.132" interval="660.132" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t662.45" interval="662.45" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t665.787" interval="665.787" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t667.198" interval="667.198" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t671.326" interval="671.326" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t674.048" interval="674.048" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t677.766" interval="677.766" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t683.391" interval="683.391" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t687.774" interval="687.774" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t692.661" interval="692.661" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t694.873" interval="694.873" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t701.951" interval="701.951" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t706.511" interval="706.511" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t707.255" interval="707.255" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t714.767" interval="714.767" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t718.492" interval="718.492" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t721.93" interval="721.93" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t728.565" interval="728.565" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t732.565" interval="732.565" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t733.509" interval="733.509" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t738.285" interval="738.285" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t740.176" interval="740.176" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t749.152" interval="749.152" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t759.315" interval="759.315" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t765.607" interval="765.607" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t767.058" interval="767.058" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t772.65" interval="772.65" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t781.509" interval="781.509" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t784.506" interval="784.506" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t786.589" interval="786.589" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t789.444" interval="789.444" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t792.561" interval="792.561" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t797.849" interval="797.849" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t804.523" interval="804.523" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t811.603" interval="811.603" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t815.203" interval="815.203" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t815.688" interval="815.688" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t820.685" interval="820.685" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t827.469" interval="827.469" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t835.922" interval="835.922" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t843.124" interval="843.124" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t846.306" interval="846.306" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t855.79" interval="855.79" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t864.501" interval="864.501" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t871.43" interval="871.43" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t875.638" interval="875.638" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t879.742" interval="879.742" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t881.023" interval="881.023" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t885.766" interval="885.766" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t890.614" interval="890.614" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t897.286" interval="897.286" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t898.726" interval="898.726" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t899.278" interval="899.278" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t901.419" interval="901.419" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t903.685" interval="903.685" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t907.911" interval="907.911" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t909.925" interval="909.925" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t915.109" interval="915.109" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t915.609" interval="915.609" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t922.261" interval="922.261" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t926.822" interval="926.822" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t927.875" interval="927.875" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t930.155" interval="930.155" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t933.851" interval="933.851" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t934.961" interval="934.961" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t937.72" interval="937.72" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t940.354" interval="940.354" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t944.682" interval="944.682" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t946.104" interval="946.104" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t949.057" interval="949.057" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t950.493" interval="950.493" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t951.261" interval="951.261" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t952.489" interval="952.489" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t955.009" interval="955.009" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t955.561" interval="955.561" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t957.265" interval="957.265" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t959.653" interval="959.653" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t962.2" interval="962.2" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t970.88" interval="970.88" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t974.488" interval="974.488" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t976.832" interval="976.832" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t977.661" interval="977.661" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t982.125" interval="982.125" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t982.797" interval="982.797" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t984.413" interval="984.413" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t991.88" interval="991.88" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t995.048" interval="995.048" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1000.4" interval="1000.4" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1001.025" interval="1001.025" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1005.917" interval="1005.917" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1007.281" interval="1007.281" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1013.404" interval="1013.404" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1018.795" interval="1018.795" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1019.272" interval="1019.272" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1021.924" interval="1021.924" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1022.377" interval="1022.377" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1026.697" interval="1026.697" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1027.9" interval="1027.9" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1029.384" interval="1029.384" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1033.825" interval="1033.825" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1037.545" interval="1037.545" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1044.048" interval="1044.048" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1050.424" interval="1050.424" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1054.453" interval="1054.453" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1059.364" interval="1059.364" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1065.121" interval="1065.121" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1065.637" interval="1065.637" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1070.517" interval="1070.517" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1078.095" interval="1078.095" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1079.425" interval="1079.425" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1081.705" interval="1081.705" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1082.569" interval="1082.569" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1088.428" interval="1088.428" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1090.31" interval="1090.31" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1090.888" interval="1090.888" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1093.163" interval="1093.163" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1096.648" interval="1096.648" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1098.928" interval="1098.928" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1102.355" interval="1102.355" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1105.677" interval="1105.677" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1108.615" interval="1108.615" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1109.381" interval="1109.381" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1112.119" interval="1112.119" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1112.791" interval="1112.791" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1117.273" interval="1117.273" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1117.801" interval="1117.801" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1120.134" interval="1120.134" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1125.004" interval="1125.004" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1128.207" interval="1128.207" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1132.051" interval="1132.051" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1141.555" interval="1141.555" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1143.955" interval="1143.955" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1153.404" interval="1153.404" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1154.045" interval="1154.045" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1155.695" interval="1155.695" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1157.686" interval="1157.686" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1159.086" interval="1159.086" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1160.065" interval="1160.065" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1165.467" interval="1165.467" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1169.117" interval="1169.117" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1179.015" interval="1179.015" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1179.533" interval="1179.533" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1189.421" interval="1189.421" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1195.696" interval="1195.696" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1198.8" interval="1198.8" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1199.331" interval="1199.331" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1202.128" interval="1202.128" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1206.607" interval="1206.607" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1207.17" interval="1207.17" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1212.72" interval="1212.72" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1213.464" interval="1213.464" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1219.659" interval="1219.659" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1220.331" interval="1220.331" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1224.927" interval="1224.927" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1226.619" interval="1226.619" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1229.74" interval="1229.74" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1236.059" interval="1236.059" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1237.667" interval="1237.667" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1239.919" interval="1239.919" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1240.427" interval="1240.427" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1244.215" interval="1244.215" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1246.748" interval="1246.748" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1249.461" interval="1249.461" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1252.059" interval="1252.059" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1252.659" interval="1252.659" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1256.643" interval="1256.643" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1258.737" interval="1258.737" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1267.323" interval="1267.323" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1267.792" interval="1267.792" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1268.704" interval="1268.704" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1269.232" interval="1269.232" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1273.456" interval="1273.456" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1274.066" interval="1274.066" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1277.426" interval="1277.426" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1280.181" interval="1280.181" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1281.149" interval="1281.149" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1283.453" interval="1283.453" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1284.701" interval="1284.701" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1285.389" interval="1285.389" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1287.213" interval="1287.213" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1289.736" interval="1289.736" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1292.189" interval="1292.189" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1293.783" interval="1293.783" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1299.899" interval="1299.899" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1300.821" interval="1300.821" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1304.037" interval="1304.037" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1309.15" interval="1309.15" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1315.353" interval="1315.353" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1318.838" interval="1318.838" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1319.541" interval="1319.541" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1321.041" interval="1321.041" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1323.478" interval="1323.478" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1330.294" interval="1330.294" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1336.439" interval="1336.439" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1338.286" interval="1338.286" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1340.642" interval="1340.642" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1343.798" interval="1343.798" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1348.442" interval="1348.442" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1351.715" interval="1351.715" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1355.684" interval="1355.684" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1358.249" interval="1358.249" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1358.867" interval="1358.867" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1364.399" interval="1364.399" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1365.646" interval="1365.646" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1369.127" interval="1369.127" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1371.594" interval="1371.594" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1372.063" interval="1372.063" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1374.882" interval="1374.882" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1381.562" interval="1381.562" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1384.442" interval="1384.442" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1393.432" interval="1393.432" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1398.017" interval="1398.017" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1404.602" interval="1404.602" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1405.034" interval="1405.034" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1408.003" interval="1408.003" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1418.067" interval="1418.067" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1418.522" interval="1418.522" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1420.022" interval="1420.022" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1423.71" interval="1423.71" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1424.648" interval="1424.648" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1427.72" interval="1427.72" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1430.392" interval="1430.392" since="#NZoskrdodr-ak0904251100.t0"/>
+            <when xml:id="NZoskrdodr-ak0904251100.t1437.207" interval="1437.207" since="#NZoskrdodr-ak0904251100.t0"/>
+         </timeline>
+         <u xml:id="Gos229.u266" who="#Lf-otro-06567" trans="overlap" start="#NZoskrdodr-ak0904251100.t926.822" end="#NZoskrdodr-ak0904251100.t927.875">
+<seg xml:id="Gos229.s318" synch="#NZoskrdodr-ak0904251100.t926.822">
+<w xml:id="Gos229.tok2806" lemma="o" ana="mte:I">o</w>
+               <gap reason="unclear"/>
+            </seg>
+         </u>
+         <u xml:id="Gos229.u267" who="#Ef-ssta-06566" start="#NZoskrdodr-ak0904251100.t927.875" end="#NZoskrdodr-ak0904251100.t933.851">
+<seg xml:id="Gos229.s319" synch="#NZoskrdodr-ak0904251100.t927.875">
+<w xml:id="Gos229.tok2807" lemma="ja" ana="mte:Q">ja</w>
+<w xml:id="Gos229.tok2808" lemma="pa" ana="mte:Cc">pa</w>
+<w xml:id="Gos229.tok2809" lemma="če" ana="mte:Cs">če</w>
+<w xml:id="Gos229.tok2810" norm="pomislim" lemma="pomisliti" ana="mte:Vmer1s">pumislm</w>
+<w xml:id="Gos229.tok2811" lemma="nazaj" ana="mte:Rgp">nazaj</w>
+            </seg>
+<seg xml:id="Gos229.s320" synch="#NZoskrdodr-ak0904251100.t930.155">
+<w xml:id="Gos229.tok2812" lemma="ta" ana="mte:Pd-nsn">to</w>
+<w xml:id="Gos229.tok2813" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos229.tok2814" norm="bilo" lemma="biti" ana="mte:Va-p-sn">bvo</w>
+<w xml:id="Gos229.tok2815" norm="zanjo" lemma="zame" ana="mte:Pp3fsa--b">zano</w>
+<w xml:id="Gos229.tok2816" norm="normalno" lemma="normalno" ana="mte:Rgp">normaln</w>
+<w xml:id="Gos229.tok2817" norm="nikoli" lemma="nikoli" ana="mte:Rgp">nkol</w>
+<w xml:id="Gos229.tok2818" lemma="še" ana="mte:Q">še</w>
+<w xml:id="Gos229.tok2819" norm="drugače" lemma="drugače" ana="mte:Rgp">drgač</w>
+<w xml:id="Gos229.tok2820" norm="bilo" lemma="biti" ana="mte:Va-p-sn">bvo</w>
+<w xml:id="Gos229.tok2821" lemma="biti" ana="mte:Va-r3s-y">ni</w>
+            </seg>
+         </u>
+         <u xml:id="Gos229.u268" who="#Lf-otro-06567" start="#NZoskrdodr-ak0904251100.t933.851" end="#NZoskrdodr-ak0904251100.t934.961">
+<seg xml:id="Gos229.s321" synch="#NZoskrdodr-ak0904251100.t933.851">
+<w xml:id="Gos229.tok2822" lemma="ja" ana="mte:Q">ja</w>
+<w xml:id="Gos229.tok2823" norm="saj" lemma="saj" ana="mte:Cc">sej</w>
+<w xml:id="Gos229.tok2824" lemma="ja" ana="mte:Q">ja</w>
+            </seg>
+         </u>
+         <u xml:id="Gos229.u269" who="#Ef-ssta-06566" start="#NZoskrdodr-ak0904251100.t934.961" end="#NZoskrdodr-ak0904251100.t937.72">
+<seg xml:id="Gos229.s322" synch="#NZoskrdodr-ak0904251100.t934.961">
+<w xml:id="Gos229.tok2825" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Gos229.tok2826" lemma="biti" ana="mte:Va-r1p-n">smo</w>
+<w xml:id="Gos229.tok2827" lemma="iti" ana="mte:Vmbp-pf">šle</w>
+<w xml:id="Gos229.tok2828" norm="po" lemma="po" ana="mte:Sl">pu</w>
+<w xml:id="Gos229.tok2829" lemma="ene" ana="mte:Rgp">ene</w>
+<w xml:id="Gos229.tok2830" norm="trikrat" lemma="trikrat" ana="mte:Rgp">triket</w>
+<w xml:id="Gos229.tok2831" lemma="z" ana="mte:Sg">s</w>
+<w xml:id="Gos229.tok2832" lemma="Križ" ana="mte:Npmsg">Križa</w>
+<w xml:id="Gos229.tok2833" lemma="v" ana="mte:Sa">v</w>
+<w xml:id="Gos229.tok2834" norm="gozd" lemma="gozd" ana="mte:Ncmsan">gojzd</w>
+            </seg>
+         </u>
+         <u xml:id="Gos229.u270" who="#Ef-ssta-06566" trans="smooth" start="#NZoskrdodr-ak0904251100.t937.72" end="#NZoskrdodr-ak0904251100.t937.72">
+<seg xml:id="Gos229.s323" synch="#NZoskrdodr-ak0904251100.t937.72">
+               <gap reason="unclear"/>
+<w xml:id="Gos229.tok2835" norm="nedeljo" lemma="nedelja" ana="mte:Ncfsa">nedelu</w>
+<w xml:id="Gos229.tok2836" norm="popoldne" lemma="popoldne" ana="mte:Rgp">popolne</w>
+            </seg>
+         </u>
+         <u xml:id="Gos229.u271" who="#Lf-otro-06567" trans="overlap" start="#NZoskrdodr-ak0904251100.t937.72" end="#NZoskrdodr-ak0904251100.t940.354">
+<seg xml:id="Gos229.s324" synch="#NZoskrdodr-ak0904251100.t937.72">
+<w xml:id="Gos229.tok2837" lemma="ho" ana="mte:I">ho</w>
+            </seg>
+         </u>
+         <u xml:id="Gos229.u272" who="#Ef-ssta-06566" start="#NZoskrdodr-ak0904251100.t940.354" end="#NZoskrdodr-ak0904251100.t944.682">
+<seg xml:id="Gos229.s325" synch="#NZoskrdodr-ak0904251100.t940.354">
+<w xml:id="Gos229.tok2838" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Gos229.tok2839" lemma="na" ana="mte:Sa">na</w>
+<w xml:id="Gos229.tok2840" lemma="en" ana="mte:Mlpfsa">eno</w>
+<w xml:id="Gos229.tok2841" lemma="stran" ana="mte:Ncfsa">stran</w>
+<w xml:id="Gos229.tok2842" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos229.tok2843" lemma="ta" ana="mte:Pd-nsn">to</w>
+<w xml:id="Gos229.tok2844" lemma="en" ana="mte:Mlpfsa">eno</w>
+<w xml:id="Gos229.tok2845" lemma="ura" ana="mte:Ncfsa">uro</w>
+<w xml:id="Gos229.tok2846" lemma="nazaj" ana="mte:Rgp">nazaj</w>
+<w xml:id="Gos229.tok2847" norm="si" lemma="biti" ana="mte:Va-r2s-n">s</w>
+<w xml:id="Gos229.tok2848" lemma="biti" ana="mte:Va-p-sm">bil</w>
+<w xml:id="Gos229.tok2849" lemma="pa" ana="mte:Cc">pa</w>
+<w xml:id="Gos229.tok2850" lemma="pet" ana="mte:Mlc-pa">pet</w>
+<w xml:id="Gos229.tok2851" lemma="minuta" ana="mte:Ncfpg">minut</w>
+            </seg>
+         </u>
+         <u xml:id="Gos229.u273" who="#Lf-otro-06567" start="#NZoskrdodr-ak0904251100.t944.682" end="#NZoskrdodr-ak0904251100.t946.104">
+<seg xml:id="Gos229.s326" synch="#NZoskrdodr-ak0904251100.t944.682">
+<w xml:id="Gos229.tok2852" lemma="ja" ana="mte:Q">ja</w>
+<w xml:id="Gos229.tok2853" norm="saj" lemma="saj" ana="mte:Cc">sej</w>
+<w xml:id="Gos229.tok2854" lemma="ja" ana="mte:Q">ja</w>
+            </seg>
+         </u>
+         <u xml:id="Gos229.u274" who="#Ef-ssta-06566" trans="smooth" start="#NZoskrdodr-ak0904251100.t946.104" end="#NZoskrdodr-ak0904251100.t946.104">
+<seg xml:id="Gos229.s327" synch="#NZoskrdodr-ak0904251100.t946.104">
+<w xml:id="Gos229.tok2855" lemma="ampak" ana="mte:Cc">ampak</w>
+<w xml:id="Gos229.tok2856" norm="nič" lemma="nič" ana="mte:Rgp">nč</w>
+<w xml:id="Gos229.tok2857" lemma="zmatran" ana="mte:Appmsnn">zmatran</w>
+<w xml:id="Gos229.tok2858" norm="drugi" lemma="drug" ana="mte:Mlpmsay">drug</w>
+<w xml:id="Gos229.tok2859" lemma="dan" ana="mte:Ncmsan">dan</w>
+            </seg>
+         </u>
+         <u xml:id="Gos229.u275" who="#Lf-otro-06567" trans="overlap" start="#NZoskrdodr-ak0904251100.t946.104" end="#NZoskrdodr-ak0904251100.t949.057">
+<seg xml:id="Gos229.s328" synch="#NZoskrdodr-ak0904251100.t946.104">
+<w xml:id="Gos229.tok2860" norm="hitro" lemma="hitro" ana="mte:Rgp">hitr</w>
+            </seg>
+         </u>
+         <u xml:id="Gos229.u276" start="#NZoskrdodr-ak0904251100.t949.057" end="#NZoskrdodr-ak0904251100.t950.493">
+<seg xml:id="Gos229.s329" synch="#NZoskrdodr-ak0904251100.t949.057">
+               <pause/>
+            </seg>
+         </u>
+         <u xml:id="Gos229.u277" who="#Lf-otro-06567" start="#NZoskrdodr-ak0904251100.t950.493" end="#NZoskrdodr-ak0904251100.t951.261">
+<seg xml:id="Gos229.s330" synch="#NZoskrdodr-ak0904251100.t950.493">
+<w xml:id="Gos229.tok2861" lemma="navajen" ana="mte:Appmsnn">navajen</w>
+            </seg>
+         </u>
+         <u xml:id="Gos229.u278" who="#Ef-ssta-06566" trans="smooth" start="#NZoskrdodr-ak0904251100.t951.261" end="#NZoskrdodr-ak0904251100.t951.261">
+<seg xml:id="Gos229.s331" synch="#NZoskrdodr-ak0904251100.t951.261">
+<w xml:id="Gos229.tok2862" lemma="ja" ana="mte:Q">ja</w>
+<w xml:id="Gos229.tok2863" lemma="še" ana="mte:Q">še</w>
+<w xml:id="Gos229.tok2864" lemma="spočit" ana="mte:Appmsnn">spočit</w>
+            </seg>
+         </u>
+         <u xml:id="Gos229.u279" who="#Lf-otro-06567" trans="overlap" start="#NZoskrdodr-ak0904251100.t951.261" end="#NZoskrdodr-ak0904251100.t952.489">
+<seg xml:id="Gos229.s332" synch="#NZoskrdodr-ak0904251100.t951.261">
+<w xml:id="Gos229.tok2865" lemma="a" ana="mte:Rgp">a</w>
+<w xml:id="Gos229.tok2866" lemma="ne" ana="mte:Q">ne</w>
+            </seg>
+         </u>
+         <u xml:id="Gos229.u280" who="#Ef-ssta-06566" trans="smooth" start="#NZoskrdodr-ak0904251100.t952.489" end="#NZoskrdodr-ak0904251100.t952.489">
+<seg xml:id="Gos229.s333" synch="#NZoskrdodr-ak0904251100.t952.489">
+<w xml:id="Gos229.tok2867" lemma="še" ana="mte:Q">še</w>
+<w xml:id="Gos229.tok2868" norm="celo" lemma="celo" ana="mte:Q">clo</w>
+<w xml:id="Gos229.tok2869" lemma="spočit" ana="mte:Appmsnn">spočit</w>
+<w xml:id="Gos229.tok2870" norm="ker" lemma="ker" ana="mte:Cs">ke</w>
+<w xml:id="Gos229.tok2871" norm="si" lemma="biti" ana="mte:Va-r2s-n">s</w>
+<w xml:id="Gos229.tok2872" lemma="biti" ana="mte:Va-p-sm">bil</w>
+<w xml:id="Gos229.tok2873" norm="dosti" lemma="dosti" ana="mte:Rgp">dost</w>
+<w xml:id="Gos229.tok2874" lemma="na" ana="mte:Sl">na</w>
+<w xml:id="Gos229.tok2875" norm="zraku" lemma="zrak" ana="mte:Ncmsl">zrak</w>
+            </seg>
+         </u>
+         <u xml:id="Gos229.u281" who="#Lf-otro-06567" trans="overlap" start="#NZoskrdodr-ak0904251100.t952.489" end="#NZoskrdodr-ak0904251100.t955.009">
+<seg xml:id="Gos229.s334" synch="#NZoskrdodr-ak0904251100.t952.489">
+<w xml:id="Gos229.tok2876" lemma="ja" ana="mte:Q">ja</w>
+            </seg>
+         </u>
+         <u xml:id="Gos229.u282" who="#Lf-otro-06567" start="#NZoskrdodr-ak0904251100.t955.009" end="#NZoskrdodr-ak0904251100.t955.561">
+<seg xml:id="Gos229.s335" synch="#NZoskrdodr-ak0904251100.t955.009">
+<w xml:id="Gos229.tok2877" lemma="ja" ana="mte:Q">ja</w>
+            </seg>
+         </u>
+         <u xml:id="Gos229.u283" start="#NZoskrdodr-ak0904251100.t955.561" end="#NZoskrdodr-ak0904251100.t957.265">
+<seg xml:id="Gos229.s336" synch="#NZoskrdodr-ak0904251100.t955.561">
+               <pause/>
+            </seg>
+         </u>
+         <u xml:id="Gos229.u284" who="#Ef-ssta-06566" start="#NZoskrdodr-ak0904251100.t957.265" end="#NZoskrdodr-ak0904251100.t962.2">
+<seg xml:id="Gos229.s337" synch="#NZoskrdodr-ak0904251100.t957.265">
+<w xml:id="Gos229.tok2878" lemma="ja" ana="mte:Q">ja</w>
+<w xml:id="Gos229.tok2879" norm="zdaj" lemma="zdaj" ana="mte:Rgp">zej</w>
+<w xml:id="Gos229.tok2880" norm="je" lemma="biti" ana="mte:Va-r3s-n">j</w>
+<w xml:id="Gos229.tok2881" norm="čisto" lemma="čisto" ana="mte:Rgp">čis</w>
+<w xml:id="Gos229.tok2882" norm="drugače" lemma="drugače" ana="mte:Rgp">drgač</w>
+            </seg>
+<seg xml:id="Gos229.s338" synch="#NZoskrdodr-ak0904251100.t959.653">
+<w xml:id="Gos229.tok2883" norm="zdaj" lemma="zdaj" ana="mte:Rgp">zej</w>
+<w xml:id="Gos229.tok2884" norm="je" lemma="biti" ana="mte:Va-r3s-n">j</w>
+<w xml:id="Gos229.tok2885" lemma="preveč" ana="mte:Rgp">preveč</w>
+<w xml:id="Gos229.tok2886" lemma="dober" ana="mte:Agpnsn">dobro</w>
+<w xml:id="Gos229.tok2887" lemma="pa" ana="mte:Cc">pa</w>
+<w xml:id="Gos229.tok2888" lemma="lepo" ana="mte:Rgp">lepo</w>
+            </seg>
+         </u>
+         <u xml:id="Gos229.u285" who="#Lf-otro-06567" trans="smooth" start="#NZoskrdodr-ak0904251100.t962.2" end="#NZoskrdodr-ak0904251100.t962.2">
+<seg xml:id="Gos229.s339" synch="#NZoskrdodr-ak0904251100.t962.2">
+<w xml:id="Gos229.tok2889" lemma="ja" ana="mte:Q">ja</w>
+               <del type="falseStart" subtype="missingEnd">
+<w xml:id="Gos229.tok2890" lemma="od…" ana="mte:Xt">od…</w>
+               </del>
+<w xml:id="Gos229.tok2891" norm="zdaj" lemma="zdaj" ana="mte:Rgp">zej</w>
+<w xml:id="Gos229.tok2892" norm="spremenilo" lemma="spremeniti" ana="mte:Vmep-sn">spremenil</w>
+<w xml:id="Gos229.tok2893" lemma="se" ana="mte:Px------y">se</w>
+<w xml:id="Gos229.tok2894" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos229.tok2895" lemma="ves" ana="mte:Pg-nsn">vse</w>
+<w xml:id="Gos229.tok2896" lemma="a" ana="mte:Rgp">a</w>
+<w xml:id="Gos229.tok2897" lemma="ne" ana="mte:Q">ne</w>
+            </seg>
+         </u>
+         <u xml:id="Gos229.u286" who="#Ef-ssta-06566" trans="overlap" start="#NZoskrdodr-ak0904251100.t962.2" end="#NZoskrdodr-ak0904251100.t970.88">
+<seg xml:id="Gos229.s340" synch="#NZoskrdodr-ak0904251100.t962.2">
+<w xml:id="Gos229.tok2898" norm="samo" lemma="samo" ana="mte:Q">sam</w>
+<w xml:id="Gos229.tok2899" function="filler" lemma="eee" ana="mte:I">eee</w>
+<w xml:id="Gos229.tok2900" function="filler" lemma="mmm" ana="mte:I">mmm</w>
+<w xml:id="Gos229.tok2901" lemma="biti" ana="mte:Va-r3s-y">ni</w>
+<w xml:id="Gos229.tok2902" lemma="pa" ana="mte:Cc">pa</w>
+<w xml:id="Gos229.tok2903" lemma="ne" ana="mte:Q">ne</w>
+<w xml:id="Gos229.tok2904" lemma="več" ana="mte:Q">več</w>
+<w xml:id="Gos229.tok2905" norm="tako" lemma="tako" ana="mte:Rgp">teko</w>
+<w xml:id="Gos229.tok2906" function="filler" lemma="eee" ana="mte:I">eee</w>
+<w xml:id="Gos229.tok2907" lemma="ves" ana="mte:Pg-nsn">vse</w>
+<w xml:id="Gos229.tok2908" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos229.tok2909" norm="malo" lemma="malo" ana="mte:Rgp">mav</w>
+<w xml:id="Gos229.tok2910" norm="zaskrbljeno" lemma="zaskrbljen" ana="mte:Appnsn">zaskrblen</w>
+<w xml:id="Gos229.tok2911" norm="ratalo" lemma="ratati" ana="mte:Vmbp-sn">ratov</w>
+            </seg>
+         </u>
+         </body>
+   </text>
+</TEI>

@@ -1,0 +1,342 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Gos214" xml:lang="sl" source="#gos.P.G">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Telefonski pogovor med kupcem in prodajalcem v kolesarski trgovini. [Gos1.1]</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>2.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="192" xml:lang="sl">192 govorov</measure>
+            <measure unit="speeches" quantity="192" xml:lang="en">192 speeches</measure>
+            <measure unit="words" quantity="2552" xml:lang="sl">2552 besed</measure>
+            <measure unit="words" quantity="2552" xml:lang="en">2552 words</measure>
+         </extent>
+         <publicationStmt>
+            <distributor>
+               <ref target="https://www.clarin.si/">CLARIN.SI</ref>
+            </distributor>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/XXXX</idno>
+            <date when="2023-06-09">2023-06-09</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <publisher>lastni posnetek</publisher>
+               <title>Telefonski pogovor med kupcem in prodajalcem v kolesarski trgovini.</title>
+               <date when="2010-05">2010-05</date>
+            </bibl>
+            <recordingStmt>
+               <recording>
+                  <media xml:id="SPOG-Gos214-NNtembstpr-rd1005041400-avd.wav" mimeType="audio/wav" url="./SPOG-Gos214-NNtembstpr-rd1005041400-avd.wav"/>
+                  <date when="2010-05-04">2010-05-04</date>
+               </recording>
+            </recordingStmt>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <catRef target="#gos.T.N.N"/>
+            <catRef target="#gos.K.P"/>
+         </textClass>
+         <textDesc>
+            <channel/>
+            <constitution/>
+            <derivation/>
+            <domain>prodaja/trgovina</domain>
+            <factuality/>
+            <interaction/>
+            <preparedness/>
+            <purpose/>
+         </textDesc>
+         <particDesc>
+            <listPerson n="2">
+               <person sameAs="#Am-prod-02274"/>
+               <person sameAs="#Bm-stra-02275"/>
+            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <place>
+               <settlement>Maribor</settlement>
+            </place>
+         </settingDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <timeline unit="seg" xml:id="NNtembstpr-rd1005041400" origin="#NNtembstpr-rd1005041400.t0" corresp="#NNtembstpr-rd1005041400.wav">
+            <when xml:id="NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t0.469" interval="0.469" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t1.625" interval="1.625" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t3.718" interval="3.718" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t10.405" interval="10.405" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t11.208" interval="11.208" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t16.396" interval="16.396" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t22.709" interval="22.709" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t31.006" interval="31.006" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t39.819" interval="39.819" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t40.663" interval="40.663" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t45.132" interval="45.132" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t54.913" interval="54.913" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t55.694" interval="55.694" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t67.46" interval="67.46" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t76.615" interval="76.615" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t77.235" interval="77.235" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t85.563" interval="85.563" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t86.44" interval="86.44" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t103.236" interval="103.236" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t116.486" interval="116.486" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t117.689" interval="117.689" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t130.799" interval="130.799" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t134.792" interval="134.792" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t139.776" interval="139.776" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t143.592" interval="143.592" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t144.248" interval="144.248" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t150.904" interval="150.904" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t163.404" interval="163.404" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t170.483" interval="170.483" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t176.129" interval="176.129" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t176.614" interval="176.614" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t185.723" interval="185.723" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t190.922" interval="190.922" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t191.351" interval="191.351" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t193.906" interval="193.906" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t197.11" interval="197.11" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t199.113" interval="199.113" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t199.753" interval="199.753" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t216.003" interval="216.003" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t220.784" interval="220.784" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t223.519" interval="223.519" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t238.049" interval="238.049" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t253.721" interval="253.721" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t262.737" interval="262.737" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t274.065" interval="274.065" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t288.131" interval="288.131" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t292.166" interval="292.166" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t307.512" interval="307.512" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t308.006" interval="308.006" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t312.626" interval="312.626" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t313.189" interval="313.189" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t319.83" interval="319.83" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t321.517" interval="321.517" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t332.267" interval="332.267" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t345.472" interval="345.472" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t353.251" interval="353.251" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t357.36" interval="357.36" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t363.235" interval="363.235" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t378.438" interval="378.438" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t386.835" interval="386.835" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t387.538" interval="387.538" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t407.554" interval="407.554" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t415.428" interval="415.428" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t428.501" interval="428.501" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t429.526" interval="429.526" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t432.589" interval="432.589" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t433.042" interval="433.042" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t441.151" interval="441.151" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t446.33" interval="446.33" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t447.299" interval="447.299" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t447.761" interval="447.761" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t450.949" interval="450.949" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t471.762" interval="471.762" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t484.306" interval="484.306" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t485.884" interval="485.884" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t489.395" interval="489.395" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t501.832" interval="501.832" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t511.504" interval="511.504" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t512.282" interval="512.282" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t521.396" interval="521.396" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t529.224" interval="529.224" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t543.849" interval="543.849" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t549.177" interval="549.177" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t555.103" interval="555.103" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t574.509" interval="574.509" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t578.743" interval="578.743" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t596.525" interval="596.525" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t604.759" interval="604.759" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t617.420" interval="617.420" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t618.183" interval="618.183" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t625.136" interval="625.136" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t626.179" interval="626.179" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t627.397" interval="627.397" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t639.459" interval="639.459" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t640.862" interval="640.862" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t656.805386292" interval="656.805386292" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t658.305" interval="658.305" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t662.897" interval="662.897" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t663.522" interval="663.522" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t667.303" interval="667.303" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t677.882" interval="677.882" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t678.502" interval="678.502" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t689.782" interval="689.782" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t690.5" interval="690.5" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t697.953" interval="697.953" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t707.703" interval="707.703" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t712.455" interval="712.455" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t713.002" interval="713.002" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t717.731" interval="717.731" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t718.45" interval="718.45" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t723.497" interval="723.497" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t731.768" interval="731.768" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t732.757" interval="732.757" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t738.397" interval="738.397" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t739.339" interval="739.339" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t739.888" interval="739.888" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t753.062" interval="753.062" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t767.075" interval="767.075" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t769.543" interval="769.543" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t773.105" interval="773.105" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t784.47" interval="784.47" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t798.502" interval="798.502" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t805.409" interval="805.409" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t810.065" interval="810.065" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t815.83" interval="815.83" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t817.079" interval="817.079" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t822.486" interval="822.486" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t823.189" interval="823.189" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t827.642" interval="827.642" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t839.204" interval="839.204" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t843.72" interval="843.72" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t845.095" interval="845.095" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t853.939" interval="853.939" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t858.21" interval="858.21" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t859.476" interval="859.476" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t861.523" interval="861.523" since="#NNtembstpr-rd1005041400.t0"/>
+            <when xml:id="NNtembstpr-rd1005041400.t862.71" interval="862.71" since="#NNtembstpr-rd1005041400.t0"/>
+         </timeline>
+         <u xml:id="Gos214.u93" who="#Bm-stra-02275" trans="overlap" start="#NNtembstpr-rd1005041400.t433.042" end="#NNtembstpr-rd1005041400.t441.151">
+<seg xml:id="Gos214.s96" synch="#NNtembstpr-rd1005041400.t433.042">
+<w xml:id="Gos214.tok1330" lemma="ja" ana="mte:Q" join="right">ja</w>
+<pc xml:id="Gos214.tok1331" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos214.tok1332" function="filler" lemma="mhm" ana="mte:I">mhm</w>
+<w xml:id="Gos214.tok1333" function="filler" lemma="mhm" ana="mte:I">mhm</w>
+            </seg>
+         </u>
+         <u xml:id="Gos214.u94" who="#Am-prod-02274" trans="smooth" start="#NNtembstpr-rd1005041400.t441.151" end="#NNtembstpr-rd1005041400.t441.151">
+<seg xml:id="Gos214.s97" synch="#NNtembstpr-rd1005041400.t441.151">
+<w xml:id="Gos214.tok1334" lemma="ta" ana="mte:Pd-nsa">to</w>
+<w xml:id="Gos214.tok1335" lemma="pa" ana="mte:Cc">pa</w>
+<w xml:id="Gos214.tok1336" lemma="več" ana="mte:Rgc">več</w>
+<w xml:id="Gos214.tok1337" norm="ali" lemma="ali" ana="mte:Cc">al</w>
+<w xml:id="Gos214.tok1338" norm="manj" lemma="manj" ana="mte:Rgc">majn</w>
+<w xml:id="Gos214.tok1339" lemma="že" ana="mte:Q">že</w>
+<w xml:id="Gos214.tok1340" norm="imajo" lemma="imeti" ana="mte:Vmpr3p-n">majo</w>
+<w xml:id="Gos214.tok1341" lemma="ves" ana="mte:Pg-mpn">vsi</w>
+<w xml:id="Gos214.tok1342" lemma="treking" ana="mte:Ncmpn">trekingi</w>
+<w xml:id="Gos214.tok1343" lemma="od" ana="mte:Sg">od</w>
+<w xml:id="Gos214.tok1344" lemma="tisti" ana="mte:Pd-msg">tistega</w>
+<w xml:id="Gos214.tok1345" lemma="reči" ana="mte:Vmem1p">recimo</w>
+<w xml:id="Gos214.tok1346" lemma="biti" ana="mte:Va-f1s-n">bom</w>
+<w xml:id="Gos214.tok1347" norm="rekel" lemma="reči" ana="mte:Vmep-sm">reku</w>
+<w xml:id="Gos214.tok1348" lemma="od" ana="mte:Sg">od</w>
+<w xml:id="Gos214.tok1349" norm="štiristo" lemma="štiristo" ana="mte:Mlc-pa">štirsto</w>
+<w xml:id="Gos214.tok1350" lemma="evro" ana="mte:Ncmpg">evrov</w>
+<w xml:id="Gos214.tok1351" lemma="naprej" ana="mte:Rgp">naprej</w>
+            </seg>
+         </u>
+         <u xml:id="Gos214.u95" who="#Bm-stra-02275" trans="overlap" start="#NNtembstpr-rd1005041400.t441.151" end="#NNtembstpr-rd1005041400.t446.33">
+<seg xml:id="Gos214.s98" synch="#NNtembstpr-rd1005041400.t441.151">
+<w xml:id="Gos214.tok1352" function="filler" lemma="mhm" ana="mte:I">mhm</w>
+            </seg>
+         </u>
+         <u xml:id="Gos214.u96" who="#Bm-stra-02275" start="#NNtembstpr-rd1005041400.t446.33" end="#NNtembstpr-rd1005041400.t447.299">
+<seg xml:id="Gos214.s99" synch="#NNtembstpr-rd1005041400.t446.33">
+<w xml:id="Gos214.tok1353" lemma="aha" ana="mte:I">aha</w>
+<w xml:id="Gos214.tok1354" lemma="aha" ana="mte:I">aha</w>
+            </seg>
+         </u>
+         <u xml:id="Gos214.u97" who="#Am-prod-02274" start="#NNtembstpr-rd1005041400.t447.299" end="#NNtembstpr-rd1005041400.t447.761">
+<seg xml:id="Gos214.s100" synch="#NNtembstpr-rd1005041400.t447.299">
+<w xml:id="Gos214.tok1355" lemma="ne" ana="mte:Q">ne</w>
+            </seg>
+         </u>
+         <u xml:id="Gos214.u98" who="#Bm-stra-02275" start="#NNtembstpr-rd1005041400.t447.761" end="#NNtembstpr-rd1005041400.t450.949">
+<seg xml:id="Gos214.s101" synch="#NNtembstpr-rd1005041400.t447.761">
+<w xml:id="Gos214.tok1356" norm="tako" lemma="tako" ana="mte:Cc">tak</w>
+<w xml:id="Gos214.tok1357" lemma="da" ana="mte:Cs">da</w>
+<w xml:id="Gos214.tok1358" lemma="ta" ana="mte:Pd-nsn">to</w>
+<w xml:id="Gos214.tok1359" lemma="pol" ana="mte:Rgp">pol</w>
+<w xml:id="Gos214.tok1360" lemma="nek" ana="mte:Pi-nsg">nekega</w>
+<w xml:id="Gos214.tok1361" lemma="poseben" ana="mte:Agpnsg">posebnega</w>
+<w xml:id="Gos214.tok1362" lemma="vzdrževanje" ana="mte:Ncnsg">vzdrževanja</w>
+<w xml:id="Gos214.tok1363" lemma="pa" ana="mte:Cc">pa</w>
+<w xml:id="Gos214.tok1364" lemma="verjetno" ana="mte:Rgp">verjetno</w>
+<w xml:id="Gos214.tok1365" lemma="biti" ana="mte:Va-r3s-y">ni</w>
+<w xml:id="Gos214.tok1366" lemma="ne" ana="mte:Q">ne</w>
+            </seg>
+         </u>
+         <u xml:id="Gos214.u99" who="#Bm-stra-02275" trans="smooth" start="#NNtembstpr-rd1005041400.t450.949" end="#NNtembstpr-rd1005041400.t450.949">
+<seg xml:id="Gos214.s102" synch="#NNtembstpr-rd1005041400.t450.949">
+<w xml:id="Gos214.tok1367" lemma="pol" ana="mte:Rgp">pol</w>
+<w xml:id="Gos214.tok1368" lemma="z" ana="mte:Si">z</w>
+<w xml:id="Gos214.tok1369" lemma="ta" ana="mte:Pd-fpi">temi</w>
+               <del type="falseStart" subtype="missingEnd">
+<w xml:id="Gos214.tok1370" lemma="vzmeti…" ana="mte:Xt">vzmeti…</w>
+               </del>
+<w xml:id="Gos214.tok1371" norm="vzmetmi" lemma="vzmet" ana="mte:Ncfpi">vzmetami</w>
+            </seg>
+         </u>
+         <u xml:id="Gos214.u100" who="#Am-prod-02274" trans="overlap" start="#NNtembstpr-rd1005041400.t450.949" end="#NNtembstpr-rd1005041400.t471.762">
+<seg xml:id="Gos214.s103" synch="#NNtembstpr-rd1005041400.t450.949">
+<w xml:id="Gos214.tok1372" function="filler" lemma="eee" ana="mte:I">eee</w>
+<w xml:id="Gos214.tok1373" norm="teh" lemma="ta" ana="mte:Pd-fpg">peh</w>
+<w xml:id="Gos214.tok1374" function="filler" lemma="eee" ana="mte:I">eee</w>
+<w xml:id="Gos214.tok1375" lemma="ta" ana="mte:Pd-nsn">to</w>
+<w xml:id="Gos214.tok1376" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos214.tok1377" lemma="v" ana="mte:Sl">v</w>
+<w xml:id="Gos214.tok1378" lemma="bistvo" ana="mte:Ncnsl">bistvu</w>
+<w xml:id="Gos214.tok1379" lemma="najbolj" ana="mte:Rgs">najbolj</w>
+<w xml:id="Gos214.tok1380" lemma="biti" ana="mte:Va-f1s-n">bom</w>
+<w xml:id="Gos214.tok1381" norm="rekel" lemma="reči" ana="mte:Vmep-sm">reku</w>
+<w xml:id="Gos214.tok1382" lemma="prijazen" ana="mte:Agpfsn">prijazna</w>
+<w xml:id="Gos214.tok1383" lemma="kar" ana="mte:Pr-nsn">kar</w>
+<w xml:id="Gos214.tok1384" lemma="se" ana="mte:Px------y">se</w>
+<w xml:id="Gos214.tok1385" lemma="tikati" ana="mte:Vmpr3s">tiče</w>
+<w xml:id="Gos214.tok1386" lemma="kolesar" ana="mte:Ncmsg">kolesarja</w>
+<w xml:id="Gos214.tok1387" lemma="za" ana="mte:Sa">za</w>
+<w xml:id="Gos214.tok1388" lemma="vzdrževanje" ana="mte:Ncnsa">vzdrževanje</w>
+<w xml:id="Gos214.tok1389" lemma="ker" ana="mte:Cs">ker</w>
+<w xml:id="Gos214.tok1390" lemma="biti" ana="mte:Va-r3s-y">ni</w>
+<w xml:id="Gos214.tok1391" norm="nobenih" lemma="noben" ana="mte:Pz-fpg">dobenih</w>
+<w xml:id="Gos214.tok1392" lemma="olje" ana="mte:Ncnsg">olja</w>
+<w xml:id="Gos214.tok1393" lemma="biti" ana="mte:Va-r3s-y">ni</w>
+<w xml:id="Gos214.tok1394" norm="nobenega" lemma="noben" ana="mte:Pz-nsg">dobenega</w>
+<w xml:id="Gos214.tok1395" lemma="zračen" ana="mte:Agpfpg">zračnih</w>
+<w xml:id="Gos214.tok1396" lemma="komora" ana="mte:Ncfpg">komor</w>
+<w xml:id="Gos214.tok1397" norm="notri" lemma="notri" ana="mte:Rgp">noter</w>
+<w xml:id="Gos214.tok1398" norm="tako" lemma="tako" ana="mte:Cc">tak</w>
+<w xml:id="Gos214.tok1399" lemma="da" ana="mte:Cs">da</w>
+<w xml:id="Gos214.tok1400" lemma="v" ana="mte:Sl">v</w>
+<w xml:id="Gos214.tok1401" lemma="bistvo" ana="mte:Ncnsl">bistvu</w>
+<w xml:id="Gos214.tok1402" lemma="tak" ana="mte:Pd-fsn">taka</w>
+<w xml:id="Gos214.tok1403" norm="vilica" lemma="vilica" ana="mte:Ncfsn">vilca</w>
+<w xml:id="Gos214.tok1404" lemma="potem" ana="mte:Rgp">potem</w>
+<w xml:id="Gos214.tok1405" lemma="če" ana="mte:Cs">če</w>
+<w xml:id="Gos214.tok1406" lemma="se" ana="mte:Px------y">se</w>
+<w xml:id="Gos214.tok1407" lemma="enkrat" ana="mte:Rgp">enkrat</w>
+<w xml:id="Gos214.tok1408" lemma="na" ana="mte:Sa">na</w>
+<w xml:id="Gos214.tok1409" lemma="leto" ana="mte:Ncnsa">leto</w>
+<w xml:id="Gos214.tok1410" norm="pogleda" lemma="pogledati" ana="mte:Vmer3s">poglea</w>
+<w xml:id="Gos214.tok1411" lemma="na" ana="mte:Sl">na</w>
+<w xml:id="Gos214.tok1412" lemma="servis" ana="mte:Ncmsl">servisu</w>
+<w xml:id="Gos214.tok1413" lemma="se" ana="mte:Px------y">se</w>
+<w xml:id="Gos214.tok1414" lemma="tale" ana="mte:Pd-mpn">tile</w>
+<w xml:id="Gos214.tok1415" lemma="vodilo" ana="mte:Ncnpn">vodila</w>
+<w xml:id="Gos214.tok1416" lemma="namazati" ana="mte:Vmer3p">namažejo</w>
+<w xml:id="Gos214.tok1417" lemma="se" ana="mte:Px------y">se</w>
+<w xml:id="Gos214.tok1418" lemma="prah" ana="mte:Ncmsn">prah</w>
+<w xml:id="Gos214.tok1419" lemma="obrisati" ana="mte:Vmer3s">obriše</w>
+<w xml:id="Gos214.tok1420" lemma="se" ana="mte:Px------y">se</w>
+<w xml:id="Gos214.tok1421" lemma="ta" ana="mte:Pd-fpa">te</w>
+<w xml:id="Gos214.tok1422" lemma="zadeva" ana="mte:Ncfpa">zadeve</w>
+<w xml:id="Gos214.tok1423" norm="pogleda" lemma="pogledati" ana="mte:Vmer3s">poglea</w>
+<w xml:id="Gos214.tok1424" lemma="pa" ana="mte:Cc">pa</w>
+<w xml:id="Gos214.tok1425" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos214.tok1426" lemma="ta" ana="mte:Pd-nsn">to</w>
+<w xml:id="Gos214.tok1427" lemma="ta" ana="mte:Pd-nsn">to</w>
+            </seg>
+         </u>
+         </body>
+   </text>
+</TEI>

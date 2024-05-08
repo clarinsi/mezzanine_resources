@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Gos215" xml:lang="sl" source="#gos.P.G">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Telefonski pogovor med stranko in prodajalcem v kolesarski trgovini. [Gos1.1]</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>2.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="36" xml:lang="sl">36 govorov</measure>
+            <measure unit="speeches" quantity="36" xml:lang="en">36 speeches</measure>
+            <measure unit="words" quantity="219" xml:lang="sl">219 besed</measure>
+            <measure unit="words" quantity="219" xml:lang="en">219 words</measure>
+         </extent>
+         <publicationStmt>
+            <distributor>
+               <ref target="https://www.clarin.si/">CLARIN.SI</ref>
+            </distributor>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/XXXX</idno>
+            <date when="2023-06-09">2023-06-09</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <publisher>lastni posnetek</publisher>
+               <title>Telefonski pogovor med stranko in prodajalcem v kolesarski trgovini.</title>
+               <date when="2010-05">2010-05</date>
+            </bibl>
+            <recordingStmt>
+               <recording>
+                  <media xml:id="SPOG-Gos215-NNtembstpr-rd1005070943-avd.wav" mimeType="audio/wav" url="./SPOG-Gos215-NNtembstpr-rd1005070943-avd.wav"/>
+                  <date when="2010-05-06">2010-05-06</date>
+               </recording>
+            </recordingStmt>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <catRef target="#gos.T.N.N"/>
+            <catRef target="#gos.K.P"/>
+         </textClass>
+         <textDesc>
+            <channel/>
+            <constitution/>
+            <derivation/>
+            <domain>prodaja/trgovina</domain>
+            <factuality/>
+            <interaction/>
+            <preparedness/>
+            <purpose/>
+         </textDesc>
+         <particDesc>
+            <listPerson n="2">
+               <person sameAs="#Am-prod-02272"/>
+               <person sameAs="#Bf-stra-02273"/>
+            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <place>
+               <settlement>Maribor</settlement>
+            </place>
+         </settingDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <timeline unit="seg" xml:id="NNtembstpr-rd1005070943" origin="#NNtembstpr-rd1005070943.t0" corresp="#NNtembstpr-rd1005070943.wav">
+            <when xml:id="NNtembstpr-rd1005070943.t0"/>
+            <when xml:id="NNtembstpr-rd1005070943.t0.797" interval="0.797" since="#NNtembstpr-rd1005070943.t0"/>
+            <when xml:id="NNtembstpr-rd1005070943.t3.406" interval="3.406" since="#NNtembstpr-rd1005070943.t0"/>
+            <when xml:id="NNtembstpr-rd1005070943.t12.234" interval="12.234" since="#NNtembstpr-rd1005070943.t0"/>
+            <when xml:id="NNtembstpr-rd1005070943.t17.828" interval="17.828" since="#NNtembstpr-rd1005070943.t0"/>
+            <when xml:id="NNtembstpr-rd1005070943.t18.311" interval="18.311" since="#NNtembstpr-rd1005070943.t0"/>
+            <when xml:id="NNtembstpr-rd1005070943.t21.918" interval="21.918" since="#NNtembstpr-rd1005070943.t0"/>
+            <when xml:id="NNtembstpr-rd1005070943.t24.527" interval="24.527" since="#NNtembstpr-rd1005070943.t0"/>
+            <when xml:id="NNtembstpr-rd1005070943.t25.98" interval="25.98" since="#NNtembstpr-rd1005070943.t0"/>
+            <when xml:id="NNtembstpr-rd1005070943.t27.122" interval="27.122" since="#NNtembstpr-rd1005070943.t0"/>
+            <when xml:id="NNtembstpr-rd1005070943.t33.527" interval="33.527" since="#NNtembstpr-rd1005070943.t0"/>
+            <when xml:id="NNtembstpr-rd1005070943.t34.387" interval="34.387" since="#NNtembstpr-rd1005070943.t0"/>
+            <when xml:id="NNtembstpr-rd1005070943.t37.731" interval="37.731" since="#NNtembstpr-rd1005070943.t0"/>
+            <when xml:id="NNtembstpr-rd1005070943.t42.746" interval="42.746" since="#NNtembstpr-rd1005070943.t0"/>
+            <when xml:id="NNtembstpr-rd1005070943.t47.699" interval="47.699" since="#NNtembstpr-rd1005070943.t0"/>
+            <when xml:id="NNtembstpr-rd1005070943.t54.144" interval="54.144" since="#NNtembstpr-rd1005070943.t0"/>
+            <when xml:id="NNtembstpr-rd1005070943.t54.691" interval="54.691" since="#NNtembstpr-rd1005070943.t0"/>
+            <when xml:id="NNtembstpr-rd1005070943.t55.316" interval="55.316" since="#NNtembstpr-rd1005070943.t0"/>
+            <when xml:id="NNtembstpr-rd1005070943.t60.631" interval="60.631" since="#NNtembstpr-rd1005070943.t0"/>
+            <when xml:id="NNtembstpr-rd1005070943.t61.365" interval="61.365" since="#NNtembstpr-rd1005070943.t0"/>
+            <when xml:id="NNtembstpr-rd1005070943.t66.037" interval="66.037" since="#NNtembstpr-rd1005070943.t0"/>
+            <when xml:id="NNtembstpr-rd1005070943.t66.736" interval="66.736" since="#NNtembstpr-rd1005070943.t0"/>
+            <when xml:id="NNtembstpr-rd1005070943.t68.798" interval="68.798" since="#NNtembstpr-rd1005070943.t0"/>
+            <when xml:id="NNtembstpr-rd1005070943.t72.316" interval="72.316" since="#NNtembstpr-rd1005070943.t0"/>
+            <when xml:id="NNtembstpr-rd1005070943.t72.912" interval="72.912" since="#NNtembstpr-rd1005070943.t0"/>
+         </timeline>
+         <u xml:id="Gos215.u17" who="#Bf-stra-02273" trans="overlap" start="#NNtembstpr-rd1005070943.t34.387" end="#NNtembstpr-rd1005070943.t37.731">
+<seg xml:id="Gos215.s17" synch="#NNtembstpr-rd1005070943.t34.387">
+<w xml:id="Gos215.tok109" lemma="pa" ana="mte:Cc">pa</w>
+            </seg>
+         </u>
+         <u xml:id="Gos215.u18" who="#Am-prod-02272" trans="smooth" start="#NNtembstpr-rd1005070943.t37.731" end="#NNtembstpr-rd1005070943.t37.731">
+<seg xml:id="Gos215.s18" synch="#NNtembstpr-rd1005070943.t37.731">
+<w xml:id="Gos215.tok110" lemma="ja" ana="mte:Q" join="right">ja</w>
+<pc xml:id="Gos215.tok111" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos215.tok112" lemma="ja" ana="mte:Q">ja</w>
+            </seg>
+         </u>
+         <u xml:id="Gos215.u19" who="#Bf-stra-02273" trans="overlap" start="#NNtembstpr-rd1005070943.t37.731" end="#NNtembstpr-rd1005070943.t42.746">
+<seg xml:id="Gos215.s19" synch="#NNtembstpr-rd1005070943.t37.731">
+<w xml:id="Gos215.tok113" lemma="aha" ana="mte:I">aha</w>
+<w xml:id="Gos215.tok114" function="filler" lemma="eee" ana="mte:I">eee</w>
+<w xml:id="Gos215.tok115" lemma="pa" ana="mte:Cc">pa</w>
+<w xml:id="Gos215.tok116" lemma="še" ana="mte:Q">še</w>
+<w xml:id="Gos215.tok117" lemma="en" ana="mte:Mlpnsn">eno</w>
+<w xml:id="Gos215.tok118" lemma="vprašanje" ana="mte:Ncnsn">vprašanje</w>
+<w xml:id="Gos215.tok119" norm="zdaj" lemma="zdaj" ana="mte:Rgp">ze</w>
+<w xml:id="Gos215.tok120" norm="sem" lemma="biti" ana="mte:Va-r1s-n">sn</w>
+<w xml:id="Gos215.tok121" lemma="jaz" ana="mte:Pp1-sn">jaz</w>
+<w xml:id="Gos215.tok122" norm="videla" lemma="videti" ana="mte:Vmbp-sf">vidla</w>
+<w xml:id="Gos215.tok123" lemma="da" ana="mte:Cs">da</w>
+<w xml:id="Gos215.tok124" norm="imate" lemma="imeti" ana="mte:Vmpr2p-n">mate</w>
+<w xml:id="Gos215.tok125" lemma="tudi" ana="mte:Q">tudi</w>
+<w xml:id="Gos215.tok126" lemma="spleten" ana="mte:Agpfsa">spletno</w>
+<w xml:id="Gos215.tok127" lemma="stran" ana="mte:Ncfsa">stran</w>
+            </seg>
+         </u>
+         </body>
+   </text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Gos106" xml:lang="sl" source="#gos.P.G">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Televizijski prispevek o smrti pevke Miriam Makeba. [Gos1.1]</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>2.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="1" xml:lang="sl">1 govorov</measure>
+            <measure unit="speeches" quantity="1" xml:lang="en">1 speeches</measure>
+            <measure unit="words" quantity="105" xml:lang="sl">105 besed</measure>
+            <measure unit="words" quantity="105" xml:lang="en">105 words</measure>
+         </extent>
+         <publicationStmt>
+            <distributor>
+               <ref target="https://www.clarin.si/">CLARIN.SI</ref>
+            </distributor>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/XXXX</idno>
+            <date when="2023-06-09">2023-06-09</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Televizijski prispevek o smrti pevke Miriam Makeba.</title>
+               <date when="2009-09">2009-09</date>
+            </bibl>
+            <recordingStmt>
+               <recording>
+                  <media xml:id="SPOG-Gos106-JItvslpour-rd0904151236-avd.wav" mimeType="audio/wav" url="./SPOG-Gos106-JItvslpour-rd0904151236-avd.wav"/>
+                  <broadcast>
+                     <ab>ProPlus</ab>
+                  </broadcast>
+                  <date when="2009-09-18">2009-09-18</date>
+               </recording>
+            </recordingStmt>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <catRef target="#gos.T.J.I"/>
+            <catRef target="#gos.K.T"/>
+         </textClass>
+         <textDesc>
+            <channel/>
+            <constitution/>
+            <derivation/>
+            <domain>PopTV, 24ur</domain>
+            <factuality/>
+            <interaction/>
+            <preparedness/>
+            <purpose/>
+         </textDesc>
+         <particDesc>
+            <listPerson n="1">
+               <person sameAs="#Jf-novi-04532"/>
+            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <place>
+               <settlement>Ljubljana</settlement>
+            </place>
+         </settingDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <timeline unit="seg" xml:id="JItvslpour-rd0904151236" origin="#JItvslpour-rd0904151236.t0" corresp="#JItvslpour-rd0904151236.wav">
+            <when xml:id="JItvslpour-rd0904151236.t0"/>
+            <when xml:id="JItvslpour-rd0904151236.t12.25" interval="12.25" since="#JItvslpour-rd0904151236.t0"/>
+            <when xml:id="JItvslpour-rd0904151236.t17.630" interval="17.630" since="#JItvslpour-rd0904151236.t0"/>
+            <when xml:id="JItvslpour-rd0904151236.t21.257" interval="21.257" since="#JItvslpour-rd0904151236.t0"/>
+            <when xml:id="JItvslpour-rd0904151236.t26.344" interval="26.344" since="#JItvslpour-rd0904151236.t0"/>
+            <when xml:id="JItvslpour-rd0904151236.t31.672" interval="31.672" since="#JItvslpour-rd0904151236.t0"/>
+            <when xml:id="JItvslpour-rd0904151236.t42.156" interval="42.156" since="#JItvslpour-rd0904151236.t0"/>
+         </timeline>
+         <u xml:id="Gos106.u1" who="#Jf-novi-04532" start="#JItvslpour-rd0904151236.t0">
+<seg xml:id="Gos106.s1" synch="#JItvslpour-rd0904151236.t0">
+<w xml:id="Gos106.tok1" lemma="šestinsedemdesetleten" ana="mte:Agpfsn">šestinsedemdesetletna</w>
+<w xml:id="Gos106.tok2" lemma="pevka" ana="mte:Ncfsn">pevka</w>
+<w xml:id="Gos106.tok3" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos106.tok4" lemma="sinoči" ana="mte:Rgp">sinoči</w>
+<w xml:id="Gos106.tok5" lemma="kljub" ana="mte:Sd">kljub</w>
+<w xml:id="Gos106.tok6" lemma="slab" ana="mte:Agpnsd">slabemu</w>
+<w xml:id="Gos106.tok7" lemma="zdravje" ana="mte:Ncnsd">zdravju</w>
+<w xml:id="Gos106.tok8" lemma="želeti" ana="mte:Vmpp-sf">želela</w>
+<w xml:id="Gos106.tok9" lemma="nastopiti" ana="mte:Vmen">nastopiti</w>
+<w xml:id="Gos106.tok10" lemma="na" ana="mte:Sl">na</w>
+<w xml:id="Gos106.tok11" lemma="koncert" ana="mte:Ncmsl">koncertu</w>
+<w xml:id="Gos106.tok12" lemma="ki" ana="mte:Cs">ki</w>
+<w xml:id="Gos106.tok13" lemma="biti" ana="mte:Va-r3p-n">so</w>
+<w xml:id="Gos106.tok14" lemma="on" ana="mte:Pp3msa--y">ga</w>
+<w xml:id="Gos106.tok15" lemma="pripraviti" ana="mte:Vmep-pm">pripravili</w>
+<w xml:id="Gos106.tok16" lemma="v" ana="mte:Sa">v</w>
+<w xml:id="Gos106.tok17" lemma="podpora" ana="mte:Ncfsa">podporo</w>
+<w xml:id="Gos106.tok18" lemma="pisatelj" ana="mte:Ncmsd">pisatelju</w>
+<w xml:id="Gos106.tok19" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Gos106.tok20" lemma="borec" ana="mte:Ncmsd">borcu</w>
+<w xml:id="Gos106.tok21" lemma="proti" ana="mte:Sd">proti</w>
+<w xml:id="Gos106.tok22" lemma="mafija" ana="mte:Ncfsd">mafiji</w>
+<w xml:id="Gos106.tok23" lemma="Robert" ana="mte:Npmsd">Robertu</w>
+<w xml:id="Gos106.tok24" lemma="Savian" ana="mte:Npmsd">Savianu</w>
+<w xml:id="Gos106.tok25" lemma="v" ana="mte:Sl">v</w>
+<w xml:id="Gos106.tok26" lemma="kraj" ana="mte:Ncmsl">kraju</w>
+<w xml:id="Gos106.tok27" norm="Castel" lemma="Castel" ana="mte:Npmsn">Kastel</w>
+<w xml:id="Gos106.tok28" lemma="volturno" ana="mte:Rgp">Volturno</w>
+<w xml:id="Gos106.tok29" lemma="znan" ana="mte:Appnsl">znanem</w>
+<w xml:id="Gos106.tok30" lemma="oporišče" ana="mte:Ncnsl">oporišču</w>
+<w xml:id="Gos106.tok31" norm="Camorre" lemma="Camorra" ana="mte:Npfsg">Kamore</w>
+            </seg>
+</u>
+      </body>
+   </text>
+</TEI>

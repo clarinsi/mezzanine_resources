@@ -1,0 +1,443 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Gos187" xml:lang="sl" source="#gos.P.G">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pogovor študenta in profesorja na smeri računalništvo o temi seminarske naloge. [Gos1.1]</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>2.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="312" xml:lang="sl">312 govorov</measure>
+            <measure unit="speeches" quantity="312" xml:lang="en">312 speeches</measure>
+            <measure unit="words" quantity="2450" xml:lang="sl">2450 besed</measure>
+            <measure unit="words" quantity="2450" xml:lang="en">2450 words</measure>
+         </extent>
+         <publicationStmt>
+            <distributor>
+               <ref target="https://www.clarin.si/">CLARIN.SI</ref>
+            </distributor>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/XXXX</idno>
+            <date when="2023-06-09">2023-06-09</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <publisher>lastni posnetek</publisher>
+               <title>Pogovor študenta in profesorja na smeri računalništvo o temi seminarske naloge.</title>
+               <date when="2010-01">2010-01</date>
+            </bibl>
+            <recordingStmt>
+               <recording>
+                  <media xml:id="SPOG-Gos187-NNosmbakko-pv1001071030-avd.wav" mimeType="audio/wav" url="./SPOG-Gos187-NNosmbakko-pv1001071030-avd.wav"/>
+                  <date when="2010-01-17">2010-01-17</date>
+               </recording>
+            </recordingStmt>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <catRef target="#gos.T.N.N"/>
+            <catRef target="#gos.K.O"/>
+         </textClass>
+         <textDesc>
+            <channel/>
+            <constitution/>
+            <derivation/>
+            <domain>konzultacija</domain>
+            <factuality/>
+            <interaction/>
+            <preparedness/>
+            <purpose/>
+         </textDesc>
+         <particDesc>
+            <listPerson n="2">
+               <person sameAs="#Mm-prof-01075"/>
+               <person sameAs="#Rm-stud-01076"/>
+            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <place>
+               <settlement>Maribor</settlement>
+            </place>
+         </settingDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <timeline unit="seg" xml:id="NNosmbakko-pv1001071030" origin="#NNosmbakko-pv1001071030.t0" corresp="#NNosmbakko-pv1001071030.wav">
+            <when xml:id="NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t1.402" interval="1.402" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t10.345" interval="10.345" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t12.012" interval="12.012" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t12.493" interval="12.493" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t16.879" interval="16.879" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t21.155" interval="21.155" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t25.984" interval="25.984" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t28.128" interval="28.128" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t36.577" interval="36.577" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t36.928" interval="36.928" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t38.67" interval="38.67" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t54.273" interval="54.273" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t54.834" interval="54.834" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t65.819" interval="65.819" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t77.832" interval="77.832" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t79.304" interval="79.304" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t80.906" interval="80.906" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t84.382" interval="84.382" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t91.059" interval="91.059" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t92.481" interval="92.481" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t97.433" interval="97.433" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t99.386" interval="99.386" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t111.922" interval="111.922" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t116.027" interval="116.027" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t116.439" interval="116.439" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t126.87" interval="126.87" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t129.604" interval="129.604" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t138.166" interval="138.166" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t146.182" interval="146.182" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t146.984" interval="146.984" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t156.408" interval="156.408" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t161.074" interval="161.074" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t163.908" interval="163.908" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t164.799" interval="164.799" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t171.809" interval="171.809" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t172.152" interval="172.152" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t186.0" interval="186.0" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t187.765" interval="187.765" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t190.029" interval="190.029" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t193.504" interval="193.504" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t195.206" interval="195.206" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t197.509" interval="197.509" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t197.879" interval="197.879" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t202.074" interval="202.074" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t210.976" interval="210.976" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t211.492" interval="211.492" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t219.889" interval="219.889" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t222.593" interval="222.593" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t225.157" interval="225.157" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t227.054" interval="227.054" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t229.618" interval="229.618" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t230.53" interval="230.53" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t232.127" interval="232.127" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t233.673" interval="233.673" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t234.855" interval="234.855" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t242.402" interval="242.402" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t244.315" interval="244.315" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t246.164" interval="246.164" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t250.22" interval="250.22" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t257.771" interval="257.771" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t260.505" interval="260.505" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t264.591" interval="264.591" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t266.003" interval="266.003" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t269.658" interval="269.658" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t271.215" interval="271.215" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t274.746" interval="274.746" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t275.151" interval="275.151" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t280.348" interval="280.348" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t281.546" interval="281.546" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t287.623" interval="287.623" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t288.074" interval="288.074" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t295.222" interval="295.222" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t301.892" interval="301.892" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t303.201" interval="303.201" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t306.866" interval="306.866" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t308.769" interval="308.769" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t309.32" interval="309.32" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t315.706" interval="315.706" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t316.377" interval="316.377" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t322.035" interval="322.035" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t322.906" interval="322.906" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t325.353" interval="325.353" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t326.274" interval="326.274" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t342.518" interval="342.518" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t349.659" interval="349.659" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t351.822" interval="351.822" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t358.712" interval="358.712" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t360.284" interval="360.284" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t365.612" interval="365.612" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t366.213" interval="366.213" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t366.633" interval="366.633" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t367.789" interval="367.789" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t377.313" interval="377.313" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t385.104" interval="385.104" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t386.931" interval="386.931" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t393.857" interval="393.857" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t395.325" interval="395.325" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t408.915" interval="408.915" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t410.796" interval="410.796" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t411.417" interval="411.417" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t414.292" interval="414.292" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t416.345" interval="416.345" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t417.977" interval="417.977" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t422.884" interval="422.884" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t423.385" interval="423.385" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t435.954" interval="435.954" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t445.267" interval="445.267" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t452.036" interval="452.036" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t452.56" interval="452.56" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t463.095" interval="463.095" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t463.726" interval="463.726" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t464.157" interval="464.157" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t466.571" interval="466.571" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t467.667" interval="467.667" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t468.6" interval="468.6" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t469.661" interval="469.661" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t482.877" interval="482.877" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t483.228" interval="483.228" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t483.829" interval="483.829" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t486.362" interval="486.362" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t491.171" interval="491.171" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t496.473" interval="496.473" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t497.965" interval="497.965" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t503.669" interval="503.669" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t504.137" interval="504.137" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t506.637" interval="506.637" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t508.825" interval="508.825" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t509.476" interval="509.476" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t511.914" interval="511.914" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t512.514" interval="512.514" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t515.839" interval="515.839" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t516.39" interval="516.39" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t527.418" interval="527.418" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t530.911" interval="530.911" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t532.353" interval="532.353" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t541.895" interval="541.895" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t552.833" interval="552.833" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t553.334" interval="553.334" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t554.886" interval="554.886" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t562.597" interval="562.597" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t568.976" interval="568.976" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t577.672" interval="577.672" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t578.073" interval="578.073" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t579.703" interval="579.703" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t587.87" interval="587.87" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t589.899" interval="589.899" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t591.561" interval="591.561" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t599.999" interval="599.999" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t601.892" interval="601.892" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t604.595" interval="604.595" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t605.096" interval="605.096" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t615.151" interval="615.151" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t615.662" interval="615.662" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t616.343" interval="616.343" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t618.198" interval="618.198" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t624.437" interval="624.437" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t624.898" interval="624.898" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t626.049" interval="626.049" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t631.715" interval="631.715" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t632.934" interval="632.934" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t633.345" interval="633.345" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t641.016" interval="641.016" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t645.645" interval="645.645" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t646.126" interval="646.126" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t650.775" interval="650.775" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t651.206" interval="651.206" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t664.826" interval="664.826" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t665.257" interval="665.257" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t676.048" interval="676.048" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t676.428" interval="676.428" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t680.675" interval="680.675" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t681.696" interval="681.696" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t684.39" interval="684.39" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t685.998" interval="685.998" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t694.919" interval="694.919" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t695.37" interval="695.37" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t702.32" interval="702.32" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t708.009" interval="708.009" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t708.415" interval="708.415" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t711.344" interval="711.344" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t722.812" interval="722.812" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t723.213" interval="723.213" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t736.613" interval="736.613" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t738.616" interval="738.616" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t741.01" interval="741.01" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t746.457" interval="746.457" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t747.849" interval="747.849" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t748.921" interval="748.921" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t754.066" interval="754.066" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t754.697" interval="754.697" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t755.479" interval="755.479" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t763.411" interval="763.411" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t767.12" interval="767.12" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t769.528" interval="769.528" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t769.959" interval="769.959" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t771.03" interval="771.03" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t771.651" interval="771.651" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t778.21" interval="778.21" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t780.133" interval="780.133" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t783.18" interval="783.18" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t787.284" interval="787.284" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t787.686" interval="787.686" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t796.233" interval="796.233" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t805.466" interval="805.466" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t809.913" interval="809.913" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t812.377" interval="812.377" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t815.722" interval="815.722" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t816.387" interval="816.387" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t817.859" interval="817.859" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t818.93" interval="818.93" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t824.844" interval="824.844" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t825.353" interval="825.353" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t829.031" interval="829.031" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t832.536" interval="832.536" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t845.454" interval="845.454" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t846.065" interval="846.065" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t846.746" interval="846.746" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t853.866" interval="853.866" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t857.99" interval="857.99" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t861.946" interval="861.946" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t862.397" interval="862.397" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t871.27" interval="871.27" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t872.372" interval="872.372" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t877.99" interval="877.99" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t879.272" interval="879.272" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t883.689" interval="883.689" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t886.543" interval="886.543" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t889.477" interval="889.477" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t890.048" interval="890.048" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t895.085" interval="895.085" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t897.188" interval="897.188" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t897.599" interval="897.599" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t898.05" interval="898.05" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t905.57" interval="905.57" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t908.645" interval="908.645" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t909.978" interval="909.978" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t912.842" interval="912.842" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t915.977" interval="915.977" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t922.276" interval="922.276" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t923.257" interval="923.257" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t930.418" interval="930.418" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t941.102" interval="941.102" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t941.923" interval="941.923" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t944.546" interval="944.546" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t946.330" interval="946.330" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t947.888" interval="947.888" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t957.242" interval="957.242" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t966.455" interval="966.455" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t967.056" interval="967.056" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t973.405" interval="973.405" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t974.116" interval="974.116" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t977.982" interval="977.982" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t982.409" interval="982.409" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t984.816" interval="984.816" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t985.417" interval="985.417" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t992.065" interval="992.065" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t992.496" interval="992.496" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t997.099" interval="997.099" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t997.74" interval="997.74" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t1003.298" interval="1003.298" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t1004.793" interval="1004.793" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t1005.367" interval="1005.367" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t1005.867" interval="1005.867" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t1012.717" interval="1012.717" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t1013.869" interval="1013.869" since="#NNosmbakko-pv1001071030.t0"/>
+            <when xml:id="NNosmbakko-pv1001071030.t1019.455" interval="1019.455" since="#NNosmbakko-pv1001071030.t0"/>
+         </timeline>
+         <u xml:id="Gos187.u62" who="#Rm-stud-01076" trans="overlap" start="#NNosmbakko-pv1001071030.t227.054" end="#NNosmbakko-pv1001071030.t229.618">
+<seg xml:id="Gos187.s64" synch="#NNosmbakko-pv1001071030.t227.054">
+<w xml:id="Gos187.tok435" function="filler" lemma="mhm" ana="mte:I">mhm</w>
+            </seg>
+         </u>
+         <u xml:id="Gos187.u63" who="#Rm-stud-01076" start="#NNosmbakko-pv1001071030.t229.618" end="#NNosmbakko-pv1001071030.t230.53">
+<seg xml:id="Gos187.s65" synch="#NNosmbakko-pv1001071030.t229.618">
+<w xml:id="Gos187.tok436" function="filler" lemma="mhm" ana="mte:I">mhm</w>
+            </seg>
+         </u>
+         <u xml:id="Gos187.u64" who="#Mm-prof-01075" start="#NNosmbakko-pv1001071030.t230.53" end="#NNosmbakko-pv1001071030.t232.127">
+<seg xml:id="Gos187.s66" synch="#NNosmbakko-pv1001071030.t230.53">
+<w xml:id="Gos187.tok437" norm="vidite" lemma="videti" ana="mte:Vmbr2p">vidte</w>
+<w xml:id="Gos187.tok438" norm="zdaj" lemma="zdaj" ana="mte:Rgp">zaj</w>
+<w xml:id="Gos187.tok439" norm="bova" lemma="biti" ana="mte:Va-f1d-n">va</w>
+<w xml:id="Gos187.tok440" lemma="priti" ana="mte:Vmep-dm">prišla</w>
+<w xml:id="Gos187.tok441" lemma="pa" ana="mte:Cc">pa</w>
+<w xml:id="Gos187.tok442" lemma="do" ana="mte:Sg">do</w>
+<w xml:id="Gos187.tok443" norm="enega" lemma="en" ana="mte:Mlpmsg">enga</w>
+<w xml:id="Gos187.tok444" lemma="pojem" ana="mte:Ncmsg">pojma</w>
+            </seg>
+         </u>
+         <u xml:id="Gos187.u65" start="#NNosmbakko-pv1001071030.t232.127" end="#NNosmbakko-pv1001071030.t233.673">
+<seg xml:id="Gos187.s67" synch="#NNosmbakko-pv1001071030.t232.127">
+               <pause/>
+            </seg>
+         </u>
+         <u xml:id="Gos187.u66" who="#Mm-prof-01075" start="#NNosmbakko-pv1001071030.t233.673" end="#NNosmbakko-pv1001071030.t234.855">
+<seg xml:id="Gos187.s68" synch="#NNosmbakko-pv1001071030.t233.673">
+<w xml:id="Gos187.tok445" lemma="priti" ana="mte:Vmep-sf">prišla</w>
+<w xml:id="Gos187.tok446" lemma="do" ana="mte:Sg">do</w>
+<w xml:id="Gos187.tok447" norm="enega" lemma="en" ana="mte:Mlpmsg">enga</w>
+<w xml:id="Gos187.tok448" lemma="pojem" ana="mte:Ncmsg">pojma</w>
+            </seg>
+         </u>
+         <u xml:id="Gos187.u67" start="#NNosmbakko-pv1001071030.t234.855" end="#NNosmbakko-pv1001071030.t242.402">
+<seg xml:id="Gos187.s69" synch="#NNosmbakko-pv1001071030.t234.855">
+               <pause/>
+            </seg>
+         </u>
+         <u xml:id="Gos187.u68" who="#Mm-prof-01075" start="#NNosmbakko-pv1001071030.t242.402" end="#NNosmbakko-pv1001071030.t244.315">
+<seg xml:id="Gos187.s70" synch="#NNosmbakko-pv1001071030.t242.402">
+<w xml:id="Gos187.tok449" lemma="še" ana="mte:Q">še</w>
+<w xml:id="Gos187.tok450" lemma="malo" ana="mte:Rgp">malo</w>
+<w xml:id="Gos187.tok451" lemma="visoko" ana="mte:Rgc">višje</w>
+<w xml:id="Gos187.tok452" norm="bova" lemma="biti" ana="mte:Va-f1d-n">ma</w>
+<w xml:id="Gos187.tok453" lemma="iti" ana="mte:Vmbp-dm">šla</w>
+            </seg>
+         </u>
+         <u xml:id="Gos187.u69" start="#NNosmbakko-pv1001071030.t244.315" end="#NNosmbakko-pv1001071030.t246.164">
+<seg xml:id="Gos187.s71" synch="#NNosmbakko-pv1001071030.t244.315">
+               <pause/>
+            </seg>
+         </u>
+         <u xml:id="Gos187.u70" who="#Rm-stud-01076" start="#NNosmbakko-pv1001071030.t246.164" end="#NNosmbakko-pv1001071030.t250.22">
+<seg xml:id="Gos187.s72" synch="#NNosmbakko-pv1001071030.t246.164">
+<w xml:id="Gos187.tok454" lemma="ta" ana="mte:Pd-nsn">to</w>
+<w xml:id="Gos187.tok455" norm="kakor" lemma="kakor" ana="mte:Cs">koko</w>
+<w xml:id="Gos187.tok456" norm="vidim" lemma="videti" ana="mte:Vmbr1s">viim</w>
+<w xml:id="Gos187.tok457" lemma="se" ana="mte:Px------y">se</w>
+<w xml:id="Gos187.tok458" lemma="shraniti" ana="mte:Vmer3s">shrani</w>
+<w xml:id="Gos187.tok459" function="filler" lemma="eee" ana="mte:I">eee</w>
+<w xml:id="Gos187.tok460" lemma="samo" ana="mte:Q">samo</w>
+<w xml:id="Gos187.tok461" lemma="naslov" ana="mte:Ncmsn">naslov</w>
+<w xml:id="Gos187.tok462" lemma="v" ana="mte:Sl">v</w>
+<w xml:id="Gos187.tok463" lemma="bistvo" ana="mte:Ncnsl">bistvu</w>
+<w xml:id="Gos187.tok464" lemma="pa" ana="mte:Cc">pa</w>
+<w xml:id="Gos187.tok465" lemma="URL" ana="mte:Ncmsn">url</w>
+            </seg>
+         </u>
+         <u xml:id="Gos187.u71" who="#Mm-prof-01075" start="#NNosmbakko-pv1001071030.t250.22" end="#NNosmbakko-pv1001071030.t260.505">
+<seg xml:id="Gos187.s73" synch="#NNosmbakko-pv1001071030.t250.22">
+<w xml:id="Gos187.tok466" lemma="ti" ana="mte:Pp2-pd">vam</w>
+<w xml:id="Gos187.tok467" lemma="biti" ana="mte:Va-f1s-n">bom</w>
+<w xml:id="Gos187.tok468" lemma="takoj" ana="mte:Rgp">takoj</w>
+<w xml:id="Gos187.tok469" lemma="ti" ana="mte:Pp2-pd">vam</w>
+<w xml:id="Gos187.tok470" lemma="biti" ana="mte:Va-f1s-n">bom</w>
+<w xml:id="Gos187.tok471" norm="povedal" lemma="povedati" ana="mte:Vmep-sm">povedov</w>
+<w xml:id="Gos187.tok472" lemma="ja" ana="mte:Q">ja</w>
+<w xml:id="Gos187.tok473" lemma="v" ana="mte:Sa">v</w>
+<w xml:id="Gos187.tok474" lemma="ta" ana="mte:Pd-nsn">to</w>
+<w xml:id="Gos187.tok475" lemma="biti" ana="mte:Va-r3p-n">so</w>
+<w xml:id="Gos187.tok476" lemma="povezava" ana="mte:Ncfpn">povezave</w>
+<w xml:id="Gos187.tok477" lemma="ja" ana="mte:Q">ja</w>
+<w xml:id="Gos187.tok478" lemma="ampak" ana="mte:Cc">ampak</w>
+<w xml:id="Gos187.tok479" norm="bova" lemma="biti" ana="mte:Va-f1d-n">boma</w>
+<w xml:id="Gos187.tok480" norm="videla" lemma="videti" ana="mte:Vmbp-dm">vidla</w>
+<w xml:id="Gos187.tok481" norm="bova" lemma="biti" ana="mte:Va-f1d-n">boma</w>
+<w xml:id="Gos187.tok482" lemma="en" ana="mte:Mlpmsa">en</w>
+<w xml:id="Gos187.tok483" norm="pojem" lemma="pojem" ana="mte:Ncmsan">pojm</w>
+<w xml:id="Gos187.tok484" lemma="najti" ana="mte:Vmep-dm">našla</w>
+            </seg>
+<seg xml:id="Gos187.s74" synch="#NNosmbakko-pv1001071030.t257.771">
+<w xml:id="Gos187.tok485" norm="vidite" lemma="videti" ana="mte:Vmbr2p">viite</w>
+<w xml:id="Gos187.tok486" lemma="tule" ana="mte:Rgp">tule</w>
+<w xml:id="Gos187.tok487" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos187.tok488" lemma="področje" ana="mte:Ncnsn">področje</w>
+            </seg>
+         </u>
+         <u xml:id="Gos187.u72" who="#Rm-stud-01076" trans="smooth" start="#NNosmbakko-pv1001071030.t260.505" end="#NNosmbakko-pv1001071030.t260.505">
+<seg xml:id="Gos187.s75" synch="#NNosmbakko-pv1001071030.t260.505">
+<w xml:id="Gos187.tok489" function="filler" lemma="mhm" ana="mte:I">mhm</w>
+            </seg>
+         </u>
+         </body>
+   </text>
+</TEI>

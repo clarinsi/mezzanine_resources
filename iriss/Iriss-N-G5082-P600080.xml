@@ -1,0 +1,370 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Artur-N-G5082-P600080" xml:lang="sl" source="#gos.P.A.N">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Artur-N-G5082-P600080 [Artur-N]</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>2.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="63" xml:lang="sl">63 govorov</measure>
+            <measure unit="speeches" quantity="63" xml:lang="en">63 speeches</measure>
+            <measure unit="words" quantity="1330" xml:lang="sl">1330 besed</measure>
+            <measure unit="words" quantity="1330" xml:lang="en">1330 words</measure>
+         </extent>
+         <publicationStmt>
+            <distributor>
+               <ref target="https://www.clarin.si">CLARIN.SI</ref>
+            </distributor>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/XXXX</idno>
+            <date when="2023-06-09">2023-06-09</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <publisher>lastni posnetek</publisher>
+               <date when="2021-07">2021-07</date>
+            </bibl>
+            <recordingStmt>
+               <recording>
+                  <media xml:id="Artur-N-G5082-P600080-avd" mimeType="audio/wav" url="../Artur.wav/Artur-N-G5082-P600080-avd.wav"/>
+                  <date when="2021-07">2021-07</date>
+               </recording>
+            </recordingStmt>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <catRef target="#gos.T.N.Z"/>
+            <catRef target="#gos.K.O"/>
+         </textClass>
+         <textDesc>
+            <channel/>
+            <constitution/>
+            <derivation/>
+            <domain>prosti dialog med dvema sogovornikoma</domain>
+            <factuality/>
+            <interaction/>
+            <preparedness/>
+            <purpose/>
+         </textDesc>
+         <particDesc>
+            <listPerson n="1">
+               <person sameAs="#Artur-N-G5082"/>
+            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <place>
+               <settlement>Maribor</settlement>
+            </place>
+         </settingDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <desc type="topic">Prosti dialog med dvema sogovornikoma</desc>
+         <timeline unit="seg" origin="#Artur-N-G5082-P600080.t0" corresp="#Artur-N-G5082-P600080-avd">
+            <when xml:id="Artur-N-G5082-P600080.t0" interval="0.0"/>
+            <when xml:id="Artur-N-G5082-P600080.t1" interval="1.875" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t2" interval="2.545" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t3" interval="9.665" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t4" interval="14.085" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t5" interval="16.799" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t6" interval="71.375" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t7" interval="72.581" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t8" interval="76.925" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t9" interval="81.648" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t10" interval="156.715" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t11" interval="158.903" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t12" interval="204.497" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t13" interval="210.872" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t14" interval="312.680" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t15" interval="314.421" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t16" interval="317.524" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t17" interval="355.037" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t18" interval="366.935" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t19" interval="389.225" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t20" interval="390.520" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t21" interval="391.716" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t22" interval="393.346" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t23" interval="396.083" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t24" interval="401.163" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t25" interval="403.552" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t26" interval="404.548" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t27" interval="406.146" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t28" interval="462.932" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t29" interval="474.606" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t30" interval="568.472" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t31" interval="577.512" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t32" interval="581.887" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t33" interval="587.401" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t34" interval="627.905" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t35" interval="636.231" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t36" interval="681.030" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t37" interval="683.374" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t38" interval="687.191" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t39" interval="691.136" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t40" interval="692.065" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t41" interval="693.909" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t42" interval="696.757" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t43" interval="697.739" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t44" interval="699.213" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t45" interval="752.753" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t46" interval="755.066" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t47" interval="759.218" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t48" interval="766.776" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t49" interval="774.164" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t50" interval="776.888" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t51" interval="831.343" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t52" interval="839.892" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t53" interval="842.104" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t54" interval="849.738" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t55" interval="853.309" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t56" interval="854.515" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t57" interval="1071.976" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t58" interval="1073.998" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t59" interval="1086.878" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t60" interval="1188.575" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t61" interval="1191.834" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t62" interval="1211.087" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t63" interval="1212.953" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t64" interval="1217.908" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t65" interval="1237.216" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t66" interval="1239.832" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t67" interval="1241.854" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t68" interval="1252.903" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t69" interval="1361.545" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t70" interval="1366.992" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t71" interval="1370.778" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t72" interval="1377.399" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t73" interval="1379.622" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t74" interval="1391.006" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t75" interval="1394.046" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t76" interval="1441.824" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t77" interval="1445.619" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t78" interval="1447.775" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t79" interval="1457.775" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t80" interval="1464.405" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t81" interval="1466.784" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t82" interval="1467.878" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t83" interval="1470.110" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t84" interval="1501.941" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t85" interval="1505.615" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t86" interval="1509.990" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t87" interval="1612.423" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t88" interval="1623.204" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t89" interval="1626.865" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t90" interval="1627.535" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t91" interval="1635.048" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t92" interval="1638.613" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t93" interval="1648.106" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t94" interval="1677.102" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t95" interval="1687.115" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t96" interval="1714.258" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t97" interval="1717.205" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t98" interval="1721.861" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t99" interval="1729.026" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t100" interval="1731.214" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t101" interval="1738.236" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t102" interval="1740.563" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t103" interval="1750.513" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t104" interval="1785.199" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t105" interval="1792.087" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t106" interval="1800.101" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t107" interval="1803.954" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t108" interval="1813.588" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t109" interval="1815.856" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t110" interval="1828.392" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t111" interval="1845.013" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t112" interval="1848.084" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t113" interval="1864.200" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t114" interval="1868.196" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t115" interval="1871.767" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t116" interval="1877.873" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t117" interval="1882.261" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t118" interval="1885.944" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t119" interval="1890.543" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t120" interval="1898.570" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t121" interval="1903.472" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t122" interval="1914.200" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t123" interval="1964.236" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t124" interval="1966.370" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t125" interval="1968.214" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t126" interval="2004.991" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t127" interval="2007.219" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t128" interval="2010.433" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t129" interval="2013.224" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t130" interval="2015.322" since="#Artur-N-G5082-P600080.t0"/>
+            <when xml:id="Artur-N-G5082-P600080.t131" interval="2025.791" since="#Artur-N-G5082-P600080.t0"/>
+         </timeline>
+         <u xml:id="Artur-N-G5082-P600080.u2" who="#Artur-N-G5082" start="#Artur-N-G5082-P600080.t2" end="#Artur-N-G5082-P600080.t5">
+<seg xml:id="Artur-N-G5082-P600080.s1" synch="#Artur-N-G5082-P600080.t2">
+<w xml:id="Artur-N-G5082-P600080.tok1" lemma="okej" ana="mte:Rgp" join="right">okej</w>
+<pc xml:id="Artur-N-G5082-P600080.tok2" lemma="," ana="mte:Z">,</pc>
+<w xml:id="Artur-N-G5082-P600080.tok3" function="filler" lemma="eee" ana="mte:I" join="right">eee</w>
+<pc xml:id="Artur-N-G5082-P600080.tok4" lemma="," ana="mte:Z">,</pc>
+<w xml:id="Artur-N-G5082-P600080.tok5" norm="jaz" lemma="jaz" ana="mte:Pp1-sn">jəs</w>
+<w xml:id="Artur-N-G5082-P600080.tok6" norm="sem" lemma="biti" ana="mte:Va-r1s-n">səm</w>
+<w xml:id="Artur-N-G5082-P600080.tok7" lemma="slišati" ana="mte:Vmbp-sf" join="right">slišala</w>
+<pc xml:id="Artur-N-G5082-P600080.tok8" lemma="," ana="mte:Z">,</pc>
+<w xml:id="Artur-N-G5082-P600080.tok9" lemma="da" ana="mte:Cs">da</w>
+<w xml:id="Artur-N-G5082-P600080.tok10" lemma="pač" ana="mte:Q">pač</w>
+<w xml:id="Artur-N-G5082-P600080.tok11" lemma="delati" ana="mte:Vmpr2s">delaš</w>
+<w xml:id="Artur-N-G5082-P600080.tok12" lemma="ti" ana="mte:Pp2-sn">ti</w>
+<w xml:id="Artur-N-G5082-P600080.tok13" norm="zdaj" lemma="zdaj" ana="mte:Rgp">zdej</w>
+<w xml:id="Artur-N-G5082-P600080.tok14" lemma="magistrski" ana="mte:Agpfsa" join="right">magistrsko</w>
+<pc xml:id="Artur-N-G5082-P600080.tok15" lemma="," ana="mte:Z">,</pc>
+<w xml:id="Artur-N-G5082-P600080.tok16" lemma="ne" ana="mte:Q" join="right">ne</w>
+<pc xml:id="Artur-N-G5082-P600080.tok17" lemma="?" ana="mte:Z">?</pc>
+<w xml:id="Artur-N-G5082-P600080.tok18" lemma="pač" ana="mte:Q">pač</w>
+<w xml:id="Artur-N-G5082-P600080.tok19" lemma="v" ana="mte:Sl">v</w>
+<w xml:id="Artur-N-G5082-P600080.tok20" lemma="zveza" ana="mte:Ncfsl">zvezi</w>
+<w xml:id="Artur-N-G5082-P600080.tok21" lemma="z" ana="mte:Si">s</w>
+<w xml:id="Artur-N-G5082-P600080.tok22" lemma="z" ana="mte:Si">s</w>
+<w xml:id="Artur-N-G5082-P600080.tok23" lemma="pekarna" ana="mte:Ncfsi" join="right">Pekarno</w>
+<pc xml:id="Artur-N-G5082-P600080.tok24" lemma="," ana="mte:Z">,</pc>
+<w xml:id="Artur-N-G5082-P600080.tok25" lemma="ne" ana="mte:Q" join="right">ne</w>
+<pc xml:id="Artur-N-G5082-P600080.tok26" lemma="," ana="mte:Z">,</pc>
+            </seg>
+<seg xml:id="Artur-N-G5082-P600080.s2" synch="#Artur-N-G5082-P600080.t3">
+<w xml:id="Artur-N-G5082-P600080.tok27" lemma="med" ana="mte:Si">med</w>
+<w xml:id="Artur-N-G5082-P600080.tok28" lemma="drug" ana="mte:Mlpnsi">drugim</w>
+<w xml:id="Artur-N-G5082-P600080.tok29" lemma="tudi" ana="mte:Q" join="right">tudi</w>
+<pc xml:id="Artur-N-G5082-P600080.tok30" lemma="," ana="mte:Z">,</pc>
+<w xml:id="Artur-N-G5082-P600080.tok31" lemma="no" ana="mte:Q" join="right">no</w>
+<pc xml:id="Artur-N-G5082-P600080.tok32" lemma="," ana="mte:Z">,</pc>
+<w xml:id="Artur-N-G5082-P600080.tok33" lemma="misliti" ana="mte:Vmpr1s" join="right">mislim</w>
+<pc xml:id="Artur-N-G5082-P600080.tok34" lemma="," ana="mte:Z">,</pc>
+<w xml:id="Artur-N-G5082-P600080.tok35" lemma="ja" ana="mte:Q" join="right">ja</w>
+<pc xml:id="Artur-N-G5082-P600080.tok36" lemma="." ana="mte:Z">.</pc>
+<w xml:id="Artur-N-G5082-P600080.tok37" lemma="pa" ana="mte:Cc">pa</w>
+<w xml:id="Artur-N-G5082-P600080.tok38" lemma="jaz" ana="mte:Pp1-sa--y">me</w>
+<w xml:id="Artur-N-G5082-P600080.tok39" lemma="zanimati" ana="mte:Vmpr3s">zanima</w>
+<w xml:id="Artur-N-G5082-P600080.tok40" lemma="okej" ana="mte:Rgp" join="right">okej</w>
+<pc xml:id="Artur-N-G5082-P600080.tok41" lemma="," ana="mte:Z">,</pc>
+<w xml:id="Artur-N-G5082-P600080.tok42" lemma="če" ana="mte:Cs">če</w>
+<w xml:id="Artur-N-G5082-P600080.tok43" lemma="jaz" ana="mte:Pp1-sd--y">mi</w>
+<w xml:id="Artur-N-G5082-P600080.tok44" lemma="lahko" ana="mte:Rgp">lahko</w>
+<w xml:id="Artur-N-G5082-P600080.tok45" norm="kaj" lemma="kaj" ana="mte:Pq-nsa">kej</w>
+<w xml:id="Artur-N-G5082-P600080.tok46" lemma="več" ana="mte:Q">več</w>
+<w xml:id="Artur-N-G5082-P600080.tok47" lemma="povedati" ana="mte:Vmer2s">poveš</w>
+<w xml:id="Artur-N-G5082-P600080.tok48" lemma="o" ana="mte:Sl">o</w>
+<w xml:id="Artur-N-G5082-P600080.tok49" lemma="ta" ana="mte:Pd-nsl" join="right">tem</w>
+<pc xml:id="Artur-N-G5082-P600080.tok50" lemma="." ana="mte:Z">.</pc>
+            </seg>
+<seg xml:id="Artur-N-G5082-P600080.s3" synch="#Artur-N-G5082-P600080.t4">
+<w xml:id="Artur-N-G5082-P600080.tok51" lemma="pač" ana="mte:Q">pač</w>
+<w xml:id="Artur-N-G5082-P600080.tok52" lemma="v" ana="mte:Sl">v</w>
+<w xml:id="Artur-N-G5082-P600080.tok53" lemma="bistvo" ana="mte:Ncnsl" join="right">bistvu</w>
+<pc xml:id="Artur-N-G5082-P600080.tok54" lemma="," ana="mte:Z">,</pc>
+<w xml:id="Artur-N-G5082-P600080.tok55" lemma="kaj" ana="mte:Pq-nsa">kaj</w>
+<w xml:id="Artur-N-G5082-P600080.tok56" lemma="raziskovati" ana="mte:Vmpr2s" join="right">raziskuješ</w>
+<pc xml:id="Artur-N-G5082-P600080.tok57" lemma="," ana="mte:Z">,</pc>
+<w xml:id="Artur-N-G5082-P600080.tok58" lemma="ne" ana="mte:Q" join="right">ne</w>
+<pc xml:id="Artur-N-G5082-P600080.tok59" lemma="?" ana="mte:Z">?</pc>
+            </seg>
+         </u>
+         <u xml:id="Artur-N-G5082-P600080.u4" who="#Artur-N-G5082" start="#Artur-N-G5082-P600080.t6" end="#Artur-N-G5082-P600080.t9">
+<seg xml:id="Artur-N-G5082-P600080.s4" synch="#Artur-N-G5082-P600080.t6">
+<w xml:id="Artur-N-G5082-P600080.tok60" function="filler" lemma="mhm" ana="mte:I" join="right">mhm</w>
+<pc xml:id="Artur-N-G5082-P600080.tok61" lemma="." ana="mte:Z">.</pc>
+            </seg>
+<seg xml:id="Artur-N-G5082-P600080.s5" synch="#Artur-N-G5082-P600080.t7">
+<w xml:id="Artur-N-G5082-P600080.tok62" lemma="okej" ana="mte:Rgp" join="right">okej</w>
+<pc xml:id="Artur-N-G5082-P600080.tok63" lemma="," ana="mte:Z">,</pc>
+<w xml:id="Artur-N-G5082-P600080.tok64" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Artur-N-G5082-P600080.tok65" lemma="kaj" ana="mte:Pq-nsn">kaj</w>
+<w xml:id="Artur-N-G5082-P600080.tok66" lemma="biti" ana="mte:Va-r3p-n">so</w>
+<w xml:id="Artur-N-G5082-P600080.tok67" lemma="ta" ana="mte:Pd-fpn">te</w>
+<w xml:id="Artur-N-G5082-P600080.tok68" lemma="razlika" ana="mte:Ncfpn">razlike</w>
+<w xml:id="Artur-N-G5082-P600080.tok69" lemma="med" ana="mte:Si">med</w>
+<w xml:id="Artur-N-G5082-P600080.tok70" lemma="ta" ana="mte:Pd-mpi">temi</w>
+<w xml:id="Artur-N-G5082-P600080.tok71" lemma="trije" ana="mte:Mlcmpi">tremi</w>
+<w xml:id="Artur-N-G5082-P600080.tok72" lemma="različen" ana="mte:Agpmpi">različnimi</w>
+<w xml:id="Artur-N-G5082-P600080.tok73" lemma="kapital" ana="mte:Ncmpi">kapitali</w>
+<w xml:id="Artur-N-G5082-P600080.tok74" lemma="pač" ana="mte:Q" join="right">pač</w>
+<pc xml:id="Artur-N-G5082-P600080.tok75" lemma="," ana="mte:Z">,</pc>
+            </seg>
+<seg xml:id="Artur-N-G5082-P600080.s6" synch="#Artur-N-G5082-P600080.t8">
+<w xml:id="Artur-N-G5082-P600080.tok76" lemma="če" ana="mte:Cs">če</w>
+<w xml:id="Artur-N-G5082-P600080.tok77" lemma="biti" ana="mte:Va-c">bi</w>
+<w xml:id="Artur-N-G5082-P600080.tok78" lemma="lahko" ana="mte:Rgp">lahko</w>
+<w xml:id="Artur-N-G5082-P600080.tok79" lemma="znati" ana="mte:Vmpp-sm">znal</w>
+<w xml:id="Artur-N-G5082-P600080.tok80" norm="tako" lemma="tako" ana="mte:Rgp">tko</w>
+<w xml:id="Artur-N-G5082-P600080.tok81" lemma="jaz" ana="mte:Pp1-sd--y">mi</w>
+<w xml:id="Artur-N-G5082-P600080.tok82" norm="malo" lemma="malo" ana="mte:Rgp">mal</w>
+<w xml:id="Artur-N-G5082-P600080.tok83" norm="povedati" lemma="povedati" ana="mte:Vmen" join="right">povedat</w>
+<pc xml:id="Artur-N-G5082-P600080.tok84" lemma="," ana="mte:Z">,</pc>
+<w xml:id="Artur-N-G5082-P600080.tok85" lemma="da" ana="mte:Cs">da</w>
+<w xml:id="Artur-N-G5082-P600080.tok86" lemma="se" ana="mte:Px---d--y">si</w>
+<w xml:id="Artur-N-G5082-P600080.tok87" lemma="lahko" ana="mte:Rgc">lažje</w>
+<w xml:id="Artur-N-G5082-P600080.tok88" lemma="predstavljati" ana="mte:Vmpr1s" join="right">predstavljam</w>
+<pc xml:id="Artur-N-G5082-P600080.tok89" lemma="." ana="mte:Z">.</pc>
+            </seg>
+         </u>
+         <u xml:id="Artur-N-G5082-P600080.u6" who="#Artur-N-G5082" start="#Artur-N-G5082-P600080.t10" end="#Artur-N-G5082-P600080.t11">
+<seg xml:id="Artur-N-G5082-P600080.s7" synch="#Artur-N-G5082-P600080.t10">
+<w xml:id="Artur-N-G5082-P600080.tok90" lemma="okej" ana="mte:Rgp" join="right">okej</w>
+<pc xml:id="Artur-N-G5082-P600080.tok91" lemma="," ana="mte:Z">,</pc>
+<w xml:id="Artur-N-G5082-P600080.tok92" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Artur-N-G5082-P600080.tok93" lemma="ti" ana="mte:Pp2-sn">ti</w>
+<w xml:id="Artur-N-G5082-P600080.tok94" lemma="se" ana="mte:Px------y">se</w>
+<w xml:id="Artur-N-G5082-P600080.tok95" lemma="biti" ana="mte:Va-f2s-n">boš</w>
+<w xml:id="Artur-N-G5082-P600080.tok96" norm="osredotočil" lemma="osredotočiti" ana="mte:Vmep-sm">osredotoču</w>
+<w xml:id="Artur-N-G5082-P600080.tok97" lemma="kam" ana="mte:Rgp" join="right">kam</w>
+<pc xml:id="Artur-N-G5082-P600080.tok98" lemma="?" ana="mte:Z">?</pc>
+            </seg>
+         </u>
+         <u xml:id="Artur-N-G5082-P600080.u8" who="#Artur-N-G5082" start="#Artur-N-G5082-P600080.t12" end="#Artur-N-G5082-P600080.t13">
+<seg xml:id="Artur-N-G5082-P600080.s8" synch="#Artur-N-G5082-P600080.t12">
+<w xml:id="Artur-N-G5082-P600080.tok99" norm="zdaj" lemma="zdaj" ana="mte:Rgp">zdej</w>
+<w xml:id="Artur-N-G5082-P600080.tok100" lemma="biti" ana="mte:Va-r2s-n">si</w>
+<w xml:id="Artur-N-G5082-P600080.tok101" lemma="se" ana="mte:Px------y">se</w>
+<w xml:id="Artur-N-G5082-P600080.tok102" norm="odločil" lemma="odločiti" ana="mte:Vmep-sm" join="right">odloču</w>
+<pc xml:id="Artur-N-G5082-P600080.tok103" lemma="," ana="mte:Z">,</pc>
+<w xml:id="Artur-N-G5082-P600080.tok104" lemma="da" ana="mte:Cs">da</w>
+<w xml:id="Artur-N-G5082-P600080.tok105" lemma="biti" ana="mte:Va-f2s-n">boš</w>
+<w xml:id="Artur-N-G5082-P600080.tok106" norm="imel" lemma="imeti" ana="mte:Vmpp-sm">meu</w>
+<w xml:id="Artur-N-G5082-P600080.tok107" lemma="v" ana="mte:Sl">v</w>
+<w xml:id="Artur-N-G5082-P600080.tok108" lemma="bistvo" ana="mte:Ncnsl">bistvu</w>
+<w xml:id="Artur-N-G5082-P600080.tok109" lemma="intervju" ana="mte:Ncmpa">intervjuje</w>
+<w xml:id="Artur-N-G5082-P600080.tok110" norm="z" lemma="z" ana="mte:Si">sə</w>
+<w xml:id="Artur-N-G5082-P600080.tok111" norm="z" lemma="z" ana="mte:Si">sə</w>
+<w xml:id="Artur-N-G5082-P600080.tok112" lemma="človek" ana="mte:Ncmpi" join="right">ljudmi</w>
+<pc xml:id="Artur-N-G5082-P600080.tok113" lemma="," ana="mte:Z">,</pc>
+<w xml:id="Artur-N-G5082-P600080.tok114" lemma="ki" ana="mte:Cs">ki</w>
+<w xml:id="Artur-N-G5082-P600080.tok115" lemma="v" ana="mte:Sl">v</w>
+<w xml:id="Artur-N-G5082-P600080.tok116" lemma="bistvo" ana="mte:Ncnsl">bistvu</w>
+<w xml:id="Artur-N-G5082-P600080.tok117" norm="nekako" lemma="nekako" ana="mte:Rgp">nekak</w>
+<w xml:id="Artur-N-G5082-P600080.tok118" lemma="delati" ana="mte:Vmpr3p" join="right">delajo</w>
+<pc xml:id="Artur-N-G5082-P600080.tok119" lemma="?" ana="mte:Z">?</pc>
+            </seg>
+         </u>
+         <u xml:id="Artur-N-G5082-P600080.u10" who="#Artur-N-G5082" start="#Artur-N-G5082-P600080.t14" end="#Artur-N-G5082-P600080.t16">
+<seg xml:id="Artur-N-G5082-P600080.s9" synch="#Artur-N-G5082-P600080.t14">
+<w xml:id="Artur-N-G5082-P600080.tok120" function="filler" lemma="mmm" ana="mte:I">mmm</w>
+               <vocal type="voice"/>
+<pc xml:id="Artur-N-G5082-P600080.tok121" lemma="." ana="mte:Z">.</pc>
+            </seg>
+<seg xml:id="Artur-N-G5082-P600080.s10" synch="#Artur-N-G5082-P600080.t15">
+<w xml:id="Artur-N-G5082-P600080.tok122" lemma="ta" ana="mte:Pd-nsn">to</w>
+<w xml:id="Artur-N-G5082-P600080.tok123" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Artur-N-G5082-P600080.tok124" lemma="v" ana="mte:Sl">v</w>
+<w xml:id="Artur-N-G5082-P600080.tok125" lemma="bistvo" ana="mte:Ncnsl">bistvu</w>
+<w xml:id="Artur-N-G5082-P600080.tok126" lemma="ful" ana="mte:Rgp">ful</w>
+<w xml:id="Artur-N-G5082-P600080.tok127" lemma="podoben" ana="mte:Agpnsn" join="right">podobno</w>
+<pc xml:id="Artur-N-G5082-P600080.tok128" lemma="," ana="mte:Z">,</pc>
+<w xml:id="Artur-N-G5082-P600080.tok129" lemma="kot" ana="mte:Cs">kot</w>
+<w xml:id="Artur-N-G5082-P600080.tok130" lemma="na" ana="mte:Sa">na</w>
+<w xml:id="Artur-N-G5082-P600080.tok131" lemma="primer" ana="mte:Ncmsan">primer</w>
+<w xml:id="Artur-N-G5082-P600080.tok132" lemma="Metelkov" ana="mte:Aspfsn">Metelkova</w>
+<w xml:id="Artur-N-G5082-P600080.tok133" lemma="v" ana="mte:Sl">v</w>
+<w xml:id="Artur-N-G5082-P600080.tok134" lemma="Ljubljana" ana="mte:Npfsl" join="right">Ljubljani</w>
+<pc xml:id="Artur-N-G5082-P600080.tok135" lemma="," ana="mte:Z">,</pc>
+<w xml:id="Artur-N-G5082-P600080.tok136" lemma="ne" ana="mte:Q" join="right">ne</w>
+<pc xml:id="Artur-N-G5082-P600080.tok137" lemma="?" ana="mte:Z">?</pc>
+            </seg>
+         </u>
+         </body>
+   </text>
+</TEI>

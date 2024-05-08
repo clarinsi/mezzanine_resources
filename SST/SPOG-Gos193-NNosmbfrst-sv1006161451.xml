@@ -1,0 +1,620 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Gos193" xml:lang="sl" source="#gos.P.G">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pogovor med frizerjem in strankami v frizerskem salonu. [Gos1.1]</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>2.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="501" xml:lang="sl">501 govorov</measure>
+            <measure unit="speeches" quantity="501" xml:lang="en">501 speeches</measure>
+            <measure unit="words" quantity="3003" xml:lang="sl">3003 besed</measure>
+            <measure unit="words" quantity="3003" xml:lang="en">3003 words</measure>
+         </extent>
+         <publicationStmt>
+            <distributor>
+               <ref target="https://www.clarin.si/">CLARIN.SI</ref>
+            </distributor>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/XXXX</idno>
+            <date when="2023-06-09">2023-06-09</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <publisher>lastni posnetek</publisher>
+               <title>Pogovor med frizerjem in strankami v frizerskem salonu.</title>
+               <date when="2010-06">2010-06</date>
+            </bibl>
+            <recordingStmt>
+               <recording>
+                  <media xml:id="SPOG-Gos193-NNosmbfrst-sv1006161451-avd.wav" mimeType="audio/wav" url="./SPOG-Gos193-NNosmbfrst-sv1006161451-avd.wav"/>
+                  <date when="2010-06-16">2010-06-16</date>
+               </recording>
+            </recordingStmt>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <catRef target="#gos.T.N.N"/>
+            <catRef target="#gos.K.O"/>
+         </textClass>
+         <textDesc>
+            <channel/>
+            <constitution/>
+            <derivation/>
+            <domain>storitev</domain>
+            <factuality/>
+            <interaction/>
+            <preparedness/>
+            <purpose/>
+         </textDesc>
+         <particDesc>
+            <listPerson n="8">
+               <person sameAs="#Am-prod-02325"/>
+               <person sameAs="#Bf-stra-02329"/>
+               <person sameAs="#Cf-stra-07534"/>
+               <person sameAs="#Df-stra-02330"/>
+               <person sameAs="#Ef-stra-02326"/>
+               <person sameAs="#audience"/>
+               <person sameAs="#all"/>
+               <person sameAs="#Yf-stra-00000"/>
+            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <place>
+               <settlement>Maribor</settlement>
+            </place>
+         </settingDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <timeline unit="seg" xml:id="NNosmbfrst-sv1006161451" origin="#NNosmbfrst-sv1006161451.t0" corresp="#NNosmbfrst-sv1006161451.wav">
+            <when xml:id="NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t5.58613831479" interval="5.58613831479" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t6.478" interval="6.478" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t7.118" interval="7.118" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t8.462" interval="8.462" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t15.066" interval="15.066" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t20.053" interval="20.053" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t20.459" interval="20.459" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t29.112" interval="29.112" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t29.948" interval="29.948" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t31.23" interval="31.23" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t31.682" interval="31.682" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t32.676" interval="32.676" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t38.056" interval="38.056" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t45.817" interval="45.817" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t50.333" interval="50.333" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t56.427" interval="56.427" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t57.203" interval="57.203" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t59.109" interval="59.109" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t63.721" interval="63.721" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t66.08" interval="66.08" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t67.528" interval="67.528" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t73.064" interval="73.064" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t75.72" interval="75.72" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t79.685" interval="79.685" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t83.248" interval="83.248" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t89.216" interval="89.216" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t97.18" interval="97.18" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t97.711" interval="97.711" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t101.711" interval="101.711" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t104.49" interval="104.49" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t115.974" interval="115.974" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t117.176" interval="117.176" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t118.848" interval="118.848" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t119.453" interval="119.453" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t121.032" interval="121.032" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t123.208" interval="123.208" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t128.24" interval="128.24" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t130.639" interval="130.639" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t135.317" interval="135.317" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t137.639" interval="137.639" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t139.624" interval="139.624" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t145.315" interval="145.315" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t146.348" interval="146.348" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t147.223" interval="147.223" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t148.583" interval="148.583" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t153.502351308" interval="153.502351308" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t159.924" interval="159.924" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t165.941" interval="165.941" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t166.792" interval="166.792" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t168.892" interval="168.892" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t175.066" interval="175.066" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t175.852" interval="175.852" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t177.056" interval="177.056" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t181.503" interval="181.503" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t183.693" interval="183.693" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t185.443" interval="185.443" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t190.384" interval="190.384" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t190.813" interval="190.813" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t194.782" interval="194.782" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t196.084" interval="196.084" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t198.095" interval="198.095" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t200.88" interval="200.88" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t202.141" interval="202.141" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t205.829" interval="205.829" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t211.5" interval="211.5" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t215.156" interval="215.156" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t219.630" interval="219.630" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t220.671" interval="220.671" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t222.953" interval="222.953" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t227.577" interval="227.577" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t235.592" interval="235.592" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t240.105" interval="240.105" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t240.511" interval="240.511" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t241.416" interval="241.416" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t242.572" interval="242.572" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t243.602437202" interval="243.602437202" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t244.53" interval="244.53" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t246.213" interval="246.213" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t255.131" interval="255.131" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t262.452" interval="262.452" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t264.708" interval="264.708" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t272.742" interval="272.742" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t275.761" interval="275.761" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t279.595" interval="279.595" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t282.251" interval="282.251" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t283.105" interval="283.105" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t285.094" interval="285.094" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t291.256" interval="291.256" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t292.669" interval="292.669" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t294.255" interval="294.255" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t298.634" interval="298.634" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t300.253" interval="300.253" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t302.275" interval="302.275" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t310.696" interval="310.696" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t315.596" interval="315.596" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t318.635" interval="318.635" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t320.737" interval="320.737" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t324.458" interval="324.458" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t331.865" interval="331.865" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t338.671" interval="338.671" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t339.687" interval="339.687" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t340.209" interval="340.209" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t341.867" interval="341.867" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t343.008" interval="343.008" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t344.514" interval="344.514" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t346.514" interval="346.514" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t347.469" interval="347.469" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t348.062" interval="348.062" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t348.593" interval="348.593" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t350.066" interval="350.066" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t351.506" interval="351.506" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t355.821" interval="355.821" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t357.994" interval="357.994" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t358.919" interval="358.919" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t477.691192369" interval="477.691192369" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t478.599" interval="478.599" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t480.084" interval="480.084" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t481.692" interval="481.692" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t483.305" interval="483.305" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t483.544" interval="483.544" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t485.712" interval="485.712" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t488.056" interval="488.056" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t489.761" interval="489.761" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t490.715" interval="490.715" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t493.999" interval="493.999" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t498.792" interval="498.792" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t499.367" interval="499.367" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t501.715" interval="501.715" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t503.910" interval="503.910" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t506.414" interval="506.414" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t508.553" interval="508.553" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t508.89" interval="508.89" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t511.656" interval="511.656" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t513.125" interval="513.125" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t514.616" interval="514.616" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t518.656" interval="518.656" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t519.719" interval="519.719" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t522.203" interval="522.203" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t524.552" interval="524.552" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t525.802" interval="525.802" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t529.363" interval="529.363" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t530.713" interval="530.713" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t533.003" interval="533.003" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t533.675" interval="533.675" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t534.527" interval="534.527" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t535.55" interval="535.55" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t537.444" interval="537.444" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t538.928" interval="538.928" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t540.13763911" interval="540.13763911" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t543.013" interval="543.013" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t545.127" interval="545.127" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t546.684" interval="546.684" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t547.988" interval="547.988" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t549.121" interval="549.121" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t551.481" interval="551.481" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t552.446468998" interval="552.446468998" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t558.934" interval="558.934" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t559.672224165" interval="559.672224165" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t561.02" interval="561.02" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t570.368" interval="570.368" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t573.619" interval="573.619" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t577.067" interval="577.067" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t581.208" interval="581.208" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t585.427" interval="585.427" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t590.036" interval="590.036" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t591.599" interval="591.599" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t595.082" interval="595.082" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t598.897" interval="598.897" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t599.755" interval="599.755" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t603.364" interval="603.364" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t608.114" interval="608.114" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t625.474" interval="625.474" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t631.007" interval="631.007" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t640.143" interval="640.143" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t648.963" interval="648.963" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t663.748" interval="663.748" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t671.922" interval="671.922" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t673.265" interval="673.265" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t680.312" interval="680.312" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t681.821" interval="681.821" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t682.274" interval="682.274" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t684.166" interval="684.166" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t684.744" interval="684.744" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t687.499" interval="687.499" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t691.468" interval="691.468" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t696.734" interval="696.734" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t701.249" interval="701.249" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t705.427" interval="705.427" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t706.156" interval="706.156" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t708.982" interval="708.982" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t710.107" interval="710.107" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t713.262" interval="713.262" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t714.552" interval="714.552" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t718.534" interval="718.534" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t719.125" interval="719.125" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t723.599" interval="723.599" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t726.546" interval="726.546" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t727.577" interval="727.577" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t732.145" interval="732.145" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t732.691" interval="732.691" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t734.932" interval="734.932" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t737.983" interval="737.983" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t739.717" interval="739.717" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t742.171" interval="742.171" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t743.452" interval="743.452" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t745.577" interval="745.577" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t746.217" interval="746.217" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t748.342" interval="748.342" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t751.717" interval="751.717" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t753.222" interval="753.222" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t753.675" interval="753.675" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t755.046" interval="755.046" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t756.656" interval="756.656" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t758.206" interval="758.206" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t760.638" interval="760.638" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t762.141" interval="762.141" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t763.626" interval="763.626" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t766.579" interval="766.579" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t768.266" interval="768.266" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t770.438" interval="770.438" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t772.476" interval="772.476" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t773.668" interval="773.668" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t776.031" interval="776.031" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t776.574" interval="776.574" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t778.323" interval="778.323" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t782.058" interval="782.058" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t783.215" interval="783.215" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t783.879" interval="783.879" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t788.051" interval="788.051" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t789.52" interval="789.52" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t790.004" interval="790.004" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t790.754" interval="790.754" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t791.752" interval="791.752" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t792.486" interval="792.486" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t797.158" interval="797.158" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t798.384" interval="798.384" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t799.877" interval="799.877" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t801.658" interval="801.658" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t808.033" interval="808.033" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t812.611" interval="812.611" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t815.908" interval="815.908" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t817.297" interval="817.297" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t821.092" interval="821.092" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t822.373" interval="822.373" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t826.189" interval="826.189" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t827.643" interval="827.643" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t830.642" interval="830.642" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t844.159" interval="844.159" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t845.987" interval="845.987" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t848.618" interval="848.618" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t849.602" interval="849.602" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t854.066155803" interval="854.066155803" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t856.953" interval="856.953" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t859.875" interval="859.875" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t865.469" interval="865.469" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t867.279" interval="867.279" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t868.734" interval="868.734" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t872.453" interval="872.453" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t873.765" interval="873.765" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t879.437" interval="879.437" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t880.267" interval="880.267" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t887.707" interval="887.707" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t888.393470588" interval="888.393470588" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t890.26" interval="890.26" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t892.128" interval="892.128" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t894.217" interval="894.217" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t903.13" interval="903.13" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t906.919" interval="906.919" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t909.683864865" interval="909.683864865" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t914.674" interval="914.674" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t916.247" interval="916.247" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t916.685" interval="916.685" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t917.029" interval="917.029" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t919.349" interval="919.349" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t921.161" interval="921.161" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t928.791" interval="928.791" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t935.198" interval="935.198" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t938.136" interval="938.136" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t939.042" interval="939.042" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t943.489" interval="943.489" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t944.395" interval="944.395" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t945.317" interval="945.317" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t952.348" interval="952.348" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t965.176" interval="965.176" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t969.129" interval="969.129" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t970.832" interval="970.832" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t973.786" interval="973.786" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t975.427" interval="975.427" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t979.49" interval="979.49" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t985.24" interval="985.24" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t986.084" interval="986.084" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t988.543" interval="988.543" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t992.538" interval="992.538" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t996.374" interval="996.374" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t998.764" interval="998.764" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t999.103" interval="999.103" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1001.529" interval="1001.529" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1003.882" interval="1003.882" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1005.019" interval="1005.019" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1006.121" interval="1006.121" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1006.605" interval="1006.605" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1009.621" interval="1009.621" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1010.575" interval="1010.575" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1011.753" interval="1011.753" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1012.548" interval="1012.548" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1014.089" interval="1014.089" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1014.751" interval="1014.751" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1016.22" interval="1016.22" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1019.689" interval="1019.689" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1020.808" interval="1020.808" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1021.428" interval="1021.428" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1025.491" interval="1025.491" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1027.596" interval="1027.596" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1031.002" interval="1031.002" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1033.08" interval="1033.08" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1034.559" interval="1034.559" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1036.719" interval="1036.719" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1037.839" interval="1037.839" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1040.891" interval="1040.891" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1042.243" interval="1042.243" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1043.149" interval="1043.149" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1044.32" interval="1044.32" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1046.874" interval="1046.874" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1048.546" interval="1048.546" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1051.083" interval="1051.083" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1053.186" interval="1053.186" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1055.186" interval="1055.186" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1056.967" interval="1056.967" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1059.561" interval="1059.561" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1061.342" interval="1061.342" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1063.266" interval="1063.266" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1067.749" interval="1067.749" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1071.39" interval="1071.39" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1076.848" interval="1076.848" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1082.309" interval="1082.309" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1082.889" interval="1082.889" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1084.528" interval="1084.528" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1088.962" interval="1088.962" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1096.00896184" interval="1096.00896184" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1096.925" interval="1096.925" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1099.753" interval="1099.753" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1103.456" interval="1103.456" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1110.75141017" interval="1110.75141017" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1112.61150556" interval="1112.61150556" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1117.83" interval="1117.83" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1120.22" interval="1120.22" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1121.783" interval="1121.783" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1124.626" interval="1124.626" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1125.943" interval="1125.943" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1126.865" interval="1126.865" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1129.898" interval="1129.898" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1132.335" interval="1132.335" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1134.655" interval="1134.655" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1138.086" interval="1138.086" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1138.446" interval="1138.446" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1141.045" interval="1141.045" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1143.373" interval="1143.373" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1145.717" interval="1145.717" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1146.467" interval="1146.467" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1149.764" interval="1149.764" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1152.764" interval="1152.764" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1154.342" interval="1154.342" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1159.056" interval="1159.056" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1159.79" interval="1159.79" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1161.322" interval="1161.322" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1161.712" interval="1161.712" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1162.15" interval="1162.15" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1163.353" interval="1163.353" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1163.868" interval="1163.868" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1164.484" interval="1164.484" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1166.83265978" interval="1166.83265978" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1171.244" interval="1171.244" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1174.25396344" interval="1174.25396344" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1175.821" interval="1175.821" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1177.783" interval="1177.783" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1179.18" interval="1179.18" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1180.573" interval="1180.573" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1182.433" interval="1182.433" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1185.690" interval="1185.690" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1188.032" interval="1188.032" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1191.157" interval="1191.157" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1192.152" interval="1192.152" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1193.105" interval="1193.105" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1196.020" interval="1196.020" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1196.761" interval="1196.761" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1197.364" interval="1197.364" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1199.298" interval="1199.298" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1202.837" interval="1202.837" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1206.463" interval="1206.463" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1207.151" interval="1207.151" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1210.042" interval="1210.042" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1210.924" interval="1210.924" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1212.513" interval="1212.513" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1214.258" interval="1214.258" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1215.227" interval="1215.227" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1216.327" interval="1216.327" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1219.461" interval="1219.461" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1221.461" interval="1221.461" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1233.053" interval="1233.053" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1238.301" interval="1238.301" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1239.479" interval="1239.479" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1240.819" interval="1240.819" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1243.47206518" interval="1243.47206518" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1244.765" interval="1244.765" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1248.077" interval="1248.077" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1256.061" interval="1256.061" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1261.374" interval="1261.374" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1272.102" interval="1272.102" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1286.361" interval="1286.361" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1290.298" interval="1290.298" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1290.77308744" interval="1290.77308744" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1293.6" interval="1293.6" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1295.491" interval="1295.491" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1296.209" interval="1296.209" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1298.225" interval="1298.225" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1300.891" interval="1300.891" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1302.686" interval="1302.686" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1309.574" interval="1309.574" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1314.983" interval="1314.983" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1318.074" interval="1318.074" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1318.596" interval="1318.596" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1320.592" interval="1320.592" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1323.994" interval="1323.994" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1326.11637063" interval="1326.11637063" since="#NNosmbfrst-sv1006161451.t0"/>
+            <when xml:id="NNosmbfrst-sv1006161451.t1326.994" interval="1326.994" since="#NNosmbfrst-sv1006161451.t0"/>
+         </timeline>
+         <u xml:id="Gos193.u132" who="#Bf-stra-02329" trans="smooth" start="#NNosmbfrst-sv1006161451.t318.635" end="#NNosmbfrst-sv1006161451.t318.635">
+<seg xml:id="Gos193.s138" synch="#NNosmbfrst-sv1006161451.t318.635">
+<w xml:id="Gos193.tok962" lemma="ja" ana="mte:Q">ja</w>
+<w xml:id="Gos193.tok963" lemma="samo" ana="mte:Q">samo</w>
+<w xml:id="Gos193.tok964" lemma="z" ana="mte:Si">s</w>
+<w xml:id="Gos193.tok965" lemma="pinceta" ana="mte:Ncfsi">pinceto</w>
+<w xml:id="Gos193.tok966" lemma="boleti" ana="mte:Vmpr3s">boli</w>
+<w xml:id="Gos193.tok967" lemma="baje" ana="mte:Q">baje</w>
+<w xml:id="Gos193.tok968" lemma="z" ana="mte:Si">s</w>
+<w xml:id="Gos193.tok969" lemma="ta" ana="mte:Pd-nsi">tem</w>
+<w xml:id="Gos193.tok970" lemma="pa" ana="mte:Cc">pa</w>
+<w xml:id="Gos193.tok971" lemma="ne" ana="mte:Q">ne</w>
+            </seg>
+         </u>
+         <u xml:id="Gos193.u133" who="#Cf-stra-07534" trans="overlap" start="#NNosmbfrst-sv1006161451.t318.635" end="#NNosmbfrst-sv1006161451.t320.737">
+<seg xml:id="Gos193.s139" synch="#NNosmbfrst-sv1006161451.t318.635">
+               <vocal type="voice"/>
+            </seg>
+         </u>
+         <u xml:id="Gos193.u134" who="#Cf-stra-07534" start="#NNosmbfrst-sv1006161451.t320.737" end="#NNosmbfrst-sv1006161451.t324.458">
+<seg xml:id="Gos193.s140" synch="#NNosmbfrst-sv1006161451.t320.737">
+<w xml:id="Gos193.tok972" lemma="jaz" ana="mte:Pp1-sa">mene</w>
+<w xml:id="Gos193.tok973" lemma="z" ana="mte:Si">s</w>
+<w xml:id="Gos193.tok974" lemma="pinceta" ana="mte:Ncfsi">pinceto</w>
+<w xml:id="Gos193.tok975" lemma="ne" ana="mte:Q">ne</w>
+<w xml:id="Gos193.tok976" lemma="boleti" ana="mte:Vmpr3s">boli</w>
+<w xml:id="Gos193.tok977" lemma="če" ana="mte:Cs">če</w>
+<w xml:id="Gos193.tok978" lemma="on" ana="mte:Pp3mpa--y">jih</w>
+<w xml:id="Gos193.tok979" lemma="prej" ana="mte:Rgc">prej</w>
+<w xml:id="Gos193.tok980" lemma="malo" ana="mte:Rgp">malo</w>
+<w xml:id="Gos193.tok981" lemma="nek" ana="mte:Pi-fsa">neko</w>
+<w xml:id="Gos193.tok982" lemma="krema" ana="mte:Ncfsa">kremo</w>
+<w xml:id="Gos193.tok983" lemma="dati" ana="mte:Vmer2s">daš</w>
+<w xml:id="Gos193.tok984" lemma="noter" ana="mte:Rgp">noter</w>
+<w xml:id="Gos193.tok985" lemma="ne" ana="mte:Q">ne</w>
+            </seg>
+         </u>
+         <u xml:id="Gos193.u135" who="#Bf-stra-02329" trans="smooth" start="#NNosmbfrst-sv1006161451.t324.458" end="#NNosmbfrst-sv1006161451.t324.458">
+<seg xml:id="Gos193.s141" synch="#NNosmbfrst-sv1006161451.t324.458">
+<w xml:id="Gos193.tok986" lemma="ja" ana="mte:Q">ja</w>
+<w xml:id="Gos193.tok987" lemma="da" ana="mte:Cs">da</w>
+<w xml:id="Gos193.tok988" lemma="malo" ana="mte:Rgp">malo</w>
+<w xml:id="Gos193.tok989" lemma="izstopiti" ana="mte:Vmer3p">izstopijo</w>
+<w xml:id="Gos193.tok990" lemma="oziroma" ana="mte:Cc">oziroma</w>
+<w xml:id="Gos193.tok991" lemma="da" ana="mte:Cs">da</w>
+<w xml:id="Gos193.tok992" lemma="se" ana="mte:Px------y">se</w>
+<w xml:id="Gos193.tok993" lemma="odpreti" ana="mte:Vmer3p">odprejo</w>
+<w xml:id="Gos193.tok994" lemma="ne" ana="mte:Q">ne</w>
+            </seg>
+         </u>
+         <u xml:id="Gos193.u136" who="#Cf-stra-07534" trans="overlap" start="#NNosmbfrst-sv1006161451.t324.458" end="#NNosmbfrst-sv1006161451.t331.865">
+<seg xml:id="Gos193.s142" synch="#NNosmbfrst-sv1006161451.t324.458">
+<w xml:id="Gos193.tok995" lemma="ja" ana="mte:Q">ja</w>
+<w xml:id="Gos193.tok996" lemma="jaz" ana="mte:Pp1-sa">mene</w>
+<w xml:id="Gos193.tok997" lemma="pol" ana="mte:Rgp">pol</w>
+<w xml:id="Gos193.tok998" norm="čisto" lemma="čisto" ana="mte:Rgp">čist</w>
+<w xml:id="Gos193.tok999" lemma="nič" ana="mte:Pz-nsa">nič</w>
+<w xml:id="Gos193.tok1000" lemma="jaz" ana="mte:Pp1-sa">mene</w>
+<w xml:id="Gos193.tok1001" function="filler" lemma="eee" ana="mte:I">eee</w>
+<w xml:id="Gos193.tok1002" lemma="z" ana="mte:Si">s</w>
+<w xml:id="Gos193.tok1003" lemma="pinceta" ana="mte:Ncfsi">pinceto</w>
+<w xml:id="Gos193.tok1004" lemma="ne" ana="mte:Q">ne</w>
+<w xml:id="Gos193.tok1005" lemma="boleti" ana="mte:Vmpr3s">boli</w>
+<w xml:id="Gos193.tok1006" lemma="oblikovanje" ana="mte:Ncnsn">oblikovanje</w>
+<w xml:id="Gos193.tok1007" norm="čisto" lemma="čisto" ana="mte:Rgp">čist</w>
+<w xml:id="Gos193.tok1008" lemma="nič" ana="mte:Pz-nsn">nič</w>
+            </seg>
+         </u>
+         <u xml:id="Gos193.u137" who="#Cf-stra-07534" start="#NNosmbfrst-sv1006161451.t331.865" end="#NNosmbfrst-sv1006161451.t338.671">
+<seg xml:id="Gos193.s143" synch="#NNosmbfrst-sv1006161451.t331.865">
+<w xml:id="Gos193.tok1009" norm="ali" lemma="ali" ana="mte:Cc">al</w>
+<w xml:id="Gos193.tok1010" lemma="pa" ana="mte:Cc">pa</w>
+<w xml:id="Gos193.tok1011" norm="recimo" lemma="reči" ana="mte:Vmem1p">recimer</w>
+<w xml:id="Gos193.tok1012" function="filler" lemma="eee" ana="mte:I">eee</w>
+<w xml:id="Gos193.tok1013" norm="tudi" lemma="tudi" ana="mte:Q">tud</w>
+<w xml:id="Gos193.tok1014" lemma="kak" ana="mte:Pq-nsn">kako</w>
+<w xml:id="Gos193.tok1015" lemma="voskanje" ana="mte:Ncnsn">voskanje</w>
+<w xml:id="Gos193.tok1016" lemma="reči" ana="mte:Vmem1p">recimo</w>
+<w xml:id="Gos193.tok1017" lemma="z" ana="mte:Si">z</w>
+<w xml:id="Gos193.tok1018" lemma="oni" ana="mte:Pd-nsi">onim</w>
+               <gap reason="unclear"/>
+<w xml:id="Gos193.tok1019" lemma="naj" ana="mte:Q">naj</w>
+<w xml:id="Gos193.tok1020" lemma="biti" ana="mte:Va-c">bi</w>
+<w xml:id="Gos193.tok1021" lemma="boleti" ana="mte:Vmpp-pf">bolele</w>
+<w xml:id="Gos193.tok1022" lemma="ne" ana="mte:Q">ne</w>
+            </seg>
+         </u>
+         <u xml:id="Gos193.u138" who="#Bf-stra-02329" start="#NNosmbfrst-sv1006161451.t338.671" end="#NNosmbfrst-sv1006161451.t339.687">
+<seg xml:id="Gos193.s144" synch="#NNosmbfrst-sv1006161451.t338.671">
+<w xml:id="Gos193.tok1023" lemma="ta" ana="mte:Pd-nsn">to</w>
+<w xml:id="Gos193.tok1024" lemma="biti" ana="mte:Va-c">bi</w>
+<w xml:id="Gos193.tok1025" lemma="naj" ana="mte:Q">naj</w>
+<w xml:id="Gos193.tok1026" lemma="boleti" ana="mte:Vmpp-sn">bolelo</w>
+<w xml:id="Gos193.tok1027" lemma="ja" ana="mte:Q">ja</w>
+            </seg>
+         </u>
+         <u xml:id="Gos193.u139" who="#Cf-stra-07534" start="#NNosmbfrst-sv1006161451.t339.687" end="#NNosmbfrst-sv1006161451.t340.209">
+<seg xml:id="Gos193.s145" synch="#NNosmbfrst-sv1006161451.t339.687">
+<w xml:id="Gos193.tok1028" norm="čisto" lemma="čisto" ana="mte:Rgp">čist</w>
+<w xml:id="Gos193.tok1029" lemma="nič" ana="mte:Rgp">nič</w>
+            </seg>
+         </u>
+         <u xml:id="Gos193.u140" start="#NNosmbfrst-sv1006161451.t340.209" end="#NNosmbfrst-sv1006161451.t341.867">
+<seg xml:id="Gos193.s146" synch="#NNosmbfrst-sv1006161451.t340.209">
+               <pause/>
+            </seg>
+         </u>
+         <u xml:id="Gos193.u141" who="#Cf-stra-07534" start="#NNosmbfrst-sv1006161451.t341.867" end="#NNosmbfrst-sv1006161451.t343.008">
+<seg xml:id="Gos193.s147" synch="#NNosmbfrst-sv1006161451.t341.867">
+<w xml:id="Gos193.tok1030" norm="ta" lemma="ta" ana="mte:Pd-msn">toti</w>
+<w xml:id="Gos193.tok1031" lemma="kaj" ana="mte:Pq-nsn">kaj</w>
+<w xml:id="Gos193.tok1032" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos193.tok1033" lemma="od" ana="mte:Sg">od</w>
+<w xml:id="Gos193.tok1034" function="filler" lemma="eee" ana="mte:I">eee</w>
+            </seg>
+         </u>
+         </body>
+   </text>
+</TEI>

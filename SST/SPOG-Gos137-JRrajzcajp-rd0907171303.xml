@@ -1,0 +1,1231 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Gos137" xml:lang="sl" source="#gos.P.G">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jutranji program radia. [Gos1.1]</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>2.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="579" xml:lang="sl">579 govorov</measure>
+            <measure unit="speeches" quantity="579" xml:lang="en">579 speeches</measure>
+            <measure unit="words" quantity="9554" xml:lang="sl">9554 besed</measure>
+            <measure unit="words" quantity="9554" xml:lang="en">9554 words</measure>
+         </extent>
+         <publicationStmt>
+            <distributor>
+               <ref target="https://www.clarin.si/">CLARIN.SI</ref>
+            </distributor>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/XXXX</idno>
+            <date when="2023-06-09">2023-06-09</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Jutranji program radia.</title>
+               <date when="2009-10">2009-10</date>
+            </bibl>
+            <recordingStmt>
+               <recording>
+                  <media xml:id="SPOG-Gos137-JRrajzcajp-rd0907171303-avd.wav" mimeType="audio/wav" url="./SPOG-Gos137-JRrajzcajp-rd0907171303-avd.wav"/>
+                  <broadcast>
+                     <ab>Radio Capris</ab>
+                  </broadcast>
+                  <date when="2009-10-29">2009-10-29</date>
+               </recording>
+            </recordingStmt>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <catRef target="#gos.T.J.R"/>
+            <catRef target="#gos.K.R"/>
+         </textClass>
+         <textDesc>
+            <channel/>
+            <constitution/>
+            <derivation/>
+            <domain>Capris, jutranji</domain>
+            <factuality/>
+            <interaction/>
+            <preparedness/>
+            <purpose/>
+         </textDesc>
+         <particDesc>
+            <listPerson n="14">
+               <person sameAs="#Am-mode-05620"/>
+               <person sameAs="#Bm-mode-05621"/>
+               <person sameAs="#Cf-mode-05622"/>
+               <person sameAs="#audience"/>
+               <person sameAs="#all"/>
+               <person sameAs="#Dm-nast-03508"/>
+               <person sameAs="#Em-nast-05622"/>
+               <person sameAs="#Fm-nast-05623"/>
+               <person sameAs="#Gm-nast-05624"/>
+               <person sameAs="#Hm-nast-05625"/>
+               <person sameAs="#Im-nast-05626"/>
+               <person sameAs="#Jm-posl-05627"/>
+               <person sameAs="#Kf-posl-05628"/>
+               <person sameAs="#Lf-posl-05629"/>
+            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <place>
+               <settlement>Koper</settlement>
+            </place>
+         </settingDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <timeline unit="seg" xml:id="JRrajzcajp-rd0907171303" origin="#JRrajzcajp-rd0907171303.t0" corresp="#JRrajzcajp-rd0907171303.wav">
+            <when xml:id="JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1.417" interval="1.417" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3.346" interval="3.346" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t5.261" interval="5.261" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t8.967" interval="8.967" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t11.685" interval="11.685" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t12.997" interval="12.997" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t20.103" interval="20.103" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t21.033" interval="21.033" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t25.969" interval="25.969" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t28.735" interval="28.735" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t31.525" interval="31.525" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t34.816" interval="34.816" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t36.056" interval="36.056" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t42.757" interval="42.757" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t44.212" interval="44.212" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t49.029" interval="49.029" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t51.724" interval="51.724" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t57.757" interval="57.757" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t62.98" interval="62.98" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t66.032" interval="66.032" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t75.023" interval="75.023" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t77.909" interval="77.909" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t81.009" interval="81.009" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t91.867" interval="91.867" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t94.657" interval="94.657" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t95.349" interval="95.349" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t98.091" interval="98.091" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t99.451" interval="99.451" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t100.596" interval="100.596" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t101.669" interval="101.669" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t104.411" interval="104.411" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t113.735" interval="113.735" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t119.22" interval="119.22" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t120.794" interval="120.794" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t122.296" interval="122.296" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t131.024" interval="131.024" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t136.724" interval="136.724" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t139.896" interval="139.896" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t143.115" interval="143.115" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t148.777" interval="148.777" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t150.397" interval="150.397" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t154.228" interval="154.228" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t155.731" interval="155.731" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t162.766" interval="162.766" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t165.437" interval="165.437" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t168.227" interval="168.227" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t173.473" interval="173.473" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t178.028" interval="178.028" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t179.769" interval="179.769" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t189.493" interval="189.493" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t191.320" interval="191.320" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t195.58" interval="195.58" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t201.517" interval="201.517" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t205.262" interval="205.262" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t210.127" interval="210.127" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t214.896" interval="214.896" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t222.49" interval="222.49" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t230.25" interval="230.25" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t234.709" interval="234.709" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t237.428" interval="237.428" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t261.391" interval="261.391" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t270.187" interval="270.187" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t278.271" interval="278.271" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t283.372" interval="283.372" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t286.295" interval="286.295" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t295.301" interval="295.301" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t302.191" interval="302.191" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t303.767" interval="303.767" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t307.090" interval="307.090" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t310.468" interval="310.468" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t316.551" interval="316.551" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t318.818" interval="318.818" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t323.887" interval="323.887" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t327.112" interval="327.112" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t334.816" interval="334.816" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t337.635" interval="337.635" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t350.242" interval="350.242" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t356.283" interval="356.283" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t367.157" interval="367.157" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t369.805" interval="369.805" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t374.844" interval="374.844" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t384.716" interval="384.716" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t396.223" interval="396.223" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t406.589" interval="406.589" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t412.729" interval="412.729" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t421.207" interval="421.207" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t428.288" interval="428.288" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t432.667" interval="432.667" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t443.728" interval="443.728" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t448.713" interval="448.713" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t456.445" interval="456.445" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t467.399" interval="467.399" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t469.469" interval="469.469" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t474.89" interval="474.89" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t477.284" interval="477.284" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t484.639" interval="484.639" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t490.188" interval="490.188" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t491.371" interval="491.371" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t492.652" interval="492.652" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t494.075" interval="494.075" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t497.469" interval="497.469" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t499.44" interval="499.44" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t509.975" interval="509.975" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t517.467" interval="517.467" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t519.692" interval="519.692" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t523.593" interval="523.593" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t524.607" interval="524.607" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t526.508" interval="526.508" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t530.127" interval="530.127" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t535.126" interval="535.126" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t539.576" interval="539.576" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t542.505" interval="542.505" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t543.392" interval="543.392" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t544.969" interval="544.969" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t558.629" interval="558.629" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t567.334" interval="567.334" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t570.488" interval="570.488" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t578.953" interval="578.953" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t584.177" interval="584.177" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t600.611" interval="600.611" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t608.091" interval="608.091" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t615.512" interval="615.512" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t622.235" interval="622.235" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t625.572" interval="625.572" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t629.966" interval="629.966" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t639.275" interval="639.275" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t654.791" interval="654.791" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t657.016" interval="657.016" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t667.284" interval="667.284" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t669.002" interval="669.002" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t686.113" interval="686.113" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t702.9" interval="702.9" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t711.014" interval="711.014" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t724.125" interval="724.125" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t726.139" interval="726.139" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t731.279" interval="731.279" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t741.028" interval="741.028" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t758.259" interval="758.259" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t760.492" interval="760.492" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t774.524" interval="774.524" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t786.556" interval="786.556" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t795.0" interval="795.0" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t800.514" interval="800.514" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t801.739" interval="801.739" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t803.767" interval="803.767" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t812.726" interval="812.726" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t819.977" interval="819.977" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t833.441" interval="833.441" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t847.932" interval="847.932" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t861.804" interval="861.804" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t863.775" interval="863.775" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t867.31" interval="867.31" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t871.014" interval="871.014" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t875.633" interval="875.633" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t879.365" interval="879.365" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t882.836" interval="882.836" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t885.42" interval="885.42" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t897.434" interval="897.434" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t898.758" interval="898.758" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t902.461" interval="902.461" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t911.087" interval="911.087" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t911.855" interval="911.855" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t914.193" interval="914.193" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t926.432" interval="926.432" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t944.078" interval="944.078" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t954.558" interval="954.558" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t956.896" interval="956.896" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t971.501" interval="971.501" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t978.714" interval="978.714" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t982.967" interval="982.967" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t988.69" interval="988.69" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t991.408" interval="991.408" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t992.14" interval="992.14" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t992.943" interval="992.943" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t994.619" interval="994.619" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t999.576" interval="999.576" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1012.97" interval="1012.97" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1018.293" interval="1018.293" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1021.905" interval="1021.905" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1030.23" interval="1030.23" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1036.947" interval="1036.947" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1040.693" interval="1040.693" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1052.81" interval="1052.81" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1059.213" interval="1059.213" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1059.899" interval="1059.899" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1069.691" interval="1069.691" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1080.568" interval="1080.568" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1087.468" interval="1087.468" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1089.031" interval="1089.031" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1096.078" interval="1096.078" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1101.161" interval="1101.161" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1106.166" interval="1106.166" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1107.786" interval="1107.786" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1117.447" interval="1117.447" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1122.474" interval="1122.474" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1136.682" interval="1136.682" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1158.501" interval="1158.501" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1169.644" interval="1169.644" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1172.32" interval="1172.32" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1176.559" interval="1176.559" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1178.784" interval="1178.784" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1181.037" interval="1181.037" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1184.558" interval="1184.558" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1195.574" interval="1195.574" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1201.993" interval="1201.993" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1204.235" interval="1204.235" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1209.243" interval="1209.243" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1217.361" interval="1217.361" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1222.793" interval="1222.793" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1224.725" interval="1224.725" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1231.14" interval="1231.14" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1239.500" interval="1239.500" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1251.029" interval="1251.029" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1256.328" interval="1256.328" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1259.757" interval="1259.757" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1262.333" interval="1262.333" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1269.869" interval="1269.869" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1273.947" interval="1273.947" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1281.888" interval="1281.888" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1284.416" interval="1284.416" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1289.71" interval="1289.71" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1291.475" interval="1291.475" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1295.648" interval="1295.648" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1298.939" interval="1298.939" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1304.734" interval="1304.734" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1309.003" interval="1309.003" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1313.2" interval="1313.2" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1317.016" interval="1317.016" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1325.744" interval="1325.744" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1334.186" interval="1334.186" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1340.362" interval="1340.362" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1347.278" interval="1347.278" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1348.709" interval="1348.709" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1351.952" interval="1351.952" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1355.768" interval="1355.768" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1358.773" interval="1358.773" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1361.897" interval="1361.897" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1368.527" interval="1368.527" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1379.662" interval="1379.662" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1386.005" interval="1386.005" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1390.584" interval="1390.584" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1392.876" interval="1392.876" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1400.03" interval="1400.03" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1405.047" interval="1405.047" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1415.137" interval="1415.137" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1429.696" interval="1429.696" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1434.68" interval="1434.68" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1436.445" interval="1436.445" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1445.459" interval="1445.459" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1449.763" interval="1449.763" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1457.622" interval="1457.622" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1461.711" interval="1461.711" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1465.05" interval="1465.05" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1467.149" interval="1467.149" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1472.181" interval="1472.181" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1479.144" interval="1479.144" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1482.405" interval="1482.405" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1485.171" interval="1485.171" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1488.765" interval="1488.765" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1490.854" interval="1490.854" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1491.927" interval="1491.927" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1494.359" interval="1494.359" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1498.652" interval="1498.652" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1500.584" interval="1500.584" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1501.299" interval="1501.299" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1502.015" interval="1502.015" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1503.851" interval="1503.851" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1510.934" interval="1510.934" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1515.274" interval="1515.274" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1518.457" interval="1518.457" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1519.933" interval="1519.933" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1522.907" interval="1522.907" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1527.365" interval="1527.365" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1531.085" interval="1531.085" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1533.899" interval="1533.899" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1537.214" interval="1537.214" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1544.034" interval="1544.034" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1546.347" interval="1546.347" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1549.829" interval="1549.829" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1551.451" interval="1551.451" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1556.22" interval="1556.22" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1561.181" interval="1561.181" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1564.997" interval="1564.997" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1568.932" interval="1568.932" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1572.7" interval="1572.7" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1573.535" interval="1573.535" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1574.363" interval="1574.363" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1576.984" interval="1576.984" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1581.273" interval="1581.273" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1585.293" interval="1585.293" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1589.581" interval="1589.581" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1591.338" interval="1591.338" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1593.889" interval="1593.889" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1598.943" interval="1598.943" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1601.965" interval="1601.965" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1605.689" interval="1605.689" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1612.235" interval="1612.235" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1621.231" interval="1621.231" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1628.408" interval="1628.408" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1632.27" interval="1632.27" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1634.176" interval="1634.176" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1636.17" interval="1636.17" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1638.59" interval="1638.59" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1642.39" interval="1642.39" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1648.638" interval="1648.638" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1657.39" interval="1657.39" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1664.52" interval="1664.52" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1673.129" interval="1673.129" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1686.826" interval="1686.826" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1698.702" interval="1698.702" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1705.809" interval="1705.809" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1709.338" interval="1709.338" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1715.467" interval="1715.467" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1723.647" interval="1723.647" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1730.563" interval="1730.563" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1744.796" interval="1744.796" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1753.07" interval="1753.07" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1758.023" interval="1758.023" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1767.514" interval="1767.514" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1772.832" interval="1772.832" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1775.932" interval="1775.932" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1782.442" interval="1782.442" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1787.21" interval="1787.21" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1791.464" interval="1791.464" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1793.553" interval="1793.553" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1797.965" interval="1797.965" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1800.451" interval="1800.451" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1803.789" interval="1803.789" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1806.692" interval="1806.692" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1811.421" interval="1811.421" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1813.073" interval="1813.073" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1818.723" interval="1818.723" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1826.369" interval="1826.369" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1829.481" interval="1829.481" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1831.984" interval="1831.984" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1847.079" interval="1847.079" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1856.872" interval="1856.872" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1865.738" interval="1865.738" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1877.999" interval="1877.999" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1886.57" interval="1886.57" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1892.568" interval="1892.568" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1898.531" interval="1898.531" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1905.92" interval="1905.92" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1912.943" interval="1912.943" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1922.598" interval="1922.598" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1931.603" interval="1931.603" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1939.652" interval="1939.652" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1946.769" interval="1946.769" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1958.297" interval="1958.297" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1968.124" interval="1968.124" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1973.548" interval="1973.548" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1983.394" interval="1983.394" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1988.47" interval="1988.47" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t1996.589" interval="1996.589" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2004.916" interval="2004.916" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2008.831" interval="2008.831" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2010.048" interval="2010.048" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2016.602" interval="2016.602" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2023.469" interval="2023.469" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2027.363" interval="2027.363" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2031.709" interval="2031.709" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2043.44" interval="2043.44" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2052.886" interval="2052.886" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2054.659" interval="2054.659" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2057.024" interval="2057.024" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2063.196" interval="2063.196" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2067.994" interval="2067.994" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2073.835" interval="2073.835" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2080.879" interval="2080.879" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2084.339" interval="2084.339" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2097.418" interval="2097.418" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2099.661" interval="2099.661" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2105.119" interval="2105.119" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2118.68" interval="2118.68" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2122.087" interval="2122.087" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2125.286" interval="2125.286" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2127.077" interval="2127.077" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2139.373" interval="2139.373" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2143.771" interval="2143.771" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2146.396" interval="2146.396" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2154.589" interval="2154.589" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2158.31" interval="2158.31" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2163.804" interval="2163.804" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2167.855" interval="2167.855" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2171.645" interval="2171.645" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2176.321" interval="2176.321" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2180.187" interval="2180.187" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2182.057" interval="2182.057" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2184.916" interval="2184.916" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2188.636" interval="2188.636" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2189.992" interval="2189.992" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2191.713" interval="2191.713" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2194.491" interval="2194.491" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2198.507" interval="2198.507" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2201.219" interval="2201.219" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2202.593" interval="2202.593" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2206.279" interval="2206.279" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2208.887" interval="2208.887" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2210.052" interval="2210.052" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2212.816" interval="2212.816" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2216.728" interval="2216.728" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2219.51" interval="2219.51" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2220.414" interval="2220.414" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2222.726" interval="2222.726" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2224.899" interval="2224.899" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2229.715" interval="2229.715" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2236.999" interval="2236.999" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2238.487" interval="2238.487" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2241.686" interval="2241.686" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2244.016" interval="2244.016" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2248.971" interval="2248.971" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2254.552" interval="2254.552" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2258.585" interval="2258.585" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2260.706" interval="2260.706" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2262.587" interval="2262.587" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2272.414" interval="2272.414" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2277.125" interval="2277.125" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2286.396" interval="2286.396" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2289.578" interval="2289.578" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2297.036" interval="2297.036" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2298.749" interval="2298.749" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2299.566" interval="2299.566" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2301.235" interval="2301.235" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2302.383" interval="2302.383" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2307.581" interval="2307.581" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2312.449" interval="2312.449" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2315.787" interval="2315.787" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2318.36" interval="2318.36" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2325.609" interval="2325.609" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2331.678" interval="2331.678" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2334.615" interval="2334.615" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2340.074" interval="2340.074" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2344.594" interval="2344.594" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2348.54" interval="2348.54" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2353.999" interval="2353.999" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2357.146" interval="2357.146" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2360.24" interval="2360.24" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2366.151" interval="2366.151" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2375.713" interval="2375.713" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2385.993" interval="2385.993" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2391.017" interval="2391.017" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2393.156" interval="2393.156" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2394.808" interval="2394.808" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2399.05" interval="2399.05" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2409.71" interval="2409.71" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2414.002" interval="2414.002" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2415.931" interval="2415.931" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2417.148" interval="2417.148" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2421.146" interval="2421.146" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2426.57" interval="2426.57" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2435.262" interval="2435.262" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2442.384" interval="2442.384" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2444.268" interval="2444.268" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2448.173" interval="2448.173" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2456.431" interval="2456.431" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2464.341" interval="2464.341" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2468.409" interval="2468.409" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2473.068" interval="2473.068" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2474.789" interval="2474.789" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2477.101" interval="2477.101" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2483.62" interval="2483.62" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2485.602" interval="2485.602" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2487.463" interval="2487.463" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2493.427" interval="2493.427" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2504.681" interval="2504.681" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2513.252" interval="2513.252" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2518.485" interval="2518.485" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2520.432" interval="2520.432" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2522.153" interval="2522.153" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2523.509" interval="2523.509" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2524.935" interval="2524.935" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2525.909" interval="2525.909" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2529.577" interval="2529.577" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2534.219" interval="2534.219" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2538.113" interval="2538.113" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2540.252" interval="2540.252" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2543.955" interval="2543.955" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2549.483" interval="2549.483" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2550.387" interval="2550.387" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2552.769" interval="2552.769" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2556.246" interval="2556.246" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2558.193" interval="2558.193" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2562.47" interval="2562.47" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2563.67" interval="2563.67" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2565.443" interval="2565.443" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2566.26" interval="2566.26" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2570.189" interval="2570.189" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2571.806" interval="2571.806" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2573.336" interval="2573.336" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2575.387" interval="2575.387" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2578.064" interval="2578.064" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2582.671" interval="2582.671" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2584.149" interval="2584.149" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2584.897" interval="2584.897" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2589.278" interval="2589.278" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2593.381" interval="2593.381" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2597.014" interval="2597.014" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2604.295" interval="2604.295" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2605.06" interval="2605.06" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2607.476" interval="2607.476" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2611.214" interval="2611.214" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2623.179" interval="2623.179" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2625.891" interval="2625.891" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2627.334" interval="2627.334" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2628.516" interval="2628.516" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2633.123" interval="2633.123" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2637.0" interval="2637.0" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2640.998" interval="2640.998" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2642.876" interval="2642.876" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2645.866" interval="2645.866" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2651.012" interval="2651.012" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2656.905" interval="2656.905" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2659.513" interval="2659.513" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2660.476" interval="2660.476" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2670.413" interval="2670.413" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2671.943" interval="2671.943" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2672.934" interval="2672.934" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2673.925" interval="2673.925" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2676.898" interval="2676.898" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2680.166" interval="2680.166" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2685.556" interval="2685.556" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2687.59" interval="2687.59" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2692.684" interval="2692.684" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2694.457" interval="2694.457" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2701.272" interval="2701.272" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2703.045" interval="2703.045" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2704.523" interval="2704.523" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2706.87" interval="2706.87" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2711.546" interval="2711.546" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2719.556" interval="2719.556" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2723.572" interval="2723.572" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2725.071" interval="2725.071" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2727.418" interval="2727.418" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2732.668" interval="2732.668" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2734.406" interval="2734.406" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2745.786" interval="2745.786" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2750.827" interval="2750.827" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2752.291" interval="2752.291" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2755.156" interval="2755.156" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2766.323" interval="2766.323" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2768.646" interval="2768.646" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2770.628" interval="2770.628" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2771.497" interval="2771.497" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2778.225" interval="2778.225" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2785.335" interval="2785.335" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2793.564" interval="2793.564" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2798.64" interval="2798.64" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2800.354" interval="2800.354" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2809.739" interval="2809.739" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2818.783" interval="2818.783" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2822.277" interval="2822.277" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2829.109" interval="2829.109" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2834.958" interval="2834.958" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2842.59" interval="2842.59" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2850.326" interval="2850.326" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2854.245" interval="2854.245" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2856.661" interval="2856.661" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2867.641" interval="2867.641" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2872.404" interval="2872.404" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2873.83" interval="2873.83" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2879.758" interval="2879.758" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2881.305" interval="2881.305" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2883.113" interval="2883.113" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2886.903" interval="2886.903" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2889.702" interval="2889.702" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2893.231" interval="2893.231" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2896.604" interval="2896.604" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2915.89" interval="2915.89" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2917.472" interval="2917.472" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2920.688" interval="2920.688" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2922.374" interval="2922.374" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2933.57" interval="2933.57" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2937.934" interval="2937.934" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2943.219" interval="2943.219" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2943.845" interval="2943.845" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2944.436" interval="2944.436" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2945.253" interval="2945.253" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2947.67" interval="2947.67" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2949.843" interval="2949.843" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2951.408" interval="2951.408" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2959.127" interval="2959.127" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2964.029" interval="2964.029" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2969.383" interval="2969.383" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2973.573" interval="2973.573" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2981.396" interval="2981.396" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2984.925" interval="2984.925" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2988.906" interval="2988.906" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2995.668" interval="2995.668" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t2997.128" interval="2997.128" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3000.883" interval="3000.883" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3006.568" interval="3006.568" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3014.739" interval="3014.739" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3024.375" interval="3024.375" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3029.973" interval="3029.973" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3031.833" interval="3031.833" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3033.12" interval="3033.12" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3036.375" interval="3036.375" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3037.948" interval="3037.948" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3046.037" interval="3046.037" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3046.785" interval="3046.785" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3048.663" interval="3048.663" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3053.861" interval="3053.861" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3069.904" interval="3069.904" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3075.798" interval="3075.798" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3077.884" interval="3077.884" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3080.469" interval="3080.469" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3082.405" interval="3082.405" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3090.645" interval="3090.645" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3095.072" interval="3095.072" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3097.600" interval="3097.600" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3099.571" interval="3099.571" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3104.738" interval="3104.738" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3107.068" interval="3107.068" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3111.779" interval="3111.779" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3115.082" interval="3115.082" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3120.089" interval="3120.089" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3127.217" interval="3127.217" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3131.094" interval="3131.094" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3137.213" interval="3137.213" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3139.056" interval="3139.056" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3147.48" interval="3147.48" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3153.617" interval="3153.617" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3158.572" interval="3158.572" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3162.866" interval="3162.866" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3165.595" interval="3165.595" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3169.576" interval="3169.576" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3171.367" interval="3171.367" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3175.713" interval="3175.713" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3177.956" interval="3177.956" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3180.251" interval="3180.251" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3182.042" interval="3182.042" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3186.127" interval="3186.127" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3190.479" interval="3190.479" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3193.243" interval="3193.243" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3197.433" interval="3197.433" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3199.067" interval="3199.067" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3202.648" interval="3202.648" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3207.394" interval="3207.394" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3210.176" interval="3210.176" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3211.706" interval="3211.706" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3214.609" interval="3214.609" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3218.834" interval="3218.834" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3222.885" interval="3222.885" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3226.518" interval="3226.518" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3229.926" interval="3229.926" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3233.959" interval="3233.959" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3235.402" interval="3235.402" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3240.026" interval="3240.026" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3243.874" interval="3243.874" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3246.326" interval="3246.326" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3248.742" interval="3248.742" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3255.713" interval="3255.713" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3257.782" interval="3257.782" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3262.406" interval="3262.406" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3267.812" interval="3267.812" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3269.95" interval="3269.95" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3273.914" interval="3273.914" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3277.666" interval="3277.666" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3279.526" interval="3279.526" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3282.273" interval="3282.273" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3284.742" interval="3284.742" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3287.628" interval="3287.628" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3292.2" interval="3292.2" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3294.77" interval="3294.77" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3307.851" interval="3307.851" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3313.988" interval="3313.988" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3322.375" interval="3322.375" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3324.34" interval="3324.34" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3328.321" interval="3328.321" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3330.007" interval="3330.007" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3333.884" interval="3333.884" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3338.369" interval="3338.369" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3344.311" interval="3344.311" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3346.258" interval="3346.258" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3355.251" interval="3355.251" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3361.631" interval="3361.631" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3364.303" interval="3364.303" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3369.483" interval="3369.483" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3376.281" interval="3376.281" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3385.095" interval="3385.095" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3390.38" interval="3390.38" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3392.397" interval="3392.397" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3407.859" interval="3407.859" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3413.509" interval="3413.509" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3418.568" interval="3418.568" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3424.705" interval="3424.705" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3426.53" interval="3426.53" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3428.621" interval="3428.621" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3435.293" interval="3435.293" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3436.371" interval="3436.371" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3441.917" interval="3441.917" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3448.732" interval="3448.732" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3457.656" interval="3457.656" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3462.802" interval="3462.802" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3464.649" interval="3464.649" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3466.329" interval="3466.329" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3467.652" interval="3467.652" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3468.452" interval="3468.452" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3469.217" interval="3469.217" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3469.825" interval="3469.825" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3471.842" interval="3471.842" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3475.806" interval="3475.806" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3477.197" interval="3477.197" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3478.292" interval="3478.292" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3482.013" interval="3482.013" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3483.282" interval="3483.282" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3484.03" interval="3484.03" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3484.638" interval="3484.638" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3485.821" interval="3485.821" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3487.389" interval="3487.389" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3489.159" interval="3489.159" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3489.628" interval="3489.628" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3493.992" interval="3493.992" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3496.739" interval="3496.739" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3506.785" interval="3506.785" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3515.446" interval="3515.446" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3517.15" interval="3517.15" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3521.322" interval="3521.322" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3523.182" interval="3523.182" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3528.224" interval="3528.224" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3529.771" interval="3529.771" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3532.466" interval="3532.466" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3543.533" interval="3543.533" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3545.849" interval="3545.849" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3547.625" interval="3547.625" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3548.492" interval="3548.492" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3549.692" interval="3549.692" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3550.77" interval="3550.77" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3551.465" interval="3551.465" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3553.552" interval="3553.552" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3554.752" interval="3554.752" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3556.577" interval="3556.577" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3559.342" interval="3559.342" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3563.932" interval="3563.932" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3565.81" interval="3565.81" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3569.704" interval="3569.704" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3572.295" interval="3572.295" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3575.633" interval="3575.633" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3579.145" interval="3579.145" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3587.406" interval="3587.406" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3589.11" interval="3589.11" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3591.526" interval="3591.526" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3593.908" interval="3593.908" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3599.662" interval="3599.662" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3601.863" interval="3601.863" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3608.407" interval="3608.407" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3610.667" interval="3610.667" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3612.736" interval="3612.736" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3618.508" interval="3618.508" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3621.742" interval="3621.742" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3622.385" interval="3622.385" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3623.533" interval="3623.533" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3624.646" interval="3624.646" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3625.793" interval="3625.793" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3631.252" interval="3631.252" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3647.854" interval="3647.854" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3657.22" interval="3657.22" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3662.053" interval="3662.053" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3662.557" interval="3662.557" since="#JRrajzcajp-rd0907171303.t0"/>
+            <when xml:id="JRrajzcajp-rd0907171303.t3663.125" interval="3663.125" since="#JRrajzcajp-rd0907171303.t0"/>
+         </timeline>
+         <u xml:id="Gos137.u359" who="#Jm-posl-05627" trans="smooth" start="#JRrajzcajp-rd0907171303.t2550.387" end="#JRrajzcajp-rd0907171303.t2550.387">
+<seg xml:id="Gos137.s562" synch="#JRrajzcajp-rd0907171303.t2550.387">
+<w xml:id="Gos137.tok6780" lemma="biti" ana="mte:Va-r3s-y" join="right">ni</w>
+<pc xml:id="Gos137.tok6781" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos137.tok6782" lemma="aha" ana="mte:I">aha</w>
+            </seg>
+         </u>
+         <u xml:id="Gos137.u360" who="#Am-mode-05620" trans="overlap" start="#JRrajzcajp-rd0907171303.t2550.387" end="#JRrajzcajp-rd0907171303.t2552.769">
+<seg xml:id="Gos137.s563" synch="#JRrajzcajp-rd0907171303.t2550.387">
+<w xml:id="Gos137.tok6783" lemma="ta" ana="mte:Pd-nsa">to</w>
+<w xml:id="Gos137.tok6784" lemma="lahko" ana="mte:Rgp">lahko</w>
+<w xml:id="Gos137.tok6785" lemma="pomagati" ana="mte:Vmbr1p">pomagamo</w>
+<w xml:id="Gos137.tok6786" lemma="da" ana="mte:Cs">da</w>
+<w xml:id="Gos137.tok6787" lemma="biti" ana="mte:Va-r3s-y">ni</w>
+<w xml:id="Gos137.tok6788" lemma="tako" ana="mte:Rgp">tako</w>
+<w xml:id="Gos137.tok6789" lemma="mlad" ana="mte:Agpmsnn">mlad</w>
+<w xml:id="Gos137.tok6790" lemma="ne" ana="mte:Q">ne</w>
+            </seg>
+         </u>
+         <u xml:id="Gos137.u361" who="#Jm-posl-05627" start="#JRrajzcajp-rd0907171303.t2552.769" end="#JRrajzcajp-rd0907171303.t2556.246">
+<seg xml:id="Gos137.s564" synch="#JRrajzcajp-rd0907171303.t2552.769">
+<w xml:id="Gos137.tok6791" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Gos137.tok6792" lemma="niti" ana="mte:Q">niti</w>
+<w xml:id="Gos137.tok6793" lemma="za" ana="mte:Sa">za</w>
+<w xml:id="Gos137.tok6794" norm="Beatlese" lemma="Beatles" ana="mte:Npmpa">Bitlse</w>
+<w xml:id="Gos137.tok6795" lemma="verjetno" ana="mte:Rgp">verjetno</w>
+<w xml:id="Gos137.tok6796" lemma="biti" ana="mte:Va-r3s-y">ni</w>
+<w xml:id="Gos137.tok6797" function="filler" lemma="eee" ana="mte:I">eee</w>
+<w xml:id="Gos137.tok6798" lemma="igrati" ana="mte:Vmpp-sm">igral</w>
+<w xml:id="Gos137.tok6799" lemma="ne" ana="mte:Q">ne</w>
+            </seg>
+         </u>
+         <u xml:id="Gos137.u362" who="#Am-mode-05620" start="#JRrajzcajp-rd0907171303.t2556.246" end="#JRrajzcajp-rd0907171303.t2558.193">
+<seg xml:id="Gos137.s565" synch="#JRrajzcajp-rd0907171303.t2556.246">
+<w xml:id="Gos137.tok6800" lemma="ja" ana="mte:Q">ja</w>
+<w xml:id="Gos137.tok6801" lemma="ne" ana="mte:Q">ne</w>
+<w xml:id="Gos137.tok6802" lemma="vedeti" ana="mte:Vmpr1s">vem</w>
+<w xml:id="Gos137.tok6803" lemma="povedati" ana="mte:Vmem2s">povej</w>
+<w xml:id="Gos137.tok6804" lemma="izbrati" ana="mte:Vmem2s">izberi</w>
+            </seg>
+         </u>
+         <u xml:id="Gos137.u363" who="#Bm-mode-05621" trans="smooth" start="#JRrajzcajp-rd0907171303.t2558.193" end="#JRrajzcajp-rd0907171303.t2558.193">
+<seg xml:id="Gos137.s566" synch="#JRrajzcajp-rd0907171303.t2558.193">
+<w xml:id="Gos137.tok6805" lemma="ti" ana="mte:Pp2-sn">ti</w>
+<w xml:id="Gos137.tok6806" lemma="v" ana="mte:Sl">v</w>
+<w xml:id="Gos137.tok6807" lemma="bistvo" ana="mte:Ncnsl">bistvu</w>
+<w xml:id="Gos137.tok6808" lemma="biti" ana="mte:Va-r2s-n">si</w>
+<w xml:id="Gos137.tok6809" norm="šel" lemma="iti" ana="mte:Vmbp-sm">šov</w>
+<w xml:id="Gos137.tok6810" lemma="na" ana="mte:Sa">na</w>
+<w xml:id="Gos137.tok6811" lemma="izločevalen" ana="mte:Agpmsay">izločevalni</w>
+<w xml:id="Gos137.tok6812" lemma="sistem" ana="mte:Ncmsan">sistem</w>
+<w xml:id="Gos137.tok6813" lemma="biti" ana="mte:Va-r3s-y">ni</w>
+<w xml:id="Gos137.tok6814" lemma="biti" ana="mte:Va-r3s-y">ni</w>
+<w xml:id="Gos137.tok6815" lemma="slab" ana="mte:Agpfsn">slaba</w>
+<w xml:id="Gos137.tok6816" lemma="taktika" ana="mte:Ncfsn">taktika</w>
+            </seg>
+         </u>
+         <u xml:id="Gos137.u364" who="#Jm-posl-05627" trans="overlap" start="#JRrajzcajp-rd0907171303.t2558.193" end="#JRrajzcajp-rd0907171303.t2562.47">
+<seg xml:id="Gos137.s567" synch="#JRrajzcajp-rd0907171303.t2558.193">
+               <vocal type="laughter"/>
+<w xml:id="Gos137.tok6817" lemma="ja" ana="mte:Q">ja</w>
+<w xml:id="Gos137.tok6818" lemma="ne" ana="mte:Q" join="right">ne</w>
+<pc xml:id="Gos137.tok6819" lemma="?" ana="mte:Z">?</pc>
+            </seg>
+         </u>
+         <u xml:id="Gos137.u365" who="#Bm-mode-05621" start="#JRrajzcajp-rd0907171303.t2562.47" end="#JRrajzcajp-rd0907171303.t2563.67">
+<seg xml:id="Gos137.s568" synch="#JRrajzcajp-rd0907171303.t2562.47">
+<w xml:id="Gos137.tok6820" lemma="torej" ana="mte:Cc">torej</w>
+<w xml:id="Gos137.tok6821" lemma="kdo" ana="mte:Pq-msn">kdo</w>
+<w xml:id="Gos137.tok6822" lemma="ostati" ana="mte:Vmer3s" join="right">ostane</w>
+<pc xml:id="Gos137.tok6823" lemma="?" ana="mte:Z">?</pc>
+            </seg>
+         </u>
+         <u xml:id="Gos137.u366" who="#Jm-posl-05627" start="#JRrajzcajp-rd0907171303.t2563.67" end="#JRrajzcajp-rd0907171303.t2565.443">
+<seg xml:id="Gos137.s569" synch="#JRrajzcajp-rd0907171303.t2563.67">
+<w xml:id="Gos137.tok6824" lemma="ma" ana="mte:Q">ma</w>
+<w xml:id="Gos137.tok6825">pomoje<w xml:id="Gos137.tok6825n1" norm="po" lemma="po" ana="mte:Sl"/><w xml:id="Gos137.tok6825n2" norm="mojem" lemma="moj" ana="mte:Ps1nsls"/></w>
+<w xml:id="Gos137.tok6826" lemma="prvi" ana="mte:Mlomsn">prvi</w>
+<w xml:id="Gos137.tok6827" lemma="ne" ana="mte:Q">ne</w>
+            </seg>
+         </u>
+         <u xml:id="Gos137.u367" who="#Bm-mode-05621" trans="smooth" start="#JRrajzcajp-rd0907171303.t2565.443" end="#JRrajzcajp-rd0907171303.t2565.443">
+<seg xml:id="Gos137.s570" synch="#JRrajzcajp-rd0907171303.t2565.443">
+<w xml:id="Gos137.tok6828" lemma="ja" ana="mte:Q">ja</w>
+            </seg>
+         </u>
+         <u xml:id="Gos137.u368" who="#Am-mode-05620" trans="overlap" start="#JRrajzcajp-rd0907171303.t2565.443" end="#JRrajzcajp-rd0907171303.t2566.26">
+<seg xml:id="Gos137.s571" synch="#JRrajzcajp-rd0907171303.t2565.443">
+<w xml:id="Gos137.tok6829" lemma="prvi" ana="mte:Mlomsn">prvi</w>
+            </seg>
+         </u>
+         <u xml:id="Gos137.u369" who="#Am-mode-05620" trans="smooth" start="#JRrajzcajp-rd0907171303.t2566.26" end="#JRrajzcajp-rd0907171303.t2566.26">
+<seg xml:id="Gos137.s572" synch="#JRrajzcajp-rd0907171303.t2566.26">
+<w xml:id="Gos137.tok6830" lemma="torej" ana="mte:Cc">torej</w>
+<w xml:id="Gos137.tok6831" norm="Paul" lemma="Paul" ana="mte:Npmsn">Pol</w>
+<w xml:id="Gos137.tok6832" norm="David" lemma="David" ana="mte:Npmsn">Dejvid</w>
+<w xml:id="Gos137.tok6833" norm="Hewson" lemma="Hewson" ana="mte:Npmsn" join="right">Hjuson</w>
+<pc xml:id="Gos137.tok6834" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos137.tok6835" lemma="biti" ana="mte:Va-r2s-n">si</w>
+<w xml:id="Gos137.tok6836" lemma="ugibati" ana="mte:Vmpp-sm">ugibal</w>
+<w xml:id="Gos137.tok6837" norm="ali" lemma="ali" ana="mte:Rgp">al</w>
+<w xml:id="Gos137.tok6838" lemma="vedeti" ana="mte:Vmpr2s">veš</w>
+<w xml:id="Gos137.tok6839" lemma="kdo" ana="mte:Pq-msn">kdo</w>
+<w xml:id="Gos137.tok6840" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos137.tok6841" lemma="ta" ana="mte:Pd-nsn" join="right">to</w>
+<pc xml:id="Gos137.tok6842" lemma="?" ana="mte:Z">?</pc>
+            </seg>
+         </u>
+         <u xml:id="Gos137.u370" who="#Jm-posl-05627" trans="overlap" start="#JRrajzcajp-rd0907171303.t2566.26" end="#JRrajzcajp-rd0907171303.t2570.189">
+<seg xml:id="Gos137.s573" synch="#JRrajzcajp-rd0907171303.t2566.26">
+<w xml:id="Gos137.tok6843" lemma="ja" ana="mte:Q" join="right">ja</w>
+<pc xml:id="Gos137.tok6844" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos137.tok6845" lemma="tako" ana="mte:Rgp">tako</w>
+            </seg>
+         </u>
+         <u xml:id="Gos137.u371" who="#Jm-posl-05627" start="#JRrajzcajp-rd0907171303.t2570.189" end="#JRrajzcajp-rd0907171303.t2571.806">
+<seg xml:id="Gos137.s574" synch="#JRrajzcajp-rd0907171303.t2570.189">
+<w xml:id="Gos137.tok6846" lemma="imeti" ana="mte:Vmpr1s-y">nimam</w>
+<w xml:id="Gos137.tok6847" lemma="pojem" ana="mte:Ncmsg">pojma</w>
+<w xml:id="Gos137.tok6848" lemma="kdo" ana="mte:Pq-msn">kdo</w>
+<w xml:id="Gos137.tok6849" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos137.tok6850" lemma="ta" ana="mte:Pd-nsn">to</w>
+            </seg>
+         </u>
+         <u xml:id="Gos137.u372" who="#Am-mode-05620" start="#JRrajzcajp-rd0907171303.t2571.806" end="#JRrajzcajp-rd0907171303.t2573.336">
+<seg xml:id="Gos137.s575" synch="#JRrajzcajp-rd0907171303.t2571.806">
+<w xml:id="Gos137.tok6851" lemma="ta" ana="mte:Pd-nsn">to</w>
+<w xml:id="Gos137.tok6852" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos137.tok6853" lemma="drugače" ana="mte:Rgp">drugače</w>
+<w xml:id="Gos137.tok6854" lemma="Bono" ana="mte:Npmsn">Bono</w>
+            </seg>
+         </u>
+         <u xml:id="Gos137.u373" who="#Jm-posl-05627" trans="smooth" start="#JRrajzcajp-rd0907171303.t2573.336" end="#JRrajzcajp-rd0907171303.t2573.336">
+<seg xml:id="Gos137.s576" synch="#JRrajzcajp-rd0907171303.t2573.336">
+<w xml:id="Gos137.tok6855" lemma="aha" ana="mte:I">aha</w>
+<w xml:id="Gos137.tok6856" lemma="a" ana="mte:Rgp">a</w>
+<w xml:id="Gos137.tok6857" norm="Utwo" lemma="U2" ana="mte:Npmsn">Jutu</w>
+<w xml:id="Gos137.tok6858" lemma="alora" ana="mte:Q">alora</w>
+            </seg>
+         </u>
+         <u xml:id="Gos137.u374" who="#Am-mode-05620" trans="overlap" start="#JRrajzcajp-rd0907171303.t2573.336" end="#JRrajzcajp-rd0907171303.t2573.336">
+<seg xml:id="Gos137.s577" synch="#JRrajzcajp-rd0907171303.t2573.336">
+<w xml:id="Gos137.tok6859" lemma="ja" ana="mte:Q">ja</w>
+            </seg>
+         </u>
+         <u xml:id="Gos137.u375" who="#Bm-mode-05621" trans="overlap" start="#JRrajzcajp-rd0907171303.t2573.336" end="#JRrajzcajp-rd0907171303.t2575.387">
+<seg xml:id="Gos137.s578" synch="#JRrajzcajp-rd0907171303.t2573.336">
+<w xml:id="Gos137.tok6860" lemma="ja" ana="mte:Q">ja</w>
+            </seg>
+         </u>
+         <u xml:id="Gos137.u376" who="#Am-mode-05620" trans="smooth" start="#JRrajzcajp-rd0907171303.t2575.387" end="#JRrajzcajp-rd0907171303.t2575.387">
+<seg xml:id="Gos137.s579" synch="#JRrajzcajp-rd0907171303.t2575.387">
+<w xml:id="Gos137.tok6861" lemma="poznati" ana="mte:Vmpr2s">poznaš</w>
+<w xml:id="Gos137.tok6862" lemma="pesmica" ana="mte:Ncfsa">pesmico</w>
+<w xml:id="Gos137.tok6863" lemma="ne" ana="mte:Q">ne</w>
+<w xml:id="Gos137.tok6864" norm="Beautiful" lemma="Beautiful" ana="mte:Xf">Bjutiful</w>
+<w xml:id="Gos137.tok6865" norm="day" lemma="day" ana="mte:Xf" join="right">dej</w>
+<pc xml:id="Gos137.tok6866" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos137.tok6867" lemma="no" ana="mte:Q">no</w>
+<w xml:id="Gos137.tok6868" lemma="no" ana="mte:Q">no</w>
+<w xml:id="Gos137.tok6869" lemma="videti" ana="mte:Vmbr2s">vidiš</w>
+            </seg>
+         </u>
+         <u xml:id="Gos137.u377" who="#Jm-posl-05627" trans="overlap" start="#JRrajzcajp-rd0907171303.t2575.387" end="#JRrajzcajp-rd0907171303.t2578.064">
+<seg xml:id="Gos137.s580" synch="#JRrajzcajp-rd0907171303.t2575.387">
+<w xml:id="Gos137.tok6870" lemma="aha" ana="mte:I">aha</w>
+<w xml:id="Gos137.tok6871" lemma="ja" ana="mte:Q">ja</w>
+<w xml:id="Gos137.tok6872" lemma="ja" ana="mte:Q">ja</w>
+<w xml:id="Gos137.tok6873" lemma="ja" ana="mte:Q">ja</w>
+            </seg>
+         </u>
+         <u xml:id="Gos137.u378" who="#Am-mode-05620" trans="smooth" start="#JRrajzcajp-rd0907171303.t2578.064" end="#JRrajzcajp-rd0907171303.t2578.064">
+<seg xml:id="Gos137.s581" synch="#JRrajzcajp-rd0907171303.t2578.064">
+<w xml:id="Gos137.tok6874" lemma="no" ana="mte:Q">no</w>
+<w xml:id="Gos137.tok6875" lemma="jaz" ana="mte:Pp1mpn">mi</w>
+<w xml:id="Gos137.tok6876" lemma="biti" ana="mte:Va-r1p-n">smo</w>
+<w xml:id="Gos137.tok6877" lemma="dati" ana="mte:Vmep-pm">dali</w>
+               <del type="falseStart" subtype="missingEnd">
+<w xml:id="Gos137.tok6878" lemma="njegov…" ana="mte:Xt">njegov…</w>
+               </del>
+<w xml:id="Gos137.tok6879" lemma="njegov" ana="mte:Ps3nsasm">njegovo</w>
+<w xml:id="Gos137.tok6880" lemma="pravi" ana="mte:Agpnsa">pravo</w>
+<w xml:id="Gos137.tok6881" lemma="ime" ana="mte:Ncnsa">ime</w>
+<w xml:id="Gos137.tok6882" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Gos137.tok6883" lemma="tokrat" ana="mte:Rgp">tokrat</w>
+<w xml:id="Gos137.tok6884" lemma="biti" ana="mte:Va-r1p-n">smo</w>
+<w xml:id="Gos137.tok6885" lemma="se" ana="mte:Px---d--y">si</w>
+<w xml:id="Gos137.tok6886" lemma="on" ana="mte:Pp3msa--y">ga</w>
+<w xml:id="Gos137.tok6887" lemma="malo" ana="mte:Rgp">malo</w>
+<w xml:id="Gos137.tok6888" norm="privoščili" lemma="privoščiti" ana="mte:Vmbp-pm">privoščli</w>
+            </seg>
+         </u>
+         <u xml:id="Gos137.u379" who="#Jm-posl-05627" trans="overlap" start="#JRrajzcajp-rd0907171303.t2578.064" end="#JRrajzcajp-rd0907171303.t2582.671">
+<seg xml:id="Gos137.s582" synch="#JRrajzcajp-rd0907171303.t2578.064">
+<w xml:id="Gos137.tok6889" lemma="ja" ana="mte:Q">ja</w>
+            </seg>
+         </u>
+         <u xml:id="Gos137.u380" who="#Am-mode-05620" start="#JRrajzcajp-rd0907171303.t2582.671" end="#JRrajzcajp-rd0907171303.t2584.149">
+<seg xml:id="Gos137.s583" synch="#JRrajzcajp-rd0907171303.t2582.671">
+               <name type="personal">
+                  <gap reason="anon">
+                     <desc>[ime]</desc>
+                  </gap>
+               </name>
+<w xml:id="Gos137.tok6890" lemma="nagrada" ana="mte:Ncfsn">nagrada</w>
+<w xml:id="Gos137.tok6891" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos137.tok6892" lemma="tvoj" ana="mte:Ps2fsns">tvoja</w>
+            </seg>
+         </u>
+         <u xml:id="Gos137.u381" who="#Jm-posl-05627" start="#JRrajzcajp-rd0907171303.t2584.149" end="#JRrajzcajp-rd0907171303.t2584.897">
+<seg xml:id="Gos137.s584" synch="#JRrajzcajp-rd0907171303.t2584.149">
+<w xml:id="Gos137.tok6893" lemma="hvala" ana="mte:Ncfsn">hvala</w>
+            </seg>
+         </u>
+         <u xml:id="Gos137.u382" who="#Am-mode-05620" start="#JRrajzcajp-rd0907171303.t2584.897" end="#JRrajzcajp-rd0907171303.t2589.278">
+<seg xml:id="Gos137.s585" synch="#JRrajzcajp-rd0907171303.t2584.897">
+<w xml:id="Gos137.tok6894" norm="kaj" lemma="kaj" ana="mte:Pq-nsa">kej</w>
+<w xml:id="Gos137.tok6895" lemma="fin" ana="mte:Agpnsg">finega</w>
+<w xml:id="Gos137.tok6896" lemma="biti" ana="mte:Va-f2s-n">boš</w>
+<w xml:id="Gos137.tok6897" function="filler" lemma="eee" ana="mte:I">eee</w>
+<w xml:id="Gos137.tok6898" norm="pojedel" lemma="pojesti" ana="mte:Vmep-sm">pojedu</w>
+<w xml:id="Gos137.tok6899" lemma="v" ana="mte:Sl">v</w>
+<w xml:id="Gos137.tok6900" lemma="kruharna" ana="mte:Ncfsa">kruharni</w>
+<w xml:id="Gos137.tok6901" lemma="Izola" ana="mte:Npfsn">Izola</w>
+<w xml:id="Gos137.tok6902" lemma="lep" ana="mte:Agpmsan">lep</w>
+<w xml:id="Gos137.tok6903" lemma="dan" ana="mte:Ncmsan">dan</w>
+<w xml:id="Gos137.tok6904" lemma="ti" ana="mte:Pp2-sd--y">ti</w>
+<w xml:id="Gos137.tok6905" lemma="želeti" ana="mte:Vmpr1p">želimo</w>
+            </seg>
+         </u>
+         <u xml:id="Gos137.u383" who="#Bm-mode-05621" trans="smooth" start="#JRrajzcajp-rd0907171303.t2589.278" end="#JRrajzcajp-rd0907171303.t2589.278">
+<seg xml:id="Gos137.s586" synch="#JRrajzcajp-rd0907171303.t2589.278">
+<w xml:id="Gos137.tok6906" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Gos137.tok6907" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Gos137.tok6908" lemma="ostati" ana="mte:Vmem2s">ostani</w>
+<w xml:id="Gos137.tok6909" lemma="še" ana="mte:Q">še</w>
+<w xml:id="Gos137.tok6910" lemma="malo" ana="mte:Rgp">malo</w>
+<w xml:id="Gos137.tok6911" lemma="z" ana="mte:Si">z</w>
+<w xml:id="Gos137.tok6912" lemma="jaz" ana="mte:Pp1-pi">nami</w>
+<w xml:id="Gos137.tok6913" lemma="ja" ana="mte:Q" join="right">ja</w>
+<pc xml:id="Gos137.tok6914" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos137.tok6915" norm="čao" lemma="čao" ana="mte:I">čav</w>
+            </seg>
+         </u>
+         <u xml:id="Gos137.u384" who="#Jm-posl-05627" trans="overlap" start="#JRrajzcajp-rd0907171303.t2589.278" end="#JRrajzcajp-rd0907171303.t2589.278">
+<seg xml:id="Gos137.s587" synch="#JRrajzcajp-rd0907171303.t2589.278">
+<w xml:id="Gos137.tok6916" lemma="enako" ana="mte:Rgp" join="right">enako</w>
+<pc xml:id="Gos137.tok6917" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos137.tok6918" lemma="ja" ana="mte:Q">ja</w>
+<w xml:id="Gos137.tok6919" lemma="hvala" ana="mte:Ncfsn">hvala</w>
+<w xml:id="Gos137.tok6920" norm="čao" lemma="čao" ana="mte:I">čav</w>
+            </seg>
+         </u>
+         <u xml:id="Gos137.u385" who="#Am-mode-05620" trans="overlap" start="#JRrajzcajp-rd0907171303.t2589.278" end="#JRrajzcajp-rd0907171303.t2593.381">
+<seg xml:id="Gos137.s588" synch="#JRrajzcajp-rd0907171303.t2589.278">
+<w xml:id="Gos137.tok6921" norm="čao" lemma="čao" ana="mte:I">čav</w>
+            </seg>
+         </u>
+         <u xml:id="Gos137.u386" who="#Am-mode-05620" start="#JRrajzcajp-rd0907171303.t2593.381" end="#JRrajzcajp-rd0907171303.t2605.06">
+<seg xml:id="Gos137.s589" synch="#JRrajzcajp-rd0907171303.t2593.381">
+<w xml:id="Gos137.tok6922" lemma="no" ana="mte:Q">no</w>
+<w xml:id="Gos137.tok6923" lemma="jaz" ana="mte:Pp1mpn">mi</w>
+<w xml:id="Gos137.tok6924" lemma="pa" ana="mte:Cc">pa</w>
+<w xml:id="Gos137.tok6925" lemma="biti" ana="mte:Va-f1p-n">bomo</w>
+<w xml:id="Gos137.tok6926" lemma="slišati" ana="mte:Vmbp-pm">slišali</w>
+<w xml:id="Gos137.tok6927" function="filler" lemma="eee" ana="mte:I">eee</w>
+<w xml:id="Gos137.tok6928" lemma="seveda" ana="mte:Q">seveda</w>
+<w xml:id="Gos137.tok6929" norm="Utwo" lemma="Utwo" ana="mte:Npmsan">Jutuje</w>
+<w xml:id="Gos137.tok6930" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Gos137.tok6931" norm="Beautiful" lemma="Beautiful" ana="mte:Xf">Bjutiful</w>
+<w xml:id="Gos137.tok6932" norm="day" lemma="day" ana="mte:Xf">dej</w>
+            </seg>
+<seg xml:id="Gos137.s590" synch="#JRrajzcajp-rd0907171303.t2597.014">
+<w xml:id="Gos137.tok6933" lemma="vsak" ana="mte:Pg-nsa">vsako</w>
+<w xml:id="Gos137.tok6934" lemma="jutro" ana="mte:Ncnsa">jutro</w>
+<w xml:id="Gos137.tok6935" lemma="biti" ana="mte:Va-r2p-n">ste</w>
+<w xml:id="Gos137.tok6936" lemma="lahko" ana="mte:Rgp">lahko</w>
+<w xml:id="Gos137.tok6937" lemma="bogat" ana="mte:Agcmpn">bogatejši</w>
+<w xml:id="Gos137.tok6938" lemma="od" ana="mte:Sg">od</w>
+<w xml:id="Gos137.tok6939" lemma="svoj" ana="mte:Px-msg">svojega</w>
+<w xml:id="Gos137.tok6940" lemma="sosed" ana="mte:Ncmsg">soseda</w>
+<w xml:id="Gos137.tok6941" lemma="petnajst" ana="mte:Mlc-pa">petnajst</w>
+<w xml:id="Gos137.tok6942" lemma="minuta" ana="mte:Ncfpg">minut</w>
+<w xml:id="Gos137.tok6943" lemma="do" ana="mte:Sg">do</w>
+<w xml:id="Gos137.tok6944" lemma="osmi" ana="mte:Mlofsg">osme</w>
+<w xml:id="Gos137.tok6945" lemma="petnajst" ana="mte:Mlc-pa">petnajst</w>
+<w xml:id="Gos137.tok6946" lemma="minuta" ana="mte:Ncfpg">minut</w>
+<w xml:id="Gos137.tok6947" lemma="do" ana="mte:Sg">do</w>
+<w xml:id="Gos137.tok6948" lemma="deveti" ana="mte:Mlofsg">devete</w>
+<w xml:id="Gos137.tok6949" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Gos137.tok6950" lemma="še" ana="mte:Q">še</w>
+<w xml:id="Gos137.tok6951" lemma="kdaj" ana="mte:Rgp">kdaj</w>
+<w xml:id="Gos137.tok6952" norm="kaj" lemma="kaj" ana="mte:Pq-nsa">kej</w>
+<w xml:id="Gos137.tok6953" lemma="vmes" ana="mte:Rgp">vmes</w>
+<w xml:id="Gos137.tok6954" lemma="še" ana="mte:Q">še</w>
+<w xml:id="Gos137.tok6955" norm="kaj" lemma="kaj" ana="mte:Pq-nsa">kej</w>
+<w xml:id="Gos137.tok6956" lemma="pripraviti" ana="mte:Vmer1p">pripravimo</w>
+<w xml:id="Gos137.tok6957" lemma="za" ana="mte:Sa">za</w>
+<w xml:id="Gos137.tok6958" lemma="ti" ana="mte:Pp2-pa">vas</w>
+            </seg>
+<seg xml:id="Gos137.s591" synch="#JRrajzcajp-rd0907171303.t2604.295">
+<w xml:id="Gos137.tok6959" lemma="dober" ana="mte:Agpnsa">dobro</w>
+<w xml:id="Gos137.tok6960" lemma="jutro" ana="mte:Ncnsa">jutro</w>
+            </seg>
+         </u>
+         <u xml:id="Gos137.u387" start="#JRrajzcajp-rd0907171303.t2605.06" end="#JRrajzcajp-rd0907171303.t2607.476">
+<seg xml:id="Gos137.s592" synch="#JRrajzcajp-rd0907171303.t2605.06">
+               <pause/>
+            </seg>
+         </u>
+         <u xml:id="Gos137.u388" who="#Bm-mode-05621" start="#JRrajzcajp-rd0907171303.t2607.476" end="#JRrajzcajp-rd0907171303.t2611.214">
+<seg xml:id="Gos137.s593" synch="#JRrajzcajp-rd0907171303.t2607.476">
+<w xml:id="Gos137.tok6961" lemma="lep" ana="mte:Agpmsnn">lep</w>
+<w xml:id="Gos137.tok6962" lemma="dan" ana="mte:Ncmsn">dan</w>
+<w xml:id="Gos137.tok6963" lemma="se" ana="mte:Px------y">se</w>
+<w xml:id="Gos137.tok6964" lemma="obetati" ana="mte:Vmpr3s">obeta</w>
+<w xml:id="Gos137.tok6965" lemma="lep" ana="mte:Agpmsan">lep</w>
+<w xml:id="Gos137.tok6966" lemma="dan" ana="mte:Ncmsn">dan</w>
+<w xml:id="Gos137.tok6967" lemma="se" ana="mte:Px------y">se</w>
+<w xml:id="Gos137.tok6968" lemma="obetati" ana="mte:Vmpr3s">obeta</w>
+<w xml:id="Gos137.tok6969" lemma="danes" ana="mte:Rgp">danes</w>
+            </seg>
+         </u>
+         <u xml:id="Gos137.u389" who="#Am-mode-05620" start="#JRrajzcajp-rd0907171303.t2611.214" end="#JRrajzcajp-rd0907171303.t2627.334">
+<seg xml:id="Gos137.s594" synch="#JRrajzcajp-rd0907171303.t2611.214">
+<w xml:id="Gos137.tok6970" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Gos137.tok6971" function="filler" lemma="eee" ana="mte:I">eee</w>
+<w xml:id="Gos137.tok6972" lemma="danes" ana="mte:Rgp">danes</w>
+<w xml:id="Gos137.tok6973" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos137.tok6974" lemma="tudi" ana="mte:Q">tudi</w>
+<w xml:id="Gos137.tok6975" lemma="čas" ana="mte:Ncmsn">čas</w>
+<w xml:id="Gos137.tok6976" lemma="za" ana="mte:Sa">za</w>
+<w xml:id="Gos137.tok6977" lemma="ta" ana="mte:Pd-nsa">to</w>
+<w xml:id="Gos137.tok6978" lemma="da" ana="mte:Cs">da</w>
+<w xml:id="Gos137.tok6979" lemma="ti" ana="mte:Pp2-pa">vas</w>
+<w xml:id="Gos137.tok6980" lemma="pozdraviti" ana="mte:Vmer1p">pozdravimo</w>
+<w xml:id="Gos137.tok6981" lemma="da" ana="mte:Cs">da</w>
+<w xml:id="Gos137.tok6982" lemma="ti" ana="mte:Pp2-pd">vam</w>
+<w xml:id="Gos137.tok6983" lemma="zaželeti" ana="mte:Vmer1p">zaželimo</w>
+<w xml:id="Gos137.tok6984" lemma="srečno" ana="mte:Rgp">srečno</w>
+<w xml:id="Gos137.tok6985" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Gos137.tok6986" lemma="zdravo" ana="mte:Rgp">zdravo</w>
+<w xml:id="Gos137.tok6987" lemma="ta" ana="mte:Pd-fsa">to</w>
+<w xml:id="Gos137.tok6988" lemma="sreda" ana="mte:Ncfsa">sredo</w>
+<w xml:id="Gos137.tok6989" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Gos137.tok6990" lemma="še" ana="mte:Q">še</w>
+<w xml:id="Gos137.tok6991" lemma="en" ana="mte:Mlpmsn">en</w>
+<w xml:id="Gos137.tok6992" lemma="kratek" ana="mte:Agpmsnn">kratek</w>
+<w xml:id="Gos137.tok6993" lemma="vicek" ana="mte:Ncmsn">vicek</w>
+<w xml:id="Gos137.tok6994" lemma="preden" ana="mte:Cs">preden</w>
+               <name type="personal">
+                  <gap reason="anon">
+                     <desc>[ime]</desc>
+                  </gap>
+               </name>
+               <del type="falseStart" subtype="missingEnd">
+<w xml:id="Gos137.tok6995" lemma="m…" ana="mte:Xt">m…</w>
+               </del>
+<w xml:id="Gos137.tok6996" lemma="povedati" ana="mte:Vmer3s">pove</w>
+<w xml:id="Gos137.tok6997" lemma="svoj" ana="mte:Px-nsa">svoje</w>
+<w xml:id="Gos137.tok6998" lemma="o" ana="mte:Sl">o</w>
+<w xml:id="Gos137.tok6999" lemma="cesta" ana="mte:Ncfpl">cestah</w>
+<w xml:id="Gos137.tok7000" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Gos137.tok7001" lemma="vreme" ana="mte:Ncnsl">vremenu</w>
+            </seg>
+<seg xml:id="Gos137.s595" synch="#JRrajzcajp-rd0907171303.t2623.179">
+<w xml:id="Gos137.tok7002" lemma="zakaj" ana="mte:Rgp">zakaj</w>
+<w xml:id="Gos137.tok7003" lemma="se" ana="mte:Px------y">se</w>
+<w xml:id="Gos137.tok7004" lemma="mravlja" ana="mte:Ncfpn">mravlje</w>
+<w xml:id="Gos137.tok7005" lemma="tako" ana="mte:Rgp">tako</w>
+<w xml:id="Gos137.tok7006" lemma="hitro" ana="mte:Rgp">hitro</w>
+<w xml:id="Gos137.tok7007" lemma="razmnoževati" ana="mte:Vmpr3p">razmnožujejo</w>
+               <name type="personal">
+                  <gap reason="anon">
+                     <desc>[ime]</desc>
+                  </gap>
+               </name>
+<pc xml:id="Gos137.tok7008" lemma="?" ana="mte:Z">?</pc>
+            </seg>
+<seg xml:id="Gos137.s596" synch="#JRrajzcajp-rd0907171303.t2625.891">
+<w xml:id="Gos137.tok7009" lemma="ti" ana="mte:Pp2-sa">tebe</w>
+<w xml:id="Gos137.tok7010" lemma="vprašati" ana="mte:Vmer1s">vprašam</w>
+            </seg>
+         </u>
+         </body>
+   </text>
+</TEI>

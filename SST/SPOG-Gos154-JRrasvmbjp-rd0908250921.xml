@@ -1,0 +1,552 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Gos154" xml:lang="sl" source="#gos.P.G">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jutranji program radia. [Gos1.1]</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>2.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="194" xml:lang="sl">194 govorov</measure>
+            <measure unit="speeches" quantity="194" xml:lang="en">194 speeches</measure>
+            <measure unit="words" quantity="3697" xml:lang="sl">3697 besed</measure>
+            <measure unit="words" quantity="3697" xml:lang="en">3697 words</measure>
+         </extent>
+         <publicationStmt>
+            <distributor>
+               <ref target="https://www.clarin.si/">CLARIN.SI</ref>
+            </distributor>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/XXXX</idno>
+            <date when="2023-06-09">2023-06-09</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Jutranji program radia.</title>
+               <date when="2009-11">2009-11</date>
+            </bibl>
+            <recordingStmt>
+               <recording>
+                  <media xml:id="SPOG-Gos154-JRrasvmbjp-rd0908250921-avd.wav" mimeType="audio/wav" url="./SPOG-Gos154-JRrasvmbjp-rd0908250921-avd.wav"/>
+                  <broadcast>
+                     <ab>RTV Slovenija</ab>
+                  </broadcast>
+                  <date when="2009-11-08">2009-11-08</date>
+               </recording>
+            </recordingStmt>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <catRef target="#gos.T.J.R"/>
+            <catRef target="#gos.K.R"/>
+         </textClass>
+         <textDesc>
+            <channel/>
+            <constitution/>
+            <derivation/>
+            <domain>Maribor1, jutranji</domain>
+            <factuality/>
+            <interaction/>
+            <preparedness/>
+            <purpose/>
+         </textDesc>
+         <particDesc>
+            <listPerson n="18">
+               <person sameAs="#Hf-mode-07518"/>
+               <person sameAs="#Nm-anke-07503"/>
+               <person sameAs="#Of-anke-07504"/>
+               <person sameAs="#Qm-anke-07505"/>
+               <person sameAs="#Sm-anke-07506"/>
+               <person sameAs="#Vm-anke-07507"/>
+               <person sameAs="#Pf-anke-07508"/>
+               <person sameAs="#Gf-anke-07509"/>
+               <person sameAs="#audience"/>
+               <person sameAs="#Mm-inte-07510"/>
+               <person sameAs="#Jf-gost-07511"/>
+               <person sameAs="#Hf-gost-07512"/>
+               <person sameAs="#Pf-gost-07513"/>
+               <person sameAs="#Df-gost-07514"/>
+               <person sameAs="#Ef-posl-07515"/>
+               <person sameAs="#all"/>
+               <person sameAs="#Af-posl-07516"/>
+               <person sameAs="#Bf-posl-07517"/>
+            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <place>
+               <settlement>Maribor</settlement>
+            </place>
+         </settingDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <timeline unit="seg" xml:id="JRrasvmbjp-rd0908250921" origin="#JRrasvmbjp-rd0908250921.t0" corresp="#JRrasvmbjp-rd0908250921.wav">
+            <when xml:id="JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1.419" interval="1.419" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t4.760" interval="4.760" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t13.827" interval="13.827" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t16.168" interval="16.168" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t19.820" interval="19.820" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t21.766" interval="21.766" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t26.952" interval="26.952" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t34.347" interval="34.347" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t36.323" interval="36.323" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t43.952" interval="43.952" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t54.337" interval="54.337" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t55.806" interval="55.806" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t57.553" interval="57.553" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t63.475" interval="63.475" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t73.804" interval="73.804" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t79.866" interval="79.866" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t93.424" interval="93.424" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t100.407" interval="100.407" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t104.402" interval="104.402" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t116.445" interval="116.445" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t118.532" interval="118.532" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t126.436" interval="126.436" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t137.266" interval="137.266" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t154.766" interval="154.766" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t162.202" interval="162.202" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t175.102" interval="175.102" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t184.141" interval="184.141" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t193.955" interval="193.955" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t204.734" interval="204.734" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t216.078" interval="216.078" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t229.230" interval="229.230" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t234.192" interval="234.192" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t242.227" interval="242.227" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t244.083" interval="244.083" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t252.242" interval="252.242" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t253.763" interval="253.763" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t257.947" interval="257.947" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t267.483" interval="267.483" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t271.190" interval="271.190" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t276.141" interval="276.141" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t287.967" interval="287.967" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t297.804" interval="297.804" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t304.392" interval="304.392" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t307.631" interval="307.631" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t310.769" interval="310.769" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t312.356" interval="312.356" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t318.523" interval="318.523" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t327.828" interval="327.828" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t334.469" interval="334.469" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t339.191" interval="339.191" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t347.984" interval="347.984" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t350.803" interval="350.803" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t352.630" interval="352.630" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t359.038" interval="359.038" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t362.062" interval="362.062" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t367.361" interval="367.361" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t371.612" interval="371.612" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t380.688" interval="380.688" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t387.581" interval="387.581" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t391.828" interval="391.828" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t398.892" interval="398.892" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t405.246" interval="405.246" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t411.112" interval="411.112" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t415.904" interval="415.904" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t423.581" interval="423.581" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t433.557" interval="433.557" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t444.186" interval="444.186" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t456.372" interval="456.372" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t466.901" interval="466.901" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t471.176" interval="471.176" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t482.224" interval="482.224" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t493.380" interval="493.380" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t502.442" interval="502.442" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t510.026" interval="510.026" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t519.119" interval="519.119" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t528.254" interval="528.254" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t529.931" interval="529.931" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t538.199" interval="538.199" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t542.684" interval="542.684" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t544.211" interval="544.211" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t550.09" interval="550.09" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t551.856" interval="551.856" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t556.657" interval="556.657" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t558.334" interval="558.334" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t575.184" interval="575.184" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t580.867" interval="580.867" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t582.184" interval="582.184" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t588.666" interval="588.666" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t591.119" interval="591.119" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t596.756" interval="596.756" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t599.924" interval="599.924" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t601.301" interval="601.301" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t608.510" interval="608.510" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t614.259" interval="614.259" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t619.642" interval="619.642" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t633.234" interval="633.234" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t635.540" interval="635.540" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t643.72" interval="643.72" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t647.641" interval="647.641" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t650.742" interval="650.742" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t654.328" interval="654.328" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t660.346" interval="660.346" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t666.438" interval="666.438" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t671.657" interval="671.657" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t673.104" interval="673.104" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t675.529" interval="675.529" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t678.063" interval="678.063" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t683.983" interval="683.983" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t691.501" interval="691.501" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t701.22" interval="701.22" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t702.550" interval="702.550" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t706.089" interval="706.089" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t709.094" interval="709.094" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t712.118" interval="712.118" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t718.098" interval="718.098" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t728.960" interval="728.960" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t731.594" interval="731.594" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t739.839" interval="739.839" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t746.320" interval="746.320" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t762.548" interval="762.548" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t766.883" interval="766.883" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t776.226" interval="776.226" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t778.195" interval="778.195" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t782.054" interval="782.054" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t790.289" interval="790.289" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t800.702" interval="800.702" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t812.028" interval="812.028" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t813.400" interval="813.400" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t819.607" interval="819.607" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t824.358" interval="824.358" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t837.496" interval="837.496" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t842.73" interval="842.73" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t844.353" interval="844.353" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t849.526" interval="849.526" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t855.386" interval="855.386" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t859.729" interval="859.729" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t864.634" interval="864.634" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t868.635" interval="868.635" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t875.556" interval="875.556" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t878.191" interval="878.191" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t889.218" interval="889.218" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t891.715" interval="891.715" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t896.832" interval="896.832" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t898.050" interval="898.050" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t905.866" interval="905.866" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t906.694" interval="906.694" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t911.973" interval="911.973" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t915.098" interval="915.098" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t922.109" interval="922.109" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t925.07" interval="925.07" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t934.477" interval="934.477" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t941.336" interval="941.336" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t944.116" interval="944.116" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t947.948" interval="947.948" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t953.002" interval="953.002" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t955.742" interval="955.742" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t959.320" interval="959.320" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t967.382" interval="967.382" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t975.945" interval="975.945" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t979.622" interval="979.622" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t984.771" interval="984.771" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t992.778" interval="992.778" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1000.216" interval="1000.216" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1004.513" interval="1004.513" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1005.525" interval="1005.525" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1015.079" interval="1015.079" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1022.169" interval="1022.169" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1028.752" interval="1028.752" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1040.511" interval="1040.511" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1042.203" interval="1042.203" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1053.136" interval="1053.136" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1056.391" interval="1056.391" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1059.085" interval="1059.085" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1064.068" interval="1064.068" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1069.887" interval="1069.887" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1075.230" interval="1075.230" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1076.383" interval="1076.383" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1076.809" interval="1076.809" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1085.262" interval="1085.262" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1095.103" interval="1095.103" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1109.032" interval="1109.032" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1109.900" interval="1109.900" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1127.343" interval="1127.343" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1132.247" interval="1132.247" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1135.216" interval="1135.216" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1142.139" interval="1142.139" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1153.075" interval="1153.075" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1154.009" interval="1154.009" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1156.989" interval="1156.989" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1159.043" interval="1159.043" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1160.540" interval="1160.540" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1162.036" interval="1162.036" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1168.859" interval="1168.859" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1173.293" interval="1173.293" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1174.641" interval="1174.641" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1182.153" interval="1182.153" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1192.609" interval="1192.609" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1201.923" interval="1201.923" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1206.338" interval="1206.338" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1208.524" interval="1208.524" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1211.534" interval="1211.534" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1223.151" interval="1223.151" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1238.349" interval="1238.349" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1241.127" interval="1241.127" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1247.011" interval="1247.011" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1248.329" interval="1248.329" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1264.365" interval="1264.365" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1265.922" interval="1265.922" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1276.611" interval="1276.611" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1280.053" interval="1280.053" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1281.909" interval="1281.909" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1293.091" interval="1293.091" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1295.452" interval="1295.452" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1298.296" interval="1298.296" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1302.823" interval="1302.823" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1308.895" interval="1308.895" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1310.669" interval="1310.669" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1316.825" interval="1316.825" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1318.665" interval="1318.665" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1326.419" interval="1326.419" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1332.737" interval="1332.737" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1335.44" interval="1335.44" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1348.014" interval="1348.014" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1353.254" interval="1353.254" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1358.152" interval="1358.152" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1360.247" interval="1360.247" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1362.403" interval="1362.403" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1363.840" interval="1363.840" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1364.709" interval="1364.709" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1371.769" interval="1371.769" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1378.867" interval="1378.867" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1394.273" interval="1394.273" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1414.685" interval="1414.685" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1430.637" interval="1430.637" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1433.003" interval="1433.003" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1434.404" interval="1434.404" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1435.123" interval="1435.123" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1454.092" interval="1454.092" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1457.985" interval="1457.985" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1462.699" interval="1462.699" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1466.101" interval="1466.101" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1468.368" interval="1468.368" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1477.141" interval="1477.141" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1490.132" interval="1490.132" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1493.219" interval="1493.219" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1502.500" interval="1502.500" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1504.161" interval="1504.161" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1509.101" interval="1509.101" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1511.820" interval="1511.820" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1513.856" interval="1513.856" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1516.012" interval="1516.012" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1535.029" interval="1535.029" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1538.048" interval="1538.048" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1542.758" interval="1542.758" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1557.092" interval="1557.092" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1572.545" interval="1572.545" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1574.139" interval="1574.139" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1576.692" interval="1576.692" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1583.578" interval="1583.578" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1590.285" interval="1590.285" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1594.087" interval="1594.087" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1598.398" interval="1598.398" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1601.692" interval="1601.692" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1603.654" interval="1603.654" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1609.995" interval="1609.995" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1611.17" interval="1611.17" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1612.233" interval="1612.233" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1617.592" interval="1617.592" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1619.498" interval="1619.498" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1625.435" interval="1625.435" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1628.077" interval="1628.077" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1629.890" interval="1629.890" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1633.045" interval="1633.045" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1638.114" interval="1638.114" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1640.116" interval="1640.116" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1641.304" interval="1641.304" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1647.693" interval="1647.693" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1655.597" interval="1655.597" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1657.510" interval="1657.510" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1659.875" interval="1659.875" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1660.742" interval="1660.742" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1662.486" interval="1662.486" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1668.112" interval="1668.112" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1682.329" interval="1682.329" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1685.332" interval="1685.332" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1691.91" interval="1691.91" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1693.613" interval="1693.613" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1697.471" interval="1697.471" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1701.926" interval="1701.926" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1703.146" interval="1703.146" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1706.455" interval="1706.455" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1710.900" interval="1710.900" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1718.132" interval="1718.132" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1719.291" interval="1719.291" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1720.900" interval="1720.900" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1721.904" interval="1721.904" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1725.227" interval="1725.227" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1726.754" interval="1726.754" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1727.978" interval="1727.978" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1729.522" interval="1729.522" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1734.157" interval="1734.157" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1739.151" interval="1739.151" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1739.946" interval="1739.946" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1742.404" interval="1742.404" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1744.110" interval="1744.110" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1757.381" interval="1757.381" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1762.523" interval="1762.523" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1779.933" interval="1779.933" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1792.493" interval="1792.493" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1794.445" interval="1794.445" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1798.458" interval="1798.458" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1799.955" interval="1799.955" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1814.147" interval="1814.147" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1819.237" interval="1819.237" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1820.733" interval="1820.733" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1834.947" interval="1834.947" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1846.905" interval="1846.905" since="#JRrasvmbjp-rd0908250921.t0"/>
+            <when xml:id="JRrasvmbjp-rd0908250921.t1854.642" interval="1854.642" since="#JRrasvmbjp-rd0908250921.t0"/>
+         </timeline>
+         <u xml:id="Gos154.u102" who="#Hf-mode-07518" start="#JRrasvmbjp-rd0908250921.t1154.009" end="#JRrasvmbjp-rd0908250921.t1156.989">
+<seg xml:id="Gos154.s201" synch="#JRrasvmbjp-rd0908250921.t1154.009">
+<w xml:id="Gos154.tok2406" lemma="ja" ana="mte:Q">ja</w>
+<w xml:id="Gos154.tok2407" norm="allegro" lemma="allegro" ana="mte:Rgp">alegro</w>
+<w xml:id="Gos154.tok2408" lemma="prvi" ana="mte:Mlomsn">prvi</w>
+<w xml:id="Gos154.tok2409" lemma="stavek" ana="mte:Ncmsn">stavek</w>
+<w xml:id="Gos154.tok2410" lemma="samo" ana="mte:Q">samo</w>
+<w xml:id="Gos154.tok2411" lemma="za" ana="mte:Sa">za</w>
+<w xml:id="Gos154.tok2412" lemma="ti" ana="mte:Pp2-pa">vas</w>
+<w xml:id="Gos154.tok2413" lemma="hvala" ana="mte:Ncfsn">hvala</w>
+<w xml:id="Gos154.tok2414" lemma="lep" ana="mte:Agpfsn">lepa</w>
+            </seg>
+         </u>
+         <u xml:id="Gos154.u103" who="#Hf-mode-07518" trans="smooth" start="#JRrasvmbjp-rd0908250921.t1156.989" end="#JRrasvmbjp-rd0908250921.t1156.989">
+<seg xml:id="Gos154.s202" synch="#JRrasvmbjp-rd0908250921.t1156.989">
+<w xml:id="Gos154.tok2415" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Gos154.tok2416" lemma="lep" ana="mte:Agpmsan">lep</w>
+<w xml:id="Gos154.tok2417" lemma="dan" ana="mte:Ncmsan">dan</w>
+<w xml:id="Gos154.tok2418" lemma="želeti" ana="mte:Vmpr1s" join="right">želim</w>
+<pc xml:id="Gos154.tok2419" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos154.tok2420" lemma="nasvidenje" ana="mte:I">nasvidenje</w>
+            </seg>
+         </u>
+         <u xml:id="Gos154.u104" who="#Mm-inte-07510" trans="overlap" start="#JRrasvmbjp-rd0908250921.t1156.989" end="#JRrasvmbjp-rd0908250921.t1159.043">
+<seg xml:id="Gos154.s203" synch="#JRrasvmbjp-rd0908250921.t1156.989">
+<w xml:id="Gos154.tok2421" lemma="hvala" ana="mte:Ncfsn">hvala</w>
+<w xml:id="Gos154.tok2422" lemma="lep" ana="mte:Agpfsn" join="right">lepa</w>
+<pc xml:id="Gos154.tok2423" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos154.tok2424" lemma="ja" ana="mte:Q">ja</w>
+            </seg>
+         </u>
+         <u xml:id="Gos154.u105" who="#Mm-inte-07510" start="#JRrasvmbjp-rd0908250921.t1159.043" end="#JRrasvmbjp-rd0908250921.t1160.540">
+<seg xml:id="Gos154.s204" synch="#JRrasvmbjp-rd0908250921.t1159.043">
+<w xml:id="Gos154.tok2425" lemma="nasvidenje" ana="mte:I">nasvidenje</w>
+            </seg>
+         </u>
+         <u xml:id="Gos154.u106" start="#JRrasvmbjp-rd0908250921.t1160.540" end="#JRrasvmbjp-rd0908250921.t1162.036">
+<seg xml:id="Gos154.s205" synch="#JRrasvmbjp-rd0908250921.t1160.540">
+               <pause/>
+            </seg>
+         </u>
+         <u xml:id="Gos154.u107" who="#Hf-mode-07518" start="#JRrasvmbjp-rd0908250921.t1162.036" end="#JRrasvmbjp-rd0908250921.t1173.293">
+<seg xml:id="Gos154.s206" synch="#JRrasvmbjp-rd0908250921.t1162.036">
+<w xml:id="Gos154.tok2426" lemma="ob" ana="mte:Sl">ob</w>
+<w xml:id="Gos154.tok2427" lemma="ta" ana="mte:Pd-msl">tem</w>
+<w xml:id="Gos154.tok2428" lemma="Vivaldijev" ana="mte:Aspmsl">Vivaldijevem</w>
+<w xml:id="Gos154.tok2429" lemma="stavek" ana="mte:Ncmsl">stavku</w>
+<w xml:id="Gos154.tok2430" lemma="biti" ana="mte:Va-r1s-n">sem</w>
+<w xml:id="Gos154.tok2431" lemma="se" ana="mte:Px------y">se</w>
+<w xml:id="Gos154.tok2432" lemma="spomniti" ana="mte:Vmep-sf">spomnila</w>
+<w xml:id="Gos154.tok2433" lemma="kako" ana="mte:Rgp">kako</w>
+<w xml:id="Gos154.tok2434" lemma="biti" ana="mte:Va-r3p-n">so</w>
+<w xml:id="Gos154.tok2435" lemma="nekdaj" ana="mte:Rgp">nekdaj</w>
+<w xml:id="Gos154.tok2436" lemma="plesati" ana="mte:Vmpp-pm">plesali</w>
+<w xml:id="Gos154.tok2437" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Gos154.tok2438" lemma="se" ana="mte:Px------y">se</w>
+<w xml:id="Gos154.tok2439" lemma="priklanjati" ana="mte:Vmpp-pm">priklanjali</w>
+<w xml:id="Gos154.tok2440" lemma="drug" ana="mte:Mlpmsnn">drug</w>
+<w xml:id="Gos154.tok2441" lemma="drug" ana="mte:Mlpmsd">drugemu</w>
+            </seg>
+<seg xml:id="Gos154.s207" synch="#JRrasvmbjp-rd0908250921.t1168.859">
+<w xml:id="Gos154.tok2442" lemma="šest" ana="mte:Mlc-pn">šest</w>
+<w xml:id="Gos154.tok2443" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Gos154.tok2444" lemma="šestinštirideset" ana="mte:Mlc-pn">šestinštirideset</w>
+<w xml:id="Gos154.tok2445" lemma="minuta" ana="mte:Ncfpg">minut</w>
+<w xml:id="Gos154.tok2446" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos154.tok2447" lemma="ura" ana="mte:Ncfsn">ura</w>
+<w xml:id="Gos154.tok2448" lemma="iti" ana="mte:Vmbr1p">gremo</w>
+<w xml:id="Gos154.tok2449" lemma="na" ana="mte:Sa">na</w>
+<w xml:id="Gos154.tok2450" lemma="cesta" ana="mte:Ncfpa">ceste</w>
+            </seg>
+         </u>
+         <u xml:id="Gos154.u108" start="#JRrasvmbjp-rd0908250921.t1173.293" end="#JRrasvmbjp-rd0908250921.t1174.641">
+<seg xml:id="Gos154.s208" synch="#JRrasvmbjp-rd0908250921.t1173.293">
+               <pause/>
+            </seg>
+         </u>
+         <u xml:id="Gos154.u109" who="#Hf-mode-07518" start="#JRrasvmbjp-rd0908250921.t1174.641" end="#JRrasvmbjp-rd0908250921.t1206.338">
+<seg xml:id="Gos154.s209" synch="#JRrasvmbjp-rd0908250921.t1174.641">
+<w xml:id="Gos154.tok2451" lemma="Švedska" ana="mte:Npfsn">Švedska</w>
+<w xml:id="Gos154.tok2452" lemma="sloveti" ana="mte:Vmpr3s">slovi</w>
+<w xml:id="Gos154.tok2453" lemma="po" ana="mte:Sl">po</w>
+<w xml:id="Gos154.tok2454" lemma="ljubiteljski" ana="mte:Agpmpl">ljubiteljskih</w>
+<w xml:id="Gos154.tok2455" lemma="godalen" ana="mte:Agpmpl">godalnih</w>
+<w xml:id="Gos154.tok2456" lemma="sestav" ana="mte:Ncmpl">sestavih</w>
+<w xml:id="Gos154.tok2457" lemma="ki" ana="mte:Cs">ki</w>
+<w xml:id="Gos154.tok2458" lemma="muzicirati" ana="mte:Vmpr3p">muzicirajo</w>
+<w xml:id="Gos154.tok2459" lemma="širom" ana="mte:Rgp">širom</w>
+<w xml:id="Gos154.tok2460" lemma="po" ana="mte:Sl">po</w>
+<w xml:id="Gos154.tok2461" lemma="država" ana="mte:Ncfsl">državi</w>
+            </seg>
+<seg xml:id="Gos154.s210" synch="#JRrasvmbjp-rd0908250921.t1182.153">
+<w xml:id="Gos154.tok2462" lemma="med" ana="mte:Sa">med</w>
+<w xml:id="Gos154.tok2463" lemma="majhen" ana="mte:Agcfpa">manjše</w>
+<w xml:id="Gos154.tok2464" lemma="godalen" ana="mte:Agpfpa">godalne</w>
+<w xml:id="Gos154.tok2465" lemma="zasedba" ana="mte:Ncfpa">zasedbe</w>
+<w xml:id="Gos154.tok2466" lemma="spadati" ana="mte:Vmpr3s">spada</w>
+<w xml:id="Gos154.tok2467" lemma="tudi" ana="mte:Q">tudi</w>
+<w xml:id="Gos154.tok2468" lemma="kvintet" ana="mte:Ncmsn">kvintet</w>
+<w xml:id="Gos154.tok2469" lemma="Orsa" ana="mte:Npfsn">Orsa</w>
+<w xml:id="Gos154.tok2470" lemma="iz" ana="mte:Sg">iz</w>
+<w xml:id="Gos154.tok2471" lemma="pokrajina" ana="mte:Ncfsg">pokrajine</w>
+<w xml:id="Gos154.tok2472" lemma="Dalarna" ana="mte:Npfsn">Dalarna</w>
+<w xml:id="Gos154.tok2473" lemma="ki" ana="mte:Cs">ki</w>
+<w xml:id="Gos154.tok2474" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos154.tok2475" lemma="zasloveti" ana="mte:Vmep-sm">zaslovel</w>
+<w xml:id="Gos154.tok2476" lemma="po" ana="mte:Sl">po</w>
+<w xml:id="Gos154.tok2477" lemma="snemanje" ana="mte:Ncnsl">snemanju</w>
+<w xml:id="Gos154.tok2478" lemma="z" ana="mte:Si">z</w>
+<w xml:id="Gos154.tok2479" norm="Bennyjem" lemma="Benny" ana="mte:Npmsi">Benijem</w>
+<w xml:id="Gos154.tok2480" lemma="Anderson" ana="mte:Npmsi">Andersonom</w>
+<w xml:id="Gos154.tok2481" lemma="član" ana="mte:Ncmsi">članom</w>
+<w xml:id="Gos154.tok2482" lemma="kvartet" ana="mte:Ncmsg">kvarteta</w>
+<w xml:id="Gos154.tok2483" norm="Abba" lemma="Abba" ana="mte:Npfsn">Aba</w>
+            </seg>
+<seg xml:id="Gos154.s211" synch="#JRrasvmbjp-rd0908250921.t1192.609">
+<w xml:id="Gos154.tok2484" lemma="kvintet" ana="mte:Ncmsn">kvintet</w>
+<w xml:id="Gos154.tok2485" lemma="Orsa" ana="mte:Npfsn">Orsa</w>
+<w xml:id="Gos154.tok2486" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos154.tok2487" lemma="ljudski" ana="mte:Agpfsa">ljudsko</w>
+<w xml:id="Gos154.tok2488" lemma="glasba" ana="mte:Ncfsa">glasbo</w>
+<w xml:id="Gos154.tok2489" lemma="približati" ana="mte:Vmep-sm">približal</w>
+<w xml:id="Gos154.tok2490" lemma="številen" ana="mte:Agpmpd">številnim</w>
+<w xml:id="Gos154.tok2491" lemma="nov" ana="mte:Agpmpd">novim</w>
+<w xml:id="Gos154.tok2492" lemma="poslušalec" ana="mte:Ncmpd">poslušalcem</w>
+<w xml:id="Gos154.tok2493" lemma="skupina" ana="mte:Ncfsn">skupina</w>
+<w xml:id="Gos154.tok2494" lemma="pa" ana="mte:Cc">pa</w>
+<w xml:id="Gos154.tok2495" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos154.tok2496" lemma="osvojiti" ana="mte:Vmep-sf">osvojila</w>
+<w xml:id="Gos154.tok2497" lemma="tudi" ana="mte:Q">tudi</w>
+<w xml:id="Gos154.tok2498" lemma="švedski" ana="mte:Agpfsa">švedsko</w>
+<w xml:id="Gos154.tok2499" lemma="različica" ana="mte:Ncfsa">različico</w>
+<w xml:id="Gos154.tok2500" lemma="nagrada" ana="mte:Ncfsg">nagrade</w>
+<w xml:id="Gos154.tok2501" norm="Grammy" lemma="Grammy" ana="mte:Npmsn">Gremi</w>
+            </seg>
+<seg xml:id="Gos154.s212" synch="#JRrasvmbjp-rd0908250921.t1201.923">
+<w xml:id="Gos154.tok2502" lemma="kvartet" ana="mte:Ncmsn">kvartet</w>
+<w xml:id="Gos154.tok2503" lemma="Orsa" ana="mte:Npfsn">Orsa</w>
+<w xml:id="Gos154.tok2504" lemma="za" ana="mte:Sa">za</w>
+<w xml:id="Gos154.tok2505" lemma="dober" ana="mte:Agpnsa">dobro</w>
+<w xml:id="Gos154.tok2506" lemma="jutro" ana="mte:Ncnsa">jutro</w>
+            </seg>
+         </u>
+         </body>
+   </text>
+</TEI>

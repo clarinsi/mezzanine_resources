@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Gos095" xml:lang="sl" source="#gos.P.G">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nove podražitve. [Gos1.1]</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>2.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="10" xml:lang="sl">10 govorov</measure>
+            <measure unit="speeches" quantity="10" xml:lang="en">10 speeches</measure>
+            <measure unit="words" quantity="216" xml:lang="sl">216 besed</measure>
+            <measure unit="words" quantity="216" xml:lang="en">216 words</measure>
+         </extent>
+         <publicationStmt>
+            <distributor>
+               <ref target="https://www.clarin.si/">CLARIN.SI</ref>
+            </distributor>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/XXXX</idno>
+            <date when="2023-06-09">2023-06-09</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Nove podražitve.</title>
+               <date when="2009-05">2009-05</date>
+            </bibl>
+            <recordingStmt>
+               <recording>
+                  <media xml:id="SPOG-Gos095-JItvslpour-rd0904151003-avd.wav" mimeType="audio/wav" url="./SPOG-Gos095-JItvslpour-rd0904151003-avd.wav"/>
+                  <broadcast>
+                     <ab>ProPlus</ab>
+                  </broadcast>
+                  <date when="2009-05-12">2009-05-12</date>
+               </recording>
+            </recordingStmt>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <catRef target="#gos.T.J.I"/>
+            <catRef target="#gos.K.T"/>
+         </textClass>
+         <textDesc>
+            <channel/>
+            <constitution/>
+            <derivation/>
+            <domain>PopTV, 24ur</domain>
+            <factuality/>
+            <interaction/>
+            <preparedness/>
+            <purpose/>
+         </textDesc>
+         <particDesc>
+            <listPerson n="5">
+               <person sameAs="#Bf-novi-00001"/>
+               <person sameAs="#Xf-anke-01516"/>
+               <person sameAs="#Xf-anke-01517"/>
+               <person sameAs="#Am-anke-01518"/>
+               <person sameAs="#Cf-anke-01519"/>
+            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <place>
+               <settlement>Ljubljana</settlement>
+            </place>
+         </settingDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <timeline unit="seg" xml:id="JItvslpour-rd0904151003" origin="#JItvslpour-rd0904151003.t0" corresp="#JItvslpour-rd0904151003.wav">
+            <when xml:id="JItvslpour-rd0904151003.t0"/>
+            <when xml:id="JItvslpour-rd0904151003.t7.552" interval="7.552" since="#JItvslpour-rd0904151003.t0"/>
+            <when xml:id="JItvslpour-rd0904151003.t10.669" interval="10.669" since="#JItvslpour-rd0904151003.t0"/>
+            <when xml:id="JItvslpour-rd0904151003.t13.516" interval="13.516" since="#JItvslpour-rd0904151003.t0"/>
+            <when xml:id="JItvslpour-rd0904151003.t18.839" interval="18.839" since="#JItvslpour-rd0904151003.t0"/>
+            <when xml:id="JItvslpour-rd0904151003.t25.564" interval="25.564" since="#JItvslpour-rd0904151003.t0"/>
+            <when xml:id="JItvslpour-rd0904151003.t29.205" interval="29.205" since="#JItvslpour-rd0904151003.t0"/>
+            <when xml:id="JItvslpour-rd0904151003.t36.742" interval="36.742" since="#JItvslpour-rd0904151003.t0"/>
+            <when xml:id="JItvslpour-rd0904151003.t47.067" interval="47.067" since="#JItvslpour-rd0904151003.t0"/>
+            <when xml:id="JItvslpour-rd0904151003.t55.294" interval="55.294" since="#JItvslpour-rd0904151003.t0"/>
+            <when xml:id="JItvslpour-rd0904151003.t64.837" interval="64.837" since="#JItvslpour-rd0904151003.t0"/>
+            <when xml:id="JItvslpour-rd0904151003.t73.139" interval="73.139" since="#JItvslpour-rd0904151003.t0"/>
+            <when xml:id="JItvslpour-rd0904151003.t75.956" interval="75.956" since="#JItvslpour-rd0904151003.t0"/>
+            <when xml:id="JItvslpour-rd0904151003.t79.103" interval="79.103" since="#JItvslpour-rd0904151003.t0"/>
+         </timeline>
+         <u xml:id="Gos095.u5" who="#Am-anke-01518" start="#JItvslpour-rd0904151003.t29.205" end="#JItvslpour-rd0904151003.t36.742">
+<seg xml:id="Gos095.s7" synch="#JItvslpour-rd0904151003.t29.205">
+<w xml:id="Gos095.tok81" lemma="prepričan" ana="mte:Appmpn">prepričani</w>
+<w xml:id="Gos095.tok82" lemma="biti" ana="mte:Va-r1p-n">smo</w>
+<w xml:id="Gos095.tok83" lemma="da" ana="mte:Cs">da</w>
+<w xml:id="Gos095.tok84" lemma="biti" ana="mte:Va-c">bi</w>
+<w xml:id="Gos095.tok85" lemma="lahko" ana="mte:Rgp">lahko</w>
+<w xml:id="Gos095.tok86" lemma="z" ana="mte:Si">z</w>
+<w xml:id="Gos095.tok87" lemma="bolj" ana="mte:Rgc">bolj</w>
+<w xml:id="Gos095.tok88" lemma="aktiven" ana="mte:Agpmsi">aktivnim</w>
+<w xml:id="Gos095.tok89" lemma="pristop" ana="mte:Ncmsi">pristopom</w>
+<w xml:id="Gos095.tok90" function="filler" lemma="eee" ana="mte:I">eee</w>
+<w xml:id="Gos095.tok91" lemma="imeti" ana="mte:Vmpp-pm">imeli</w>
+               <del type="falseStart" subtype="missingEnd">
+<w xml:id="Gos095.tok92" lemma="s…" ana="mte:Xt">s…</w>
+               </del>
+<w xml:id="Gos095.tok93" lemma="zagotovljen" ana="mte:Appnsa">zagotovljeno</w>
+<w xml:id="Gos095.tok94" lemma="odlaganje" ana="mte:Ncnsa">odlaganje</w>
+<w xml:id="Gos095.tok95" lemma="saj" ana="mte:Cc">saj</w>
+<w xml:id="Gos095.tok96" lemma="za" ana="mte:Sa">za</w>
+<w xml:id="Gos095.tok97" lemma="naslednji" ana="mte:Agpnpg">naslednjih</w>
+<w xml:id="Gos095.tok98" lemma="dvajset" ana="mte:Mlc-pa">dvajset</w>
+<w xml:id="Gos095.tok99" lemma="leto" ana="mte:Ncnpg">let</w>
+            </seg>
+         </u>
+         </body>
+   </text>
+</TEI>

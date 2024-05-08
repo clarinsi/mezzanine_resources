@@ -1,0 +1,982 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Gos220" xml:lang="sl" source="#gos.P.G">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Družinski pogovor ob kavici. [Gos1.1]</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>2.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="183" xml:lang="sl">183 govorov</measure>
+            <measure unit="speeches" quantity="183" xml:lang="en">183 speeches</measure>
+            <measure unit="words" quantity="1527" xml:lang="sl">1527 besed</measure>
+            <measure unit="words" quantity="1527" xml:lang="en">1527 words</measure>
+         </extent>
+         <publicationStmt>
+            <distributor>
+               <ref target="https://www.clarin.si/">CLARIN.SI</ref>
+            </distributor>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/XXXX</idno>
+            <date when="2023-06-09">2023-06-09</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <publisher>lastni posnetek</publisher>
+               <title>Družinski pogovor ob kavici.</title>
+               <date when="2009-09">2009-09</date>
+            </bibl>
+            <recordingStmt>
+               <recording>
+                  <media xml:id="SPOG-Gos220-NZosgododr-ag0907121630-avd.wav" mimeType="audio/wav" url="./SPOG-Gos220-NZosgododr-ag0907121630-avd.wav"/>
+                  <date when="2009-09-30">2009-09-30</date>
+               </recording>
+            </recordingStmt>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <catRef target="#gos.T.N.Z"/>
+            <catRef target="#gos.K.O"/>
+         </textClass>
+         <textDesc>
+            <channel/>
+            <constitution/>
+            <derivation/>
+            <domain>doma, družina</domain>
+            <factuality/>
+            <interaction/>
+            <preparedness/>
+            <purpose/>
+         </textDesc>
+         <particDesc>
+            <listPerson n="5">
+               <person sameAs="#Af-star-05611"/>
+               <person sameAs="#Bm-star-05612"/>
+               <person sameAs="#Cf-otro-05613"/>
+               <person sameAs="#Df-otro-05614"/>
+               <person sameAs="#all"/>
+            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <place>
+               <settlement>Lože Vipava</settlement>
+            </place>
+         </settingDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <timeline unit="seg" xml:id="NZosgododr-ag0907121630" origin="#NZosgododr-ag0907121630.t0" corresp="#NZosgododr-ag0907121630.wav">
+            <when xml:id="NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t4.364" interval="4.364" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t8.514" interval="8.514" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t12.472" interval="12.472" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t14.762" interval="14.762" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t16.502" interval="16.502" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t22.13" interval="22.13" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t24.682" interval="24.682" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t26.017" interval="26.017" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t28.712" interval="28.712" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t30.119" interval="30.119" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t32.885" interval="32.885" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t34.459" interval="34.459" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t35.842" interval="35.842" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t37.607" interval="37.607" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t39.849" interval="39.849" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t43.259" interval="43.259" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t44.594" interval="44.594" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t49.006" interval="49.006" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t51.653" interval="51.653" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t53.465" interval="53.465" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t55.254" interval="55.254" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t57.83" interval="57.83" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t59.785" interval="59.785" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t62.051" interval="62.051" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t64.054" interval="64.054" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t67.273" interval="67.273" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t69.491" interval="69.491" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t75.0" interval="75.0" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t75.93" interval="75.93" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t78.959" interval="78.959" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t82.727" interval="82.727" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t84.206" interval="84.206" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t88.904" interval="88.904" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t92.29" interval="92.29" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t94.484" interval="94.484" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t96.821" interval="96.821" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t98.323" interval="98.323" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t99.778" interval="99.778" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t101.662" interval="101.662" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t104.023" interval="104.023" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t105.335" interval="105.335" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t108.697" interval="108.697" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t111.392" interval="111.392" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t119.834" interval="119.834" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t123.060" interval="123.060" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t125.677" interval="125.677" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t127.108" interval="127.108" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t127.823" interval="127.823" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t132.521" interval="132.521" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t136.313" interval="136.313" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t138.506" interval="138.506" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t141.01" interval="141.01" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t143.356" interval="143.356" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t148.021" interval="148.021" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t154.563" interval="154.563" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t159.301" interval="159.301" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t163.832" interval="163.832" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t169.881" interval="169.881" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t176.575" interval="176.575" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t178.569" interval="178.569" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t195.966" interval="195.966" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t198.16" interval="198.16" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t200.569" interval="200.569" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t201.857" interval="201.857" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t213.161" interval="213.161" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t215.689" interval="215.689" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t223.487" interval="223.487" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t240.318" interval="240.318" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t243.323" interval="243.323" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t245.565" interval="245.565" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t247.115" interval="247.115" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t250.167" interval="250.167" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t264.914" interval="264.914" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t267.609" interval="267.609" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t278.245" interval="278.245" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t280.415" interval="280.415" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t283.396" interval="283.396" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t288.642" interval="288.642" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t294.962" interval="294.962" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t297.831" interval="297.831" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t309.135" interval="309.135" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t311.782" interval="311.782" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t318.268" interval="318.268" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t330.096" interval="330.096" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t333.172" interval="333.172" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t341.638" interval="341.638" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t345.599" interval="345.599" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t347.053" interval="347.053" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t349.984" interval="349.984" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t353.132" interval="353.132" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t355.588" interval="355.588" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t356.852" interval="356.852" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t365.723" interval="365.723" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t367.273" interval="367.273" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t369.205" interval="369.205" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t370.506" interval="370.506" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t371.852" interval="371.852" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t374.237" interval="374.237" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t375.406" interval="375.406" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t378.411" interval="378.411" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t386.066" interval="386.066" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t387.735" interval="387.735" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t390.597" interval="390.597" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t396.153" interval="396.153" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t404.5" interval="404.5" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t406.789" interval="406.789" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t408.196" interval="408.196" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t409.794" interval="409.794" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t421.722" interval="421.722" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t433.909" interval="433.909" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t435.221" interval="435.221" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t437.63" interval="437.63" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t443.234" interval="443.234" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t444.379" interval="444.379" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t447.598" interval="447.598" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t448.933" interval="448.933" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t450.674" interval="450.674" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t457.471" interval="457.471" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t463.862" interval="463.862" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t475.61" interval="475.61" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t476.516" interval="476.516" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t479.76" interval="479.76" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t488.417" interval="488.417" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t492.794" interval="492.794" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t495.417" interval="495.417" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t499.185" interval="499.185" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t502.189" interval="502.189" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t506.577" interval="506.577" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t508.494" interval="508.494" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t511.705" interval="511.705" since="#NZosgododr-ag0907121630.t0"/>
+            <when xml:id="NZosgododr-ag0907121630.t516.355" interval="516.355" since="#NZosgododr-ag0907121630.t0"/>
+         </timeline>
+         <u xml:id="Gos220.u53" who="#Af-star-05611" start="#NZosgododr-ag0907121630.t104.023" end="#NZosgododr-ag0907121630.t105.335">
+<seg xml:id="Gos220.s57" synch="#NZosgododr-ag0907121630.t104.023">
+<w xml:id="Gos220.tok287" lemma="tudi" ana="mte:Q">tudi</w>
+<w xml:id="Gos220.tok288" lemma="če" ana="mte:Cs">če</w>
+<w xml:id="Gos220.tok289" lemma="on" ana="mte:Pp3fsd--y">ji</w>
+<w xml:id="Gos220.tok290" lemma="pasati" ana="mte:Vmbr3s">paše</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u54" who="#Df-otro-05614" trans="smooth" start="#NZosgododr-ag0907121630.t105.335" end="#NZosgododr-ag0907121630.t105.335">
+<seg xml:id="Gos220.s58" synch="#NZosgododr-ag0907121630.t105.335">
+<w xml:id="Gos220.tok291" lemma="ma" ana="mte:Q">ma</w>
+<w xml:id="Gos220.tok292" lemma="ja" ana="mte:Q">ja</w>
+<w xml:id="Gos220.tok293" norm="to" lemma="ta" ana="mte:Pd-nsn">tu</w>
+<w xml:id="Gos220.tok294" lemma="jaz" ana="mte:Pp1-sd--y">mi</w>
+<w xml:id="Gos220.tok295" norm="hodi" lemma="hoditi" ana="mte:Vmpr3s">huede</w>
+<w xml:id="Gos220.tok296" norm="gor" lemma="gor" ana="mte:Rgp">guor</w>
+<w xml:id="Gos220.tok297" lemma="ma" ana="mte:Q">ma</w>
+<w xml:id="Gos220.tok298" lemma="biti" ana="mte:Va-r3s-y">ni</w>
+<w xml:id="Gos220.tok299" norm="lepo" lemma="lep" ana="mte:Agpnsn">lepu</w>
+<w xml:id="Gos220.tok300" norm="da" lemma="da" ana="mte:Cs">de</w>
+               <gap reason="unclear"/>
+<w xml:id="Gos220.tok301" lemma="v" ana="mte:Sl">v</w>
+<w xml:id="Gos220.tok302" norm="elastiki" lemma="elastika" ana="mte:Ncfsl">lastiki</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u55" who="#Cf-otro-05613" trans="overlap" start="#NZosgododr-ag0907121630.t105.335" end="#NZosgododr-ag0907121630.t108.697">
+<seg xml:id="Gos220.s59" synch="#NZosgododr-ag0907121630.t105.335">
+<w xml:id="Gos220.tok303" lemma="ja" ana="mte:Q">ja</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u56" who="#Bm-star-05612" start="#NZosgododr-ag0907121630.t108.697" end="#NZosgododr-ag0907121630.t111.392">
+<seg xml:id="Gos220.s60" synch="#NZosgododr-ag0907121630.t108.697">
+<w xml:id="Gos220.tok304" norm="glih" lemma="glih" ana="mte:Rgp">lih</w>
+<w xml:id="Gos220.tok305" norm="tako" lemma="tako" ana="mte:Rgp">takue</w>
+<w xml:id="Gos220.tok306" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos220.tok307" norm="bilo" lemma="biti" ana="mte:Va-p-sn">blo</w>
+<w xml:id="Gos220.tok308" norm="lepo" lemma="lep" ana="mte:Agpnsn">lepu</w>
+<w xml:id="Gos220.tok309" norm="lahko" lemma="lahko" ana="mte:Rgp">lohko</w>
+<w xml:id="Gos220.tok310" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos220.tok311" norm="majica" lemma="majica" ana="mte:Ncfsn">majca</w>
+<w xml:id="Gos220.tok312" norm="glej" lemma="gledati" ana="mte:Vmpm2s">lej</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u57" who="#Bm-star-05612" trans="smooth" start="#NZosgododr-ag0907121630.t111.392" end="#NZosgododr-ag0907121630.t111.392">
+<seg xml:id="Gos220.s61" synch="#NZosgododr-ag0907121630.t111.392">
+<w xml:id="Gos220.tok313" norm="lahko" lemma="lahko" ana="mte:Rgp">lohko</w>
+<w xml:id="Gos220.tok314" lemma="biti" ana="mte:Va-r3s-n">je</w>
+               <gap reason="unclear"/>
+<w xml:id="Gos220.tok315" lemma="kar" ana="mte:Pr-nsa">kar</w>
+<w xml:id="Gos220.tok316" norm="hočeš" lemma="hoteti" ana="mte:Vmpr2s-n" join="right">češ</w>
+<pc xml:id="Gos220.tok317" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos220.tok318" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Gos220.tok319" lemma="če" ana="mte:Cs">če</w>
+<w xml:id="Gos220.tok320" lemma="podtakniti" ana="mte:Vmer2s">podtakneš</w>
+<w xml:id="Gos220.tok321" norm="tako" lemma="tako" ana="mte:Rgp">takue</w>
+<w xml:id="Gos220.tok322" lemma="na" ana="mte:Sa">na</w>
+<w xml:id="Gos220.tok323" norm="dolgo" lemma="dolgo" ana="mte:Rgp">daugo</w>
+<w xml:id="Gos220.tok324" lemma="ne" ana="mte:Q" join="right">ne</w>
+<pc xml:id="Gos220.tok325" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos220.tok326" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos220.tok327" lemma="spalen" ana="mte:Agpfsn">spalna</w>
+<w xml:id="Gos220.tok328" lemma="srajca" ana="mte:Ncfsn" join="right">srajca</w>
+<pc xml:id="Gos220.tok329" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos220.tok330" lemma="ma" ana="mte:Q">ma</w>
+<w xml:id="Gos220.tok331" norm="res" lemma="res" ana="mte:Rgp">rjes</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u58" who="#Cf-otro-05613" trans="overlap" start="#NZosgododr-ag0907121630.t111.392" end="#NZosgododr-ag0907121630.t111.392">
+<seg xml:id="Gos220.s62" synch="#NZosgododr-ag0907121630.t111.392">
+<w xml:id="Gos220.tok332" norm="imaš" lemma="imeti" ana="mte:Vmpr2s-n">imeš</w>
+<w xml:id="Gos220.tok333" lemma="še" ana="mte:Q">še</w>
+<w xml:id="Gos220.tok334" norm="kakšen" lemma="kakšen" ana="mte:Pq-msa">kešn</w>
+<w xml:id="Gos220.tok335" lemma="bolero" ana="mte:Ncmsan" join="right">bolero</w>
+<pc xml:id="Gos220.tok336" lemma="?" ana="mte:Z">?</pc>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u59" who="#Df-otro-05614" trans="overlap" start="#NZosgododr-ag0907121630.t111.392" end="#NZosgododr-ag0907121630.t119.834">
+<seg xml:id="Gos220.s63" synch="#NZosgododr-ag0907121630.t111.392">
+<w xml:id="Gos220.tok337" lemma="še" ana="mte:Q">še</w>
+<w xml:id="Gos220.tok338" norm="bolj" lemma="bolj" ana="mte:Rgc" join="right">bjel</w>
+<pc xml:id="Gos220.tok339" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos220.tok340" lemma="ma" ana="mte:Q">ma</w>
+<w xml:id="Gos220.tok341" norm="daj" lemma="dati" ana="mte:Vmem2s">dej</w>
+               <vocal type="laughter"/>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u60" who="#Af-star-05611" trans="smooth" start="#NZosgododr-ag0907121630.t119.834" end="#NZosgododr-ag0907121630.t119.834">
+<seg xml:id="Gos220.s64" synch="#NZosgododr-ag0907121630.t119.834">
+<w xml:id="Gos220.tok342" lemma="če" ana="mte:Cs">če</w>
+<w xml:id="Gos220.tok343" norm="hočeš" lemma="hoteti" ana="mte:Vmpr2s-n">čiš</w>
+               <gap reason="unclear"/>
+<w xml:id="Gos220.tok344" function="filler" lemma="eee" ana="mte:I">eee</w>
+<w xml:id="Gos220.tok345" lemma="če" ana="mte:Cs">če</w>
+<w xml:id="Gos220.tok346" lemma="rabiti" ana="mte:Vmpr2s">rabiš</w>
+<w xml:id="Gos220.tok347" lemma="za" ana="mte:Sa">za</w>
+<w xml:id="Gos220.tok348" norm="posoditi" lemma="posoditi" ana="mte:Vmen">posuodit</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u61" who="#Bm-star-05612" trans="overlap" start="#NZosgododr-ag0907121630.t119.834" end="#NZosgododr-ag0907121630.t119.834">
+<seg xml:id="Gos220.s65" synch="#NZosgododr-ag0907121630.t119.834">
+<w xml:id="Gos220.tok349" norm="in" lemma="in" ana="mte:Cc">inu</w>
+<w xml:id="Gos220.tok350" norm="pol" lemma="pol" ana="mte:Rgp">puole</w>
+<w xml:id="Gos220.tok351" lemma="ti" ana="mte:Pp2-sd--y">ti</w>
+<w xml:id="Gos220.tok352" norm="hodi" lemma="hoditi" ana="mte:Vmpr3s">huede</w>
+<w xml:id="Gos220.tok353" norm="gor" lemma="gor" ana="mte:Rgp">guor</w>
+<w xml:id="Gos220.tok354" norm="ne" lemma="ne" ana="mte:Q">nje</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u62" who="#Df-otro-05614" trans="overlap" start="#NZosgododr-ag0907121630.t119.834" end="#NZosgododr-ag0907121630.t123.060">
+<seg xml:id="Gos220.s66" synch="#NZosgododr-ag0907121630.t119.834">
+<w xml:id="Gos220.tok355" norm="kaj" lemma="kaj" ana="mte:Pq-nsa">kej</w>
+<w xml:id="Gos220.tok356" lemma="rabiti" ana="mte:Vmpr2s" join="right">rabiš</w>
+<pc xml:id="Gos220.tok357" lemma="?" ana="mte:Z">?</pc>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u63" who="#Cf-otro-05613" trans="smooth" start="#NZosgododr-ag0907121630.t123.060" end="#NZosgododr-ag0907121630.t123.060">
+<seg xml:id="Gos220.s67" synch="#NZosgododr-ag0907121630.t123.060">
+<w xml:id="Gos220.tok358" lemma="za" ana="mte:Sa">za</w>
+<w xml:id="Gos220.tok359" lemma="ta" ana="mte:Pd-nsa">to</w>
+<w xml:id="Gos220.tok360" lemma="če" ana="mte:Cs">če</w>
+<w xml:id="Gos220.tok361" norm="imaš" lemma="imeti" ana="mte:Vmpr2s-n">maš</w>
+<w xml:id="Gos220.tok362" lemma="z" ana="mte:Si">z</w>
+<w xml:id="Gos220.tok363" lemma="dolg" ana="mte:Agpmpi">dolgimi</w>
+<w xml:id="Gos220.tok364" norm="rokavi" lemma="rokav" ana="mte:Ncmpi">rokavmi</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u64" who="#Df-otro-05614" trans="overlap" start="#NZosgododr-ag0907121630.t123.060" end="#NZosgododr-ag0907121630.t123.060">
+<seg xml:id="Gos220.s68" synch="#NZosgododr-ag0907121630.t123.060">
+<w xml:id="Gos220.tok365" lemma="ja" ana="mte:Q">ja</w>
+<w xml:id="Gos220.tok366" lemma="ma" ana="mte:Q">ma</w>
+<w xml:id="Gos220.tok367" norm="belega" lemma="bel" ana="mte:Agpnsg">belga</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u65" who="#Af-star-05611" trans="overlap" start="#NZosgododr-ag0907121630.t123.060" end="#NZosgododr-ag0907121630.t125.677">
+<seg xml:id="Gos220.s69" synch="#NZosgododr-ag0907121630.t123.060">
+<w xml:id="Gos220.tok368" norm="belega" lemma="bel" ana="mte:Agpnsg">belga</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u66" who="#Df-otro-05614" start="#NZosgododr-ag0907121630.t125.677" end="#NZosgododr-ag0907121630.t127.108">
+<seg xml:id="Gos220.s70" synch="#NZosgododr-ag0907121630.t125.677">
+<w xml:id="Gos220.tok369" lemma="ma" ana="mte:Q">ma</w>
+<w xml:id="Gos220.tok370" lemma="biti" ana="mte:Va-r2s-n">si</w>
+<w xml:id="Gos220.tok371" lemma="on" ana="mte:Pp3msa--y">ga</w>
+<w xml:id="Gos220.tok372" lemma="zašiti" ana="mte:Vmep-sf" join="right">zašila</w>
+<pc xml:id="Gos220.tok373" lemma="?" ana="mte:Z">?</pc>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u67" who="#Af-star-05611" start="#NZosgododr-ag0907121630.t127.108" end="#NZosgododr-ag0907121630.t127.823">
+<seg xml:id="Gos220.s71" synch="#NZosgododr-ag0907121630.t127.108">
+<w xml:id="Gos220.tok374" lemma="ne" ana="mte:Q">ne</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u68" who="#Df-otro-05614" trans="smooth" start="#NZosgododr-ag0907121630.t127.823" end="#NZosgododr-ag0907121630.t127.823">
+<seg xml:id="Gos220.s72" synch="#NZosgododr-ag0907121630.t127.823">
+<w xml:id="Gos220.tok375" lemma="ja" ana="mte:Q">ja</w>
+<w xml:id="Gos220.tok376" norm="pol" lemma="pol" ana="mte:Rgp">puole</w>
+<w xml:id="Gos220.tok377" lemma="ne" ana="mte:Q">ne</w>
+<w xml:id="Gos220.tok378" lemma="vedeti" ana="mte:Vmpr1s">vem</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u69" who="#Af-star-05611" trans="overlap" start="#NZosgododr-ag0907121630.t127.823" end="#NZosgododr-ag0907121630.t132.521">
+<seg xml:id="Gos220.s73" synch="#NZosgododr-ag0907121630.t127.823">
+<w xml:id="Gos220.tok379" lemma="ma" ana="mte:Q">ma</w>
+<w xml:id="Gos220.tok380" lemma="on" ana="mte:Pp3msa--y">ga</w>
+<w xml:id="Gos220.tok381" lemma="biti" ana="mte:Va-f2s-n">boš</w>
+<w xml:id="Gos220.tok382" norm="lahko" lemma="lahko" ana="mte:Rgp">lohku</w>
+<w xml:id="Gos220.tok383" lemma="on" ana="mte:Pp3fsd--y">ji</w>
+<w xml:id="Gos220.tok384" norm="posodila" lemma="posoditi" ana="mte:Vmep-sf">posuodla</w>
+<w xml:id="Gos220.tok385" norm="ali" lemma="ali" ana="mte:Cc">al</w>
+<w xml:id="Gos220.tok386" lemma="on" ana="mte:Pp3msa--y">ga</w>
+<w xml:id="Gos220.tok387" lemma="biti" ana="mte:Va-f2s-n">boš</w>
+<w xml:id="Gos220.tok388" norm="rabila" lemma="rabiti" ana="mte:Vmpp-sf" join="right">rabla</w>
+<pc xml:id="Gos220.tok389" lemma="?" ana="mte:Z">?</pc>
+<w xml:id="Gos220.tok390" lemma="on" ana="mte:Pp3msa--y">ga</w>
+<w xml:id="Gos220.tok391" lemma="zašiti" ana="mte:Vmer1s">zašijem</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u70" who="#Df-otro-05614" trans="smooth" start="#NZosgododr-ag0907121630.t132.521" end="#NZosgododr-ag0907121630.t132.521">
+<seg xml:id="Gos220.s74" synch="#NZosgododr-ag0907121630.t132.521">
+<w xml:id="Gos220.tok392" lemma="ja" ana="mte:Q">ja</w>
+<w xml:id="Gos220.tok393" lemma="za" ana="mte:Sa" join="right">za</w>
+<pc xml:id="Gos220.tok394" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos220.tok395" lemma="kdaj" ana="mte:Rgp">kdaj</w>
+<w xml:id="Gos220.tok396" lemma="rabiti" ana="mte:Vmpr2s">rabiš</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u71" who="#Af-star-05611" trans="overlap" start="#NZosgododr-ag0907121630.t132.521" end="#NZosgododr-ag0907121630.t132.521">
+<seg xml:id="Gos220.s75" synch="#NZosgododr-ag0907121630.t132.521">
+<w xml:id="Gos220.tok397" norm="pojdi" lemma="iti" ana="mte:Vmbm2s">pejd</w>
+<w xml:id="Gos220.tok398" lemma="on" ana="mte:Pp3msa--y">ga</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u72" who="#Cf-otro-05613" trans="overlap" start="#NZosgododr-ag0907121630.t132.521" end="#NZosgododr-ag0907121630.t136.313">
+<seg xml:id="Gos220.s76" synch="#NZosgododr-ag0907121630.t132.521">
+<w xml:id="Gos220.tok399" lemma="ma" ana="mte:Q">ma</w>
+<w xml:id="Gos220.tok400" lemma="on" ana="mte:Pp3msa--y">ga</w>
+<w xml:id="Gos220.tok401" lemma="biti" ana="mte:Va-f2s-n">boš</w>
+<w xml:id="Gos220.tok402" norm="rabila" lemma="rabiti" ana="mte:Vmpp-sf">rabla</w>
+<w xml:id="Gos220.tok403" lemma="za" ana="mte:Sa">za</w>
+<w xml:id="Gos220.tok404" lemma="na" ana="mte:Sa">na</w>
+<w xml:id="Gos220.tok405" lemma="na" ana="mte:Sa">na</w>
+<w xml:id="Gos220.tok406" norm="morje" lemma="morje" ana="mte:Ncnsa">murje</w>
+<w xml:id="Gos220.tok407" lemma="ne" ana="mte:Q">ne</w>
+<w xml:id="Gos220.tok408" lemma="bos" ana="mte:Agpmsnn">bos</w>
+<w xml:id="Gos220.tok409" lemma="vzeti" ana="mte:Vmep-sf">vzela</w>
+<w xml:id="Gos220.tok410" lemma="verjetno" ana="mte:Rgp">verjetno</w>
+<w xml:id="Gos220.tok411" norm="kaj" lemma="kaj" ana="mte:Pq-nsa">kej</w>
+<w xml:id="Gos220.tok412" lemma="z" ana="mte:Si">s</w>
+<w xml:id="Gos220.tok413" lemma="se" ana="mte:Px---i">sabo</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u73" who="#Df-otro-05614" start="#NZosgododr-ag0907121630.t136.313" end="#NZosgododr-ag0907121630.t138.506">
+<seg xml:id="Gos220.s77" synch="#NZosgododr-ag0907121630.t136.313">
+<w xml:id="Gos220.tok414" lemma="ma" ana="mte:Q">ma</w>
+<w xml:id="Gos220.tok415" lemma="ta" ana="mte:Pd-msa">ta</w>
+<w xml:id="Gos220.tok416" lemma="kratek" ana="mte:Agpmsa">kratkega</w>
+<w xml:id="Gos220.tok417" lemma="biti" ana="mte:Va-f1s-n">bom</w>
+<w xml:id="Gos220.tok418" lemma="vzeti" ana="mte:Vmep-sf">vzela</w>
+<w xml:id="Gos220.tok419" lemma="za" ana="mte:Sa">za</w>
+<w xml:id="Gos220.tok420" lemma="na" ana="mte:Sa">na</w>
+<w xml:id="Gos220.tok421" norm="morje" lemma="morje" ana="mte:Ncnsa">murje</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u74" who="#Cf-otro-05613" trans="smooth" start="#NZosgododr-ag0907121630.t138.506" end="#NZosgododr-ag0907121630.t138.506">
+<seg xml:id="Gos220.s78" synch="#NZosgododr-ag0907121630.t138.506">
+<w xml:id="Gos220.tok422" lemma="ja" ana="mte:Q">ja</w>
+<w xml:id="Gos220.tok423" lemma="ma" ana="mte:Q">ma</w>
+<w xml:id="Gos220.tok424" norm="vzemi" lemma="vzeti" ana="mte:Vmem2s">uzm</w>
+<w xml:id="Gos220.tok425" lemma="biti" ana="mte:Va-r2s-n">si</w>
+<w xml:id="Gos220.tok426" lemma="vseeno" ana="mte:Rgp">vseeno</w>
+<w xml:id="Gos220.tok427" lemma="še" ana="mte:Q">še</w>
+<w xml:id="Gos220.tok428" norm="kaj" lemma="kaj" ana="mte:Pq-nsn">kej</w>
+<w xml:id="Gos220.tok429" norm="drugega" lemma="drug" ana="mte:Mlpnsg">druzga</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u75" who="#Af-star-05611" trans="overlap" start="#NZosgododr-ag0907121630.t138.506" end="#NZosgododr-ag0907121630.t138.506">
+<seg xml:id="Gos220.s79" synch="#NZosgododr-ag0907121630.t138.506">
+<w xml:id="Gos220.tok430" lemma="ma" ana="mte:Q">ma</w>
+<w xml:id="Gos220.tok431" norm="vzemi" lemma="vzeti" ana="mte:Vmem2s">uzmi</w>
+<w xml:id="Gos220.tok432" norm="tudi" lemma="tudi" ana="mte:Q">tud</w>
+<w xml:id="Gos220.tok433" norm="kaj" lemma="kaj" ana="mte:Pq-nsa">kej</w>
+<w xml:id="Gos220.tok434" norm="dolgega" lemma="dolg" ana="mte:Agpnsg">dolzga</w>
+<w xml:id="Gos220.tok435" lemma="vedeti" ana="mte:Vmpr2s">veš</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u76" who="#Bm-star-05612" trans="overlap" start="#NZosgododr-ag0907121630.t138.506" end="#NZosgododr-ag0907121630.t141.01">
+<seg xml:id="Gos220.s80" synch="#NZosgododr-ag0907121630.t138.506">
+<w xml:id="Gos220.tok436" lemma="ja" ana="mte:Q">ja</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u77" who="#Df-otro-05614" start="#NZosgododr-ag0907121630.t141.01" end="#NZosgododr-ag0907121630.t143.356">
+<seg xml:id="Gos220.s81" synch="#NZosgododr-ag0907121630.t141.01">
+<w xml:id="Gos220.tok437" lemma="ja" ana="mte:Q">ja</w>
+<w xml:id="Gos220.tok438" lemma="ma" ana="mte:Q">ma</w>
+<w xml:id="Gos220.tok439" lemma="ta" ana="mte:Pd-msa">ta</w>
+<w xml:id="Gos220.tok440" lemma="kratek" ana="mte:Agpmpa">kratke</w>
+<w xml:id="Gos220.tok441" norm="bolere" lemma="bolero" ana="mte:Ncmpa">bolerote</w>
+<w xml:id="Gos220.tok442" norm="mislim" lemma="misliti" ana="mte:Vmpr1s">mislm</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u78" who="#Af-star-05611" start="#NZosgododr-ag0907121630.t143.356" end="#NZosgododr-ag0907121630.t148.021">
+<seg xml:id="Gos220.s82" synch="#NZosgododr-ag0907121630.t143.356">
+<w xml:id="Gos220.tok443" lemma="ja" ana="mte:Q">ja</w>
+<w xml:id="Gos220.tok444" lemma="večer" ana="mte:Ncmpn">večeri</w>
+<w xml:id="Gos220.tok445" lemma="priti" ana="mte:Vmer3p">pridejo</w>
+<w xml:id="Gos220.tok446" norm="hladni" lemma="hladen" ana="mte:Agpmpn">hledni</w>
+<w xml:id="Gos220.tok447" norm="imaš" lemma="imeti" ana="mte:Vmpr2s-n">imeš</w>
+<w xml:id="Gos220.tok448" norm="imaš" lemma="imeti" ana="mte:Vmpr2s-n">imeš</w>
+<w xml:id="Gos220.tok449" norm="kakšno" lemma="kakšen" ana="mte:Pq-fsa">kešno</w>
+<w xml:id="Gos220.tok450" norm="ono" lemma="oni" ana="mte:Pd-fsa">uno</w>
+<w xml:id="Gos220.tok451" norm="jackieco" lemma="jackieca" ana="mte:Ncfsa">džakico</w>
+<w xml:id="Gos220.tok452" lemma="kavbojsko" ana="mte:Rgp" join="right">kavbojsko</w>
+<pc xml:id="Gos220.tok453" lemma="?" ana="mte:Z">?</pc>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u79" who="#Bm-star-05612" trans="smooth" start="#NZosgododr-ag0907121630.t148.021" end="#NZosgododr-ag0907121630.t148.021">
+<seg xml:id="Gos220.s83" synch="#NZosgododr-ag0907121630.t148.021">
+<w xml:id="Gos220.tok454" norm="nekaj" lemma="nekaj" ana="mte:Pi-nsa">njekej</w>
+<w xml:id="Gos220.tok455" lemma="za" ana="mte:Sa">za</w>
+<w xml:id="Gos220.tok456" lemma="se" ana="mte:Px------y">se</w>
+<w xml:id="Gos220.tok457" norm="ogrniti" lemma="ogrniti" ana="mte:Vmen" join="right">ogrnit</w>
+<pc xml:id="Gos220.tok458" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos220.tok459" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Gos220.tok460" norm="nekaj" lemma="nekaj" ana="mte:Pi-nsa">njekej</w>
+<w xml:id="Gos220.tok461" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos220.tok462" norm="treba" lemma="treba" ana="mte:Rgp">trjeba</w>
+<w xml:id="Gos220.tok463" norm="nesti" lemma="nesti" ana="mte:Vmpn">njest</w>
+<w xml:id="Gos220.tok464" norm="tudi" lemma="tudi" ana="mte:Q">tud</w>
+<w xml:id="Gos220.tok465" lemma="za" ana="mte:Sa">za</w>
+<w xml:id="Gos220.tok466" lemma="se" ana="mte:Px------y">se</w>
+<w xml:id="Gos220.tok467" norm="obleči" lemma="obleči" ana="mte:Vmen">oblajčt</w>
+<w xml:id="Gos220.tok468" norm="ker" lemma="ker" ana="mte:Cs">k</w>
+<w xml:id="Gos220.tok469" norm="lahko" lemma="lahko" ana="mte:Rgp">lohko</w>
+<w xml:id="Gos220.tok470" lemma="znati" ana="mte:Vmpr3s">zna</w>
+<w xml:id="Gos220.tok471" norm="ratati" lemma="ratati" ana="mte:Vmbn">ratat</w>
+<w xml:id="Gos220.tok472" lemma="hladen" ana="mte:Agpnsn">hladno</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u80" who="#Cf-otro-05613" trans="overlap" start="#NZosgododr-ag0907121630.t148.021" end="#NZosgododr-ag0907121630.t148.021">
+<seg xml:id="Gos220.s84" synch="#NZosgododr-ag0907121630.t148.021">
+<w xml:id="Gos220.tok473" norm="saj" lemma="saj" ana="mte:Cc">sej</w>
+<w xml:id="Gos220.tok474" lemma="biti" ana="mte:Va-r2s-n">si</w>
+<w xml:id="Gos220.tok475" norm="kupila" lemma="kupiti" ana="mte:Vmep-sf">kupla</w>
+<w xml:id="Gos220.tok476" norm="oni" lemma="oni" ana="mte:Pd-msa">un</w>
+<w xml:id="Gos220.tok477" lemma="dan" ana="mte:Ncmsan">dan</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u81" who="#Df-otro-05614" trans="overlap" start="#NZosgododr-ag0907121630.t148.021" end="#NZosgododr-ag0907121630.t154.563">
+<seg xml:id="Gos220.s85" synch="#NZosgododr-ag0907121630.t148.021">
+<w xml:id="Gos220.tok478" lemma="ma" ana="mte:Q">ma</w>
+<w xml:id="Gos220.tok479" norm="saj" lemma="saj" ana="mte:Cc">sej</w>
+<w xml:id="Gos220.tok480" lemma="imeti" ana="mte:Vmpr1s-n">imam</w>
+<w xml:id="Gos220.tok481" norm="dosti" lemma="dosti" ana="mte:Rgp">duosti</w>
+<w xml:id="Gos220.tok482" norm="daj" lemma="dati" ana="mte:Vmem2s">dej</w>
+<w xml:id="Gos220.tok483" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Gos220.tok484" norm="oblek" lemma="obleka" ana="mte:Ncfpg">obljek</w>
+<w xml:id="Gos220.tok485" lemma="madona" ana="mte:Ncfsn">madona</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u82" who="#Cf-otro-05613" trans="smooth" start="#NZosgododr-ag0907121630.t154.563" end="#NZosgododr-ag0907121630.t154.563">
+<seg xml:id="Gos220.s86" synch="#NZosgododr-ag0907121630.t154.563">
+<w xml:id="Gos220.tok486" norm="kaj" lemma="kaj" ana="mte:Pq-nsa">kej</w>
+<w xml:id="Gos220.tok487" norm="pa" lemma="pa" ana="mte:Cc">pej</w>
+<w xml:id="Gos220.tok488" norm="za" lemma="za" ana="mte:Sa">z</w>
+<w xml:id="Gos220.tok489" norm="piti" lemma="piti" ana="mte:Vmpn">pit</w>
+<w xml:id="Gos220.tok490" lemma="se" ana="mte:Px---d--y">si</w>
+<w xml:id="Gos220.tok491" lemma="biti" ana="mte:Va-f2p-n">boste</w>
+<w xml:id="Gos220.tok492" norm="nesli" lemma="nesti" ana="mte:Vmpp-pm">njesli</w>
+<w xml:id="Gos220.tok493" norm="kaj" lemma="kaj" ana="mte:Pq-nsa" join="right">kej</w>
+<pc xml:id="Gos220.tok494" lemma="?" ana="mte:Z">?</pc>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u83" who="#Df-otro-05614" trans="overlap" start="#NZosgododr-ag0907121630.t154.563" end="#NZosgododr-ag0907121630.t159.301">
+<seg xml:id="Gos220.s87" synch="#NZosgododr-ag0907121630.t154.563">
+<w xml:id="Gos220.tok495" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Gos220.tok496" lemma="biti" ana="mte:Va-r1s-n">sem</w>
+<w xml:id="Gos220.tok497" lemma="v" ana="mte:Sl">v</w>
+<w xml:id="Gos220.tok498" lemma="zadnji" ana="mte:Agpmpl">zadnjih</w>
+<w xml:id="Gos220.tok499" norm="dveh" lemma="dva" ana="mte:Mlcmdl">dvjeh</w>
+<w xml:id="Gos220.tok500" norm="mesecih" lemma="mesec" ana="mte:Ncmdl">mjesceh</w>
+<w xml:id="Gos220.tok501" lemma="biti" ana="mte:Va-r1s-n">sem</w>
+<w xml:id="Gos220.tok502" norm="nakupila" lemma="nakupiti" ana="mte:Vmep-sf">nakupla</w>
+<w xml:id="Gos220.tok503" lemma="za" ana="mte:Sa">za</w>
+<w xml:id="Gos220.tok504" norm="tristo" lemma="tristo" ana="mte:Mlc-pa">tristu</w>
+<w xml:id="Gos220.tok505" norm="evrov" lemma="evro" ana="mte:Ncmpg">evru</w>
+<w xml:id="Gos220.tok506" norm="robe" lemma="roba" ana="mte:Ncfsg">ruebe</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u84" who="#Bm-star-05612" trans="smooth" start="#NZosgododr-ag0907121630.t159.301" end="#NZosgododr-ag0907121630.t159.301">
+<seg xml:id="Gos220.s88" synch="#NZosgododr-ag0907121630.t159.301">
+<w xml:id="Gos220.tok507" lemma="se" ana="mte:Px------y">se</w>
+<w xml:id="Gos220.tok508" norm="spomniš" lemma="spomniti" ana="mte:Vmer2s">spouneš</w>
+<w xml:id="Gos220.tok509" norm="zadnjič" lemma="zadnjič" ana="mte:Rgp">zadnič</w>
+<w xml:id="Gos220.tok510" norm="ko" lemma="ko" ana="mte:Cs">k</w>
+<w xml:id="Gos220.tok511" lemma="biti" ana="mte:Va-r1p-n">smo</w>
+<w xml:id="Gos220.tok512" norm="bili" lemma="biti" ana="mte:Va-p-pm">bli</w>
+<w xml:id="Gos220.tok513" norm="oblečeni" lemma="oblečen" ana="mte:Appmpn">oblejčeni</w>
+<w xml:id="Gos220.tok514" norm="kot" lemma="kot" ana="mte:Cs">ku</w>
+<w xml:id="Gos220.tok515" norm="sredi" lemma="sredi" ana="mte:Sg">sred</w>
+<w xml:id="Gos220.tok516" lemma="zima" ana="mte:Ncfsg">zime</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u85" who="#Af-star-05611" trans="overlap" start="#NZosgododr-ag0907121630.t159.301" end="#NZosgododr-ag0907121630.t163.832">
+<seg xml:id="Gos220.s89" synch="#NZosgododr-ag0907121630.t159.301">
+<w xml:id="Gos220.tok517" lemma="ja" ana="mte:Q">ja</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u86" who="#Bm-star-05612" trans="smooth" start="#NZosgododr-ag0907121630.t163.832" end="#NZosgododr-ag0907121630.t163.832">
+<seg xml:id="Gos220.s90" synch="#NZosgododr-ag0907121630.t163.832">
+<w xml:id="Gos220.tok518" norm="zadnjič" lemma="zadnjič" ana="mte:Rgp">zadnič</w>
+<w xml:id="Gos220.tok519" norm="en" lemma="en" ana="mte:Mlpmsn">un</w>
+<w xml:id="Gos220.tok520" norm="bot" lemma="bot" ana="mte:Ncmsn">buot</w>
+               <gap reason="unclear"/>
+<pc xml:id="Gos220.tok521" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos220.tok522" lemma="tudi" ana="mte:Q">tudi</w>
+<w xml:id="Gos220.tok523" lemma="ja" ana="mte:Q">ja</w>
+               <gap reason="unclear"/>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u87" who="#Af-star-05611" trans="overlap" start="#NZosgododr-ag0907121630.t163.832" end="#NZosgododr-ag0907121630.t169.881">
+<seg xml:id="Gos220.s91" synch="#NZosgododr-ag0907121630.t163.832">
+<w xml:id="Gos220.tok524" lemma="Marija" ana="mte:Npfsn">marija</w>
+<w xml:id="Gos220.tok525" lemma="biti" ana="mte:Va-r1s-n">sem</w>
+<w xml:id="Gos220.tok526" norm="rekla" lemma="reči" ana="mte:Vmep-sf" join="right">rjeka</w>
+<pc xml:id="Gos220.tok527" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos220.tok528" lemma="lani" ana="mte:Rgp">lani</w>
+<w xml:id="Gos220.tok529" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos220.tok530" norm="bilo" lemma="biti" ana="mte:Va-p-sn">blu</w>
+<w xml:id="Gos220.tok531" lemma="tudi" ana="mte:Q" join="right">tudi</w>
+<pc xml:id="Gos220.tok532" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos220.tok533" norm="ko" lemma="ko" ana="mte:Cs">k</w>
+<w xml:id="Gos220.tok534" lemma="biti" ana="mte:Va-r1p-n">smo</w>
+<w xml:id="Gos220.tok535" norm="rekle" lemma="reči" ana="mte:Vmep-pf">rjekle</w>
+<w xml:id="Gos220.tok536" norm="da" lemma="da" ana="mte:Cs">d</w>
+<w xml:id="Gos220.tok537" norm="bomo" lemma="biti" ana="mte:Va-f1p-n">bmo</w>
+<w xml:id="Gos220.tok538" lemma="drugič" ana="mte:Rgp">drugič</w>
+<w xml:id="Gos220.tok539" norm="prišle" lemma="priti" ana="mte:Vmep-pf">pršle</w>
+<w xml:id="Gos220.tok540" lemma="z" ana="mte:Si">z</w>
+<w xml:id="Gos220.tok541" lemma="bunda" ana="mte:Ncfpi">bundami</w>
+<w xml:id="Gos220.tok542" norm="na" lemma="na" ana="mte:Sa">n</w>
+<w xml:id="Gos220.tok543" norm="morje" lemma="morje" ana="mte:Ncnsa">murje</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u88" who="#Cf-otro-05613" trans="smooth" start="#NZosgododr-ag0907121630.t169.881" end="#NZosgododr-ag0907121630.t169.881">
+<seg xml:id="Gos220.s92" synch="#NZosgododr-ag0907121630.t169.881">
+<w xml:id="Gos220.tok544" norm="glej" lemma="gledati" ana="mte:Vmpm2s">lej</w>
+<w xml:id="Gos220.tok545" norm="jaz" lemma="jaz" ana="mte:Pp1-sn">jz</w>
+<w xml:id="Gos220.tok546" lemma="se" ana="mte:Px------y">se</w>
+<w xml:id="Gos220.tok547" norm="ne" lemma="ne" ana="mte:Q">n</w>
+<w xml:id="Gos220.tok548" norm="spomnim" lemma="spomniti" ana="mte:Vmer1s">spomnm</w>
+<w xml:id="Gos220.tok549" lemma="kdaj" ana="mte:Rgp">kdaj</w>
+<w xml:id="Gos220.tok550" lemma="biti" ana="mte:Va-r1s-n">sem</w>
+<w xml:id="Gos220.tok551" norm="bila" lemma="biti" ana="mte:Va-p-sf">bla</w>
+<w xml:id="Gos220.tok552" lemma="za" ana="mte:Sa">za</w>
+<w xml:id="Gos220.tok553" norm="svoj" lemma="svoj" ana="mte:Px-msa">suj</w>
+<w xml:id="Gos220.tok554" lemma="rojsten" ana="mte:Agpmsay">rojstni</w>
+<w xml:id="Gos220.tok555" lemma="dan" ana="mte:Ncmsan">dan</w>
+<w xml:id="Gos220.tok556" lemma="razgaljen" ana="mte:Appfsn">razgaljena</w>
+<w xml:id="Gos220.tok557" norm="tako" lemma="tako" ana="mte:Rgp">teku</w>
+<w xml:id="Gos220.tok558" norm="kakor" lemma="kakor" ana="mte:Cs">kukr</w>
+<w xml:id="Gos220.tok559" lemma="se" ana="mte:Px------y">se</w>
+<w xml:id="Gos220.tok560" lemma="spodobiti" ana="mte:Vmpr3s">spodobi</w>
+<w xml:id="Gos220.tok561" norm="osmega" lemma="osmi" ana="mte:Mlomsg">uasmega</w>
+<w xml:id="Gos220.tok562" lemma="avgust" ana="mte:Ncmsg">avgusta</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u89" who="#Bm-star-05612" trans="overlap" start="#NZosgododr-ag0907121630.t169.881" end="#NZosgododr-ag0907121630.t176.575">
+<seg xml:id="Gos220.s93" synch="#NZosgododr-ag0907121630.t169.881">
+<w xml:id="Gos220.tok563" lemma="ja" ana="mte:Q">ja</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u90" who="#Af-star-05611" trans="smooth" start="#NZosgododr-ag0907121630.t176.575" end="#NZosgododr-ag0907121630.t176.575">
+<seg xml:id="Gos220.s94" synch="#NZosgododr-ag0907121630.t176.575">
+<w xml:id="Gos220.tok564" lemma="ja" ana="mte:Q">ja</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u91" who="#Cf-otro-05613" trans="overlap" start="#NZosgododr-ag0907121630.t176.575" end="#NZosgododr-ag0907121630.t178.569">
+<seg xml:id="Gos220.s95" synch="#NZosgododr-ag0907121630.t176.575">
+<w xml:id="Gos220.tok565" norm="ne" lemma="ne" ana="mte:Q">n</w>
+<w xml:id="Gos220.tok566" norm="spomnim" lemma="spomniti" ana="mte:Vmer1s">spounm</w>
+<w xml:id="Gos220.tok567" lemma="se" ana="mte:Px------y">se</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u92" who="#Af-star-05611" trans="smooth" start="#NZosgododr-ag0907121630.t178.569" end="#NZosgododr-ag0907121630.t178.569">
+<seg xml:id="Gos220.s96" synch="#NZosgododr-ag0907121630.t178.569">
+<w xml:id="Gos220.tok568" norm="saj" lemma="saj" ana="mte:Cc">se</w>
+<w xml:id="Gos220.tok569" lemma="že" ana="mte:Q">že</w>
+<w xml:id="Gos220.tok570" norm="nekaj" lemma="nekaj" ana="mte:Rgp">nekej</w>
+<w xml:id="Gos220.tok571" lemma="leto" ana="mte:Ncnpg">let</w>
+<w xml:id="Gos220.tok572" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos220.tok573" lemma="avgust" ana="mte:Ncmsn">avgust</w>
+<w xml:id="Gos220.tok574" lemma="moker" ana="mte:Agpmsnn">moker</w>
+<w xml:id="Gos220.tok575" lemma="in" ana="mte:Cc">in</w>
+               <gap reason="unclear"/>
+<pc xml:id="Gos220.tok576" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos220.tok577" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Gos220.tok578" norm="zdaj" lemma="zdaj" ana="mte:Rgp">zej</w>
+<w xml:id="Gos220.tok579" lemma="če" ana="mte:Cs">če</w>
+<w xml:id="Gos220.tok580" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos220.tok581" norm="čakati" lemma="čakati" ana="mte:Vmpn">čakat</w>
+<w xml:id="Gos220.tok582" lemma="ma" ana="mte:Q">ma</w>
+<w xml:id="Gos220.tok583" lemma="po" ana="mte:Sa">po</w>
+<w xml:id="Gos220.tok584" lemma="moj" ana="mte:Ps1nsas">moje</w>
+<w xml:id="Gos220.tok585" norm="kaj" lemma="kaj" ana="mte:Pq-nsn">kej</w>
+<w xml:id="Gos220.tok586" lemma="biti" ana="mte:Va-f3s-n">bo</w>
+<w xml:id="Gos220.tok587" norm="zdaj" lemma="zdaj" ana="mte:Rgp">zdej</w>
+<w xml:id="Gos220.tok588" lemma="spet" ana="mte:Rgp">spet</w>
+<w xml:id="Gos220.tok589" lemma="en" ana="mte:Mlpmpg">enih</w>
+<w xml:id="Gos220.tok590" norm="štirinajst" lemma="štirinajst" ana="mte:Mlc-pa">štrnajst</w>
+<w xml:id="Gos220.tok591" lemma="dan" ana="mte:Ncmpg">dni</w>
+<w xml:id="Gos220.tok592" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Gos220.tok593" norm="pol" lemma="pol" ana="mte:Rgp">puole</w>
+<w xml:id="Gos220.tok594" lemma="biti" ana="mte:Va-f3s-n">bo</w>
+<w xml:id="Gos220.tok595" lemma="spet" ana="mte:Rgp" join="right">spet</w>
+<pc xml:id="Gos220.tok596" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos220.tok597" lemma="ma" ana="mte:Q">ma</w>
+<w xml:id="Gos220.tok598" norm="koliko" lemma="koliko" ana="mte:Rgp">kolko</w>
+<w xml:id="Gos220.tok599" lemma="cajt" ana="mte:Ncmsg">cajta</w>
+<w xml:id="Gos220.tok600" lemma="biti" ana="mte:Va-f3s-n">bo</w>
+<w xml:id="Gos220.tok601" lemma="trajati" ana="mte:Vmpp-sn">trajalo</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u93" who="#Bm-star-05612" trans="overlap" start="#NZosgododr-ag0907121630.t178.569" end="#NZosgododr-ag0907121630.t178.569">
+<seg xml:id="Gos220.s97" synch="#NZosgododr-ag0907121630.t178.569">
+               <gap reason="unclear"/>
+<w xml:id="Gos220.tok602" lemma="Ben" ana="mte:Npmsn">ben</w>
+<w xml:id="Gos220.tok603" lemma="ja" ana="mte:Q">ja</w>
+<w xml:id="Gos220.tok604" lemma="ma" ana="mte:Q">ma</w>
+<w xml:id="Gos220.tok605" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos220.tok606" norm="toplo" lemma="topel" ana="mte:Agpnsn">tuoplo</w>
+<w xml:id="Gos220.tok607" lemma="ja" ana="mte:Q">ja</w>
+<w xml:id="Gos220.tok608" lemma="ma" ana="mte:Q" join="right">ma</w>
+<pc xml:id="Gos220.tok609" lemma="…" ana="mte:Xt">…</pc>
+               <gap reason="unclear"/>
+<pc xml:id="Gos220.tok610" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos220.tok611" norm="ne" lemma="ne" ana="mte:Q">nje</w>
+<w xml:id="Gos220.tok612" norm="zdaj" lemma="zdaj" ana="mte:Rgp">zej</w>
+<w xml:id="Gos220.tok613" norm="pravijo" lemma="praviti" ana="mte:Vmbr3p">pravjo</w>
+<w xml:id="Gos220.tok614" lemma="da" ana="mte:Cs">da</w>
+<w xml:id="Gos220.tok615" lemma="biti" ana="mte:Va-f3p-n" join="right">bojo</w>
+<pc xml:id="Gos220.tok616" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos220.tok617" norm="enaintrideset" lemma="enaintrideset" ana="mte:Mlc-pa">enaintrieset</w>
+<w xml:id="Gos220.tok618" norm="dvaintrideset" lemma="dvaintrideset" ana="mte:Mlc-pa">dvaintrieset</w>
+<w xml:id="Gos220.tok619" lemma="čez" ana="mte:Sa">čez</w>
+<w xml:id="Gos220.tok620" norm="dan" lemma="dan" ana="mte:Ncmsan">dn</w>
+<w xml:id="Gos220.tok621" lemma="ma" ana="mte:Q">ma</w>
+<w xml:id="Gos220.tok622" lemma="tisti" ana="mte:Pd-nsn">tisto</w>
+<w xml:id="Gos220.tok623" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos220.tok624" lemma="verjetno" ana="mte:Rgp">verjetno</w>
+<w xml:id="Gos220.tok625" lemma="za" ana="mte:Sa">za</w>
+<w xml:id="Gos220.tok626" function="filler" lemma="eee" ana="mte:I">eee</w>
+<w xml:id="Gos220.tok627" lemma="gornji" ana="mte:Agpmsny">gornji</w>
+<w xml:id="Gos220.tok628" lemma="del" ana="mte:Ncmsan" join="right">del</w>
+<pc xml:id="Gos220.tok629" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos220.tok630" lemma="ja" ana="mte:Q" join="right">ja</w>
+<pc xml:id="Gos220.tok631" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos220.tok632" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Gos220.tok633" norm="ponoči" lemma="ponoči" ana="mte:Rgp">ponuoči</w>
+<w xml:id="Gos220.tok634" lemma="petnajst" ana="mte:Mlc-pa">petnajst</w>
+<w xml:id="Gos220.tok635" lemma="šestnajst" ana="mte:Mlc-pa">šestnajst</w>
+<w xml:id="Gos220.tok636" lemma="stopinja" ana="mte:Ncfpg">stopinj</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u94" who="#Cf-otro-05613" trans="overlap" start="#NZosgododr-ag0907121630.t178.569" end="#NZosgododr-ag0907121630.t195.966">
+<seg xml:id="Gos220.s98" synch="#NZosgododr-ag0907121630.t178.569">
+<w xml:id="Gos220.tok637" lemma="ne" ana="mte:Q">ne</w>
+<w xml:id="Gos220.tok638" norm="zdaj" lemma="zdaj" ana="mte:Rgp">zdej</w>
+<w xml:id="Gos220.tok639" lemma="biti" ana="mte:Va-f3s-n">bo</w>
+<w xml:id="Gos220.tok640" norm="res" lemma="res" ana="mte:Rgp">rjes</w>
+               <gap reason="unclear"/>
+<w xml:id="Gos220.tok641" lemma="biti" ana="mte:Va-f3s-n" join="right">bo</w>
+<pc xml:id="Gos220.tok642" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos220.tok643" lemma="en" ana="mte:Mlpmsa">en</w>
+<w xml:id="Gos220.tok644" norm="teden" lemma="teden" ana="mte:Ncmsan">tjeden</w>
+<w xml:id="Gos220.tok645" norm="približno" lemma="približno" ana="mte:Rgp">prbližnu</w>
+<w xml:id="Gos220.tok646" norm="sigurno" lemma="sigurno" ana="mte:Rgp">sigurnu</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u95" who="#Bm-star-05612" start="#NZosgododr-ag0907121630.t195.966" end="#NZosgododr-ag0907121630.t198.16">
+<seg xml:id="Gos220.s99" synch="#NZosgododr-ag0907121630.t195.966">
+<w xml:id="Gos220.tok647" lemma="tako" ana="mte:Rgp">tako</w>
+<w xml:id="Gos220.tok648" lemma="za" ana="mte:Sa">za</w>
+<w xml:id="Gos220.tok649" lemma="za" ana="mte:Sa">za</w>
+<w xml:id="Gos220.tok650" norm="jo" lemma="on" ana="mte:Pp3fsa--y">ju</w>
+<w xml:id="Gos220.tok651" norm="fasati" lemma="fasati" ana="mte:Vmbn">fasat</w>
+<w xml:id="Gos220.tok652" lemma="enkraten" ana="mte:Agpnsn">enkratno</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u96" who="#Af-star-05611" start="#NZosgododr-ag0907121630.t198.16" end="#NZosgododr-ag0907121630.t200.569">
+<seg xml:id="Gos220.s100" synch="#NZosgododr-ag0907121630.t198.16">
+               <incident type="sound"/>
+               <name type="personal">
+                  <gap reason="anon">
+                     <desc>[ime]</desc>
+                  </gap>
+               </name>
+<w xml:id="Gos220.tok653" lemma="ti" ana="mte:Pp2-sd--y">ti</w>
+<w xml:id="Gos220.tok654" lemma="zvoniti" ana="mte:Vmpr3s">zvoni</w>
+<w xml:id="Gos220.tok655" lemma="telefon" ana="mte:Ncmsan">telefon</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u97" who="#Df-otro-05614" start="#NZosgododr-ag0907121630.t200.569" end="#NZosgododr-ag0907121630.t201.857">
+<seg xml:id="Gos220.s101" synch="#NZosgododr-ag0907121630.t200.569">
+<w xml:id="Gos220.tok656" lemma="ja" ana="mte:Q">ja</w>
+               <gap reason="unclear"/>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u98" who="#Af-star-05611" start="#NZosgododr-ag0907121630.t201.857" end="#NZosgododr-ag0907121630.t213.161">
+<seg xml:id="Gos220.s102" synch="#NZosgododr-ag0907121630.t201.857">
+<w xml:id="Gos220.tok657" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos220.tok658" function="filler" lemma="eem" ana="mte:I">eem</w>
+<w xml:id="Gos220.tok659" norm="ko" lemma="ko" ana="mte:Cs">k</w>
+<w xml:id="Gos220.tok660" lemma="biti" ana="mte:Va-r1p-n">smo</w>
+<w xml:id="Gos220.tok661" norm="bili" lemma="biti" ana="mte:Va-p-pm">bli</w>
+<w xml:id="Gos220.tok662" lemma="v" ana="mte:Sl">v</w>
+<w xml:id="Gos220.tok663" norm="Mostarju" lemma="Mostar" ana="mte:Npmsl">Mostarji</w>
+<w xml:id="Gos220.tok664" lemma="biti" ana="mte:Va-r3p-n">so</w>
+<w xml:id="Gos220.tok665" norm="pravili" lemma="praviti" ana="mte:Vmbp-pm">pravle</w>
+<w xml:id="Gos220.tok666" norm="da" lemma="da" ana="mte:Cs">d</w>
+<w xml:id="Gos220.tok667" lemma="priti" ana="mte:Vmer3s">pride</w>
+<w xml:id="Gos220.tok668" lemma="po" ana="mte:Sl">po</w>
+<w xml:id="Gos220.tok669" norm="tudi" lemma="tudi" ana="mte:Q">tud</w>
+<w xml:id="Gos220.tok670" lemma="do" ana="mte:Sg">do</w>
+<w xml:id="Gos220.tok671" norm="petdeset" lemma="petdeset" ana="mte:Mlc-pa">pjedeset</w>
+<w xml:id="Gos220.tok672" lemma="stopinja" ana="mte:Ncfpg">stopinj</w>
+<w xml:id="Gos220.tok673" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Gos220.tok674" norm="da" lemma="da" ana="mte:Cs">de</w>
+<w xml:id="Gos220.tok675" lemma="biti" ana="mte:Va-r3p-n">so</w>
+<w xml:id="Gos220.tok676" lemma="celo" ana="mte:Q">celo</w>
+<w xml:id="Gos220.tok677" lemma="na" ana="mte:Sl">na</w>
+<w xml:id="Gos220.tok678" norm="kamnu" lemma="kamen" ana="mte:Ncmsl">kamni</w>
+<w xml:id="Gos220.tok679" lemma="cvreti" ana="mte:Vmpp-pm">cvrli</w>
+<w xml:id="Gos220.tok680" lemma="jajce" ana="mte:Ncnpa">jajca</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u99" who="#Cf-otro-05613" trans="smooth" start="#NZosgododr-ag0907121630.t213.161" end="#NZosgododr-ag0907121630.t213.161">
+<seg xml:id="Gos220.s103" synch="#NZosgododr-ag0907121630.t213.161">
+<w xml:id="Gos220.tok681" lemma="ma" ana="mte:Q">ma</w>
+<w xml:id="Gos220.tok682" lemma="ja" ana="mte:Q" join="right">ja</w>
+<pc xml:id="Gos220.tok683" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos220.tok684" lemma="ma" ana="mte:Q">ma</w>
+<w xml:id="Gos220.tok685" lemma="se" ana="mte:Px------y">se</w>
+<w xml:id="Gos220.tok686" norm="lahko" lemma="lahko" ana="mte:Rgp">lohko</w>
+<w xml:id="Gos220.tok687" lemma="tako" ana="mte:Rgp">tako</w>
+<w xml:id="Gos220.tok688" lemma="segreti" ana="mte:Vmer3s">segreje</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u100" who="#Af-star-05611" trans="overlap" start="#NZosgododr-ag0907121630.t213.161" end="#NZosgododr-ag0907121630.t213.161">
+<seg xml:id="Gos220.s104" synch="#NZosgododr-ag0907121630.t213.161">
+<w xml:id="Gos220.tok689" lemma="ja" ana="mte:Q" join="right">ja</w>
+<pc xml:id="Gos220.tok690" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos220.tok691" lemma="ja" ana="mte:Q">ja</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u101" who="#Bm-star-05612" trans="overlap" start="#NZosgododr-ag0907121630.t213.161" end="#NZosgododr-ag0907121630.t215.689">
+<seg xml:id="Gos220.s105" synch="#NZosgododr-ag0907121630.t213.161">
+<w xml:id="Gos220.tok692" lemma="ma" ana="mte:Q">ma</w>
+<w xml:id="Gos220.tok693" norm="to" lemma="ta" ana="mte:Pd-nsn">tue</w>
+<w xml:id="Gos220.tok694" lemma="že" ana="mte:Q">že</w>
+<w xml:id="Gos220.tok695" norm="lani" lemma="lani" ana="mte:Rgp">lni</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u102" who="#Af-star-05611" trans="smooth" start="#NZosgododr-ag0907121630.t215.689" end="#NZosgododr-ag0907121630.t215.689">
+<seg xml:id="Gos220.s106" synch="#NZosgododr-ag0907121630.t215.689">
+<w xml:id="Gos220.tok696" lemma="lani" ana="mte:Rgp">lani</w>
+<w xml:id="Gos220.tok697" norm="da" lemma="da" ana="mte:Cs">de</w>
+<w xml:id="Gos220.tok698" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos220.tok699" norm="bilo" lemma="biti" ana="mte:Va-p-sn">blo</w>
+<w xml:id="Gos220.tok700" norm="tako" lemma="tako" ana="mte:Rgp" join="right">takue</w>
+<pc xml:id="Gos220.tok701" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos220.tok702" norm="šestinštirideset" lemma="šestinštirideset" ana="mte:Mlc-pn">šjestinštirdeset</w>
+<w xml:id="Gos220.tok703" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos220.tok704" norm="bilo" lemma="biti" ana="mte:Va-p-sn" join="right">blo</w>
+<pc xml:id="Gos220.tok705" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos220.tok706" lemma="ja" ana="mte:Q">ja</w>
+<w xml:id="Gos220.tok707" norm="nekaj" lemma="nekaj" ana="mte:Pi-nsn">njekej</w>
+<w xml:id="Gos220.tok708" norm="takega" lemma="tak" ana="mte:Pd-nsg">takga</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u103" who="#Bm-star-05612" trans="overlap" start="#NZosgododr-ag0907121630.t215.689" end="#NZosgododr-ag0907121630.t223.487">
+<seg xml:id="Gos220.s107" synch="#NZosgododr-ag0907121630.t215.689">
+<w xml:id="Gos220.tok709" norm="saj" lemma="saj" ana="mte:Cc">sej</w>
+<w xml:id="Gos220.tok710" norm="ko" lemma="ko" ana="mte:Cs">k</w>
+<w xml:id="Gos220.tok711" lemma="biti" ana="mte:Va-r1p-n">smo</w>
+<w xml:id="Gos220.tok712" norm="prišli" lemma="priti" ana="mte:Vmep-pm">pršli</w>
+<w xml:id="Gos220.tok713" lemma="jaz" ana="mte:Pp1mpn">mi</w>
+<w xml:id="Gos220.tok714" lemma="na" ana="mte:Sa">na</w>
+<w xml:id="Gos220.tok715" lemma="morje" ana="mte:Ncnsa">morje</w>
+<w xml:id="Gos220.tok716" lemma="lani" ana="mte:Rgp">lani</w>
+<w xml:id="Gos220.tok717" lemma="vedeti" ana="mte:Vmpr2s">veš</w>
+<w xml:id="Gos220.tok718" norm="koliko" lemma="koliko" ana="mte:Rgp">kolko</w>
+<w xml:id="Gos220.tok719" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos220.tok720" norm="kazal" lemma="kazati" ana="mte:Vmpp-sm">kazu</w>
+               <del type="falseStart" subtype="missingEnd">
+<w xml:id="Gos220.tok721" lemma="termo…" ana="mte:Xt">termo…</w>
+               </del>
+<pc xml:id="Gos220.tok722" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos220.tok723" norm="pet" lemma="pet" ana="mte:Mlc-pa" join="right">pjet</w>
+<pc xml:id="Gos220.tok724" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos220.tok725" lemma="čez" ana="mte:Sa">čez</w>
+<w xml:id="Gos220.tok726" norm="pet" lemma="pet" ana="mte:Mlc-pa">pjet</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u104" who="#Af-star-05611" trans="smooth" start="#NZosgododr-ag0907121630.t223.487" end="#NZosgododr-ag0907121630.t223.487">
+<seg xml:id="Gos220.s108" synch="#NZosgododr-ag0907121630.t223.487">
+<w xml:id="Gos220.tok727" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Gos220.tok728" norm="ko" lemma="ko" ana="mte:Cs">k</w>
+<w xml:id="Gos220.tok729" lemma="biti" ana="mte:Va-r1p-n">smo</w>
+<w xml:id="Gos220.tok730" lemma="iti" ana="mte:Vmbp-pm">šli</w>
+<w xml:id="Gos220.tok731" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos220.tok732" norm="bilo" lemma="biti" ana="mte:Va-p-sn">blu</w>
+<w xml:id="Gos220.tok733" lemma="šestnajst" ana="mte:Mlc-pn">šestnajst</w>
+<w xml:id="Gos220.tok734" norm="ali" lemma="ali" ana="mte:Cc">al</w>
+<w xml:id="Gos220.tok735" norm="koliko" lemma="koliko" ana="mte:Rgp">kolk</w>
+<w xml:id="Gos220.tok736" lemma="že" ana="mte:Q" join="right">že</w>
+<pc xml:id="Gos220.tok737" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos220.tok738" lemma="vedeti" ana="mte:Vmpr2s" join="right">veš</w>
+<pc xml:id="Gos220.tok739" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos220.tok740" norm="trideset" lemma="trideset" ana="mte:Mlc-pa">trieset</w>
+<w xml:id="Gos220.tok741" lemma="stopinja" ana="mte:Ncfpg">stopinj</w>
+<w xml:id="Gos220.tok742" lemma="razlika" ana="mte:Ncfsg">razlike</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u105" who="#Cf-otro-05613" trans="overlap" start="#NZosgododr-ag0907121630.t223.487" end="#NZosgododr-ag0907121630.t223.487">
+<seg xml:id="Gos220.s109" synch="#NZosgododr-ag0907121630.t223.487">
+<w xml:id="Gos220.tok743" lemma="lani" ana="mte:Rgp">lani</w>
+<w xml:id="Gos220.tok744" lemma="se" ana="mte:Px------y">se</w>
+<w xml:id="Gos220.tok745" norm="spomnim" lemma="spomniti" ana="mte:Vmer1s">spomnm</w>
+<w xml:id="Gos220.tok746" function="filler" lemma="eee" ana="mte:I">eee</w>
+<w xml:id="Gos220.tok747" norm="za" lemma="za" ana="mte:Sa">z</w>
+<w xml:id="Gos220.tok748" lemma="moj" ana="mte:Ps1msas">moj</w>
+<w xml:id="Gos220.tok749" norm="rojstni" lemma="rojsten" ana="mte:Agpmsay">rojsn</w>
+<w xml:id="Gos220.tok750" lemma="dan" ana="mte:Ncmsan">dan</w>
+<w xml:id="Gos220.tok751" norm="čakaj" lemma="čakati" ana="mte:Vmpm2s">čaki</w>
+<w xml:id="Gos220.tok752" lemma="za" ana="mte:Sa">za</w>
+<w xml:id="Gos220.tok753" lemma="moj" ana="mte:Ps1msas">moj</w>
+<w xml:id="Gos220.tok754" norm="rojstni" lemma="rojsten" ana="mte:Agpmsay">rojstn</w>
+<w xml:id="Gos220.tok755" lemma="dan" ana="mte:Ncmsan" join="right">dan</w>
+<pc xml:id="Gos220.tok756" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos220.tok757" norm="za" lemma="za" ana="mte:Sa">z</w>
+<w xml:id="Gos220.tok758" lemma="moj" ana="mte:Ps1msas">moj</w>
+<w xml:id="Gos220.tok759" lemma="rojsten" ana="mte:Agpmsay">rojstni</w>
+<w xml:id="Gos220.tok760" lemma="dan" ana="mte:Ncmsan">dan</w>
+<w xml:id="Gos220.tok761" lemma="lani" ana="mte:Rgp">lani</w>
+<w xml:id="Gos220.tok762" lemma="se" ana="mte:Px------y">se</w>
+<w xml:id="Gos220.tok763" lemma="spomniti" ana="mte:Vmer1s">spomnim</w>
+<w xml:id="Gos220.tok764" lemma="kaj" ana="mte:Pq-nsa">kaj</w>
+<w xml:id="Gos220.tok765" norm="iz" lemma="iz" ana="mte:Sg">z</w>
+<w xml:id="Gos220.tok766" norm="Ljubljane" lemma="Ljubljana" ana="mte:Npfsg">Lublane</w>
+<w xml:id="Gos220.tok767" lemma="biti" ana="mte:Va-r1s-n">sem</w>
+<w xml:id="Gos220.tok768" norm="prišla" lemma="priti" ana="mte:Vmep-sf">pršla</w>
+<w xml:id="Gos220.tok769" norm="kako" lemma="kako" ana="mte:Rgp">keko</w>
+<w xml:id="Gos220.tok770" lemma="biti" ana="mte:Va-r1s-n">sem</w>
+<w xml:id="Gos220.tok771" norm="prišla" lemma="priti" ana="mte:Vmep-sf">pršla</w>
+<w xml:id="Gos220.tok772" norm="iz" lemma="iz" ana="mte:Sg">z</w>
+               <del type="falseStart" subtype="missingEnd">
+<w xml:id="Gos220.tok773" lemma="lub…" ana="mte:Xt">Lub…</w>
+               </del>
+<w xml:id="Gos220.tok774" lemma="ja" ana="mte:Q">ja</w>
+<w xml:id="Gos220.tok775" lemma="biti" ana="mte:Va-r1s-n">sem</w>
+<w xml:id="Gos220.tok776" norm="prišla" lemma="priti" ana="mte:Vmep-sf">pršla</w>
+<w xml:id="Gos220.tok777" norm="iz" lemma="iz" ana="mte:Sg">z</w>
+<w xml:id="Gos220.tok778" norm="Ljubljane" lemma="Ljubljana" ana="mte:Npfsg">Lublane</w>
+<w xml:id="Gos220.tok779" lemma="se" ana="mte:Px------y">se</w>
+<w xml:id="Gos220.tok780" lemma="jaz" ana="mte:Pp1-sd--y">mi</w>
+<w xml:id="Gos220.tok781" lemma="zdeti" ana="mte:Vmpr3s">zdi</w>
+<w xml:id="Gos220.tok782" lemma="celo" ana="mte:Q">celo</w>
+<w xml:id="Gos220.tok783" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Gos220.tok784" lemma="biti" ana="mte:Va-r1s-n">sem</w>
+<w xml:id="Gos220.tok785" norm="bila" lemma="biti" ana="mte:Va-p-sf">bla</w>
+<w xml:id="Gos220.tok786" lemma="v" ana="mte:Sl">v</w>
+<w xml:id="Gos220.tok787" lemma="trenirka" ana="mte:Ncfsl">trenirki</w>
+<w xml:id="Gos220.tok788" norm="tule" lemma="tule" ana="mte:Rgp">tle</w>
+<w xml:id="Gos220.tok789" norm="ko" lemma="ko" ana="mte:Cs">k</w>
+<w xml:id="Gos220.tok790" lemma="biti" ana="mte:Va-r1s-n">sem</w>
+<w xml:id="Gos220.tok791" norm="gledala" lemma="gledati" ana="mte:Vmpp-sf">gledla</w>
+               <del type="falseStart" subtype="missingEnd">
+<w xml:id="Gos220.tok792" lemma="k…" ana="mte:Xt">k…</w>
+               </del>
+<w xml:id="Gos220.tok793" norm="ali" lemma="ali" ana="mte:Cc">al</w>
+<w xml:id="Gos220.tok794" lemma="se" ana="mte:Px------y">se</w>
+<w xml:id="Gos220.tok795" lemma="misliti" ana="mte:Vmpr3s">misli</w>
+<w xml:id="Gos220.tok796" lemma="še" ana="mte:Q">še</w>
+<w xml:id="Gos220.tok797" norm="kaj" lemma="kaj" ana="mte:Pq-nsa">kej</w>
+<w xml:id="Gos220.tok798" norm="uscati" lemma="uscati" ana="mte:Vmen">uscat</w>
+<w xml:id="Gos220.tok799" norm="ali" lemma="ali" ana="mte:Cc">al</w>
+<w xml:id="Gos220.tok800" lemma="kaj" ana="mte:Pq-nsn">kaj</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u106" who="#Bm-star-05612" trans="overlap" start="#NZosgododr-ag0907121630.t223.487" end="#NZosgododr-ag0907121630.t240.318">
+<seg xml:id="Gos220.s110" synch="#NZosgododr-ag0907121630.t223.487">
+<w xml:id="Gos220.tok801" lemma="ja" ana="mte:Q">ja</w>
+               <gap reason="unclear"/>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u107" who="#Cf-otro-05613" start="#NZosgododr-ag0907121630.t240.318" end="#NZosgododr-ag0907121630.t243.323">
+<seg xml:id="Gos220.s111" synch="#NZosgododr-ag0907121630.t240.318">
+<w xml:id="Gos220.tok802" lemma="misliti" ana="mte:Vmpr1s">mislim</w>
+<w xml:id="Gos220.tok803" lemma="biti" ana="mte:Va-r1s-n">sem</w>
+<w xml:id="Gos220.tok804" norm="bila" lemma="biti" ana="mte:Va-p-sf">bla</w>
+<w xml:id="Gos220.tok805" lemma="v" ana="mte:Sl">v</w>
+<w xml:id="Gos220.tok806" lemma="dolg" ana="mte:Agpfsl">dolgi</w>
+<w xml:id="Gos220.tok807" lemma="trenirka" ana="mte:Ncfsl">trenirki</w>
+            </seg>
+         </u>
+         <u xml:id="Gos220.u108" who="#Bm-star-05612" start="#NZosgododr-ag0907121630.t243.323" end="#NZosgododr-ag0907121630.t247.115">
+<seg xml:id="Gos220.s112" synch="#NZosgododr-ag0907121630.t243.323">
+<w xml:id="Gos220.tok808" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos220.tok809" lemma="čuden" ana="mte:Agpnsn">čudno</w>
+<w xml:id="Gos220.tok810" lemma="ves" ana="mte:Pg-nsn">vse</w>
+            </seg>
+<seg xml:id="Gos220.s113" synch="#NZosgododr-ag0907121630.t245.565">
+               <vocal type="voice"/>
+            </seg>
+         </u>
+         </body>
+   </text>
+</TEI>

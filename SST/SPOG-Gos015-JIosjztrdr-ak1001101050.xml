@@ -1,0 +1,904 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Gos015" xml:lang="sl" source="#gos.P.G">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Učna ura slovenščine, 7. razred. Književnost, ljudsko slovstvo: dela so analizirali, iskali v njih razna slogovna sredstva, arhaične izraze ... [Gos1.1]</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>2.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="808" xml:lang="sl">808 govorov</measure>
+            <measure unit="speeches" quantity="808" xml:lang="en">808 speeches</measure>
+            <measure unit="words" quantity="4003" xml:lang="sl">4003 besed</measure>
+            <measure unit="words" quantity="4003" xml:lang="en">4003 words</measure>
+         </extent>
+         <publicationStmt>
+            <distributor>
+               <ref target="https://www.clarin.si/">CLARIN.SI</ref>
+            </distributor>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/XXXX</idno>
+            <date when="2023-06-09">2023-06-09</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <publisher>lastni posnetek</publisher>
+               <title>Učna ura slovenščine, 7. razred. Književnost, ljudsko slovstvo: dela so analizirali, iskali v njih razna slogovna sredstva, arhaične izraze ...</title>
+               <date when="2010-01">2010-01</date>
+            </bibl>
+            <recordingStmt>
+               <recording>
+                  <media xml:id="SPOG-Gos015-JIosjztrdr-ak1001101050-avd.wav" mimeType="audio/wav" url="./SPOG-Gos015-JIosjztrdr-ak1001101050-avd.wav"/>
+                  <date when="2010-01-10">2010-01-10</date>
+               </recording>
+            </recordingStmt>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <catRef target="#gos.T.J.I"/>
+            <catRef target="#gos.K.O"/>
+         </textClass>
+         <textDesc>
+            <channel/>
+            <constitution/>
+            <derivation/>
+            <domain>3. triletje, družboslovje</domain>
+            <factuality/>
+            <interaction/>
+            <preparedness/>
+            <purpose/>
+         </textDesc>
+         <particDesc>
+            <listPerson n="20">
+               <person sameAs="#Af-prof-02245"/>
+               <person sameAs="#Bf-ucen-02246"/>
+               <person sameAs="#Nm-ucen-02258"/>
+               <person sameAs="#Gf-ucen-02251"/>
+               <person sameAs="#Rm-ucen-02260"/>
+               <person sameAs="#Sm-ucen-02261"/>
+               <person sameAs="#Om-ucen-02259"/>
+               <person sameAs="#Df-ucen-02248"/>
+               <person sameAs="#Im-ucen-02253"/>
+               <person sameAs="#Ef-ucen-02249"/>
+               <person sameAs="#Ff-ucen-02250"/>
+               <person sameAs="#Tm-ucen-02262"/>
+               <person sameAs="#Lm-ucen-02256"/>
+               <person sameAs="#Km-ucen-02255"/>
+               <person sameAs="#Cf-ucen-02247"/>
+               <person sameAs="#Jm-ucen-02254"/>
+               <person sameAs="#Hm-ucen-02252"/>
+               <person sameAs="#Pn-vsiucenci-10000"/>
+               <person sameAs="#Mm-ucen-02257"/>
+               <person sameAs="#audience"/>
+            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <place>
+               <settlement>Gorje</settlement>
+            </place>
+         </settingDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <timeline unit="seg" xml:id="JIosjztrdr-ak1001101050" origin="#JIosjztrdr-ak1001101050.t0" corresp="#JIosjztrdr-ak1001101050.wav">
+            <when xml:id="JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2.432" interval="2.432" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t3.418" interval="3.418" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t9.218" interval="9.218" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t11.125" interval="11.125" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t12.509" interval="12.509" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t21.147" interval="21.147" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t27.098" interval="27.098" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t33.142" interval="33.142" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t35.299" interval="35.299" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t38.757" interval="38.757" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t43.031" interval="43.031" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t49.822" interval="49.822" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t53.743" interval="53.743" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t54.220" interval="54.220" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t58.009" interval="58.009" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t61.306" interval="61.306" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t65.866" interval="65.866" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t68.518" interval="68.518" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t69.19" interval="69.19" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t87.333" interval="87.333" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t90.939" interval="90.939" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t99.845" interval="99.845" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t104.071" interval="104.071" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t107.2" interval="107.2" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t109.778" interval="109.778" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t113.278" interval="113.278" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t114.435" interval="114.435" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t115.673" interval="115.673" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t117.61" interval="117.61" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t129.947" interval="129.947" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t138.489" interval="138.489" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t139.593" interval="139.593" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t147.171" interval="147.171" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t148.062" interval="148.062" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t149.232" interval="149.232" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t150.17" interval="150.17" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t154.618" interval="154.618" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t158.795" interval="158.795" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t162.9" interval="162.9" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t165.493" interval="165.493" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t167.826" interval="167.826" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t170.018" interval="170.018" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t176.176" interval="176.176" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t176.785" interval="176.785" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t177.729" interval="177.729" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t180.452" interval="180.452" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t183.515" interval="183.515" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t184.686" interval="184.686" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t187.53" interval="187.53" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t192.733" interval="192.733" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t196.92" interval="196.92" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t199.809969793" interval="199.809969793" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t201.591" interval="201.591" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t211.155" interval="211.155" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t211.64" interval="211.64" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t212.89" interval="212.89" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t213.987" interval="213.987" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t216.502" interval="216.502" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t220.217" interval="220.217" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t233.736" interval="233.736" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t240.871" interval="240.871" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t246.938" interval="246.938" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t250.09" interval="250.09" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t251.012" interval="251.012" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t255.747" interval="255.747" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t264.388" interval="264.388" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t266.747" interval="266.747" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t267.872" interval="267.872" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t269.345" interval="269.345" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t275.36" interval="275.36" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t279.891" interval="279.891" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t285.942" interval="285.942" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t291.862" interval="291.862" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t294.079806041" interval="294.079806041" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t299.098" interval="299.098" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t303.331" interval="303.331" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t304.144" interval="304.144" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t309.808" interval="309.808" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t312.627" interval="312.627" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t318.94" interval="318.94" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t320.672" interval="320.672" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t324.525" interval="324.525" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t329.39" interval="329.39" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t331.031" interval="331.031" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t333.984" interval="333.984" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t335.736" interval="335.736" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t337.422" interval="337.422" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t340.694" interval="340.694" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t341.506" interval="341.506" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t344.109" interval="344.109" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t346.75" interval="346.75" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t350.613" interval="350.613" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t351.379" interval="351.379" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t357.297" interval="357.297" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t359.047" interval="359.047" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t362.938" interval="362.938" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t363.563" interval="363.563" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t365.219" interval="365.219" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t371.0" interval="371.0" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t378.168" interval="378.168" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t388.209" interval="388.209" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t397.891" interval="397.891" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t404.112" interval="404.112" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t404.917" interval="404.917" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t411.272" interval="411.272" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t417.553" interval="417.553" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t420.6" interval="420.6" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t425.897" interval="425.897" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t430.890" interval="430.890" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t432.479" interval="432.479" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t435.956" interval="435.956" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t440.375" interval="440.375" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t443.361" interval="443.361" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t448.898" interval="448.898" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t459.469" interval="459.469" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t461.034" interval="461.034" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t467.257" interval="467.257" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t471.675" interval="471.675" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t472.723325644" interval="472.723325644" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t474.23" interval="474.23" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t480.941" interval="480.941" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t487.478" interval="487.478" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t488.9" interval="488.9" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t489.774" interval="489.774" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t496.003" interval="496.003" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t498.128" interval="498.128" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t502.91" interval="502.91" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t511.176" interval="511.176" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t515.480" interval="515.480" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t517.73" interval="517.73" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t525.662" interval="525.662" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t532.412" interval="532.412" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t536.991" interval="536.991" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t538.334" interval="538.334" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t540.771" interval="540.771" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t543.724" interval="543.724" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t548.396" interval="548.396" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t550.958" interval="550.958" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t560.519" interval="560.519" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t565.485" interval="565.485" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t567.403" interval="567.403" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t568.488" interval="568.488" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t571.804" interval="571.804" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t576.005" interval="576.005" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t583.036" interval="583.036" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t584.067" interval="584.067" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t589.146" interval="589.146" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t591.334" interval="591.334" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t595.334" interval="595.334" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t598.303" interval="598.303" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t600.043" interval="600.043" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t606.291" interval="606.291" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t607.560871224" interval="607.560871224" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t611.572" interval="611.572" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t617.838" interval="617.838" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t624.807" interval="624.807" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t625.307" interval="625.307" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t628.917" interval="628.917" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t630.087" interval="630.087" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t630.792" interval="630.792" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t632.587" interval="632.587" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t634.965" interval="634.965" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t636.2" interval="636.2" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t636.92" interval="636.92" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t638.308" interval="638.308" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t639.675" interval="639.675" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t641.315" interval="641.315" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t643.299" interval="643.299" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t645.659" interval="645.659" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t649.096" interval="649.096" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t652.33" interval="652.33" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t653.549" interval="653.549" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t658.19" interval="658.19" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t665.409" interval="665.409" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t675.549" interval="675.549" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t678.658" interval="678.658" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t685.111" interval="685.111" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t689.581" interval="689.581" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t691.994" interval="691.994" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t694.151" interval="694.151" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t698.695" interval="698.695" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t706.788" interval="706.788" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t713.101" interval="713.101" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t721.689" interval="721.689" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t725.486" interval="725.486" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t733.642" interval="733.642" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t740.552" interval="740.552" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t747.376" interval="747.376" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t752.434" interval="752.434" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t757.184" interval="757.184" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t758.776" interval="758.776" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t759.501" interval="759.501" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t761.637" interval="761.637" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t763.262" interval="763.262" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t765.325" interval="765.325" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t769.5" interval="769.5" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t772.434" interval="772.434" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t775.372" interval="775.372" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t782.359" interval="782.359" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t783.859" interval="783.859" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t786.781" interval="786.781" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t787.347" interval="787.347" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t789.293" interval="789.293" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t791.905" interval="791.905" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t799.233" interval="799.233" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t806.194" interval="806.194" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t816.334" interval="816.334" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t824.861" interval="824.861" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t828.423" interval="828.423" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t834.939" interval="834.939" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t840.814" interval="840.814" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t841.439" interval="841.439" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t842.189" interval="842.189" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t845.83" interval="845.83" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t852.033" interval="852.033" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t865.955" interval="865.955" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t866.658" interval="866.658" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t867.377" interval="867.377" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t871.629" interval="871.629" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t872.41" interval="872.41" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t873.504" interval="873.504" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t873.895" interval="873.895" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t876.27" interval="876.27" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t885.459" interval="885.459" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t888.444" interval="888.444" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t898.465" interval="898.465" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t911.122" interval="911.122" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t912.057" interval="912.057" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t915.291" interval="915.291" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t919.135" interval="919.135" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t925.151" interval="925.151" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t930.39" interval="930.39" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t935.468" interval="935.468" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t943.593" interval="943.593" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t948.398" interval="948.398" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t950.711" interval="950.711" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t952.648" interval="952.648" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t953.414" interval="953.414" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t963.492" interval="963.492" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t965.304" interval="965.304" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t973.257" interval="973.257" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t977.089" interval="977.089" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t978.835" interval="978.835" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t980.605" interval="980.605" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t981.933" interval="981.933" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t984.754" interval="984.754" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t992.642" interval="992.642" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1006.291" interval="1006.291" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1008.891" interval="1008.891" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1015.425" interval="1015.425" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1019.789" interval="1019.789" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1024.706" interval="1024.706" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1028.367" interval="1028.367" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1030.048" interval="1030.048" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1034.486" interval="1034.486" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1038.085" interval="1038.085" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1039.682" interval="1039.682" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1040.684" interval="1040.684" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1042.377" interval="1042.377" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1052.999" interval="1052.999" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1063.091" interval="1063.091" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1074.451" interval="1074.451" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1078.404" interval="1078.404" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1079.297" interval="1079.297" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1080.709" interval="1080.709" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1084.084" interval="1084.084" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1086.584" interval="1086.584" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1092.397" interval="1092.397" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1099.131" interval="1099.131" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1103.771" interval="1103.771" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1106.146" interval="1106.146" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1111.687" interval="1111.687" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1120.115" interval="1120.115" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1127.815" interval="1127.815" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1138.861" interval="1138.861" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1144.342" interval="1144.342" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1146.173" interval="1146.173" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1147.394" interval="1147.394" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1148.191" interval="1148.191" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1152.222" interval="1152.222" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1159.672" interval="1159.672" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1162.894" interval="1162.894" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1164.38" interval="1164.38" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1170.13" interval="1170.13" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1171.271" interval="1171.271" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1176.146" interval="1176.146" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1183.052" interval="1183.052" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1189.505" interval="1189.505" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1195.683" interval="1195.683" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1202.283" interval="1202.283" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1208.408" interval="1208.408" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1214.331" interval="1214.331" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1223.639" interval="1223.639" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1225.673" interval="1225.673" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1229.463" interval="1229.463" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1231.634" interval="1231.634" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1233.837" interval="1233.837" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1234.493" interval="1234.493" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1235.525" interval="1235.525" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1238.447" interval="1238.447" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1245.118" interval="1245.118" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1247.735" interval="1247.735" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1251.819" interval="1251.819" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1253.837" interval="1253.837" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1255.386" interval="1255.386" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1256.36" interval="1256.36" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1264.032" interval="1264.032" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1270.954" interval="1270.954" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1274.376" interval="1274.376" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1281.050" interval="1281.050" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1286.279" interval="1286.279" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1293.581" interval="1293.581" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1295.888" interval="1295.888" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1299.013" interval="1299.013" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1302.232" interval="1302.232" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1303.576" interval="1303.576" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1304.763" interval="1304.763" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1305.966" interval="1305.966" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1308.185" interval="1308.185" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1312.419" interval="1312.419" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1315.472" interval="1315.472" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1322.128" interval="1322.128" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1326.574" interval="1326.574" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1330.418" interval="1330.418" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1331.452" interval="1331.452" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1345.321" interval="1345.321" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1348.583" interval="1348.583" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1640.556" interval="1640.556" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1643.823" interval="1643.823" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1660.532" interval="1660.532" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1662.335" interval="1662.335" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1665.557" interval="1665.557" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1668.832" interval="1668.832" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1672.168" interval="1672.168" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1674.033" interval="1674.033" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1674.884" interval="1674.884" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1675.915" interval="1675.915" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1678.662" interval="1678.662" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1679.256" interval="1679.256" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1680.623" interval="1680.623" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1685.946" interval="1685.946" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1690.337" interval="1690.337" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1697.245" interval="1697.245" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1699.64" interval="1699.64" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1709.231" interval="1709.231" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1712.918" interval="1712.918" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1718.174" interval="1718.174" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1723.393" interval="1723.393" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1732.673" interval="1732.673" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1738.915" interval="1738.915" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1740.072" interval="1740.072" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1744.819" interval="1744.819" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1748.224" interval="1748.224" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1750.474" interval="1750.474" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1752.097" interval="1752.097" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1757.815" interval="1757.815" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1758.987" interval="1758.987" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1759.986" interval="1759.986" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1760.798" interval="1760.798" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1762.236" interval="1762.236" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1776.847" interval="1776.847" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1782.988" interval="1782.988" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1787.073" interval="1787.073" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1788.604" interval="1788.604" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1790.035" interval="1790.035" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1791.503" interval="1791.503" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1793.05" interval="1793.05" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1793.581" interval="1793.581" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1795.409" interval="1795.409" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1796.205" interval="1796.205" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1798.172" interval="1798.172" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1799.216" interval="1799.216" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1802.75" interval="1802.75" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1803.734" interval="1803.734" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1805.160" interval="1805.160" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1812.613" interval="1812.613" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1819.995" interval="1819.995" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1821.076" interval="1821.076" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1828.048" interval="1828.048" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1832.450" interval="1832.450" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1836.872" interval="1836.872" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1847.463" interval="1847.463" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1848.181" interval="1848.181" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1856.279" interval="1856.279" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1861.058" interval="1861.058" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1867.29" interval="1867.29" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1877.019" interval="1877.019" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1877.879" interval="1877.879" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1880.605" interval="1880.605" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1883.352" interval="1883.352" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1885.546" interval="1885.546" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1888.155" interval="1888.155" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1895.204" interval="1895.204" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1896.61" interval="1896.61" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1902.549" interval="1902.549" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1904.142" interval="1904.142" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1906.205" interval="1906.205" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1908.452" interval="1908.452" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1915.526" interval="1915.526" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1928.66" interval="1928.66" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1931.980" interval="1931.980" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1936.024" interval="1936.024" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1938.321" interval="1938.321" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1945.727" interval="1945.727" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1947.352" interval="1947.352" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1950.743" interval="1950.743" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1958.633" interval="1958.633" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1966.524" interval="1966.524" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1967.274" interval="1967.274" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1972.319" interval="1972.319" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1977.49" interval="1977.49" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1978.35" interval="1978.35" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1979.489" interval="1979.489" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1984.502" interval="1984.502" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1988.370" interval="1988.370" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1989.908" interval="1989.908" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1991.51" interval="1991.51" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1994.916" interval="1994.916" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1996.685" interval="1996.685" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1997.669" interval="1997.669" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t1999.118" interval="1999.118" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2011.977" interval="2011.977" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2012.688" interval="2012.688" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2013.259" interval="2013.259" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2016.524" interval="2016.524" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2018.353" interval="2018.353" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2025.372" interval="2025.372" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2026.98564547" interval="2026.98564547" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2029.399" interval="2029.399" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2030.336" interval="2030.336" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2033.132" interval="2033.132" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2039.057" interval="2039.057" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2039.653" interval="2039.653" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2044.012" interval="2044.012" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2046.45" interval="2046.45" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2049.255" interval="2049.255" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2057.725" interval="2057.725" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2060.230" interval="2060.230" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2063.248" interval="2063.248" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2065.061" interval="2065.061" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2068.905" interval="2068.905" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2071.092" interval="2071.092" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2071.499" interval="2071.499" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2074.81" interval="2074.81" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2075.35" interval="2075.35" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2076.131" interval="2076.131" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2078.576" interval="2078.576" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2080.857" interval="2080.857" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2082.326" interval="2082.326" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2083.217" interval="2083.217" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2084.826" interval="2084.826" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2085.717" interval="2085.717" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2086.17" interval="2086.17" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2087.826" interval="2087.826" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2093.451" interval="2093.451" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2094.607" interval="2094.607" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2096.076" interval="2096.076" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2098.326" interval="2098.326" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2099.233" interval="2099.233" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2100.288" interval="2100.288" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2104.257" interval="2104.257" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2115.637" interval="2115.637" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2116.907" interval="2116.907" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2118.486" interval="2118.486" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2121.935" interval="2121.935" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2124.701" interval="2124.701" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2129.473" interval="2129.473" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2131.052" interval="2131.052" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2132.474" interval="2132.474" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2136.007" interval="2136.007" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2138.585" interval="2138.585" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2139.382" interval="2139.382" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2143.272" interval="2143.272" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2145.505" interval="2145.505" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2148.359" interval="2148.359" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2149.168" interval="2149.168" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2150.131" interval="2150.131" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2157.570" interval="2157.570" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2160.226" interval="2160.226" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2161.46" interval="2161.46" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2162.632" interval="2162.632" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2166.07" interval="2166.07" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2169.086" interval="2169.086" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2169.961" interval="2169.961" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2173.346" interval="2173.346" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2179.555" interval="2179.555" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2180.508" interval="2180.508" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2181.523" interval="2181.523" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2184.695" interval="2184.695" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2186.988" interval="2186.988" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2190.318" interval="2190.318" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2191.515" interval="2191.515" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2192.078" interval="2192.078" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2193.331" interval="2193.331" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2196.452" interval="2196.452" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2199.343" interval="2199.343" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2200.593" interval="2200.593" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2202.39" interval="2202.39" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2204.359" interval="2204.359" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2208.749" interval="2208.749" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2209.300" interval="2209.300" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2211.587" interval="2211.587" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2213.302" interval="2213.302" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2213.671" interval="2213.671" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2215.595" interval="2215.595" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2218.314" interval="2218.314" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2221.39" interval="2221.39" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2223.803" interval="2223.803" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2227.537" interval="2227.537" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2236.371" interval="2236.371" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2240.886" interval="2240.886" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2244.361" interval="2244.361" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2252.276" interval="2252.276" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2254.62" interval="2254.62" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2258.105" interval="2258.105" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2259.446" interval="2259.446" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2267.561" interval="2267.561" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2269.158" interval="2269.158" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2271.656" interval="2271.656" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2272.311" interval="2272.311" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2274.047" interval="2274.047" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2277.312" interval="2277.312" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2280.64" interval="2280.64" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2285.609" interval="2285.609" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2288.998" interval="2288.998" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2295.42" interval="2295.42" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2298.92" interval="2298.92" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2300.014" interval="2300.014" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2301.596" interval="2301.596" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2308.629" interval="2308.629" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2311.846" interval="2311.846" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2314.384" interval="2314.384" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2315.922" interval="2315.922" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2317.315" interval="2317.315" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2321.414" interval="2321.414" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2325.116" interval="2325.116" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2327.591" interval="2327.591" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2329.29324428" interval="2329.29324428" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2331.539" interval="2331.539" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2334.465" interval="2334.465" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2335.512" interval="2335.512" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2339.332" interval="2339.332" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2340.598" interval="2340.598" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2342.695" interval="2342.695" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2343.242" interval="2343.242" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2343.946" interval="2343.946" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2345.919" interval="2345.919" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2347.636" interval="2347.636" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2348.902" interval="2348.902" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2352.74" interval="2352.74" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2354.256" interval="2354.256" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2355.273" interval="2355.273" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2355.992" interval="2355.992" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2358.46" interval="2358.46" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2360.21" interval="2360.21" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2362.272" interval="2362.272" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2364.725" interval="2364.725" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2366.444" interval="2366.444" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2372.71" interval="2372.71" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2374.638" interval="2374.638" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2376.049" interval="2376.049" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2376.898" interval="2376.898" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2377.757" interval="2377.757" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2378.62" interval="2378.62" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2379.042" interval="2379.042" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2380.526" interval="2380.526" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2381.214" interval="2381.214" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2385.058" interval="2385.058" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2386.885" interval="2386.885" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2390.557" interval="2390.557" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2396.853" interval="2396.853" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2402.009" interval="2402.009" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2410.681" interval="2410.681" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2414.713" interval="2414.713" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2416.047" interval="2416.047" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2421.887" interval="2421.887" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2423.41" interval="2423.41" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2427.629" interval="2427.629" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2435.864" interval="2435.864" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2436.567" interval="2436.567" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2437.616" interval="2437.616" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2439.197" interval="2439.197" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2440.854" interval="2440.854" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2448.480" interval="2448.480" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2450.411" interval="2450.411" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2452.865" interval="2452.865" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2454.168" interval="2454.168" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2455.956" interval="2455.956" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2460.722" interval="2460.722" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2462.549" interval="2462.549" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2463.189" interval="2463.189" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2465.252" interval="2465.252" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2469.988" interval="2469.988" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2473.113" interval="2473.113" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2476.377" interval="2476.377" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2478.629" interval="2478.629" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2483.299" interval="2483.299" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2486.845" interval="2486.845" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2488.895" interval="2488.895" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2493.736" interval="2493.736" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2495.811" interval="2495.811" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2496.503" interval="2496.503" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2498.196" interval="2498.196" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2501.179" interval="2501.179" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2506.717" interval="2506.717" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2509.060" interval="2509.060" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2514.941" interval="2514.941" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2520.019" interval="2520.019" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2521.981" interval="2521.981" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2525.168" interval="2525.168" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2527.403" interval="2527.403" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2532.44" interval="2532.44" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2535.640" interval="2535.640" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2541.096" interval="2541.096" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2547.331" interval="2547.331" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2554.403" interval="2554.403" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2556.044" interval="2556.044" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2559.169" interval="2559.169" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2563.779" interval="2563.779" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2566.767" interval="2566.767" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2569.419" interval="2569.419" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2574.226" interval="2574.226" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2576.324" interval="2576.324" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2580.136" interval="2580.136" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2581.933" interval="2581.933" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2585.949" interval="2585.949" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2588.741" interval="2588.741" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2595.399" interval="2595.399" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2596.162" interval="2596.162" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2598.396" interval="2598.396" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2604.279" interval="2604.279" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2606.076" interval="2606.076" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2607.076" interval="2607.076" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2609.732" interval="2609.732" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2616.856" interval="2616.856" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2618.687" interval="2618.687" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2621.563" interval="2621.563" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2622.438" interval="2622.438" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2623.822" interval="2623.822" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2625.359" interval="2625.359" since="#JIosjztrdr-ak1001101050.t0"/>
+            <when xml:id="JIosjztrdr-ak1001101050.t2626.391" interval="2626.391" since="#JIosjztrdr-ak1001101050.t0"/>
+         </timeline>
+         <u xml:id="Gos015.u61" who="#Af-prof-02245" start="#JIosjztrdr-ak1001101050.t180.452" end="#JIosjztrdr-ak1001101050.t183.515">
+<seg xml:id="Gos015.s63" synch="#JIosjztrdr-ak1001101050.t180.452">
+<w xml:id="Gos015.tok351" lemma="aja" ana="mte:I">aja</w>
+<w xml:id="Gos015.tok352" function="filler" lemma="eee" ana="mte:I">eee</w>
+<w xml:id="Gos015.tok353" lemma="kaj" ana="mte:Pq-nsn">kaj</w>
+<w xml:id="Gos015.tok354" lemma="pa" ana="mte:Cc">pa</w>
+<w xml:id="Gos015.tok355" lemma="tukaj" ana="mte:Rgp">tukaj</w>
+<w xml:id="Gos015.tok356" lemma="pomeniti" ana="mte:Vmbr3s">pomeni</w>
+<w xml:id="Gos015.tok357" lemma="ta" ana="mte:Pd-msn">ta</w>
+               <del type="falseStart" subtype="missingEnd">
+<w xml:id="Gos015.tok358" lemma="le…" ana="mte:Xt">le…</w>
+               </del>
+<w xml:id="Gos015.tok359" function="filler" lemma="eee" ana="mte:I">eee</w>
+               <gap reason="unclear"/>
+<pc xml:id="Gos015.tok360" lemma="?" ana="mte:Z">?</pc>
+            </seg>
+         </u>
+         <u xml:id="Gos015.u62" who="#Om-ucen-02259" start="#JIosjztrdr-ak1001101050.t183.515" end="#JIosjztrdr-ak1001101050.t184.686">
+<seg xml:id="Gos015.s64" synch="#JIosjztrdr-ak1001101050.t183.515">
+<w xml:id="Gos015.tok361" function="filler" lemma="mmm" ana="mte:I">mmm</w>
+               <gap reason="unclear"/>
+            </seg>
+         </u>
+         <u xml:id="Gos015.u63" who="#Af-prof-02245" start="#JIosjztrdr-ak1001101050.t184.686" end="#JIosjztrdr-ak1001101050.t196.92">
+<seg xml:id="Gos015.s65" synch="#JIosjztrdr-ak1001101050.t184.686">
+<w xml:id="Gos015.tok362" lemma="tukaj" ana="mte:Rgp">tukaj</w>
+<w xml:id="Gos015.tok363" lemma="a" ana="mte:Rgp">a</w>
+<w xml:id="Gos015.tok364" lemma="ne" ana="mte:Q">ne</w>
+<w xml:id="Gos015.tok365" lemma="tukaj" ana="mte:Rgp">tukaj</w>
+<w xml:id="Gos015.tok366" lemma="tako" ana="mte:Rgp">tako</w>
+            </seg>
+<seg xml:id="Gos015.s66" synch="#JIosjztrdr-ak1001101050.t187.53">
+<w xml:id="Gos015.tok367" function="filler" lemma="eee" ana="mte:I">eee</w>
+<w xml:id="Gos015.tok368" lemma="no" ana="mte:Q">no</w>
+<w xml:id="Gos015.tok369" lemma="danes" ana="mte:Rgp">danes</w>
+<w xml:id="Gos015.tok370" lemma="se" ana="mte:Px---d--y">si</w>
+<w xml:id="Gos015.tok371" lemma="biti" ana="mte:Va-f1p-n">bomo</w>
+<w xml:id="Gos015.tok372" function="filler" lemma="eem" ana="mte:I">eem</w>
+<w xml:id="Gos015.tok373" lemma="prebrati" ana="mte:Vmep-pm">prebrali</w>
+<w xml:id="Gos015.tok374" lemma="še" ana="mte:Q">še</w>
+<w xml:id="Gos015.tok375" lemma="en" ana="mte:Mlpfsa">eno</w>
+<w xml:id="Gos015.tok376" lemma="ljudski" ana="mte:Agpfsa">ljudsko</w>
+<w xml:id="Gos015.tok377" lemma="pesem" ana="mte:Ncfsa">pesem</w>
+            </seg>
+<seg xml:id="Gos015.s67" synch="#JIosjztrdr-ak1001101050.t192.733">
+<w xml:id="Gos015.tok378" lemma="pa" ana="mte:Cc">pa</w>
+<w xml:id="Gos015.tok379" lemma="najprej" ana="mte:Rgs">najprej</w>
+<w xml:id="Gos015.tok380" lemma="povedati" ana="mte:Vmem1p">povejmo</w>
+<w xml:id="Gos015.tok381" lemma="kaj" ana="mte:Pq-nsn">kaj</w>
+<w xml:id="Gos015.tok382" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos015.tok383" lemma="značilen" ana="mte:Agpnsn">značilno</w>
+<w xml:id="Gos015.tok384" lemma="za" ana="mte:Sa">za</w>
+<w xml:id="Gos015.tok385" lemma="ljudski" ana="mte:Agpfpa">ljudske</w>
+<w xml:id="Gos015.tok386" lemma="pesem" ana="mte:Ncfpa">pesmi</w>
+            </seg>
+         </u>
+         <u xml:id="Gos015.u64" who="#Af-prof-02245" trans="smooth" start="#JIosjztrdr-ak1001101050.t196.92" end="#JIosjztrdr-ak1001101050.t196.92">
+<seg xml:id="Gos015.s68" synch="#JIosjztrdr-ak1001101050.t196.92">
+<w xml:id="Gos015.tok387" function="filler" lemma="eee" ana="mte:I">eee</w>
+               <name type="personal">
+                  <gap reason="anon">
+                     <desc>[ime]</desc>
+                  </gap>
+               </name>
+               <gap reason="unclear"/>
+            </seg>
+         </u>
+         <u xml:id="Gos015.u65" who="#Ff-ucen-02250" trans="overlap" start="#JIosjztrdr-ak1001101050.t196.92" end="#JIosjztrdr-ak1001101050.t199.809969793">
+<seg xml:id="Gos015.s69" synch="#JIosjztrdr-ak1001101050.t196.92">
+<w xml:id="Gos015.tok388" lemma="da" ana="mte:Cs">da</w>
+<w xml:id="Gos015.tok389" lemma="biti" ana="mte:Va-r3p-n">so</w>
+<w xml:id="Gos015.tok390" lemma="v" ana="mte:Sl">v</w>
+<w xml:id="Gos015.tok391" lemma="narečje" ana="mte:Ncnsl">narečju</w>
+            </seg>
+         </u>
+         <u xml:id="Gos015.u66" start="#JIosjztrdr-ak1001101050.t199.809969793" end="#JIosjztrdr-ak1001101050.t201.591">
+<seg xml:id="Gos015.s70" synch="#JIosjztrdr-ak1001101050.t199.809969793">
+               <pause/>
+            </seg>
+         </u>
+         <u xml:id="Gos015.u67" who="#Af-prof-02245" start="#JIosjztrdr-ak1001101050.t201.591" end="#JIosjztrdr-ak1001101050.t211.64">
+<seg xml:id="Gos015.s71" synch="#JIosjztrdr-ak1001101050.t201.591">
+<w xml:id="Gos015.tok392" lemma="ja" ana="mte:Q">ja</w>
+<w xml:id="Gos015.tok393" lemma="ljudski" ana="mte:Agpfpn">ljudske</w>
+<w xml:id="Gos015.tok394" lemma="pesem" ana="mte:Ncfpn">pesmi</w>
+<w xml:id="Gos015.tok395" lemma="biti" ana="mte:Va-r3p-n">so</w>
+<w xml:id="Gos015.tok396" function="filler" lemma="eee" ana="mte:I">eee</w>
+               <del type="falseStart" subtype="missingEnd">
+<w xml:id="Gos015.tok397" lemma="m…" ana="mte:Xt">m…</w>
+               </del>
+<w xml:id="Gos015.tok398" lemma="imeti" ana="mte:Vmpr3p-n">imajo</w>
+<w xml:id="Gos015.tok399" lemma="tudi" ana="mte:Q">tudi</w>
+<w xml:id="Gos015.tok400" lemma="ja" ana="mte:Q">ja</w>
+<w xml:id="Gos015.tok401" lemma="med" ana="mte:Si">med</w>
+<w xml:id="Gos015.tok402" lemma="drug" ana="mte:Mlpnsi">drugim</w>
+<w xml:id="Gos015.tok403" lemma="vključevati" ana="mte:Vmpr3p">vključujejo</w>
+<w xml:id="Gos015.tok404" lemma="tudi" ana="mte:Q">tudi</w>
+<w xml:id="Gos015.tok405" lemma="narečen" ana="mte:Agpfpa">narečne</w>
+<w xml:id="Gos015.tok406" lemma="preprost" ana="mte:Agpfpa">preproste</w>
+<w xml:id="Gos015.tok407" lemma="beseda" ana="mte:Ncfpa">besede</w>
+<w xml:id="Gos015.tok408" lemma="kaj" ana="mte:Pq-nsn">kaj</w>
+<w xml:id="Gos015.tok409" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos015.tok410" lemma="še" ana="mte:Q">še</w>
+<w xml:id="Gos015.tok411" lemma="značilen" ana="mte:Agpnsn">značilno</w>
+<w xml:id="Gos015.tok412" lemma="za" ana="mte:Sa">za</w>
+<w xml:id="Gos015.tok413" lemma="ljudski" ana="mte:Agpfpa">ljudske</w>
+<w xml:id="Gos015.tok414" lemma="pesem" ana="mte:Ncfpa" join="right">pesmi</w>
+<pc xml:id="Gos015.tok415" lemma="?" ana="mte:Z">?</pc>
+            </seg>
+<seg xml:id="Gos015.s72" synch="#JIosjztrdr-ak1001101050.t211.155">
+<w xml:id="Gos015.tok416" lemma="prositi" ana="mte:Vmpr1s">prosim</w>
+            </seg>
+         </u>
+         <u xml:id="Gos015.u68" who="#Ff-ucen-02250" start="#JIosjztrdr-ak1001101050.t211.64" end="#JIosjztrdr-ak1001101050.t212.89">
+<seg xml:id="Gos015.s73" synch="#JIosjztrdr-ak1001101050.t211.64">
+<w xml:id="Gos015.tok417" lemma="avtor" ana="mte:Ncmsn">avtor</w>
+<w xml:id="Gos015.tok418" lemma="biti" ana="mte:Va-r3s-y">ni</w>
+<w xml:id="Gos015.tok419" lemma="znan" ana="mte:Appmsnn">znan</w>
+            </seg>
+         </u>
+         <u xml:id="Gos015.u69" who="#Af-prof-02245" start="#JIosjztrdr-ak1001101050.t212.89" end="#JIosjztrdr-ak1001101050.t216.502">
+<seg xml:id="Gos015.s74" synch="#JIosjztrdr-ak1001101050.t212.89">
+<w xml:id="Gos015.tok420" lemma="avtor" ana="mte:Ncmsn">avtor</w>
+<w xml:id="Gos015.tok421" lemma="biti" ana="mte:Va-r3s-y">ni</w>
+<w xml:id="Gos015.tok422" lemma="poznan" ana="mte:Appmsnn">poznan</w>
+            </seg>
+<seg xml:id="Gos015.s75" synch="#JIosjztrdr-ak1001101050.t213.987">
+<w xml:id="Gos015.tok423" lemma="kako" ana="mte:Rgp">kako</w>
+<w xml:id="Gos015.tok424" lemma="biti" ana="mte:Va-r3p-n">so</w>
+<w xml:id="Gos015.tok425" lemma="se" ana="mte:Px------y">se</w>
+<w xml:id="Gos015.tok426" lemma="ohranjati" ana="mte:Vmpp-pf">ohranjale</w>
+<w xml:id="Gos015.tok427" lemma="ljudski" ana="mte:Agpfpn">ljudske</w>
+<w xml:id="Gos015.tok428" lemma="pesem" ana="mte:Ncfpn" join="right">pesmi</w>
+<pc xml:id="Gos015.tok429" lemma="?" ana="mte:Z">?</pc>
+            </seg>
+         </u>
+         <u xml:id="Gos015.u70" who="#Sm-ucen-02261" trans="smooth" start="#JIosjztrdr-ak1001101050.t216.502" end="#JIosjztrdr-ak1001101050.t216.502">
+<seg xml:id="Gos015.s76" synch="#JIosjztrdr-ak1001101050.t216.502">
+<w xml:id="Gos015.tok430" function="filler" lemma="eee" ana="mte:I">eee</w>
+               <gap reason="unclear"/>
+<pc xml:id="Gos015.tok431" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos015.tok432" lemma="govoriti" ana="mte:Vmpp-pm">govorili</w>
+<w xml:id="Gos015.tok433" lemma="biti" ana="mte:Va-r3p-n">so</w>
+<w xml:id="Gos015.tok434" lemma="se" ana="mte:Px---d--y">si</w>
+<w xml:id="Gos015.tok435" lemma="on" ana="mte:Pp3mpa--y">jih</w>
+<w xml:id="Gos015.tok436" lemma="od" ana="mte:Sg">od</w>
+<w xml:id="Gos015.tok437" lemma="usta" ana="mte:Ncnpg">ust</w>
+<w xml:id="Gos015.tok438" lemma="do" ana="mte:Sg">do</w>
+<w xml:id="Gos015.tok439" lemma="usta" ana="mte:Ncnpg">ust</w>
+            </seg>
+         </u>
+         <u xml:id="Gos015.u71" who="#Af-prof-02245" trans="overlap" start="#JIosjztrdr-ak1001101050.t216.502" end="#JIosjztrdr-ak1001101050.t220.217">
+<seg xml:id="Gos015.s77" synch="#JIosjztrdr-ak1001101050.t216.502">
+<w xml:id="Gos015.tok440" lemma="do" ana="mte:Sg">do</w>
+<w xml:id="Gos015.tok441" lemma="danes" ana="mte:Rgp">danes</w>
+            </seg>
+         </u>
+         <u xml:id="Gos015.u72" who="#Sm-ucen-02261" trans="smooth" start="#JIosjztrdr-ak1001101050.t220.217" end="#JIosjztrdr-ak1001101050.t220.217">
+<seg xml:id="Gos015.s78" synch="#JIosjztrdr-ak1001101050.t220.217">
+<w xml:id="Gos015.tok442" lemma="pa" ana="mte:Cc">pa</w>
+<w xml:id="Gos015.tok443" lemma="preprost" ana="mte:Agpfpa">preproste</w>
+<w xml:id="Gos015.tok444" lemma="beseda" ana="mte:Ncfpa">besede</w>
+<w xml:id="Gos015.tok445" lemma="uporabljati" ana="mte:Vmpp-pm" join="right">uporabljali</w>
+<pc xml:id="Gos015.tok446" lemma="…" ana="mte:Xt">…</pc>
+<w xml:id="Gos015.tok447" lemma="če" ana="mte:Cs">če</w>
+<w xml:id="Gos015.tok448" lemma="biti" ana="mte:Va-r3p-n">so</w>
+<w xml:id="Gos015.tok449" lemma="z" ana="mte:Sg">z</w>
+<w xml:id="Gos015.tok450" lemma="naš" ana="mte:Ps1msgp">našega</w>
+<w xml:id="Gos015.tok451" lemma="okoliš" ana="mte:Ncmsg">okoliša</w>
+               <gap reason="unclear"/>
+            </seg>
+         </u>
+         </body>
+   </text>
+</TEI>

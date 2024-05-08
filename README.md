@@ -17,7 +17,6 @@ Repo for tracking resources for the Mezzanine project
 | Description: | Annotated disfluencies in XML format.                                                      |
 | Created:     | 2024-04-11                                                                                 |
 | By:          | Darinka                                                                                    |
-| Description: |                                                                                            |
 
 ## iriss_with_w_and_pauses
 |              |                                                                                                                                |
@@ -34,3 +33,28 @@ Repo for tracking resources for the Mezzanine project
 | Description: | Original GOS TEI 2.1                                                           |
 | Created:     | 2023-08-28                                                                     |
 | By:          | Darinka et al                                                                  |
+
+
+## iriss
+|              |                                                                  |
+| ------------ | ---------------------------------------------------------------- |
+| Origin       | https://nl.ijs.si/nikola/mezzanine/                              |
+| Description: | Iriss dataset, as created initially. No word timeline. TEI only. |
+| Created:     | 2023-09-06                                                       |
+| By:          | Peter                                                            |
+
+## SPOG
+|              |                                     |
+| ------------ | ----------------------------------- |
+| Origin       | https://nl.ijs.si/nikola/mezzanine/ |
+| Description: | SPOG dataset in TEI format          |
+| Created:     | 2023-09-06                          |
+| By:          | Peter                               |
+
+## SST
+|              |                                        |
+| ------------ | -------------------------------------- |
+| Origin       | https://nl.ijs.si/nikola/mezzanine/    |
+| Description: | SST, as generated initially. TEI only. |
+| Created:     | 2023-09-06                             |
+| By:          | Peter                                  |

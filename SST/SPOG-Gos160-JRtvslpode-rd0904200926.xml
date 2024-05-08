@@ -1,0 +1,686 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Gos160" xml:lang="sl" source="#gos.P.G">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kuharska oddaja, kuhanje petelina v vinu, prisoten tudi gost v studiu. [Gos1.1]</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>2.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="550" xml:lang="sl">550 govorov</measure>
+            <measure unit="speeches" quantity="550" xml:lang="en">550 speeches</measure>
+            <measure unit="words" quantity="3188" xml:lang="sl">3188 besed</measure>
+            <measure unit="words" quantity="3188" xml:lang="en">3188 words</measure>
+         </extent>
+         <publicationStmt>
+            <distributor>
+               <ref target="https://www.clarin.si/">CLARIN.SI</ref>
+            </distributor>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/XXXX</idno>
+            <date when="2023-06-09">2023-06-09</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Kuharska oddaja, kuhanje petelina v vinu, prisoten tudi gost v studiu.</title>
+               <date when="2009-10">2009-10</date>
+            </bibl>
+            <recordingStmt>
+               <recording>
+                  <media xml:id="SPOG-Gos160-JRtvslpode-rd0904200926-avd.wav" mimeType="audio/wav" url="./SPOG-Gos160-JRtvslpode-rd0904200926-avd.wav"/>
+                  <broadcast>
+                     <ab>ProPlus</ab>
+                  </broadcast>
+                  <date when="2009-10-23">2009-10-23</date>
+               </recording>
+            </recordingStmt>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <catRef target="#gos.T.J.R"/>
+            <catRef target="#gos.K.T"/>
+         </textClass>
+         <textDesc>
+            <channel/>
+            <constitution/>
+            <derivation/>
+            <domain>PopTV, Desetka</domain>
+            <factuality/>
+            <interaction/>
+            <preparedness/>
+            <purpose/>
+         </textDesc>
+         <particDesc>
+            <listPerson n="7">
+               <person sameAs="#Um-nast-00021"/>
+               <person sameAs="#Bm-nast-00022"/>
+               <person sameAs="#Mm-gost-00023"/>
+               <person sameAs="#Xm-drug-00024"/>
+               <person sameAs="#Xf-drug-00025"/>
+               <person sameAs="#audience"/>
+               <person sameAs="#all"/>
+            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <place>
+               <settlement>Ljubljana</settlement>
+            </place>
+         </settingDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <timeline unit="seg" xml:id="JRtvslpode-rd0904200926" origin="#JRtvslpode-rd0904200926.t0" corresp="#JRtvslpode-rd0904200926.wav">
+            <when xml:id="JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1.538" interval="1.538" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t4.953" interval="4.953" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t10.347" interval="10.347" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t12.284" interval="12.284" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t13.846" interval="13.846" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t15.159" interval="15.159" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t15.887" interval="15.887" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t21.574" interval="21.574" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t23.089" interval="23.089" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t27.611" interval="27.611" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t29.091" interval="29.091" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t31.215" interval="31.215" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t33.707" interval="33.707" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t36.517" interval="36.517" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t41.712" interval="41.712" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t47.647" interval="47.647" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t51.813" interval="51.813" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t56.824" interval="56.824" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t59.692" interval="59.692" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t62.379" interval="62.379" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t67.055" interval="67.055" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t71.492" interval="71.492" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t74.412" interval="74.412" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t78.317" interval="78.317" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t84.009" interval="84.009" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t87.541" interval="87.541" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t91.362" interval="91.362" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t93.013" interval="93.013" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t99.061" interval="99.061" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t102.575" interval="102.575" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t104.22" interval="104.22" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t106.019" interval="106.019" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t110.451" interval="110.451" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t112.391" interval="112.391" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t116.071" interval="116.071" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t122.400" interval="122.400" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t124.398" interval="124.398" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t125.929" interval="125.929" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t136.011" interval="136.011" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t141.425" interval="141.425" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t145.608" interval="145.608" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t151.063" interval="151.063" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t152.641" interval="152.641" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t156.391" interval="156.391" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t157.878" interval="157.878" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t162.731" interval="162.731" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t171.766" interval="171.766" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t177.495" interval="177.495" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t178.809" interval="178.809" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t181.728" interval="181.728" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t182.597" interval="182.597" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t184.991" interval="184.991" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t186.762" interval="186.762" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t187.641" interval="187.641" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t191.699" interval="191.699" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t197.799" interval="197.799" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t199.792" interval="199.792" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t205.453" interval="205.453" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t208.203" interval="208.203" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t212.188" interval="212.188" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t215.105" interval="215.105" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t223.064" interval="223.064" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t227.707" interval="227.707" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t233.874" interval="233.874" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t238.8" interval="238.8" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t242.046" interval="242.046" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t242.91" interval="242.91" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t243.598" interval="243.598" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t248.279" interval="248.279" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t250.178" interval="250.178" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t252.862" interval="252.862" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t255.881" interval="255.881" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t257.845" interval="257.845" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t262.411" interval="262.411" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t269.250" interval="269.250" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t272.443" interval="272.443" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t274.474" interval="274.474" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t279.35" interval="279.35" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t281.332" interval="281.332" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t285.145" interval="285.145" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t288.029" interval="288.029" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t290.189" interval="290.189" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t293.028" interval="293.028" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t295.65" interval="295.65" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t298.856" interval="298.856" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t303.750" interval="303.750" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t305.81" interval="305.81" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t308.415" interval="308.415" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t310.325" interval="310.325" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t313.388" interval="313.388" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t315.92" interval="315.92" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t319.255" interval="319.255" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t324.354" interval="324.354" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t327.385" interval="327.385" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t328.729" interval="328.729" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t330.072" interval="330.072" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t332.806" interval="332.806" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t334.619" interval="334.619" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t338.495" interval="338.495" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t340.489" interval="340.489" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t341.108" interval="341.108" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t342.975" interval="342.975" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t345.367" interval="345.367" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t349.532" interval="349.532" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t351.407" interval="351.407" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t353.689" interval="353.689" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t358.606" interval="358.606" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t360.917" interval="360.917" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t362.105" interval="362.105" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t364.189" interval="364.189" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t368.029" interval="368.029" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t368.793" interval="368.793" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t371.221" interval="371.221" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t373.197" interval="373.197" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t375.01" interval="375.01" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t375.647" interval="375.647" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t378.075" interval="378.075" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t380.576" interval="380.576" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t382.17" interval="382.17" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t391.17" interval="391.17" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t394.056" interval="394.056" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t394.358" interval="394.358" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t394.921" interval="394.921" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t396.64" interval="396.64" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t399.394" interval="399.394" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t401.714" interval="401.714" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t403.979" interval="403.979" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t407.348" interval="407.348" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t410.609" interval="410.609" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t413.598" interval="413.598" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t414.223" interval="414.223" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t417.085" interval="417.085" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t420.708" interval="420.708" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t424.118" interval="424.118" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t427.229" interval="427.229" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t428.326" interval="428.326" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t429.711" interval="429.711" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t432.885" interval="432.885" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t434.363" interval="434.363" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t435.691" interval="435.691" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t437.347" interval="437.347" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t439.053" interval="439.053" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t442.936" interval="442.936" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t447.03" interval="447.03" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t447.941" interval="447.941" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t450.91" interval="450.91" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t452.815" interval="452.815" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t456.288" interval="456.288" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t459.483" interval="459.483" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t463.427" interval="463.427" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t464.58" interval="464.58" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t466.146" interval="466.146" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t468.71" interval="468.71" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t472.053" interval="472.053" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t476.561" interval="476.561" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t478.675" interval="478.675" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t480.912" interval="480.912" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t482.759" interval="482.759" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t485.528" interval="485.528" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t488.497" interval="488.497" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t490.587" interval="490.587" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t494.904" interval="494.904" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t495.834" interval="495.834" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t497.015" interval="497.015" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t498.827" interval="498.827" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t501.119" interval="501.119" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t505.242" interval="505.242" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t506.478" interval="506.478" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t509.246" interval="509.246" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t513.406" interval="513.406" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t514.687" interval="514.687" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t516.063" interval="516.063" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t519.282" interval="519.282" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t520.689" interval="520.689" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t521.721" interval="521.721" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t525.703" interval="525.703" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t527.06" interval="527.06" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t528.556" interval="528.556" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t529.754" interval="529.754" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t532.816" interval="532.816" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t536.018" interval="536.018" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t541.07" interval="541.07" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t544.584" interval="544.584" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t546.777" interval="546.777" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t547.884" interval="547.884" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t549.081" interval="549.081" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t555.519" interval="555.519" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t558.036" interval="558.036" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t561.571" interval="561.571" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t565.212" interval="565.212" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t570.275" interval="570.275" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t580.379" interval="580.379" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t583.992" interval="583.992" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t588.523" interval="588.523" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t592.664" interval="592.664" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t598.321" interval="598.321" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t603.654" interval="603.654" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t609.092" interval="609.092" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t612.566" interval="612.566" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t617.785" interval="617.785" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t622.849" interval="622.849" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t624.553" interval="624.553" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t627.08" interval="627.08" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t628.806" interval="628.806" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t633.805" interval="633.805" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t637.368" interval="637.368" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t639.706" interval="639.706" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t641.409" interval="641.409" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t646.823" interval="646.823" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t647.962" interval="647.962" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t649.741" interval="649.741" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t652.297" interval="652.297" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t653.141" interval="653.141" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t654.335" interval="654.335" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t657.51" interval="657.51" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t657.955" interval="657.955" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t658.93" interval="658.93" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t663.049" interval="663.049" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t663.751" interval="663.751" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t664.79" interval="664.79" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t666.357" interval="666.357" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t667.701" interval="667.701" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t670.272" interval="670.272" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t671.264" interval="671.264" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t672.434" interval="672.434" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t673.999" interval="673.999" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t675.513" interval="675.513" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t676.199" interval="676.199" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t676.761" interval="676.761" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t678.782" interval="678.782" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t680.676" interval="680.676" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t682.496" interval="682.496" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t683.827" interval="683.827" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t684.535" interval="684.535" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t684.862" interval="684.862" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t685.785" interval="685.785" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t687.394" interval="687.394" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t688.175" interval="688.175" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t692.328" interval="692.328" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t695.067" interval="695.067" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t700.788" interval="700.788" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t703.225" interval="703.225" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t710.665" interval="710.665" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t713.781" interval="713.781" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t716.72" interval="716.72" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t719.402" interval="719.402" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t720.839" interval="720.839" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t721.939" interval="721.939" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t726.001" interval="726.001" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t730.405" interval="730.405" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t732.345" interval="732.345" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t732.652" interval="732.652" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t734.592" interval="734.592" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t736.134" interval="736.134" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t739.594" interval="739.594" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t741.298" interval="741.298" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t746.137" interval="746.137" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t747.834" interval="747.834" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t751.384" interval="751.384" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t754.681" interval="754.681" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t757.068" interval="757.068" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t758.881" interval="758.881" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t759.631" interval="759.631" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t761.189" interval="761.189" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t762.81" interval="762.81" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t763.817" interval="763.817" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t765.598" interval="765.598" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t768.082" interval="768.082" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t769.345" interval="769.345" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t770.97" interval="770.97" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t774.866" interval="774.866" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t776.018" interval="776.018" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t779.110" interval="779.110" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t784.160" interval="784.160" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t788.721" interval="788.721" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t789.578" interval="789.578" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t792.062" interval="792.062" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t794.439" interval="794.439" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t796.614" interval="796.614" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t797.614" interval="797.614" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t798.456" interval="798.456" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t801.116" interval="801.116" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t803.35" interval="803.35" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t807.018" interval="807.018" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t810.178" interval="810.178" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t814.205" interval="814.205" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t819.311" interval="819.311" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t820.686" interval="820.686" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t821.318" interval="821.318" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t822.661" interval="822.661" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t823.352" interval="823.352" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t826.726" interval="826.726" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t827.695" interval="827.695" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t830.072" interval="830.072" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t831.962" interval="831.962" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t838.158" interval="838.158" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t839.555" interval="839.555" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t840.756" interval="840.756" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t842.966" interval="842.966" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t844.713" interval="844.713" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t845.843" interval="845.843" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t848.170" interval="848.170" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t853.158" interval="853.158" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t857.019" interval="857.019" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t858.159" interval="858.159" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t859.316" interval="859.316" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t859.816" interval="859.816" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t861.314" interval="861.314" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t863.608" interval="863.608" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t869.579" interval="869.579" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t871.318" interval="871.318" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t873.137" interval="873.137" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t876.814" interval="876.814" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t882.582" interval="882.582" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t883.799" interval="883.799" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t884.276" interval="884.276" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t885.508" interval="885.508" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t887.75" interval="887.75" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t889.31" interval="889.31" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t889.935" interval="889.935" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t890.861" interval="890.861" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t896.073" interval="896.073" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t897.777" interval="897.777" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t902.648" interval="902.648" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t906.024" interval="906.024" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t907.428" interval="907.428" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t908.731" interval="908.731" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t910.797" interval="910.797" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t912.972" interval="912.972" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t914.26" interval="914.26" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t915.096" interval="915.096" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t916.652" interval="916.652" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t917.539" interval="917.539" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t920.474" interval="920.474" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t922.902" interval="922.902" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t924.407" interval="924.407" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t925.958" interval="925.958" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t927.717" interval="927.717" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t929.353" interval="929.353" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t930.442" interval="930.442" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t931.221" interval="931.221" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t933.568" interval="933.568" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t935.692" interval="935.692" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t938.102" interval="938.102" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t939.727" interval="939.727" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t944.654" interval="944.654" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t946.941" interval="946.941" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t947.967" interval="947.967" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t948.547" interval="948.547" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t950.054" interval="950.054" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t951.442" interval="951.442" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t954.85" interval="954.85" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t956.941" interval="956.941" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t959.251" interval="959.251" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t962.034" interval="962.034" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t965.098" interval="965.098" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t966.825" interval="966.825" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t969.694" interval="969.694" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t970.974" interval="970.974" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t972.349" interval="972.349" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t973.682" interval="973.682" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t974.444" interval="974.444" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t975.382" interval="975.382" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t977.648" interval="977.648" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t980.935" interval="980.935" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t983.21" interval="983.21" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t986.086" interval="986.086" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t988.324" interval="988.324" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t990.135" interval="990.135" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t991.854" interval="991.854" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t993.695" interval="993.695" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t997.224" interval="997.224" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1000.533" interval="1000.533" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1004.502" interval="1004.502" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1011.250" interval="1011.250" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1013.928" interval="1013.928" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1015.748" interval="1015.748" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1017.451" interval="1017.451" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1020.664" interval="1020.664" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1023.415" interval="1023.415" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1025.426" interval="1025.426" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1028.522" interval="1028.522" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1030.21" interval="1030.21" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1032.624" interval="1032.624" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1035.656" interval="1035.656" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1040.145" interval="1040.145" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1044.326" interval="1044.326" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1044.775" interval="1044.775" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1048.04" interval="1048.04" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1049.79" interval="1049.79" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1051.973" interval="1051.973" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1054.008" interval="1054.008" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1056.152" interval="1056.152" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1057.52" interval="1057.52" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1058.68" interval="1058.68" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1059.195" interval="1059.195" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1062.801" interval="1062.801" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1064.826" interval="1064.826" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1065.443" interval="1065.443" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1068.856" interval="1068.856" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1071.167" interval="1071.167" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1073.493" interval="1073.493" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1075.348" interval="1075.348" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1076.2" interval="1076.2" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1081.04" interval="1081.04" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1081.712" interval="1081.712" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1090.312" interval="1090.312" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1091.437" interval="1091.437" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1092.278" interval="1092.278" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1095.887" interval="1095.887" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1098.85" interval="1098.85" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1102.811" interval="1102.811" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1104.843" interval="1104.843" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1106.399" interval="1106.399" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1108.577" interval="1108.577" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1109.81" interval="1109.81" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1111.997" interval="1111.997" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1113.973" interval="1113.973" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1115.008" interval="1115.008" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1116.299" interval="1116.299" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1117.518" interval="1117.518" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1122.889" interval="1122.889" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1123.607" interval="1123.607" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1124.26" interval="1124.26" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1124.632" interval="1124.632" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1130.554" interval="1130.554" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1133.373" interval="1133.373" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1135.786" interval="1135.786" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1138.964" interval="1138.964" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1141.946" interval="1141.946" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1147.317" interval="1147.317" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1149.497" interval="1149.497" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1151.041" interval="1151.041" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1152.136" interval="1152.136" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1152.944" interval="1152.944" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1155.848" interval="1155.848" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1156.957" interval="1156.957" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1159.343" interval="1159.343" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1166.144" interval="1166.144" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1171.915" interval="1171.915" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1173.452" interval="1173.452" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1186.253" interval="1186.253" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1192.217" interval="1192.217" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1193.305" interval="1193.305" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1196.755" interval="1196.755" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1200.072" interval="1200.072" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1202.52" interval="1202.52" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1205.269" interval="1205.269" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1207.71" interval="1207.71" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1210.767" interval="1210.767" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1216.846" interval="1216.846" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1222.935" interval="1222.935" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1227.777" interval="1227.777" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1232.642" interval="1232.642" since="#JRtvslpode-rd0904200926.t0"/>
+            <when xml:id="JRtvslpode-rd0904200926.t1236.655" interval="1236.655" since="#JRtvslpode-rd0904200926.t0"/>
+         </timeline>
+         <u xml:id="Gos160.u133" who="#Um-nast-00021" start="#JRtvslpode-rd0904200926.t349.532" end="#JRtvslpode-rd0904200926.t353.689">
+<seg xml:id="Gos160.s150" synch="#JRtvslpode-rd0904200926.t349.532">
+<w xml:id="Gos160.tok983" norm="nič" lemma="nič" ana="mte:Rgp">nč</w>
+<w xml:id="Gos160.tok984" lemma="ne" ana="mte:Q">ne</w>
+<w xml:id="Gos160.tok985" lemma="soliti" ana="mte:Vmpr1p">solimo</w>
+            </seg>
+<seg xml:id="Gos160.s151" synch="#JRtvslpode-rd0904200926.t351.407">
+<w xml:id="Gos160.tok986" norm="jaz" lemma="jaz" ana="mte:Pp1-sn">jest</w>
+<w xml:id="Gos160.tok987" lemma="biti" ana="mte:Va-f1s-n">bom</w>
+<w xml:id="Gos160.tok988" lemma="dati" ana="mte:Vmep-sm">dal</w>
+<w xml:id="Gos160.tok989" lemma="pa" ana="mte:Cc">pa</w>
+<w xml:id="Gos160.tok990" lemma="še" ana="mte:Q">še</w>
+<w xml:id="Gos160.tok991" norm="majčkeno" lemma="majčkeno" ana="mte:Rgp">mejčken</w>
+<w xml:id="Gos160.tok992" lemma="timijan" ana="mte:Ncmsg">timijana</w>
+            </seg>
+         </u>
+         <u xml:id="Gos160.u134" start="#JRtvslpode-rd0904200926.t353.689" end="#JRtvslpode-rd0904200926.t358.606">
+<seg xml:id="Gos160.s152" synch="#JRtvslpode-rd0904200926.t353.689">
+               <pause/>
+            </seg>
+         </u>
+         <u xml:id="Gos160.u135" who="#Bm-nast-00022" trans="smooth" start="#JRtvslpode-rd0904200926.t358.606" end="#JRtvslpode-rd0904200926.t358.606">
+<seg xml:id="Gos160.s153" synch="#JRtvslpode-rd0904200926.t358.606">
+<w xml:id="Gos160.tok993" norm="samo" lemma="samo" ana="mte:Q">sam</w>
+<w xml:id="Gos160.tok994" norm="toliko" lemma="toliko" ana="mte:Rgp">tok</w>
+<w xml:id="Gos160.tok995" lemma="da" ana="mte:Cs">da</w>
+<w xml:id="Gos160.tok996" lemma="zadišati" ana="mte:Vmbr3s">zadiši</w>
+<w xml:id="Gos160.tok997" lemma="vino" ana="mte:Ncnsn">vino</w>
+<w xml:id="Gos160.tok998" lemma="ne" ana="mte:Q">ne</w>
+            </seg>
+         </u>
+         <u xml:id="Gos160.u136" who="#Um-nast-00021" trans="overlap" start="#JRtvslpode-rd0904200926.t358.606" end="#JRtvslpode-rd0904200926.t360.917">
+<seg xml:id="Gos160.s154" synch="#JRtvslpode-rd0904200926.t358.606">
+<w xml:id="Gos160.tok999" lemma="evo" ana="mte:Q">evo</w>
+<w xml:id="Gos160.tok1000" norm="vidiš" lemma="videti" ana="mte:Vmbr2s">videš</w>
+            </seg>
+         </u>
+         <u xml:id="Gos160.u137" who="#Um-nast-00021" trans="smooth" start="#JRtvslpode-rd0904200926.t360.917" end="#JRtvslpode-rd0904200926.t360.917">
+<seg xml:id="Gos160.s155" synch="#JRtvslpode-rd0904200926.t360.917">
+<w xml:id="Gos160.tok1001" norm="samo" lemma="samo" ana="mte:Q">sam</w>
+<w xml:id="Gos160.tok1002" norm="toliko" lemma="toliko" ana="mte:Rgp">tok</w>
+<w xml:id="Gos160.tok1003" lemma="da" ana="mte:Cs">da</w>
+<w xml:id="Gos160.tok1004" lemma="zadišati" ana="mte:Vmbr3s">zadiši</w>
+            </seg>
+         </u>
+         <u xml:id="Gos160.u138" who="#Bm-nast-00022" trans="overlap" start="#JRtvslpode-rd0904200926.t360.917" end="#JRtvslpode-rd0904200926.t362.105">
+<seg xml:id="Gos160.s156" synch="#JRtvslpode-rd0904200926.t360.917">
+<w xml:id="Gos160.tok1005" norm="čakaj" lemma="čakati" ana="mte:Vmpm2s">čk</w>
+            </seg>
+         </u>
+         <u xml:id="Gos160.u139" who="#Um-nast-00021" start="#JRtvslpode-rd0904200926.t362.105" end="#JRtvslpode-rd0904200926.t368.029">
+<seg xml:id="Gos160.s157" synch="#JRtvslpode-rd0904200926.t362.105">
+<w xml:id="Gos160.tok1006" lemma="piščanec" ana="mte:Ncmpn">piščanci</w>
+<w xml:id="Gos160.tok1007" lemma="biti" ana="mte:Va-r3p-n">so</w>
+<w xml:id="Gos160.tok1008" norm="pripravljeni" lemma="pripravljen" ana="mte:Appmpn">prpravljeni</w>
+<w xml:id="Gos160.tok1009" lemma="zložen" ana="mte:Appmpn">zloženi</w>
+            </seg>
+<seg xml:id="Gos160.s158" synch="#JRtvslpode-rd0904200926.t364.189">
+<w xml:id="Gos160.tok1010" lemma="marinada" ana="mte:Ncfsa">marinado</w>
+<w xml:id="Gos160.tok1011" lemma="biti" ana="mte:Va-r1d-n">sva</w>
+<w xml:id="Gos160.tok1012" lemma="še" ana="mte:Q">še</w>
+<w xml:id="Gos160.tok1013" lemma="prej" ana="mte:Rgp">prej</w>
+<w xml:id="Gos160.tok1014" lemma="ohladiti" ana="mte:Vmep-dm">ohladila</w>
+<w xml:id="Gos160.tok1015" lemma="bog" ana="mte:Ncmsn">bog</w>
+<w xml:id="Gos160.tok1016" lemma="ne" ana="mte:Q">ne</w>
+<w xml:id="Gos160.tok1017" norm="daj" lemma="dati" ana="mte:Vmem2s">dej</w>
+<w xml:id="Gos160.tok1018" lemma="da" ana="mte:Cs">da</w>
+<w xml:id="Gos160.tok1019" lemma="dati" ana="mte:Vmer2p">date</w>
+<w xml:id="Gos160.tok1020" lemma="topel" ana="mte:Agpfsa">toplo</w>
+<w xml:id="Gos160.tok1021" lemma="gor" ana="mte:Rgp">gor</w>
+            </seg>
+         </u>
+         <u xml:id="Gos160.u140" who="#Bm-nast-00022" start="#JRtvslpode-rd0904200926.t368.029" end="#JRtvslpode-rd0904200926.t368.793">
+<seg xml:id="Gos160.s159" synch="#JRtvslpode-rd0904200926.t368.029">
+<w xml:id="Gos160.tok1022" function="filler" lemma="mhm" ana="mte:I">mhm</w>
+            </seg>
+         </u>
+         <u xml:id="Gos160.u141" who="#Um-nast-00021" trans="smooth" start="#JRtvslpode-rd0904200926.t368.793" end="#JRtvslpode-rd0904200926.t368.793">
+<seg xml:id="Gos160.s160" synch="#JRtvslpode-rd0904200926.t368.793">
+<w xml:id="Gos160.tok1023" lemma="no" ana="mte:Q">no</w>
+<w xml:id="Gos160.tok1024" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Gos160.tok1025" norm="takole" lemma="takole" ana="mte:Rgp">tkole</w>
+            </seg>
+         </u>
+         <u xml:id="Gos160.u142" who="#Bm-nast-00022" trans="overlap" start="#JRtvslpode-rd0904200926.t368.793" end="#JRtvslpode-rd0904200926.t371.221">
+<seg xml:id="Gos160.s161" synch="#JRtvslpode-rd0904200926.t368.793">
+<w xml:id="Gos160.tok1026" lemma="da" ana="mte:Cs">da</w>
+<w xml:id="Gos160.tok1027" lemma="se" ana="mte:Px------y">se</w>
+<w xml:id="Gos160.tok1028" lemma="biti" ana="mte:Va-f3p-n">bodo</w>
+<w xml:id="Gos160.tok1029" lemma="bakterija" ana="mte:Ncfpn">bakterije</w>
+<w xml:id="Gos160.tok1030" lemma="napajsati" ana="mte:Vmep-pf">napajsale</w>
+            </seg>
+         </u>
+         <u xml:id="Gos160.u143" who="#Bm-nast-00022" start="#JRtvslpode-rd0904200926.t371.221" end="#JRtvslpode-rd0904200926.t373.197">
+<seg xml:id="Gos160.s162" synch="#JRtvslpode-rd0904200926.t371.221">
+<w xml:id="Gos160.tok1031" lemma="aha" ana="mte:I">aha</w>
+<w xml:id="Gos160.tok1032" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Gos160.tok1033" lemma="ta" ana="mte:Pd-fsa">to</w>
+<w xml:id="Gos160.tok1034" lemma="zelenjava" ana="mte:Ncfsa">zelenjavo</w>
+<w xml:id="Gos160.tok1035" lemma="čez" ana="mte:Rgp">čez</w>
+            </seg>
+         </u>
+         <u xml:id="Gos160.u144" who="#Um-nast-00021" start="#JRtvslpode-rd0904200926.t373.197" end="#JRtvslpode-rd0904200926.t375.01">
+<seg xml:id="Gos160.s163" synch="#JRtvslpode-rd0904200926.t373.197">
+<w xml:id="Gos160.tok1036" lemma="ta" ana="mte:Pd-nsa">to</w>
+<w xml:id="Gos160.tok1037" lemma="pa" ana="mte:Cc">pa</w>
+<w xml:id="Gos160.tok1038" norm="kar" lemma="kar" ana="mte:Rgp">kr</w>
+<w xml:id="Gos160.tok1039" norm="lahko" lemma="lahko" ana="mte:Rgp">lohk</w>
+<w xml:id="Gos160.tok1040" lemma="z" ana="mte:Si">z</w>
+<w xml:id="Gos160.tok1041" lemma="roka" ana="mte:Ncfsi">roko</w>
+            </seg>
+         </u>
+         <u xml:id="Gos160.u145" who="#Bm-nast-00022" start="#JRtvslpode-rd0904200926.t375.01" end="#JRtvslpode-rd0904200926.t375.647">
+<seg xml:id="Gos160.s164" synch="#JRtvslpode-rd0904200926.t375.01">
+<w xml:id="Gos160.tok1042" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Gos160.tok1043" lemma="ta" ana="mte:Pd-nsn">to</w>
+            </seg>
+         </u>
+         <u xml:id="Gos160.u146" who="#Um-nast-00021" start="#JRtvslpode-rd0904200926.t375.647" end="#JRtvslpode-rd0904200926.t378.075">
+<seg xml:id="Gos160.s165" synch="#JRtvslpode-rd0904200926.t375.647">
+<w xml:id="Gos160.tok1044" lemma="iti" ana="mte:Vmbr3s">gre</w>
+<w xml:id="Gos160.tok1045" norm="v" lemma="v" ana="mte:Sa">u</w>
+<w xml:id="Gos160.tok1046" lemma="hladilnik" ana="mte:Ncmsan">hladilnik</w>
+<w xml:id="Gos160.tok1047" lemma="za" ana="mte:Sa">za</w>
+<w xml:id="Gos160.tok1048" lemma="čez" ana="mte:Sa">čez</w>
+<w xml:id="Gos160.tok1049" lemma="noč" ana="mte:Ncfsa">noč</w>
+            </seg>
+         </u>
+         <u xml:id="Gos160.u147" who="#Bm-nast-00022" start="#JRtvslpode-rd0904200926.t378.075" end="#JRtvslpode-rd0904200926.t380.576">
+<seg xml:id="Gos160.s166" synch="#JRtvslpode-rd0904200926.t378.075">
+<w xml:id="Gos160.tok1050" lemma="ta" ana="mte:Pd-nsd">temu</w>
+<w xml:id="Gos160.tok1051" lemma="biti" ana="mte:Va-c">bi</w>
+<w xml:id="Gos160.tok1052" norm="lahko" lemma="lahko" ana="mte:Rgp">lohk</w>
+<w xml:id="Gos160.tok1053" norm="rekel" lemma="reči" ana="mte:Vmep-sm">reku</w>
+<w xml:id="Gos160.tok1054" norm="tudi" lemma="tudi" ana="mte:Q">tud</w>
+<w xml:id="Gos160.tok1055" lemma="pijan" ana="mte:Agpmsny">pijani</w>
+<w xml:id="Gos160.tok1056" lemma="piščanec" ana="mte:Ncmsn">piščanec</w>
+            </seg>
+         </u>
+         <u xml:id="Gos160.u148" who="#Um-nast-00021" trans="smooth" start="#JRtvslpode-rd0904200926.t380.576" end="#JRtvslpode-rd0904200926.t380.576">
+<seg xml:id="Gos160.s167" synch="#JRtvslpode-rd0904200926.t380.576">
+<w xml:id="Gos160.tok1057" norm="daj" lemma="dati" ana="mte:Vmem2s">dej</w>
+<w xml:id="Gos160.tok1058" lemma="v" ana="mte:Sa">v</w>
+<w xml:id="Gos160.tok1059" lemma="hladilnik" ana="mte:Ncmsan">hladilnik</w>
+            </seg>
+         </u>
+         <u xml:id="Gos160.u149" who="#Bm-nast-00022" trans="overlap" start="#JRtvslpode-rd0904200926.t380.576" end="#JRtvslpode-rd0904200926.t382.17">
+<seg xml:id="Gos160.s168" synch="#JRtvslpode-rd0904200926.t380.576">
+               <gap reason="unclear"/>
+            </seg>
+         </u>
+         </body>
+   </text>
+</TEI>
