@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>Report on {{subcorpus}}</title>
+    </head>
+    <body>
+            <h1>Avtomatizirana analiza sestave podkorpusa {{subcorpus}}</h1>
+            <h2>Po tipu diskurza</h2>
+            {{tip_diskurza.to_html()}}
+            <h2>Po Govorcih:</h2>
+            <h3>Po spolu:</h3>
+            {{spol.to_html()}}
+            <h3>Starost:</h3>
+            {{starost.to_html()}}
+            <h3>Statistična regija:</h3>
+            {{statisticnaregija.to_html()}}
+    </body>
+</html>
