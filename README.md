@@ -1,6 +1,10 @@
 # mezzanine_resources
 Repo for tracking resources for the Mezzanine project
 
+
+# Snakemake:
+run as `snakemake -j 10 --use-conda --conda-frontend conda `.
+To clean up, run `snakemake -j 1 clean `
 # Structure:
 ## Placeholder
 |              |     |
