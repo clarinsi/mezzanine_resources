@@ -15,8 +15,8 @@ Repo for tracking resources for the Mezzanine project
 | ------------ | ------------------------------------------------------------------------- |
 | Origin       | Iriss-disfl-anno-phase5-fin                                               |
 | Description: | Annotated disfluencies in XML format, with manually corrected mismatches. |
-| Created:     | 2024-07-02                                                                |
-| By:          | Peter                                                                     |
+| Created:     | 2024-07-11                                                                |
+| By:          | Peter, Darinka                                                            |
 
 ## Iriss-disfl-anno-phase5-fin
 |              |                                                                                            |
