@@ -1,0 +1,205 @@
+# newdoc id = Gos047
+# sent_id = Gos047.s140
+# speaker_id = Af-novi-04534
+# sound_url = https://nl.ijs.si/project/gos20/Gos047/Gos047.s140.mp3
+# text = moja gostja je še vedno gospa [name:personal] [name:surname] , direktorica Kleti Bistrica , gospa [name:surname] , povejte , koliko sort vina nastaja v Kleti Bistrica ?
+# split = train
+1	moja	moj	DET	Ps1fsns	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	pronunciation=moja|Gos2.1_token_id=Gos047.tok2259
+2	gostja	gostja	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	pronunciation=gostja|Gos2.1_token_id=Gos047.tok2260
+3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	cop	_	pronunciation=je|Gos2.1_token_id=Gos047.tok2261
+4	še	še	PART	Q	_	2	advmod	_	pronunciation=še|Gos2.1_token_id=Gos047.tok2262
+5	vedno	vedno	ADV	Rgp	Degree=Pos	2	advmod	_	pronunciation=vedno|Gos2.1_token_id=Gos047.tok2263
+6	gospa	gospa	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	pronunciation=gospa|Gos2.1_token_id=Gos047.tok2264
+7	[name:personal]	[name:personal]	PROPN	X	_	6	nmod	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos047.s140.element1
+8	[name:surname]	[name:surname]	PROPN	X	_	7	flat:name	_	pronunciation=[name:surname]|Gos2.1_token_id=Gos047.s140.element2
+9	,	,	PUNCT	Z	_	10	punct	_	_
+10	direktorica	direktorica	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	6	appos	_	pronunciation=direktorica|Gos2.1_token_id=Gos047.tok2265
+11	Kleti	klet	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	pronunciation=Kleti|Gos2.1_token_id=Gos047.tok2266
+12	Bistrica	Bistrica	PROPN	Npfsn	Case=Nom|Gender=Fem|Number=Sing	11	nmod	_	pronunciation=Bistrica|Gos2.1_token_id=Gos047.tok2267
+13	,	,	PUNCT	Z	_	10	punct	_	_
+14	gospa	gospa	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	17	vocative	_	pronunciation=gospa|Gos2.1_token_id=Gos047.tok2268
+15	[name:surname]	[name:surname]	PROPN	X	_	14	nmod	_	pronunciation=[name:surname]|Gos2.1_token_id=Gos047.s140.element3
+16	,	,	PUNCT	Z	_	14	punct	_	_
+17	povejte	povedati	VERB	Vmem2p	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	2	parataxis	_	pronunciation=povejte|Gos2.1_token_id=Gos047.tok2269
+18	,	,	PUNCT	Z	_	22	punct	_	_
+19	koliko	koliko	DET	Rgp	PronType=Int	20	det	_	pronunciation=koliko|Gos2.1_token_id=Gos047.tok2270
+20	sort	sorta	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	22	nsubj	_	pronunciation=sort|Gos2.1_token_id=Gos047.tok2271
+21	vina	vino	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	pronunciation=vina|Gos2.1_token_id=Gos047.tok2272
+22	nastaja	nastajati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	ccomp	_	pronunciation=nastaja|Gos2.1_token_id=Gos047.tok2273
+23	v	v	ADP	Sl	Case=Loc	24	case	_	pronunciation=v|Gos2.1_token_id=Gos047.tok2274
+24	Kleti	klet	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	22	obl	_	pronunciation=Kleti|Gos2.1_token_id=Gos047.tok2275
+25	Bistrica	Bistrica	PROPN	Npfsn	Case=Nom|Gender=Fem|Number=Sing	24	nmod	_	pronunciation=Bistrica|Gos2.1_token_id=Gos047.tok2276
+26	?	?	PUNCT	Z	_	17	punct	_	_
+
+
+# sent_id = Gos047.s141
+# speaker_id = Bf-inte-04535
+# sound_url = https://nl.ijs.si/project/gos20/Gos047/Gos047.s141.mp3
+# text = ja , kar veliko , pravzaprav imamo dve blagovni znamki .
+# split = train
+1	ja	ja	PART	Q	_	4	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos047.tok2278
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	kar	kar	ADV	Rgp	Degree=Pos	4	advmod	_	pronunciation=kr|Gos2.1_token_id=Gos047.tok2279
+4	veliko	veliko	DET	Rgp	PronType=Ind	0	root	_	pronunciation=veliko|Gos2.1_token_id=Gos047.tok2280
+5	,	,	PUNCT	Z	_	7	punct	_	_
+6	pravzaprav	pravzaprav	PART	Q	_	7	advmod	_	pronunciation=provzaprav|Gos2.1_token_id=Gos047.tok2281
+7	imamo	imeti	VERB	Vmpr1p-n	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	parataxis	_	pronunciation=imamo|Gos2.1_token_id=Gos047.tok2282
+8	dve	dva	NUM	Mlcfda	Case=Acc|Gender=Fem|Number=Dual|NumForm=Word|NumType=Card	10	nummod	_	pronunciation=dve|Gos2.1_token_id=Gos047.tok2283
+9	blagovni	blagoven	ADJ	Agpfda	Case=Acc|Degree=Pos|Gender=Fem|Number=Dual	10	amod	_	pronunciation=blagovni|Gos2.1_token_id=Gos047.tok2284
+10	znamki	znamka	NOUN	Ncfda	Case=Acc|Gender=Fem|Number=Dual	7	obj	_	pronunciation=znamki|Gos2.1_token_id=Gos047.tok2285
+11	.	.	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos047.s142
+# speaker_id = Bf-inte-04535
+# sound_url = https://nl.ijs.si/project/gos20/Gos047/Gos047.s142.mp3
+# text = blagovno znamko Mašno vino , blagovno znamko Klet Bistrica in znotraj u- obeh blagovnih znamk , eee , si , je zvrst , je Andrejevo vino , je Ritoznojčan zelo znan , tako simpatično ime vina Ritoznojčan .
+# split = train
+1	blagovno	blagoven	ADJ	Agpfsa	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	pronunciation=blagovno|Gos2.1_token_id=Gos047.tok2286
+2	znamko	znamka	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	0	root	_	pronunciation=znamko|Gos2.1_token_id=Gos047.tok2287
+3	Mašno	mašen	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	pronunciation=Mašno|Gos2.1_token_id=Gos047.tok2288
+4	vino	vino	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	2	nmod	_	pronunciation=vino|Gos2.1_token_id=Gos047.tok2289
+5	,	,	PUNCT	Z	_	7	punct	_	_
+6	blagovno	blagoven	ADJ	Agpfsa	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	pronunciation=blagovno|Gos2.1_token_id=Gos047.tok2290
+7	znamko	znamka	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	2	conj	_	pronunciation=znamko|Gos2.1_token_id=Gos047.tok2291
+8	Klet	klet	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	7	nmod	_	pronunciation=Klet|Gos2.1_token_id=Gos047.tok2292
+9	Bistrica	Bistrica	PROPN	Npfsn	Case=Nom|Gender=Fem|Number=Sing	8	nmod	_	pronunciation=Bistrica|Gos2.1_token_id=Gos047.tok2293
+10	in	in	CCONJ	Cc	_	22	cc	_	pronunciation=in|Gos2.1_token_id=Gos047.tok2294
+11	znotraj	znotraj	ADP	Sg	Case=Gen	15	case	_	pronunciation=znotraj|Gos2.1_token_id=Gos047.tok2295
+12	u-	u-	X	Xt	_	13	reparandum	_	pronunciation=u…|Gos2.1_token_id=Gos047.tok2296
+13	obeh	oba	DET	Pg-fdg	Case=Gen|Gender=Fem|Number=Dual|PronType=Tot	15	det	_	pronunciation=obeh|Gos2.1_token_id=Gos047.tok2297
+14	blagovnih	blagoven	ADJ	Agpfdg	Case=Gen|Degree=Pos|Gender=Fem|Number=Dual	15	amod	_	pronunciation=blagovnih|Gos2.1_token_id=Gos047.tok2298
+15	znamk	znamka	NOUN	Ncfdg	Case=Gen|Gender=Fem|Number=Dual	22	obl	_	pronunciation=znamk|Gos2.1_token_id=Gos047.tok2299
+16	,	,	PUNCT	Z	_	17	punct	_	_
+17	eee	eee	INTJ	I	_	22	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos047.tok2300
+18	,	,	PUNCT	Z	_	17	punct	_	_
+19	si	se	PRON	Px---d--y	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	22	reparandum	_	pronunciation=si|Gos2.1_token_id=Gos047.tok2301
+20	,	,	PUNCT	Z	_	19	punct	_	_
+21	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	22	reparandum	_	pronunciation=je|Gos2.1_token_id=Gos047.tok2302
+22	zvrst	zvrst	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	2	conj	_	pronunciation=zvrst|Gos2.1_token_id=Gos047.tok2303
+23	,	,	PUNCT	Z	_	22	punct	_	_
+24	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	22	cop	_	pronunciation=je|Gos2.1_token_id=Gos047.tok2304
+25	Andrejevo	Andrejev	ADJ	Aspnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	26	amod	_	pronunciation=Andrejevo|Gos2.1_token_id=Gos047.tok2305
+26	vino	vino	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	22	nsubj	_	pronunciation=vino|Gos2.1_token_id=Gos047.tok2306
+27	,	,	PUNCT	Z	_	31	punct	_	_
+28	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	31	cop	_	pronunciation=je|Gos2.1_token_id=Gos047.tok2307
+29	Ritoznojčan	ritoznojčan	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	31	nsubj	_	pronunciation=Ritoznojčan|Gos2.1_token_id=Gos047.tok2308
+30	zelo	zelo	ADV	Rgp	Degree=Pos	31	advmod	_	pronunciation=zelo|Gos2.1_token_id=Gos047.tok2309
+31	znan	znan	ADJ	Appmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part	22	parataxis	_	pronunciation=znan|Gos2.1_token_id=Gos047.tok2310
+32	,	,	PUNCT	Z	_	35	punct	_	_
+33	tako	tak	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	35	det	_	pronunciation=tak|Gos2.1_token_id=Gos047.tok2311
+34	simpatično	simpatičen	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	35	amod	_	pronunciation=simpatično|Gos2.1_token_id=Gos047.tok2312
+35	ime	ime	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	31	parataxis	_	pronunciation=ime|Gos2.1_token_id=Gos047.tok2313
+36	vina	vino	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	35	nmod	_	pronunciation=vina|Gos2.1_token_id=Gos047.tok2314
+37	Ritoznojčan	ritoznojčan	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	35	appos	_	pronunciation=Ritoznojčan|Gos2.1_token_id=Gos047.tok2315
+38	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos047.s143
+# speaker_id = Af-novi-04534
+# sound_url = https://nl.ijs.si/project/gos20/Gos047/Gos047.s143.mp3
+# text = mhm .
+# split = train
+1	mhm	mhm	INTJ	I	_	0	root	_	pronunciation=mhm|Gos2.1_token_id=Gos047.tok2316
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos047.s144
+# speaker_id = Bf-inte-04535
+# sound_url = https://nl.ijs.si/project/gos20/Gos047/Gos047.s144.mp3
+# text = eee , potem pa sorte chardonnay , sivi pinot , laški rizling , renski rizling , rumeni muškat , kerner , eee , v suhih , polsuhih variantah , v polsladkih , odvisno od blagovne znamke .
+# split = train
+1	eee	eee	INTJ	I	_	5	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos047.tok2317
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	potem	potem	ADV	Rgp	Degree=Pos	5	orphan	_	pronunciation=potem|Gos2.1_token_id=Gos047.tok2318
+4	pa	pa	CCONJ	Cc	_	5	orphan	_	pronunciation=pa|Gos2.1_token_id=Gos047.tok2319
+5	sorte	sorta	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	0	root	_	pronunciation=sorte|Gos2.1_token_id=Gos047.tok2320
+6	chardonnay	chardonnay	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	5	nmod	_	pronunciation=šardone|Gos2.1_token_id=Gos047.tok2321
+7	,	,	PUNCT	Z	_	9	punct	_	_
+8	sivi	siv	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	pronunciation=sivi|Gos2.1_token_id=Gos047.tok2322
+9	pinot	pinot	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	6	conj	_	pronunciation=pino|Gos2.1_token_id=Gos047.tok2323
+10	,	,	PUNCT	Z	_	12	punct	_	_
+11	laški	laški	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	pronunciation=laški|Gos2.1_token_id=Gos047.tok2324
+12	rizling	rizling	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	6	conj	_	pronunciation=rizling|Gos2.1_token_id=Gos047.tok2325
+13	,	,	PUNCT	Z	_	15	punct	_	_
+14	renski	renski	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	pronunciation=renski|Gos2.1_token_id=Gos047.tok2326
+15	rizling	rizling	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	6	conj	_	pronunciation=rizling|Gos2.1_token_id=Gos047.tok2327
+16	,	,	PUNCT	Z	_	18	punct	_	_
+17	rumeni	rumen	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	pronunciation=rumeni|Gos2.1_token_id=Gos047.tok2328
+18	muškat	muškat	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	6	conj	_	pronunciation=muškat|Gos2.1_token_id=Gos047.tok2329
+19	,	,	PUNCT	Z	_	20	punct	_	_
+20	kerner	kerner	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	6	conj	_	pronunciation=kerner|Gos2.1_token_id=Gos047.tok2330
+21	,	,	PUNCT	Z	_	22	punct	_	_
+22	eee	eee	INTJ	I	_	5	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos047.tok2331
+23	,	,	PUNCT	Z	_	22	punct	_	_
+24	v	v	ADP	Sl	Case=Loc	28	case	_	pronunciation=v|Gos2.1_token_id=Gos047.tok2332
+25	suhih	suh	ADJ	Agpfpl	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur	28	amod	_	pronunciation=suhih|Gos2.1_token_id=Gos047.tok2333
+26	,	,	PUNCT	Z	_	27	punct	_	_
+27	polsuhih	polsuh	ADJ	Agpfpl	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur	25	conj	_	pronunciation=polsuhih|Gos2.1_token_id=Gos047.tok2334
+28	variantah	varianta	NOUN	Ncfpl	Case=Loc|Gender=Fem|Number=Plur	5	nmod	_	pronunciation=variantah|Gos2.1_token_id=Gos047.tok2335
+29	,	,	PUNCT	Z	_	31	punct	_	_
+30	v	v	ADP	Sl	Case=Loc	31	case	_	pronunciation=v|Gos2.1_token_id=Gos047.tok2336
+31	polsladkih	polsladek	ADJ	Agpfpl	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur	28	conj	_	pronunciation=polsladkih|Gos2.1_token_id=Gos047.tok2337
+32	,	,	PUNCT	Z	_	33	punct	_	_
+33	odvisno	odvisen	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	28	acl	_	pronunciation=odvisno|Gos2.1_token_id=Gos047.tok2338
+34	od	od	ADP	Sg	Case=Gen	36	case	_	pronunciation=od|Gos2.1_token_id=Gos047.tok2339
+35	blagovne	blagoven	ADJ	Agpfsg	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	36	amod	_	pronunciation=blagovne|Gos2.1_token_id=Gos047.tok2340
+36	znamke	znamka	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	33	nmod	_	pronunciation=znamke|Gos2.1_token_id=Gos047.tok2341
+37	.	.	PUNCT	Z	_	5	punct	_	_
+
+
+# sent_id = Gos047.s145
+# speaker_id = Bf-inte-04535
+# sound_url = https://nl.ijs.si/project/gos20/Gos047/Gos047.s145.mp3
+# text = znani smo po vinih , visokih kakovostih vina , suhi jagodni izbori .
+# split = train
+1	znani	znan	ADJ	Appmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	pronunciation=znani|Gos2.1_token_id=Gos047.tok2342
+2	smo	biti	AUX	Va-r1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	cop	_	pronunciation=smo|Gos2.1_token_id=Gos047.tok2343
+3	po	po	ADP	Sl	Case=Loc	4	case	_	pronunciation=po|Gos2.1_token_id=Gos047.tok2344
+4	vinih	vino	NOUN	Ncnpl	Case=Loc|Gender=Neut|Number=Plur	1	obl	_	pronunciation=vinih|Gos2.1_token_id=Gos047.tok2345
+5	,	,	PUNCT	Z	_	7	punct	_	_
+6	visokih	visok	ADJ	Agpfpg	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	7	amod	_	pronunciation=visokih|Gos2.1_token_id=Gos047.tok2346
+7	kakovostih	kakovost	NOUN	Ncfpl	Case=Loc|Gender=Fem|Number=Plur	4	nmod	_	pronunciation=kakovostih|Gos2.1_token_id=Gos047.tok2347
+8	vina	vino	NOUN	Ncnpn	Case=Nom|Gender=Neut|Number=Plur	4	conj	_	pronunciation=vina|Gos2.1_token_id=Gos047.tok2348
+9	,	,	PUNCT	Z	_	12	punct	_	_
+10	suhi	suh	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	12	amod	_	pronunciation=suhi|Gos2.1_token_id=Gos047.tok2349
+11	jagodni	jagoden	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	12	amod	_	pronunciation=jagodni|Gos2.1_token_id=Gos047.tok2350
+12	izbori	izbor	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	4	conj	_	pronunciation=izbori|Gos2.1_token_id=Gos047.tok2351
+13	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos047.s146
+# speaker_id = Bf-inte-04535
+# sound_url = https://nl.ijs.si/project/gos20/Gos047/Gos047.s146.mp3
+# text = eee , potem , eee ins- , imamo tudi penino , rajsko penino , z letošnjim letnikom bo tudi zaživela penina Bel- , eee , penina Gral .
+# split = train
+1	eee	eee	INTJ	I	_	8	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos047.tok2352
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	potem	potem	ADV	Rgp	Degree=Pos	8	advmod	_	pronunciation=potem|Gos2.1_token_id=Gos047.tok2353
+4	,	,	PUNCT	Z	_	5	punct	_	_
+5	eee	eee	INTJ	I	_	8	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos047.tok2354
+6	ins-	ins-	X	Xt	_	8	reparandum	_	pronunciation=ins…|Gos2.1_token_id=Gos047.tok2355
+7	,	,	PUNCT	Z	_	6	punct	_	_
+8	imamo	imeti	VERB	Vmpr1p-n	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=imamo|Gos2.1_token_id=Gos047.tok2356
+9	tudi	tudi	PART	Q	_	10	advmod	_	pronunciation=tudi|Gos2.1_token_id=Gos047.tok2357
+10	penino	penina	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	pronunciation=penino|Gos2.1_token_id=Gos047.tok2358
+11	,	,	PUNCT	Z	_	13	punct	_	_
+12	rajsko	rajski	ADJ	Agpfsa	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	pronunciation=rajsko|Gos2.1_token_id=Gos047.tok2359
+13	penino	penina	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	10	appos	_	pronunciation=penino|Gos2.1_token_id=Gos047.tok2360
+14	,	,	PUNCT	Z	_	20	punct	_	_
+15	z	z	ADP	Si	Case=Ins	17	case	_	pronunciation=z|Gos2.1_token_id=Gos047.tok2361
+16	letošnjim	letošnji	ADJ	Agpmsi	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	pronunciation=letšnjim|Gos2.1_token_id=Gos047.tok2362
+17	letnikom	letnik	NOUN	Ncmsi	Case=Ins|Gender=Masc|Number=Sing	20	obl	_	pronunciation=letnikom|Gos2.1_token_id=Gos047.tok2363
+18	bo	biti	AUX	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	20	aux	_	pronunciation=bo|Gos2.1_token_id=Gos047.tok2364
+19	tudi	tudi	PART	Q	_	26	advmod	_	pronunciation=tudi|Gos2.1_token_id=Gos047.tok2365
+20	zaživela	zaživeti	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	8	parataxis	_	pronunciation=zaživela|Gos2.1_token_id=Gos047.tok2366
+21	penina	penina	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	26	reparandum	_	pronunciation=penina|Gos2.1_token_id=Gos047.tok2367
+22	Bel-	Bel-	X	Xt	_	21	orphan	_	pronunciation=Bel…|Gos2.1_token_id=Gos047.tok2368
+23	,	,	PUNCT	Z	_	24	punct	_	_
+24	eee	eee	INTJ	I	_	20	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos047.tok2369
+25	,	,	PUNCT	Z	_	24	punct	_	_
+26	penina	penina	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	20	nsubj	_	pronunciation=penina|Gos2.1_token_id=Gos047.tok2370
+27	Gral	gral	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	26	nmod	_	pronunciation=Gral|Gos2.1_token_id=Gos047.tok2371
+28	.	.	PUNCT	Z	_	8	punct	_	_
+
+

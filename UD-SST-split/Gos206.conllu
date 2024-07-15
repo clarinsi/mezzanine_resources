@@ -1,0 +1,222 @@
+# newdoc id = Gos206
+# sent_id = Gos206.s133
+# speaker_id = Vm-prod-07539
+# sound_url = https://nl.ijs.si/project/gos20/Gos206/Gos206.s133.mp3
+# text = greste na internet stran Nep , Nacionalna energetska pot , lahko jo takoj odtipkajte , če ste za računalnikom , ne .
+# split = train
+1	greste	iti	VERB	Vmbr2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=grete|Gos2.1_token_id=Gos206.tok1517
+2	na	na	ADP	Sa	Case=Acc	3	case	_	pronunciation=na|Gos2.1_token_id=Gos206.tok1518
+3	internet	internet	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	1	obl	_	pronunciation=internet|Gos2.1_token_id=Gos206.tok1519
+4	stran	stran	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	3	appos	_	pronunciation=stran|Gos2.1_token_id=Gos206.tok1520
+5	Nep	NEP	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	4	nmod	_	pronunciation=Nep|Gos2.1_token_id=Gos206.tok1521
+6	,	,	PUNCT	Z	_	9	punct	_	_
+7	Nacionalna	nacionalen	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	pronunciation=Nacionalna|Gos2.1_token_id=Gos206.tok1522
+8	energetska	energetski	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	pronunciation=energetska|Gos2.1_token_id=Gos206.tok1523
+9	pot	pot	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	5	appos	_	pronunciation=pot|Gos2.1_token_id=Gos206.tok1524
+10	,	,	PUNCT	Z	_	9	punct	_	_
+11	lahko	lahko	ADV	Rgp	Degree=Pos	14	advmod	_	pronunciation=lahko|Gos2.1_token_id=Gos206.tok1525
+12	jo	on	PRON	Pp3fsa--y	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Variant=Short	14	obj	_	pronunciation=jo|Gos2.1_token_id=Gos206.tok1526
+13	takoj	takoj	ADV	Rgp	Degree=Pos	14	advmod	_	pronunciation=takoj|Gos2.1_token_id=Gos206.tok1527
+14	odtipkajte	odtipkati	VERB	Vmem2p	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	1	parataxis	_	pronunciation=odtipkajte|Gos2.1_token_id=Gos206.tok1528
+15	,	,	PUNCT	Z	_	17	punct	_	_
+16	če	če	SCONJ	Cs	_	17	mark	_	pronunciation=če|Gos2.1_token_id=Gos206.tok1529
+17	ste	biti	VERB	Va-r2p-n	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	14	advcl	_	pronunciation=ste|Gos2.1_token_id=Gos206.tok1530
+18	za	za	ADP	Si	Case=Ins	19	case	_	pronunciation=za|Gos2.1_token_id=Gos206.tok1531
+19	računalnikom	računalnik	NOUN	Ncmsi	Case=Ins|Gender=Masc|Number=Sing	17	obl	_	pronunciation=računalnikom|Gos2.1_token_id=Gos206.tok1532
+20	,	,	PUNCT	Z	_	21	punct	_	_
+21	ne	ne	PART	Q	Polarity=Neg	17	discourse	_	pronunciation=ne|Gos2.1_token_id=Gos206.tok1533
+22	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos206.s134
+# speaker_id = Sm-klic-02321
+# sound_url = https://nl.ijs.si/project/gos20/Gos206/Gos206.s134.mp3
+# text = o , čakajte to , m- , m- .
+# split = train
+1	o	o	INTJ	I	_	3	discourse	_	pronunciation=o|Gos2.1_token_id=Gos206.tok1534
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	čakajte	čakati	VERB	Vmpm2p	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	pronunciation=čakte|Gos2.1_token_id=Gos206.tok1535
+4	to	ta	DET	Pd-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	parataxis	_	pronunciation=to|Gos2.1_token_id=Gos206.tok1536
+5	,	,	PUNCT	Z	_	6	punct	_	_
+6	m-	m-	X	Xt	_	4	orphan	_	pronunciation=m…|Gos2.1_token_id=Gos206.tok1537
+7	,	,	PUNCT	Z	_	8	punct	_	_
+8	m-	m-	X	Xt	_	4	orphan	_	pronunciation=m…|Gos2.1_token_id=Gos206.tok1539
+9	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos206.s135
+# speaker_id = Sm-klic-02321
+# sound_url = https://nl.ijs.si/project/gos20/Gos206/Gos206.s135.mp3
+# text = uuu , nisem zdajle za raču- , Nep , Nep , ja .
+# split = train
+1	uuu	uuu	INTJ	I	_	3	discourse	_	pronunciation=uuu|Gos2.1_token_id=Gos206.tok1540
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	nisem	biti	VERB	Va-r1s-y	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=nisem|Gos2.1_token_id=Gos206.tok1541
+4	zdajle	zdajle	ADV	Rgp	Degree=Pos	3	advmod	_	pronunciation=zdajle|Gos2.1_token_id=Gos206.tok1542
+5	za	za	ADP	Sa	Case=Acc	6	case	_	pronunciation=za|Gos2.1_token_id=Gos206.tok1543
+6	raču-	raču-	X	Xt	_	3	orphan	_	pronunciation=raču…|Gos2.1_token_id=Gos206.tok1544
+7	,	,	PUNCT	Z	_	8	punct	_	_
+8	Nep	nep	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	3	parataxis:restart	_	pronunciation=Nep|Gos2.1_token_id=Gos206.tok1545
+9	,	,	PUNCT	Z	_	10	punct	_	_
+10	Nep	nep	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	8	parataxis	_	pronunciation=Nep|Gos2.1_token_id=Gos206.tok1546
+11	,	,	PUNCT	Z	_	12	punct	_	_
+12	ja	ja	PART	Q	_	10	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos206.tok1547
+13	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos206.s136
+# speaker_id = Vm-prod-07539
+# sound_url = https://nl.ijs.si/project/gos20/Gos206/Gos206.s136.mp3
+# text = samo Nep ne .
+# split = train
+1	samo	samo	PART	Q	_	2	advmod	_	pronunciation=samo|Gos2.1_token_id=Gos206.tok1548
+2	Nep	nep	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	pronunciation=Nep|Gos2.1_token_id=Gos206.tok1549
+3	ne	ne	PART	Q	Polarity=Neg	2	discourse	_	pronunciation=ne|Gos2.1_token_id=Gos206.tok1550
+4	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos206.s137
+# speaker_id = Vm-prod-07539
+# sound_url = https://nl.ijs.si/project/gos20/Gos206/Gos206.s137.mp3
+# text = in tam je Nacionalna energetska pot in potem je tam iskalnik .
+# split = train
+1	in	in	CCONJ	Cc	_	3	cc	_	pronunciation=in|Gos2.1_token_id=Gos206.tok1551
+2	tam	tam	ADV	Rgp	Degree=Pos	3	advmod	_	pronunciation=tam|Gos2.1_token_id=Gos206.tok1552
+3	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=je|Gos2.1_token_id=Gos206.tok1553
+4	Nacionalna	nacionalen	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	pronunciation=Nacionalna|Gos2.1_token_id=Gos206.tok1554
+5	energetska	energetski	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	pronunciation=energetska|Gos2.1_token_id=Gos206.tok1555
+6	pot	pot	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	pronunciation=pot|Gos2.1_token_id=Gos206.tok1556
+7	in	in	CCONJ	Cc	_	9	cc	_	pronunciation=in|Gos2.1_token_id=Gos206.tok1557
+8	potem	potem	ADV	Rgp	Degree=Pos	9	advmod	_	pronunciation=potem|Gos2.1_token_id=Gos206.tok1558
+9	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	conj	_	pronunciation=je|Gos2.1_token_id=Gos206.tok1559
+10	tam	tam	ADV	Rgp	Degree=Pos	9	advmod	_	pronunciation=tam|Gos2.1_token_id=Gos206.tok1560
+11	iskalnik	iskalnik	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	pronunciation=iskalnik|Gos2.1_token_id=Gos206.tok1561
+12	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos206.s138
+# speaker_id = Vm-prod-07539
+# sound_url = https://nl.ijs.si/project/gos20/Gos206/Gos206.s138.mp3
+# text = iskalnik je po krajih , po imenih , po , po , po , po ukrepih , ne , in tam lahko , če greste na ukrep , ne , pogledate , eee , k- , j- , recimo pasivna hiša je , se vam odprejo primeri pasivne hiše , eee v , eee , v Sloveniji , ne .
+# split = train
+1	iskalnik	iskalnik	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	pronunciation=iskalnik|Gos2.1_token_id=Gos206.tok1562
+2	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=je|Gos2.1_token_id=Gos206.tok1563
+3	po	po	ADP	Sl	Case=Loc	4	case	_	pronunciation=po|Gos2.1_token_id=Gos206.tok1564
+4	krajih	kraj	NOUN	Ncmpl	Case=Loc|Gender=Masc|Number=Plur	2	obl	_	pronunciation=krajih|Gos2.1_token_id=Gos206.tok1565
+5	,	,	PUNCT	Z	_	7	punct	_	_
+6	po	po	ADP	Sl	Case=Loc	7	case	_	pronunciation=po|Gos2.1_token_id=Gos206.tok1566
+7	imenih	ime	NOUN	Ncnpl	Case=Loc|Gender=Neut|Number=Plur	4	conj	_	pronunciation=imenih|Gos2.1_token_id=Gos206.tok1567
+8	,	,	PUNCT	Z	_	16	punct	_	_
+9	po	po	ADP	Sl	Case=Loc	15	reparandum	_	pronunciation=po|Gos2.1_token_id=Gos206.tok1568
+10	,	,	PUNCT	Z	_	9	punct	_	_
+11	po	po	ADP	Sl	Case=Loc	15	reparandum	_	pronunciation=po|Gos2.1_token_id=Gos206.tok1569
+12	,	,	PUNCT	Z	_	11	punct	_	_
+13	po	po	ADP	Sl	Case=Loc	15	reparandum	_	pronunciation=po|Gos2.1_token_id=Gos206.tok1570
+14	,	,	PUNCT	Z	_	13	punct	_	_
+15	po	po	ADP	Sl	Case=Loc	16	case	_	pronunciation=po|Gos2.1_token_id=Gos206.tok1571
+16	ukrepih	ukrep	NOUN	Ncmpl	Case=Loc|Gender=Masc|Number=Plur	4	conj	_	pronunciation=ukrepih|Gos2.1_token_id=Gos206.tok1572
+17	,	,	PUNCT	Z	_	18	punct	_	_
+18	ne	ne	PART	Q	Polarity=Neg	2	discourse	_	pronunciation=ne|Gos2.1_token_id=Gos206.tok1573
+19	,	,	PUNCT	Z	_	18	punct	_	_
+20	in	in	CCONJ	Cc	_	31	cc	_	pronunciation=in|Gos2.1_token_id=Gos206.tok1574
+21	tam	tam	ADV	Rgp	Degree=Pos	31	advmod	_	pronunciation=tam|Gos2.1_token_id=Gos206.tok1575
+22	lahko	lahko	ADV	Rgp	Degree=Pos	31	advmod	_	pronunciation=lahko|Gos2.1_token_id=Gos206.tok1576
+23	,	,	PUNCT	Z	_	25	punct	_	_
+24	če	če	SCONJ	Cs	_	25	mark	_	pronunciation=če|Gos2.1_token_id=Gos206.tok1577
+25	greste	iti	VERB	Vmbr2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	31	advcl	_	pronunciation=grete|Gos2.1_token_id=Gos206.tok1578
+26	na	na	ADP	Sa	Case=Acc	27	case	_	pronunciation=na|Gos2.1_token_id=Gos206.tok1579
+27	ukrep	ukrep	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	25	obl	_	pronunciation=ukrep|Gos2.1_token_id=Gos206.tok1580
+28	,	,	PUNCT	Z	_	29	punct	_	_
+29	ne	ne	PART	Q	Polarity=Neg	25	discourse	_	pronunciation=ne|Gos2.1_token_id=Gos206.tok1581
+30	,	,	PUNCT	Z	_	29	punct	_	_
+31	pogledate	pogledati	VERB	Vmer2p	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	conj	_	pronunciation=pogledate|Gos2.1_token_id=Gos206.tok1582
+32	,	,	PUNCT	Z	_	33	punct	_	_
+33	eee	eee	INTJ	I	_	42	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos206.tok1583
+34	,	,	PUNCT	Z	_	35	punct	_	_
+35	k-	k-	X	Xt	_	42	reparandum	_	pronunciation=k…|Gos2.1_token_id=Gos206.tok1584
+36	,	,	PUNCT	Z	_	37	punct	_	_
+37	j-	j-	X	Xt	_	42	reparandum	_	pronunciation=j…|Gos2.1_token_id=Gos206.tok1585
+38	,	,	PUNCT	Z	_	42	punct	_	_
+39	recimo	reči	VERB	Vmem1p	Aspect=Perf|Mood=Imp|Number=Plur|Person=1|VerbForm=Fin	42	parataxis:discourse	_	pronunciation=recimo|Gos2.1_token_id=Gos206.tok1586
+40	pasivna	pasiven	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	41	amod	_	pronunciation=pasivna|Gos2.1_token_id=Gos206.tok1587
+41	hiša	hiša	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	42	nsubj	_	pronunciation=hiša|Gos2.1_token_id=Gos206.tok1588
+42	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	31	ccomp	_	pronunciation=je|Gos2.1_token_id=Gos206.tok1589
+43	,	,	PUNCT	Z	_	42	punct	_	_
+44	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	46	expl	_	pronunciation=se|Gos2.1_token_id=Gos206.tok1590
+45	vam	ti	PRON	Pp2-pd	Case=Dat|Number=Plur|Person=2|PronType=Prs	46	obj	_	pronunciation=vam|Gos2.1_token_id=Gos206.tok1591
+46	odprejo	odpreti	VERB	Vmer3p	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	31	parataxis	_	pronunciation=odprejo|Gos2.1_token_id=Gos206.tok1592
+47	primeri	primer	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	46	nsubj	_	pronunciation=primeri|Gos2.1_token_id=Gos206.tok1593
+48	pasivne	pasiven	ADJ	Agpfsg	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	49	amod	_	pronunciation=pasivne|Gos2.1_token_id=Gos206.tok1594
+49	hiše	hiša	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	47	nmod	_	pronunciation=hiše|Gos2.1_token_id=Gos206.tok1595
+50	,	,	PUNCT	Z	_	51	punct	_	_
+51	eee	eee	INTJ	I	_	46	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos206.tok1596
+52	v	v	ADP	Sl	Case=Loc	56	reparandum	_	pronunciation=v|Gos2.1_token_id=Gos206.tok1597
+53	,	,	PUNCT	Z	_	52	punct	_	_
+54	eee	eee	INTJ	I	_	46	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos206.tok1598
+55	,	,	PUNCT	Z	_	54	punct	_	_
+56	v	v	ADP	Sl	Case=Loc	57	case	_	pronunciation=v|Gos2.1_token_id=Gos206.tok1599
+57	Sloveniji	Slovenija	PROPN	Npfsl	Case=Loc|Gender=Fem|Number=Sing	47	nmod	_	pronunciation=Sloveniji|Gos2.1_token_id=Gos206.tok1600
+58	,	,	PUNCT	Z	_	59	punct	_	_
+59	ne	ne	PART	Q	Polarity=Neg	46	discourse	_	pronunciation=ne|Gos2.1_token_id=Gos206.tok1601
+60	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos206.s139
+# speaker_id = Vm-prod-07539
+# sound_url = https://nl.ijs.si/project/gos20/Gos206/Gos206.s139.mp3
+# text = in tam dobite naslove in pokličete nekega gospoda ali pa gospo oziroma lastnika te hiše , ga pokličete in ga vprašate za njegove izkušnje .
+# split = train
+1	in	in	CCONJ	Cc	_	3	cc	_	pronunciation=in|Gos2.1_token_id=Gos206.tok1602
+2	tam	tam	ADV	Rgp	Degree=Pos	3	advmod	_	pronunciation=tam|Gos2.1_token_id=Gos206.tok1603
+3	dobite	dobiti	VERB	Vmer2p	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=dobite|Gos2.1_token_id=Gos206.tok1604
+4	naslove	naslov	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	3	obj	_	pronunciation=naslove|Gos2.1_token_id=Gos206.tok1605
+5	in	in	CCONJ	Cc	_	6	cc	_	pronunciation=in|Gos2.1_token_id=Gos206.tok1606
+6	pokličete	poklicati	VERB	Vmer2p	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	conj	_	pronunciation=pokličete|Gos2.1_token_id=Gos206.tok1607
+7	nekega	nek	DET	Pi-msa	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	8	det	_	pronunciation=nekega|Gos2.1_token_id=Gos206.tok1608
+8	gospoda	gospod	NOUN	Ncmsay	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	pronunciation=gospoda|Gos2.1_token_id=Gos206.tok1609
+9	ali	ali	CCONJ	Cc	_	11	cc	_	pronunciation=al|Gos2.1_token_id=Gos206.tok1610
+10	pa	pa	CCONJ	Cc	_	9	fixed	_	pronunciation=pa|Gos2.1_token_id=Gos206.tok1611
+11	gospo	gospa	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	8	conj	_	pronunciation=gospo|Gos2.1_token_id=Gos206.tok1612
+12	oziroma	oziroma	CCONJ	Cc	_	13	cc	_	pronunciation=oziroma|Gos2.1_token_id=Gos206.tok1613
+13	lastnika	lastnik	NOUN	Ncmsay	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	8	conj	_	pronunciation=lastnika|Gos2.1_token_id=Gos206.tok1614
+14	te	ta	DET	Pd-fsg	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	15	det	_	pronunciation=te|Gos2.1_token_id=Gos206.tok1615
+15	hiše	hiša	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	pronunciation=hiše|Gos2.1_token_id=Gos206.tok1616
+16	,	,	PUNCT	Z	_	18	punct	_	_
+17	ga	on	PRON	Pp3msa--y	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	18	obj	_	pronunciation=ga|Gos2.1_token_id=Gos206.tok1617
+18	pokličete	poklicati	VERB	Vmer2p	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	parataxis	_	pronunciation=pokličete|Gos2.1_token_id=Gos206.tok1618
+19	in	in	CCONJ	Cc	_	21	cc	_	pronunciation=in|Gos2.1_token_id=Gos206.tok1619
+20	ga	on	PRON	Pp3msa--y	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	21	obj	_	pronunciation=ga|Gos2.1_token_id=Gos206.tok1620
+21	vprašate	vprašati	VERB	Vmer2p	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	18	conj	_	pronunciation=vprašate|Gos2.1_token_id=Gos206.tok1621
+22	za	za	ADP	Sa	Case=Acc	24	case	_	pronunciation=za|Gos2.1_token_id=Gos206.tok1622
+23	njegove	njegov	DET	Ps3fpasm	Case=Acc|Gender=Fem|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	24	det	_	pronunciation=njegove|Gos2.1_token_id=Gos206.tok1623
+24	izkušnje	izkušnja	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	21	obl	_	pronunciation=izkušnje|Gos2.1_token_id=Gos206.tok1624
+25	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos206.s140
+# speaker_id = Vm-prod-07539
+# sound_url = https://nl.ijs.si/project/gos20/Gos206/Gos206.s140.mp3
+# text = cilj , smisel tega projekta pa je to , ne , da se dobijo informacije direktno od uporabnikov objektov .
+# split = train
+1	cilj	cilj	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	pronunciation=cilj|Gos2.1_token_id=Gos206.tok1625
+2	,	,	PUNCT	Z	_	3	punct	_	_
+3	smisel	smisel	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	pronunciation=smisel|Gos2.1_token_id=Gos206.tok1626
+4	tega	ta	DET	Pd-msg	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	pronunciation=tega|Gos2.1_token_id=Gos206.tok1627
+5	projekta	projekt	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	pronunciation=projekta|Gos2.1_token_id=Gos206.tok1628
+6	pa	pa	CCONJ	Cc	_	1	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos206.tok1629
+7	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	cop	_	pronunciation=je|Gos2.1_token_id=Gos206.tok1630
+8	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	nsubj	_	pronunciation=to|Gos2.1_token_id=Gos206.tok1631
+9	,	,	PUNCT	Z	_	10	punct	_	_
+10	ne	ne	PART	Q	Polarity=Neg	1	discourse	_	pronunciation=ne|Gos2.1_token_id=Gos206.tok1632
+11	,	,	PUNCT	Z	_	10	punct	_	_
+12	da	da	SCONJ	Cs	_	14	mark	_	pronunciation=da|Gos2.1_token_id=Gos206.tok1633
+13	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	14	expl	_	pronunciation=se|Gos2.1_token_id=Gos206.tok1634
+14	dobijo	dobiti	VERB	Vmer3p	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	acl	_	pronunciation=dobijo|Gos2.1_token_id=Gos206.tok1635
+15	informacije	informacija	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	14	nsubj	_	pronunciation=informacije|Gos2.1_token_id=Gos206.tok1636
+16	direktno	direktno	ADV	Rgp	Degree=Pos	14	advmod	_	pronunciation=direktno|Gos2.1_token_id=Gos206.tok1637
+17	od	od	ADP	Sg	Case=Gen	18	case	_	pronunciation=od|Gos2.1_token_id=Gos206.tok1638
+18	uporabnikov	uporabnik	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	14	obl	_	pronunciation=uporabnikov|Gos2.1_token_id=Gos206.tok1639
+19	objektov	objekt	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	pronunciation=objektov|Gos2.1_token_id=Gos206.tok1640
+20	.	.	PUNCT	Z	_	1	punct	_	_
+
+

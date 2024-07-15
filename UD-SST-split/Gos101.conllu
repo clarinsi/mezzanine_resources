@@ -1,0 +1,40 @@
+# newdoc id = Gos101
+# sent_id = Gos101.s4
+# speaker_id = Sm-inte-03504
+# sound_url = https://nl.ijs.si/project/gos20/Gos101/Gos101.s4.mp3
+# text = gospodarske razmere v svetu so tako zapletene , da naj bi danes Obama še enkrat dal prešteti glasove , ali bo sploh zmagal , zato ker se boji prevzeti te razmere .
+# split = train
+1	gospodarske	gospodarski	ADJ	Agpfpn	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	2	amod	_	pronunciation=gospodarske|Gos2.1_token_id=Gos101.tok32
+2	razmere	razmera	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	7	nsubj	_	pronunciation=razmere|Gos2.1_token_id=Gos101.tok33
+3	v	v	ADP	Sl	Case=Loc	4	case	_	pronunciation=v|Gos2.1_token_id=Gos101.tok34
+4	svetu	svet	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	2	nmod	_	pronunciation=svetu|Gos2.1_token_id=Gos101.tok35
+5	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	_	pronunciation=so|Gos2.1_token_id=Gos101.tok36
+6	tako	tako	ADV	Rgp	Degree=Pos	7	advmod	_	pronunciation=tako|Gos2.1_token_id=Gos101.tok37
+7	zapletene	zapleten	ADJ	Agpfpn	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	0	root	_	pronunciation=zapletene|Gos2.1_token_id=Gos101.tok38
+8	,	,	PUNCT	Z	_	16	punct	_	_
+9	da	da	SCONJ	Cs	_	16	mark	_	pronunciation=da|Gos2.1_token_id=Gos101.tok39
+10	naj	naj	PART	Q	_	16	advmod	_	pronunciation=naj|Gos2.1_token_id=Gos101.tok40
+11	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	16	aux	_	pronunciation=bi|Gos2.1_token_id=Gos101.tok41
+12	danes	danes	ADV	Rgp	Degree=Pos	16	advmod	_	pronunciation=danes|Gos2.1_token_id=Gos101.tok42
+13	Obama	Obama	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	pronunciation=Obama|Gos2.1_token_id=Gos101.tok43
+14	še	še	PART	Q	_	15	advmod	_	pronunciation=še|Gos2.1_token_id=Gos101.tok44
+15	enkrat	enkrat	ADV	Rgp	Degree=Pos	16	advmod	_	pronunciation=enkrat|Gos2.1_token_id=Gos101.tok45
+16	dal	dati	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	7	advcl	_	pronunciation=dal|Gos2.1_token_id=Gos101.tok46
+17	prešteti	prešteti	VERB	Vmen	Aspect=Perf|VerbForm=Inf	16	xcomp	_	pronunciation=prešteti|Gos2.1_token_id=Gos101.tok47
+18	glasove	glas	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	17	obj	_	pronunciation=glasove|Gos2.1_token_id=Gos101.tok48
+19	,	,	PUNCT	Z	_	23	punct	_	_
+20	ali	ali	ADV	Rgp	Degree=Pos	23	mark	_	pronunciation=ali|Gos2.1_token_id=Gos101.tok49
+21	bo	biti	AUX	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	23	aux	_	pronunciation=bo|Gos2.1_token_id=Gos101.tok50
+22	sploh	sploh	PART	Q	_	23	advmod	_	pronunciation=sploh|Gos2.1_token_id=Gos101.tok51
+23	zmagal	zmagati	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	18	acl	_	pronunciation=zmagal|Gos2.1_token_id=Gos101.tok52
+24	,	,	PUNCT	Z	_	28	punct	_	_
+25	zato	zato	ADV	Rgp	Degree=Pos	28	mark	_	pronunciation=zato|Gos2.1_token_id=Gos101.tok53
+26	ker	ker	SCONJ	Cs	_	25	fixed	_	pronunciation=ker|Gos2.1_token_id=Gos101.tok54
+27	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	28	expl	_	pronunciation=se|Gos2.1_token_id=Gos101.tok55
+28	boji	bati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	pronunciation=boji|Gos2.1_token_id=Gos101.tok56
+29	prevzeti	prevzeti	VERB	Vmen	Aspect=Perf|VerbForm=Inf	28	xcomp	_	pronunciation=prevzeti|Gos2.1_token_id=Gos101.tok57
+30	te	ta	DET	Pd-fpa	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	31	det	_	pronunciation=te|Gos2.1_token_id=Gos101.tok58
+31	razmere	razmera	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	29	obj	_	pronunciation=razmere|Gos2.1_token_id=Gos101.tok59
+32	.	.	PUNCT	Z	_	7	punct	_	_
+
+

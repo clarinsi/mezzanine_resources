@@ -1,0 +1,259 @@
+# newdoc id = Gos222
+# sent_id = Gos222.s279
+# speaker_id = Mf-prij-01630
+# sound_url = https://nl.ijs.si/project/gos20/Gos222/Gos222.s279.mp3
+# text = jim dišalo .
+# split = test
+1	jim	on	PRON	Pp3mpd--y	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Variant=Short	2	obj	_	pronunciation=jim|Gos2.1_token_id=Gos222.tok3725
+2	dišalo	dišati	VERB	Vmpp-sn	Aspect=Imp|Gender=Neut|Number=Sing|VerbForm=Part	0	root	_	pronunciation=dišalo|Gos2.1_token_id=Gos222.tok3726
+3	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos222.s280
+# speaker_id = Jf-prij-01612
+# sound_url = https://nl.ijs.si/project/gos20/Gos222/Gos222.s280.mp3
+# text = ne , daj , novo , ta mama je bila malo hipi , sploh jih ni kagirala , tipo , če so se oddaljile .
+# split = test
+1	ne	ne	PART	Q	Polarity=Neg	3	discourse	_	pronunciation=ne|Gos2.1_token_id=Gos222.tok3727
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	daj	dati	VERB	Vmem2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	pronunciation=dej|Gos2.1_token_id=Gos222.tok3728
+4	,	,	PUNCT	Z	_	5	punct	_	_
+5	novo	nov	ADJ	Agpfsa	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	3	obj	_	pronunciation=novo|Gos2.1_token_id=Gos222.tok3729
+6	,	,	PUNCT	Z	_	12	punct	_	_
+7	ta	ta	DET	Pd-fsn	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	pronunciation=ta|Gos2.1_token_id=Gos222.tok3730
+8	mama	mama	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	pronunciation=mama|Gos2.1_token_id=Gos222.tok3731
+9	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	12	aux	_	pronunciation=je|Gos2.1_token_id=Gos222.tok3732
+10	bila	biti	AUX	Va-p-sf	Gender=Fem|Number=Sing|VerbForm=Part	12	cop	_	pronunciation=bla|Gos2.1_token_id=Gos222.tok3733
+11	malo	malo	DET	Rgp	PronType=Ind	12	det	_	pronunciation=malo|Gos2.1_token_id=Gos222.tok3734
+12	hipi	hipi	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	3	parataxis	_	pronunciation=hipi|Gos2.1_token_id=Gos222.tok3735
+13	,	,	PUNCT	Z	_	17	punct	_	_
+14	sploh	sploh	PART	Q	_	15	advmod	_	pronunciation=sploh|Gos2.1_token_id=Gos222.tok3736
+15	jih	on	PRON	Pp3fpg--y	Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Variant=Short	17	obj	_	pronunciation=jih|Gos2.1_token_id=Gos222.tok3737
+16	ni	biti	AUX	Va-r3s-y	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	17	aux	_	pronunciation=nej|Gos2.1_token_id=Gos222.tok3738
+17	kagirala	kagirati	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	12	parataxis	_	pronunciation=kagjerla|Gos2.1_token_id=Gos222.tok3739
+18	,	,	PUNCT	Z	_	19	punct	_	_
+19	tipo	tipo	PART	Q	_	24	advmod	_	pronunciation=tipo|Gos2.1_token_id=Gos222.tok3740
+20	,	,	PUNCT	Z	_	19	punct	_	_
+21	če	če	SCONJ	Cs	_	24	mark	_	pronunciation=če|Gos2.1_token_id=Gos222.tok3741
+22	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	24	aux	_	pronunciation=so|Gos2.1_token_id=Gos222.tok3742
+23	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	24	expl	_	pronunciation=se|Gos2.1_token_id=Gos222.tok3743
+24	oddaljile	oddaljiti	VERB	Vmep-pf	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part	17	advcl	_	pronunciation=oddaljile|Gos2.1_token_id=Gos222.tok3744
+25	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos222.s281
+# speaker_id = Jf-prij-01612
+# sound_url = https://nl.ijs.si/project/gos20/Gos222/Gos222.s281.mp3
+# text = je tekla nazaj za n- , zadaj za nami , smo jo nazaj nesli .
+# split = test
+1	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	aux	_	pronunciation=je|Gos2.1_token_id=Gos222.tok3745
+2	tekla	teči	VERB	Vmpp-sf	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=tekla|Gos2.1_token_id=Gos222.tok3746
+3	nazaj	nazaj	ADV	Rgp	Degree=Pos	2	advmod	_	pronunciation=nezej|Gos2.1_token_id=Gos222.tok3747
+4	za	za	ADP	Sa	Case=Acc	5	case	_	pronunciation=za|Gos2.1_token_id=Gos222.tok3748
+5	n-	n-	X	Xt	_	9	reparandum	_	pronunciation=n…|Gos2.1_token_id=Gos222.tok3749
+6	,	,	PUNCT	Z	_	5	punct	_	_
+7	zadaj	zadaj	ADV	Rgp	Degree=Pos	9	advmod	_	pronunciation=zad|Gos2.1_token_id=Gos222.tok3750
+8	za	za	ADP	Si	Case=Ins	9	case	_	pronunciation=za|Gos2.1_token_id=Gos222.tok3751
+9	nami	jaz	PRON	Pp1-pi	Case=Ins|Number=Plur|Person=1|PronType=Prs	2	obl	_	pronunciation=name|Gos2.1_token_id=Gos222.tok3752
+10	,	,	PUNCT	Z	_	14	punct	_	_
+11	smo	biti	AUX	Va-r1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	14	aux	_	pronunciation=smo|Gos2.1_token_id=Gos222.tok3753
+12	jo	on	PRON	Pp3fsa--y	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Variant=Short	14	obj	_	pronunciation=jo|Gos2.1_token_id=Gos222.tok3754
+13	nazaj	nazaj	ADV	Rgp	Degree=Pos	14	advmod	_	pronunciation=nezej|Gos2.1_token_id=Gos222.tok3755
+14	nesli	nesti	VERB	Vmpp-pm	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	2	parataxis	_	pronunciation=nesle|Gos2.1_token_id=Gos222.tok3756
+15	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos222.s282
+# speaker_id = Jf-prij-01612
+# sound_url = https://nl.ijs.si/project/gos20/Gos222/Gos222.s282.mp3
+# text = in , eee , nič in pol , en , smo , eee , smo , smo rekli , zdaj se ne obrnemo več , gremo hitro domov .
+# split = test
+1	in	in	CCONJ	Cc	_	18	cc	_	pronunciation=in|Gos2.1_token_id=Gos222.tok3757
+2	,	,	PUNCT	Z	_	3	punct	_	_
+3	eee	eee	INTJ	I	_	18	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos222.tok3758
+4	,	,	PUNCT	Z	_	3	punct	_	_
+5	nič	nič	ADV	Rgp	Degree=Pos	18	discourse	_	pronunciation=nč|Gos2.1_token_id=Gos222.tok3759
+6	in	in	CCONJ	Cc	_	18	cc	_	pronunciation=in|Gos2.1_token_id=Gos222.tok3760
+7	pol	pol	DET	Rgp	Degree=Pos	18	advmod	_	pronunciation=puole|Gos2.1_token_id=Gos222.tok3761
+8	,	,	PUNCT	Z	_	9	punct	_	_
+9	en	en	NUM	Mlpmsn	Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	18	reparandum	_	pronunciation=en|Gos2.1_token_id=Gos222.tok3762
+10	,	,	PUNCT	Z	_	9	punct	_	_
+11	smo	biti	AUX	Va-r1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	18	reparandum	_	pronunciation=smo|Gos2.1_token_id=Gos222.tok3763
+12	,	,	PUNCT	Z	_	11	punct	_	_
+13	eee	eee	INTJ	I	_	18	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos222.tok3764
+14	,	,	PUNCT	Z	_	13	punct	_	_
+15	smo	biti	AUX	Va-r1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	18	reparandum	_	pronunciation=smo|Gos2.1_token_id=Gos222.tok3765
+16	,	,	PUNCT	Z	_	15	punct	_	_
+17	smo	biti	AUX	Va-r1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	18	aux	_	pronunciation=smo|Gos2.1_token_id=Gos222.tok3766
+18	rekli	reči	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	pronunciation=rekli|Gos2.1_token_id=Gos222.tok3767
+19	,	,	PUNCT	Z	_	23	punct	_	_
+20	zdaj	zdaj	ADV	Rgp	Degree=Pos	23	advmod	_	pronunciation=zdej|Gos2.1_token_id=Gos222.tok3768
+21	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	23	expl	_	pronunciation=se|Gos2.1_token_id=Gos222.tok3769
+22	ne	ne	PART	Q	Polarity=Neg	23	advmod	_	pronunciation=ne|Gos2.1_token_id=Gos222.tok3770
+23	obrnemo	obrniti	VERB	Vmer1p	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	18	parataxis	_	pronunciation=obrnemo|Gos2.1_token_id=Gos222.tok3771
+24	več	več	PART	Q	_	23	advmod	_	pronunciation=več|Gos2.1_token_id=Gos222.tok3772
+25	,	,	PUNCT	Z	_	26	punct	_	_
+26	gremo	iti	VERB	Vmbm1p	Mood=Imp|Number=Plur|Person=1|VerbForm=Fin	23	parataxis	_	pronunciation=gremo|Gos2.1_token_id=Gos222.tok3773
+27	hitro	hitro	ADV	Rgp	Degree=Pos	26	advmod	_	pronunciation=hitro|Gos2.1_token_id=Gos222.tok3774
+28	domov	domov	ADV	Rgp	Degree=Pos	26	advmod	_	pronunciation=domov|Gos2.1_token_id=Gos222.tok3775
+29	.	.	PUNCT	Z	_	18	punct	_	_
+
+
+# sent_id = Gos222.s283
+# speaker_id = Jf-prij-01612
+# sound_url = https://nl.ijs.si/project/gos20/Gos222/Gos222.s283.mp3
+# text = smo šli hitro domov in mačka zadaj za nami .
+# split = test
+1	smo	biti	AUX	Va-r1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	aux	_	pronunciation=smo|Gos2.1_token_id=Gos222.tok3776
+2	šli	iti	VERB	Vmbp-pm	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	pronunciation=šle|Gos2.1_token_id=Gos222.tok3777
+3	hitro	hitro	ADV	Rgp	Degree=Pos	2	advmod	_	pronunciation=hitro|Gos2.1_token_id=Gos222.tok3778
+4	domov	domov	ADV	Rgp	Degree=Pos	2	advmod	_	pronunciation=dmov|Gos2.1_token_id=Gos222.tok3779
+5	in	in	CCONJ	Cc	_	6	cc	_	pronunciation=in|Gos2.1_token_id=Gos222.tok3780
+6	mačka	mačka	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	2	conj	_	pronunciation=mačka|Gos2.1_token_id=Gos222.tok3781
+7	zadaj	zadaj	ADV	Rgp	Degree=Pos	9	advmod	_	pronunciation=zad|Gos2.1_token_id=Gos222.tok3782
+8	za	za	ADP	Si	Case=Ins	9	case	_	pronunciation=z|Gos2.1_token_id=Gos222.tok3783
+9	nami	jaz	PRON	Pp1-pi	Case=Ins|Number=Plur|Person=1|PronType=Prs	6	orphan	_	pronunciation=name|Gos2.1_token_id=Gos222.tok3784
+10	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos222.s284
+# speaker_id = Mf-prij-01630
+# sound_url = https://nl.ijs.si/project/gos20/Gos222/Gos222.s284.mp3
+# text = zadaj za vami .
+# split = test
+1	zadaj	zadaj	ADV	Rgp	Degree=Pos	3	advmod	_	pronunciation=zad|Gos2.1_token_id=Gos222.tok3785
+2	za	za	ADP	Si	Case=Ins	3	case	_	pronunciation=za|Gos2.1_token_id=Gos222.tok3786
+3	vami	ti	PRON	Pp2-pi	Case=Ins|Number=Plur|Person=2|PronType=Prs	0	root	_	pronunciation=vami|Gos2.1_token_id=Gos222.tok3787
+4	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos222.s285
+# speaker_id = Jf-prij-01612
+# sound_url = https://nl.ijs.si/project/gos20/Gos222/Gos222.s285.mp3
+# text = in ne samo , da je bila ena , so prišle dve .
+# split = test
+1	in	in	CCONJ	Cc	_	8	cc	_	pronunciation=in|Gos2.1_token_id=Gos222.tok3788
+2	ne	ne	PART	Q	Polarity=Neg	8	cc:preconj	_	pronunciation=ne|Gos2.1_token_id=Gos222.tok3789
+3	samo	samo	PART	Q	_	2	fixed	_	pronunciation=samo|Gos2.1_token_id=Gos222.tok3790
+4	,	,	PUNCT	Z	_	2	punct	_	_
+5	da	da	SCONJ	Cs	_	2	fixed	_	pronunciation=d|Gos2.1_token_id=Gos222.tok3791
+6	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	aux	_	pronunciation=je|Gos2.1_token_id=Gos222.tok3792
+7	bila	biti	AUX	Va-p-sf	Gender=Fem|Number=Sing|VerbForm=Part	8	cop	_	pronunciation=bla|Gos2.1_token_id=Gos222.tok3793
+8	ena	en	NUM	Mlpfsn	Case=Nom|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	0	root	_	pronunciation=ana|Gos2.1_token_id=Gos222.tok3794
+9	,	,	PUNCT	Z	_	11	punct	_	_
+10	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	aux	_	pronunciation=so|Gos2.1_token_id=Gos222.tok3795
+11	prišle	priti	VERB	Vmep-pf	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part	8	parataxis	_	pronunciation=pršle|Gos2.1_token_id=Gos222.tok3796
+12	dve	dva	NUM	Mlcfdn	Case=Nom|Gender=Fem|Number=Dual|NumForm=Word|NumType=Card	11	nsubj	_	pronunciation=dvej|Gos2.1_token_id=Gos222.tok3797
+13	.	.	PUNCT	Z	_	8	punct	_	_
+
+
+# sent_id = Gos222.s286
+# speaker_id = Mf-prij-01630
+# sound_url = https://nl.ijs.si/project/gos20/Gos222/Gos222.s286.mp3
+# text = ah .
+# split = test
+1	ah	ah	INTJ	I	_	0	root	_	pronunciation=ah|Gos2.1_token_id=Gos222.tok3798
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos222.s287
+# speaker_id = Jf-prij-01612
+# sound_url = https://nl.ijs.si/project/gos20/Gos222/Gos222.s287.mp3
+# text = nič in pol smo jim dali malo mlekca in so ostale pri nas do jutra .
+# split = test
+1	nič	nič	ADV	Rgp	Degree=Pos	6	discourse	_	pronunciation=nč|Gos2.1_token_id=Gos222.tok3799
+2	in	in	CCONJ	Cc	_	6	cc	_	pronunciation=in|Gos2.1_token_id=Gos222.tok3800
+3	pol	pol	DET	Rgp	Degree=Pos	6	advmod	_	pronunciation=pole|Gos2.1_token_id=Gos222.tok3801
+4	smo	biti	AUX	Va-r1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	pronunciation=smo|Gos2.1_token_id=Gos222.tok3802
+5	jim	on	PRON	Pp3fpd--y	Case=Dat|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Variant=Short	6	iobj	_	pronunciation=jim|Gos2.1_token_id=Gos222.tok3803
+6	dali	dati	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	pronunciation=dali|Gos2.1_token_id=Gos222.tok3804
+7	malo	malo	DET	Rgp	PronType=Ind	8	det	_	pronunciation=malo|Gos2.1_token_id=Gos222.tok3805
+8	mlekca	mlekec	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	6	obj	_	pronunciation=mlekca|Gos2.1_token_id=Gos222.tok3806
+9	in	in	CCONJ	Cc	_	11	cc	_	pronunciation=in|Gos2.1_token_id=Gos222.tok3807
+10	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	aux	_	pronunciation=so|Gos2.1_token_id=Gos222.tok3808
+11	ostale	ostati	VERB	Vmep-pf	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part	6	conj	_	pronunciation=ustale|Gos2.1_token_id=Gos222.tok3809
+12	pri	pri	ADP	Sl	Case=Loc	13	case	_	pronunciation=pr|Gos2.1_token_id=Gos222.tok3810
+13	nas	jaz	PRON	Pp1-pl	Case=Loc|Number=Plur|Person=1|PronType=Prs	11	obl	_	pronunciation=ns|Gos2.1_token_id=Gos222.tok3811
+14	do	do	ADP	Sg	Case=Gen	15	case	_	pronunciation=du|Gos2.1_token_id=Gos222.tok3812
+15	jutra	jutro	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	11	obl	_	pronunciation=jutra|Gos2.1_token_id=Gos222.tok3813
+16	.	.	PUNCT	Z	_	6	punct	_	_
+
+
+# sent_id = Gos222.s288
+# speaker_id = Jf-prij-01612
+# sound_url = https://nl.ijs.si/project/gos20/Gos222/Gos222.s288.mp3
+# text = in bašta , so se navezale na nas , ne .
+# split = test
+1	in	in	CCONJ	Cc	_	6	cc	_	pronunciation=in|Gos2.1_token_id=Gos222.tok3814
+2	bašta	bašta	ADV	Rgp	Degree=Pos	6	discourse	_	pronunciation=bašta|Gos2.1_token_id=Gos222.tok3815
+3	,	,	PUNCT	Z	_	2	punct	_	_
+4	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	pronunciation=so|Gos2.1_token_id=Gos222.tok3816
+5	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	6	expl	_	pronunciation=se|Gos2.1_token_id=Gos222.tok3817
+6	navezale	navezati	VERB	Vmep-pf	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	pronunciation=navezale|Gos2.1_token_id=Gos222.tok3818
+7	na	na	ADP	Sl	Case=Loc	8	case	_	pronunciation=ne|Gos2.1_token_id=Gos222.tok3819
+8	nas	jaz	PRON	Pp1-pa	Case=Acc|Number=Plur|Person=1|PronType=Prs	6	obl	_	pronunciation=nes|Gos2.1_token_id=Gos222.tok3820
+9	,	,	PUNCT	Z	_	10	punct	_	_
+10	ne	ne	PART	Q	Polarity=Neg	6	discourse	_	pronunciation=ne|Gos2.1_token_id=Gos222.tok3821
+11	.	.	PUNCT	Z	_	6	punct	_	_
+
+
+# sent_id = Gos222.s289
+# speaker_id = Jf-prij-01612
+# sound_url = https://nl.ijs.si/project/gos20/Gos222/Gos222.s289.mp3
+# text = alora , smo rekli , bom , jih nesemo domov , višto ker jaz sem zmeraj imela mačke doma in mene mačke so me , sem zmeraj imela samo mačke , quindi , imam boljši odnos z njimi kakor s s psi , ne , anche če psi so mi super zlati .
+# split = test
+1	alora	alora	PART	Q	_	4	discourse	_	pronunciation=alora|Gos2.1_token_id=Gos222.tok3822
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	smo	biti	AUX	Va-r1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	pronunciation=smo|Gos2.1_token_id=Gos222.tok3823
+4	rekli	reči	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	pronunciation=rekle|Gos2.1_token_id=Gos222.tok3824
+5	,	,	PUNCT	Z	_	6	punct	_	_
+6	bom	biti	VERB	Va-f1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin	9	reparandum	_	pronunciation=bom|Gos2.1_token_id=Gos222.tok3825
+7	,	,	PUNCT	Z	_	9	punct	_	_
+8	jih	on	PRON	Pp3fpa--y	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Variant=Short	9	obj	_	pronunciation=jih|Gos2.1_token_id=Gos222.tok3826
+9	nesemo	nesti	VERB	Vmpr1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	parataxis	_	pronunciation=nesmo|Gos2.1_token_id=Gos222.tok3827
+10	domov	domov	ADV	Rgp	Degree=Pos	9	advmod	_	pronunciation=dmov|Gos2.1_token_id=Gos222.tok3828
+11	,	,	PUNCT	Z	_	17	punct	_	_
+12	višto	višta	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	17	discourse	_	pronunciation=višto|Gos2.1_token_id=Gos222.tok3829
+13	ker	ker	SCONJ	Cs	_	17	mark	_	pronunciation=ke|Gos2.1_token_id=Gos222.tok3830
+14	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	pronunciation=jaz|Gos2.1_token_id=Gos222.tok3831
+15	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	17	aux	_	pronunciation=sn|Gos2.1_token_id=Gos222.tok3832
+16	zmeraj	zmeraj	ADV	Rgp	Degree=Pos	17	advmod	_	pronunciation=zmeri|Gos2.1_token_id=Gos222.tok3833
+17	imela	imeti	VERB	Vmpp-sf	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	9	advcl	_	pronunciation=mjela|Gos2.1_token_id=Gos222.tok3834
+18	mačke	mačka	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	17	obj	_	pronunciation=maččje|Gos2.1_token_id=Gos222.tok3835
+19	doma	doma	ADV	Rgp	Degree=Pos	17	advmod	_	pronunciation=dma|Gos2.1_token_id=Gos222.tok3836
+20	in	in	CCONJ	Cc	_	28	cc	_	pronunciation=in|Gos2.1_token_id=Gos222.tok3837
+21	mene	jaz	PRON	Pp1-sa	Case=Acc|Number=Sing|Person=1|PronType=Prs	23	dislocated	_	pronunciation=mene|Gos2.1_token_id=Gos222.tok3838
+22	mačke	mačka	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	23	nsubj	_	pronunciation=maččje|Gos2.1_token_id=Gos222.tok3839
+23	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	28	reparandum	_	pronunciation=so|Gos2.1_token_id=Gos222.tok3840
+24	me	jaz	PRON	Pp1-sa--y	Case=Acc|Number=Sing|Person=1|PronType=Prs|Variant=Short	23	obj	_	pronunciation=me|Gos2.1_token_id=Gos222.tok3841
+25	,	,	PUNCT	Z	_	23	punct	_	_
+26	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	28	aux	_	pronunciation=sn|Gos2.1_token_id=Gos222.tok3842
+27	zmeraj	zmeraj	ADV	Rgp	Degree=Pos	28	advmod	_	pronunciation=zmeri|Gos2.1_token_id=Gos222.tok3843
+28	imela	imeti	VERB	Vmpp-sf	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	17	conj	_	pronunciation=imela|Gos2.1_token_id=Gos222.tok3844
+29	samo	samo	PART	Q	_	30	advmod	_	pronunciation=samo|Gos2.1_token_id=Gos222.tok3845
+30	mačke	mačka	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	28	obj	_	pronunciation=mačke|Gos2.1_token_id=Gos222.tok3846
+31	,	,	PUNCT	Z	_	32	punct	_	_
+32	quindi	quindi	X	Xf	Foreign=Yes	34	cc	_	pronunciation=kuindi|Gos2.1_token_id=Gos222.tok3847
+33	,	,	PUNCT	Z	_	34	punct	_	_
+34	imam	imeti	VERB	Vmpr1s-n	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	17	conj	_	pronunciation=imam|Gos2.1_token_id=Gos222.tok3848
+35	boljši	dober	ADJ	Agcmsay	Case=Acc|Definite=Def|Degree=Cmp|Gender=Masc|Number=Sing	36	amod	_	pronunciation=bulše|Gos2.1_token_id=Gos222.tok3849
+36	odnos	odnos	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	34	obj	_	pronunciation=odnos|Gos2.1_token_id=Gos222.tok3850
+37	z	z	ADP	Si	Case=Ins	38	case	_	pronunciation=z|Gos2.1_token_id=Gos222.tok3851
+38	njimi	on	PRON	Pp3fpi	Case=Ins|Gender=Fem|Number=Plur|Person=3|PronType=Prs	34	obl	_	pronunciation=njimi|Gos2.1_token_id=Gos222.tok3852
+39	kakor	kakor	SCONJ	Cs	_	42	case	_	pronunciation=kukr|Gos2.1_token_id=Gos222.tok3853
+40	s	z	ADP	Si	Case=Ins	41	reparandum	_	pronunciation=s|Gos2.1_token_id=Gos222.tok3854
+41	s	z	ADP	Si	Case=Ins	42	case	_	pronunciation=s|Gos2.1_token_id=Gos222.tok3855
+42	psi	pes	NOUN	Ncmpi	Case=Ins|Gender=Masc|Number=Plur	34	obl	_	pronunciation=pesme|Gos2.1_token_id=Gos222.tok3856
+43	,	,	PUNCT	Z	_	44	punct	_	_
+44	ne	ne	PART	Q	Polarity=Neg	34	discourse	_	pronunciation=ne|Gos2.1_token_id=Gos222.tok3857
+45	,	,	PUNCT	Z	_	52	punct	_	_
+46	anche	anche	X	Xf	Foreign=Yes	52	mark	_	pronunciation=anka|Gos2.1_token_id=Gos222.tok3858
+47	če	če	SCONJ	Cs	_	52	mark	_	pronunciation=č|Gos2.1_token_id=Gos222.tok3859
+48	psi	pes	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	52	nsubj	_	pronunciation=pesi|Gos2.1_token_id=Gos222.tok3860
+49	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	52	cop	_	pronunciation=so|Gos2.1_token_id=Gos222.tok3861
+50	mi	jaz	PRON	Pp1-sd--y	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	52	obj	_	pronunciation=mi|Gos2.1_token_id=Gos222.tok3862
+51	super	super	ADV	Rgp	Degree=Pos	52	advmod	_	pronunciation=šuper|Gos2.1_token_id=Gos222.tok3863
+52	zlati	zlat	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	34	advcl	_	pronunciation=zlati|Gos2.1_token_id=Gos222.tok3864
+53	.	.	PUNCT	Z	_	4	punct	_	_
+
+

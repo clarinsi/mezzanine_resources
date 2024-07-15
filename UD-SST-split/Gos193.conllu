@@ -1,0 +1,159 @@
+# newdoc id = Gos193
+# sent_id = Gos193.s138
+# speaker_id = Bf-stra-02329
+# sound_url = https://nl.ijs.si/project/gos20/Gos193/Gos193.s138.mp3
+# text = ja , samo s pinceto boli baje , s tem pa ne .
+# split = train
+1	ja	ja	PART	Q	_	6	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos193.tok962
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	samo	samo	PART	Q	_	6	cc	_	pronunciation=samo|Gos2.1_token_id=Gos193.tok963
+4	s	z	ADP	Si	Case=Ins	5	case	_	pronunciation=s|Gos2.1_token_id=Gos193.tok964
+5	pinceto	pinceta	NOUN	Ncfsi	Case=Ins|Gender=Fem|Number=Sing	6	obl	_	pronunciation=pinceto|Gos2.1_token_id=Gos193.tok965
+6	boli	boleti	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=boli|Gos2.1_token_id=Gos193.tok966
+7	baje	baje	PART	Q	_	6	advmod	_	pronunciation=baje|Gos2.1_token_id=Gos193.tok967
+8	,	,	PUNCT	Z	_	12	punct	_	_
+9	s	z	ADP	Si	Case=Ins	10	case	_	pronunciation=s|Gos2.1_token_id=Gos193.tok968
+10	tem	ta	DET	Pd-nsi	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	12	orphan	_	pronunciation=tem|Gos2.1_token_id=Gos193.tok969
+11	pa	pa	CCONJ	Cc	_	12	orphan	_	pronunciation=pa|Gos2.1_token_id=Gos193.tok970
+12	ne	ne	PART	Q	Polarity=Neg	6	parataxis	_	pronunciation=ne|Gos2.1_token_id=Gos193.tok971
+13	.	.	PUNCT	Z	_	6	punct	_	_
+
+
+# sent_id = Gos193.s140
+# speaker_id = Cf-stra-07534
+# sound_url = https://nl.ijs.si/project/gos20/Gos193/Gos193.s140.mp3
+# text = mene s pinceto ne boli , če jih prej malo neko kremo daš noter , ne .
+# split = train
+1	mene	jaz	PRON	Pp1-sa	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obj	_	pronunciation=mene|Gos2.1_token_id=Gos193.tok972
+2	s	z	ADP	Si	Case=Ins	3	case	_	pronunciation=s|Gos2.1_token_id=Gos193.tok973
+3	pinceto	pinceta	NOUN	Ncfsi	Case=Ins|Gender=Fem|Number=Sing	5	obl	_	pronunciation=pinceto|Gos2.1_token_id=Gos193.tok974
+4	ne	ne	PART	Q	Polarity=Neg	5	advmod	_	pronunciation=ne|Gos2.1_token_id=Gos193.tok975
+5	boli	boleti	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=boli|Gos2.1_token_id=Gos193.tok976
+6	,	,	PUNCT	Z	_	8	punct	_	_
+7	če	če	SCONJ	Cs	_	8	mark	_	pronunciation=če|Gos2.1_token_id=Gos193.tok977
+8	jih	on	PRON	Pp3fpa--y	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Variant=Short	5	advcl	_	pronunciation=jih|Gos2.1_token_id=Gos193.tok978
+9	prej	prej	ADV	Rgc	Degree=Cmp	8	orphan	_	pronunciation=prej|Gos2.1_token_id=Gos193.tok979
+10	malo	malo	DET	Rgp	PronType=Ind	8	orphan	_	pronunciation=malo|Gos2.1_token_id=Gos193.tok980
+11	neko	nek	DET	Pi-fsa	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	12	det	_	pronunciation=neko|Gos2.1_token_id=Gos193.tok981
+12	kremo	krema	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	13	obj	_	pronunciation=kremo|Gos2.1_token_id=Gos193.tok982
+13	daš	dati	VERB	Vmer2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	parataxis:restart	_	pronunciation=daš|Gos2.1_token_id=Gos193.tok983
+14	noter	noter	ADV	Rgp	Degree=Pos	13	advmod	_	pronunciation=noter|Gos2.1_token_id=Gos193.tok984
+15	,	,	PUNCT	Z	_	16	punct	_	_
+16	ne	ne	PART	Q	Polarity=Neg	13	discourse	_	pronunciation=ne|Gos2.1_token_id=Gos193.tok985
+17	.	.	PUNCT	Z	_	5	punct	_	_
+
+
+# sent_id = Gos193.s141
+# speaker_id = Bf-stra-02329
+# sound_url = https://nl.ijs.si/project/gos20/Gos193/Gos193.s141.mp3
+# text = ja , da malo izstopijo oziroma da se odprejo , ne .
+# split = train
+1	ja	ja	PART	Q	_	5	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos193.tok986
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	da	da	SCONJ	Cs	_	5	mark	_	pronunciation=da|Gos2.1_token_id=Gos193.tok987
+4	malo	malo	DET	Rgp	PronType=Ind	5	advmod	_	pronunciation=malo|Gos2.1_token_id=Gos193.tok988
+5	izstopijo	izstopiti	VERB	Vmer3p	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=izstopijo|Gos2.1_token_id=Gos193.tok989
+6	oziroma	oziroma	CCONJ	Cc	_	9	cc	_	pronunciation=oziroma|Gos2.1_token_id=Gos193.tok990
+7	da	da	SCONJ	Cs	_	9	mark	_	pronunciation=da|Gos2.1_token_id=Gos193.tok991
+8	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	9	expl	_	pronunciation=se|Gos2.1_token_id=Gos193.tok992
+9	odprejo	odpreti	VERB	Vmer3p	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	pronunciation=odprejo|Gos2.1_token_id=Gos193.tok993
+10	,	,	PUNCT	Z	_	11	punct	_	_
+11	ne	ne	PART	Q	Polarity=Neg	5	discourse	_	pronunciation=ne|Gos2.1_token_id=Gos193.tok994
+12	.	.	PUNCT	Z	_	5	punct	_	_
+
+
+# sent_id = Gos193.s142
+# speaker_id = Cf-stra-07534
+# sound_url = https://nl.ijs.si/project/gos20/Gos193/Gos193.s142.mp3
+# text = ja , mene pol čisto nič , mene , eee , s pinceto ne boli , oblikovanje , čisto nič .
+# split = train
+1	ja	ja	PART	Q	_	15	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos193.tok995
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	mene	jaz	PRON	Pp1-sa	Case=Acc|Number=Sing|Person=1|PronType=Prs	15	reparandum	_	pronunciation=mene|Gos2.1_token_id=Gos193.tok996
+4	pol	pol	DET	Rgp	Degree=Pos	3	advmod	_	pronunciation=pol|Gos2.1_token_id=Gos193.tok997
+5	čisto	čisto	ADV	Rgp	Degree=Pos	6	advmod	_	pronunciation=čist|Gos2.1_token_id=Gos193.tok998
+6	nič	nič	ADV	Rgp	Degree=Pos	15	advmod	_	pronunciation=nič|Gos2.1_token_id=Gos193.tok999
+7	,	,	PUNCT	Z	_	6	punct	_	_
+8	mene	jaz	PRON	Pp1-sa	Case=Acc|Number=Sing|Person=1|PronType=Prs	15	obj	_	pronunciation=mene|Gos2.1_token_id=Gos193.tok1000
+9	,	,	PUNCT	Z	_	10	punct	_	_
+10	eee	eee	INTJ	I	_	15	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos193.tok1001
+11	,	,	PUNCT	Z	_	10	punct	_	_
+12	s	z	ADP	Si	Case=Ins	13	case	_	pronunciation=s|Gos2.1_token_id=Gos193.tok1002
+13	pinceto	pinceta	NOUN	Ncfsi	Case=Ins|Gender=Fem|Number=Sing	15	obl	_	pronunciation=pinceto|Gos2.1_token_id=Gos193.tok1003
+14	ne	ne	PART	Q	Polarity=Neg	15	advmod	_	pronunciation=ne|Gos2.1_token_id=Gos193.tok1004
+15	boli	boleti	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=boli|Gos2.1_token_id=Gos193.tok1005
+16	,	,	PUNCT	Z	_	17	punct	_	_
+17	oblikovanje	oblikovanje	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_	pronunciation=oblikovanje|Gos2.1_token_id=Gos193.tok1006
+18	,	,	PUNCT	Z	_	20	punct	_	_
+19	čisto	čisto	ADV	Rgp	Degree=Pos	20	advmod	_	pronunciation=čist|Gos2.1_token_id=Gos193.tok1007
+20	nič	nič	ADV	Rgp	Degree=Pos	15	parataxis	_	pronunciation=nič|Gos2.1_token_id=Gos193.tok1008
+21	.	.	PUNCT	Z	_	15	punct	_	_
+
+
+# sent_id = Gos193.s143
+# speaker_id = Cf-stra-07534
+# sound_url = https://nl.ijs.si/project/gos20/Gos193/Gos193.s143.mp3
+# text = ali pa recimo , eee , tudi kako voskanje , recimo , z onim , naj bi bolele , ne .
+# split = train
+1	ali	ali	CCONJ	Cc	_	9	cc	_	pronunciation=al|Gos2.1_token_id=Gos193.tok1009
+2	pa	pa	CCONJ	Cc	_	1	fixed	_	pronunciation=pa|Gos2.1_token_id=Gos193.tok1010
+3	recimo	reči	VERB	Vmem1p	Aspect=Perf|Mood=Imp|Number=Plur|Person=1|VerbForm=Fin	9	parataxis:discourse	_	pronunciation=recimer|Gos2.1_token_id=Gos193.tok1011
+4	,	,	PUNCT	Z	_	5	punct	_	_
+5	eee	eee	INTJ	I	_	9	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos193.tok1012
+6	,	,	PUNCT	Z	_	5	punct	_	_
+7	tudi	tudi	PART	Q	_	9	advmod	_	pronunciation=tud|Gos2.1_token_id=Gos193.tok1013
+8	kako	kak	DET	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	9	det	_	pronunciation=kako|Gos2.1_token_id=Gos193.tok1014
+9	voskanje	voskanje	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	0	root	_	pronunciation=voskanje|Gos2.1_token_id=Gos193.tok1015
+10	,	,	PUNCT	Z	_	11	punct	_	_
+11	recimo	reči	VERB	Vmem1p	Aspect=Perf|Mood=Imp|Number=Plur|Person=1|VerbForm=Fin	18	parataxis:discourse	_	pronunciation=recimo|Gos2.1_token_id=Gos193.tok1016
+12	,	,	PUNCT	Z	_	11	punct	_	_
+13	z	z	ADP	Si	Case=Ins	14	case	_	pronunciation=z|Gos2.1_token_id=Gos193.tok1017
+14	onim	oni	DET	Pd-nsi	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	18	obl	_	pronunciation=onim|Gos2.1_token_id=Gos193.tok1018
+15	,	,	PUNCT	Z	_	14	punct	_	_
+16	naj	naj	PART	Q	_	18	advmod	_	pronunciation=naj|Gos2.1_token_id=Gos193.tok1019
+17	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	18	aux	_	pronunciation=bi|Gos2.1_token_id=Gos193.tok1020
+18	bolele	boleti	VERB	Vmpp-pf	Aspect=Imp|Gender=Fem|Number=Plur|VerbForm=Part	9	parataxis	_	pronunciation=bolele|Gos2.1_token_id=Gos193.tok1021
+19	,	,	PUNCT	Z	_	20	punct	_	_
+20	ne	ne	PART	Q	Polarity=Neg	18	discourse	_	pronunciation=ne|Gos2.1_token_id=Gos193.tok1022
+21	.	.	PUNCT	Z	_	9	punct	_	_
+
+
+# sent_id = Gos193.s144
+# speaker_id = Bf-stra-02329
+# sound_url = https://nl.ijs.si/project/gos20/Gos193/Gos193.s144.mp3
+# text = to bi naj bolelo , ja .
+# split = train
+1	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	pronunciation=to|Gos2.1_token_id=Gos193.tok1023
+2	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	4	aux	_	pronunciation=bi|Gos2.1_token_id=Gos193.tok1024
+3	naj	naj	PART	Q	_	4	advmod	_	pronunciation=naj|Gos2.1_token_id=Gos193.tok1025
+4	bolelo	boleti	VERB	Vmpp-sn	Aspect=Imp|Gender=Neut|Number=Sing|VerbForm=Part	0	root	_	pronunciation=bolelo|Gos2.1_token_id=Gos193.tok1026
+5	,	,	PUNCT	Z	_	6	punct	_	_
+6	ja	ja	PART	Q	_	4	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos193.tok1027
+7	.	.	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos193.s145
+# speaker_id = Cf-stra-07534
+# sound_url = https://nl.ijs.si/project/gos20/Gos193/Gos193.s145.mp3
+# text = čisto nič .
+# split = train
+1	čisto	čisto	ADV	Rgp	Degree=Pos	2	advmod	_	pronunciation=čist|Gos2.1_token_id=Gos193.tok1028
+2	nič	nič	ADV	Rgp	Degree=Pos	0	root	_	pronunciation=nič|Gos2.1_token_id=Gos193.tok1029
+3	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos193.s147
+# speaker_id = Cf-stra-07534
+# sound_url = https://nl.ijs.si/project/gos20/Gos193/Gos193.s147.mp3
+# text = ta , kaj je od , eee .
+# split = train
+1	ta	ta	DET	Pd-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	0	root	_	pronunciation=toti|Gos2.1_token_id=Gos193.tok1030
+2	,	,	PUNCT	Z	_	3	punct	_	_
+3	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	1	parataxis	_	pronunciation=kaj|Gos2.1_token_id=Gos193.tok1031
+4	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	pronunciation=je|Gos2.1_token_id=Gos193.tok1032
+5	od	od	ADP	Sg	Case=Gen	1	orphan	_	pronunciation=od|Gos2.1_token_id=Gos193.tok1033
+6	,	,	PUNCT	Z	_	7	punct	_	_
+7	eee	eee	INTJ	I	_	1	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos193.tok1034
+8	.	.	PUNCT	Z	_	1	punct	_	_
+
+

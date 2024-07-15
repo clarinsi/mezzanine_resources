@@ -1,0 +1,63 @@
+# newdoc id = Gos068
+# sent_id = Gos068.s11
+# speaker_id = Km-inte-02510
+# sound_url = https://nl.ijs.si/project/gos20/Gos068/Gos068.s11.mp3
+# text = tisti , ki se bo vpisal za poklic mizar oziroma lesarski tehnik , eee , bo skorajda že v prvem letniku imel zagotovljeno službo .
+# split = train
+1	tisti	tisti	DET	Pd-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	22	nsubj	_	pronunciation=tisti|Gos2.1_token_id=Gos068.tok203
+2	,	,	PUNCT	Z	_	6	punct	_	_
+3	ki	ki	SCONJ	Cs	_	6	mark	_	pronunciation=ki|Gos2.1_token_id=Gos068.tok204
+4	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	6	obj	_	pronunciation=se|Gos2.1_token_id=Gos068.tok205
+5	bo	biti	AUX	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	6	aux	_	pronunciation=bo|Gos2.1_token_id=Gos068.tok206
+6	vpisal	vpisati	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	1	acl	_	pronunciation=vpisal|Gos2.1_token_id=Gos068.tok207
+7	za	za	ADP	Sa	Case=Acc	8	case	_	pronunciation=za|Gos2.1_token_id=Gos068.tok208
+8	poklic	poklic	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obl	_	pronunciation=poklic|Gos2.1_token_id=Gos068.tok209
+9	mizar	mizar	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	8	nmod	_	pronunciation=mizar|Gos2.1_token_id=Gos068.tok210
+10	oziroma	oziroma	CCONJ	Cc	_	12	cc	_	pronunciation=oziroma|Gos2.1_token_id=Gos068.tok211
+11	lesarski	lesarski	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	pronunciation=lesarski|Gos2.1_token_id=Gos068.tok212
+12	tehnik	tehnik	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	9	conj	_	pronunciation=tehnik|Gos2.1_token_id=Gos068.tok213
+13	,	,	PUNCT	Z	_	6	punct	_	_
+14	eee	eee	INTJ	I	_	22	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos068.tok214
+15	,	,	PUNCT	Z	_	14	punct	_	_
+16	bo	biti	AUX	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	22	aux	_	pronunciation=bo|Gos2.1_token_id=Gos068.tok215
+17	skorajda	skorajda	PART	Q	_	21	advmod	_	pronunciation=skorajda|Gos2.1_token_id=Gos068.tok216
+18	že	že	PART	Q	_	21	advmod	_	pronunciation=že|Gos2.1_token_id=Gos068.tok217
+19	v	v	ADP	Sl	Case=Loc	21	case	_	pronunciation=v|Gos2.1_token_id=Gos068.tok218
+20	prvem	prvi	ADJ	Mlomsl	Case=Loc|Gender=Masc|Number=Sing|NumType=Ord	21	amod	_	pronunciation=prvem|Gos2.1_token_id=Gos068.tok219
+21	letniku	letnik	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	22	obl	_	pronunciation=letniku|Gos2.1_token_id=Gos068.tok220
+22	imel	imeti	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=imel|Gos2.1_token_id=Gos068.tok221
+23	zagotovljeno	zagotovljen	ADJ	Appfsa	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part	24	amod	_	pronunciation=zagotovljeno|Gos2.1_token_id=Gos068.tok222
+24	službo	služba	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	22	obj	_	pronunciation=službo|Gos2.1_token_id=Gos068.tok223
+25	.	.	PUNCT	Z	_	22	punct	_	_
+
+
+# sent_id = Gos068.s12
+# speaker_id = Jf-novi-02509
+# sound_url = https://nl.ijs.si/project/gos20/Gos068/Gos068.s12.mp3
+# text = tudi [name:personal] [name:surname] , ki se je za ta poklic odločil že v začetku osnovne šole , so podjetja že ponujala zaposlitev .
+# split = train
+1	tudi	tudi	PART	Q	_	2	advmod	_	pronunciation=tudi|Gos2.1_token_id=Gos068.tok224
+2	[name:personal]	[name:personal]	PROPN	X	_	21	iobj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos068.s12.element1
+3	[name:surname]	[name:surname]	PROPN	X	_	2	flat:name	_	pronunciation=[name:surname]|Gos2.1_token_id=Gos068.s12.element2
+4	,	,	PUNCT	Z	_	11	punct	_	_
+5	ki	ki	SCONJ	Cs	_	11	mark	_	pronunciation=ki|Gos2.1_token_id=Gos068.tok225
+6	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	11	expl	_	pronunciation=se|Gos2.1_token_id=Gos068.tok226
+7	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	aux	_	pronunciation=je|Gos2.1_token_id=Gos068.tok227
+8	za	za	ADP	Sa	Case=Acc	10	case	_	pronunciation=za|Gos2.1_token_id=Gos068.tok228
+9	ta	ta	DET	Pd-msa	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	10	det	_	pronunciation=ta|Gos2.1_token_id=Gos068.tok229
+10	poklic	poklic	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obl	_	pronunciation=poklic|Gos2.1_token_id=Gos068.tok230
+11	odločil	odločiti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	2	acl	_	pronunciation=odločil|Gos2.1_token_id=Gos068.tok231
+12	že	že	PART	Q	_	14	advmod	_	pronunciation=že|Gos2.1_token_id=Gos068.tok232
+13	v	v	ADP	Sl	Case=Loc	14	case	_	pronunciation=v|Gos2.1_token_id=Gos068.tok233
+14	začetku	začetek	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	11	obl	_	pronunciation=začetku|Gos2.1_token_id=Gos068.tok234
+15	osnovne	osnoven	ADJ	Agpfsg	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	pronunciation=osnovne|Gos2.1_token_id=Gos068.tok235
+16	šole	šola	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	pronunciation=šole|Gos2.1_token_id=Gos068.tok236
+17	,	,	PUNCT	Z	_	11	punct	_	_
+18	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	21	aux	_	pronunciation=so|Gos2.1_token_id=Gos068.tok237
+19	podjetja	podjetje	NOUN	Ncnpn	Case=Nom|Gender=Neut|Number=Plur	21	nsubj	_	pronunciation=podjetja|Gos2.1_token_id=Gos068.tok238
+20	že	že	PART	Q	_	21	advmod	_	pronunciation=že|Gos2.1_token_id=Gos068.tok239
+21	ponujala	ponujati	VERB	Vmpp-sf	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=ponujala|Gos2.1_token_id=Gos068.tok240
+22	zaposlitev	zaposlitev	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	21	obj	_	pronunciation=zaposlitev|Gos2.1_token_id=Gos068.tok241
+23	.	.	PUNCT	Z	_	21	punct	_	_
+
+

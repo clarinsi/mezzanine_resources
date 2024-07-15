@@ -1,0 +1,143 @@
+# newdoc id = Gos049
+# sent_id = Gos049.s32
+# speaker_id = Cm-gost-07010
+# sound_url = https://nl.ijs.si/project/gos20/Gos049/Gos049.s32.mp3
+# text = ja , e- , če smo že prvega mentorja uvedli , eee , omenili , ne , to je bil , eee , Zlatko Verzelak , eee , sem potem naslednje leto , ko je ta skupina tu razpadla , v Bistrici sodeloval z enim , eee , lutkovnim režiserjem in tudi bivšim direktorjem Lutkovnega gledališča Maribor , gospodom Bojanom Čebuljem na Ptuju .
+# split = train
+1	ja	ja	PART	Q	_	14	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos049.tok717
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	e-	e-	X	Xt	_	5	reparandum	_	pronunciation=e…|Gos2.1_token_id=Gos049.tok718
+4	,	,	PUNCT	Z	_	3	punct	_	_
+5	če	če	SCONJ	Cs	_	14	mark	_	pronunciation=če|Gos2.1_token_id=Gos049.tok719
+6	smo	biti	AUX	Va-r1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	14	aux	_	pronunciation=smo|Gos2.1_token_id=Gos049.tok720
+7	že	že	PART	Q	_	14	advmod	_	pronunciation=že|Gos2.1_token_id=Gos049.tok721
+8	prvega	prvi	ADJ	Mlomsa	Case=Acc|Gender=Masc|Number=Sing|NumType=Ord	9	amod	_	pronunciation=prvega|Gos2.1_token_id=Gos049.tok722
+9	mentorja	mentor	NOUN	Ncmsay	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	14	obj	_	pronunciation=mentorja|Gos2.1_token_id=Gos049.tok723
+10	uvedli	uvesti	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	14	reparandum	_	pronunciation=uvedli|Gos2.1_token_id=Gos049.tok724
+11	,	,	PUNCT	Z	_	10	punct	_	_
+12	eee	eee	INTJ	I	_	14	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos049.tok725
+13	,	,	PUNCT	Z	_	12	punct	_	_
+14	omenili	omeniti	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	43	advcl	_	pronunciation=omenli|Gos2.1_token_id=Gos049.tok726
+15	,	,	PUNCT	Z	_	16	punct	_	_
+16	ne	ne	PART	Q	Polarity=Neg	14	discourse	_	pronunciation=ne|Gos2.1_token_id=Gos049.tok727
+17	,	,	PUNCT	Z	_	24	punct	_	_
+18	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	24	nsubj	_	pronunciation=to|Gos2.1_token_id=Gos049.tok728
+19	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	24	aux	_	pronunciation=je|Gos2.1_token_id=Gos049.tok729
+20	bil	biti	AUX	Va-p-sm	Gender=Masc|Number=Sing|VerbForm=Part	24	cop	_	pronunciation=bil|Gos2.1_token_id=Gos049.tok730
+21	,	,	PUNCT	Z	_	22	punct	_	_
+22	eee	eee	INTJ	I	_	24	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos049.tok731
+23	,	,	PUNCT	Z	_	22	punct	_	_
+24	Zlatko	Zlatko	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	14	parataxis	_	pronunciation=Zlatko|Gos2.1_token_id=Gos049.tok732
+25	Verzelak	Verzelak	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	24	flat:name	_	pronunciation=Verzelak|Gos2.1_token_id=Gos049.tok733
+26	,	,	PUNCT	Z	_	14	punct	_	_
+27	eee	eee	INTJ	I	_	43	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos049.tok734
+28	,	,	PUNCT	Z	_	27	punct	_	_
+29	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	43	aux	_	pronunciation=sem|Gos2.1_token_id=Gos049.tok735
+30	potem	potem	ADV	Rgp	Degree=Pos	43	advmod	_	pronunciation=potem|Gos2.1_token_id=Gos049.tok736
+31	naslednje	naslednji	ADJ	Agpnsa	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	32	amod	_	pronunciation=naslednje|Gos2.1_token_id=Gos049.tok737
+32	leto	leto	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	43	obl	_	pronunciation=leto|Gos2.1_token_id=Gos049.tok738
+33	,	,	PUNCT	Z	_	39	punct	_	_
+34	ko	ko	SCONJ	Cs	_	39	mark	_	pronunciation=ko|Gos2.1_token_id=Gos049.tok739
+35	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	39	aux	_	pronunciation=je|Gos2.1_token_id=Gos049.tok740
+36	ta	ta	DET	Pd-fsn	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	37	det	_	pronunciation=ta|Gos2.1_token_id=Gos049.tok741
+37	skupina	skupina	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	39	nsubj	_	pronunciation=skupina|Gos2.1_token_id=Gos049.tok742
+38	tu	tu	ADV	Rgp	Degree=Pos	37	advmod	_	pronunciation=tu|Gos2.1_token_id=Gos049.tok743
+39	razpadla	razpasti	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	32	acl	_	pronunciation=razpadla|Gos2.1_token_id=Gos049.tok744
+40	,	,	PUNCT	Z	_	39	punct	_	_
+41	v	v	ADP	Sl	Case=Loc	42	case	_	pronunciation=v|Gos2.1_token_id=Gos049.tok745
+42	Bistrici	Bistrica	PROPN	Npfsl	Case=Loc|Gender=Fem|Number=Sing	39	obl	_	pronunciation=Bistrci|Gos2.1_token_id=Gos049.tok746
+43	sodeloval	sodelovati	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=sodeloval|Gos2.1_token_id=Gos049.tok747
+44	z	z	ADP	Si	Case=Ins	50	case	_	pronunciation=z|Gos2.1_token_id=Gos049.tok748
+45	enim	en	DET	Mlpmsi	Case=Ins|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	50	det	_	pronunciation=enim|Gos2.1_token_id=Gos049.tok749
+46	,	,	PUNCT	Z	_	47	punct	_	_
+47	eee	eee	INTJ	I	_	43	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos049.tok750
+48	,	,	PUNCT	Z	_	47	punct	_	_
+49	lutkovnim	lutkoven	ADJ	Agpmsi	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	50	amod	_	pronunciation=lutkovnim|Gos2.1_token_id=Gos049.tok751
+50	režiserjem	režiser	NOUN	Ncmsi	Case=Ins|Gender=Masc|Number=Sing	43	obl	_	pronunciation=režiserjem|Gos2.1_token_id=Gos049.tok752
+51	in	in	CCONJ	Cc	_	54	cc	_	pronunciation=in|Gos2.1_token_id=Gos049.tok753
+52	tudi	tudi	PART	Q	_	54	advmod	_	pronunciation=tudi|Gos2.1_token_id=Gos049.tok754
+53	bivšim	bivši	ADJ	Agpmsi	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	54	amod	_	pronunciation=bivšim|Gos2.1_token_id=Gos049.tok755
+54	direktorjem	direktor	NOUN	Ncmsi	Case=Ins|Gender=Masc|Number=Sing	50	conj	_	pronunciation=direktorjem|Gos2.1_token_id=Gos049.tok756
+55	Lutkovnega	lutkoven	ADJ	Agpnsg	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	56	amod	_	pronunciation=Lutkovnega|Gos2.1_token_id=Gos049.tok757
+56	gledališča	gledališče	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	54	nmod	_	pronunciation=gledališča|Gos2.1_token_id=Gos049.tok758
+57	Maribor	Maribor	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	56	nmod	_	pronunciation=Maribor|Gos2.1_token_id=Gos049.tok759
+58	,	,	PUNCT	Z	_	59	punct	_	_
+59	gospodom	gospod	NOUN	Ncmsi	Case=Ins|Gender=Masc|Number=Sing	50	appos	_	pronunciation=gospodom|Gos2.1_token_id=Gos049.tok760
+60	Bojanom	Bojan	PROPN	Npmsi	Case=Ins|Gender=Masc|Number=Sing	59	nmod	_	pronunciation=Bojanom|Gos2.1_token_id=Gos049.tok761
+61	Čebuljem	Čebulj	PROPN	Npmsi	Case=Ins|Gender=Masc|Number=Sing	60	flat:name	_	pronunciation=Čebuljem|Gos2.1_token_id=Gos049.tok762
+62	na	na	ADP	Sl	Case=Loc	63	case	_	pronunciation=na|Gos2.1_token_id=Gos049.tok763
+63	Ptuju	Ptuj	PROPN	Npmsl	Case=Loc|Gender=Masc|Number=Sing	43	obl	_	pronunciation=Ptuju|Gos2.1_token_id=Gos049.tok764
+64	.	.	PUNCT	Z	_	43	punct	_	_
+
+
+# sent_id = Gos049.s33
+# speaker_id = Cm-gost-07010
+# sound_url = https://nl.ijs.si/project/gos20/Gos049/Gos049.s33.mp3
+# text = to je bila ena tako po- , polprofesionalna lutkovna skupina , ki s- , mmm , z predstavo kar uspeli in , eee , takrat sem tudi dejansko prvič videl , da pa v bistvu , mmm , nekako , eee , z d- , zadostnim številom predstav , eee , da pa se tukaj nekaj bi pa tudi finančno dalo kaj pokriti .
+# split = train
+1	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	10	nsubj	_	pronunciation=to|Gos2.1_token_id=Gos049.tok765
+2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	aux	_	pronunciation=je|Gos2.1_token_id=Gos049.tok766
+3	bila	biti	AUX	Va-p-sf	Gender=Fem|Number=Sing|VerbForm=Part	10	cop	_	pronunciation=bla|Gos2.1_token_id=Gos049.tok767
+4	ena	en	DET	Mlpfsn	Case=Nom|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	10	det	_	pronunciation=ena|Gos2.1_token_id=Gos049.tok768
+5	tako	tako	ADV	Rgp	Degree=Pos	10	discourse	_	pronunciation=tak|Gos2.1_token_id=Gos049.tok769
+6	po-	po-	X	Xt	_	8	reparandum	_	pronunciation=po…|Gos2.1_token_id=Gos049.tok770
+7	,	,	PUNCT	Z	_	6	punct	_	_
+8	polprofesionalna	polprofesionalen	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	pronunciation=polprofesionalna|Gos2.1_token_id=Gos049.tok771
+9	lutkovna	lutkoven	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	pronunciation=lutkovna|Gos2.1_token_id=Gos049.tok772
+10	skupina	skupina	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	pronunciation=skupina|Gos2.1_token_id=Gos049.tok773
+11	,	,	PUNCT	Z	_	20	punct	_	_
+12	ki	ki	SCONJ	Cs	_	20	mark	_	pronunciation=ki|Gos2.1_token_id=Gos049.tok774
+13	s-	s-	X	Xt	_	17	reparandum	_	pronunciation=s…|Gos2.1_token_id=Gos049.tok775
+14	,	,	PUNCT	Z	_	13	punct	_	_
+15	mmm	mmm	INTJ	I	_	20	discourse:filler	_	pronunciation=mmm|Gos2.1_token_id=Gos049.tok776
+16	,	,	PUNCT	Z	_	15	punct	_	_
+17	z	z	ADP	Si	Case=Ins	18	case	_	pronunciation=z|Gos2.1_token_id=Gos049.tok777
+18	predstavo	predstava	NOUN	Ncfsi	Case=Ins|Gender=Fem|Number=Sing	20	obl	_	pronunciation=predstavo|Gos2.1_token_id=Gos049.tok778
+19	kar	kar	ADV	Rgp	Degree=Pos	20	advmod	_	pronunciation=kar|Gos2.1_token_id=Gos049.tok779
+20	uspeli	uspeti	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	10	acl	_	pronunciation=uspeli|Gos2.1_token_id=Gos049.tok780
+21	in	in	CCONJ	Cc	_	30	cc	_	pronunciation=in|Gos2.1_token_id=Gos049.tok781
+22	,	,	PUNCT	Z	_	23	punct	_	_
+23	eee	eee	INTJ	I	_	30	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos049.tok782
+24	,	,	PUNCT	Z	_	23	punct	_	_
+25	takrat	takrat	ADV	Rgp	Degree=Pos	30	advmod	_	pronunciation=takrat|Gos2.1_token_id=Gos049.tok783
+26	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	30	aux	_	pronunciation=sem|Gos2.1_token_id=Gos049.tok784
+27	tudi	tudi	PART	Q	_	30	advmod	_	pronunciation=tud|Gos2.1_token_id=Gos049.tok785
+28	dejansko	dejansko	ADV	Rgp	Degree=Pos	30	advmod	_	pronunciation=dejansko|Gos2.1_token_id=Gos049.tok786
+29	prvič	prvič	ADV	Rgp	Degree=Pos	30	advmod	_	pronunciation=prvič|Gos2.1_token_id=Gos049.tok787
+30	videl	videti	VERB	Vmbp-sm	Gender=Masc|Number=Sing|VerbForm=Part	10	conj	_	pronunciation=videl|Gos2.1_token_id=Gos049.tok788
+31	,	,	PUNCT	Z	_	61	punct	_	_
+32	da	da	SCONJ	Cs	_	33	mark	_	pronunciation=da|Gos2.1_token_id=Gos049.tok789
+33	pa	pa	CCONJ	Cc	_	61	reparandum	_	pronunciation=pa|Gos2.1_token_id=Gos049.tok790
+34	v	v	ADP	Sl	Case=Loc	35	case	_	pronunciation=v|Gos2.1_token_id=Gos049.tok791
+35	bistvu	bistvo	NOUN	Ncnsl	Case=Loc|Gender=Neut|Number=Sing	61	obl	_	pronunciation=bistvu|Gos2.1_token_id=Gos049.tok792
+36	,	,	PUNCT	Z	_	37	punct	_	_
+37	mmm	mmm	INTJ	I	_	61	discourse:filler	_	pronunciation=mmm|Gos2.1_token_id=Gos049.tok793
+38	,	,	PUNCT	Z	_	37	punct	_	_
+39	nekako	nekako	ADV	Rgp	Degree=Pos	61	advmod	_	pronunciation=nekako|Gos2.1_token_id=Gos049.tok794
+40	,	,	PUNCT	Z	_	41	punct	_	_
+41	eee	eee	INTJ	I	_	61	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos049.tok795
+42	,	,	PUNCT	Z	_	41	punct	_	_
+43	z	z	ADP	Si	Case=Ins	47	case	_	pronunciation=z|Gos2.1_token_id=Gos049.tok796
+44	d-	d-	X	Xt	_	46	reparandum	_	pronunciation=d…|Gos2.1_token_id=Gos049.tok797
+45	,	,	PUNCT	Z	_	44	punct	_	_
+46	zadostnim	zadosten	ADJ	Agpnsi	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	47	amod	_	pronunciation=zadostnim|Gos2.1_token_id=Gos049.tok798
+47	številom	število	NOUN	Ncnsi	Case=Ins|Gender=Neut|Number=Sing	61	obl	_	pronunciation=številom|Gos2.1_token_id=Gos049.tok799
+48	predstav	predstava	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	47	nmod	_	pronunciation=predstav|Gos2.1_token_id=Gos049.tok800
+49	,	,	PUNCT	Z	_	50	punct	_	_
+50	eee	eee	INTJ	I	_	61	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos049.tok801
+51	,	,	PUNCT	Z	_	50	punct	_	_
+52	da	da	SCONJ	Cs	_	61	mark	_	pronunciation=da|Gos2.1_token_id=Gos049.tok802
+53	pa	pa	CCONJ	Cc	_	61	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos049.tok803
+54	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	61	expl	_	pronunciation=se|Gos2.1_token_id=Gos049.tok804
+55	tukaj	tukaj	ADV	Rgp	Degree=Pos	61	advmod	_	pronunciation=tukaj|Gos2.1_token_id=Gos049.tok805
+56	nekaj	nekaj	DET	Pi-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	61	obj	_	pronunciation=nekaj|Gos2.1_token_id=Gos049.tok806
+57	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	61	aux	_	pronunciation=bi|Gos2.1_token_id=Gos049.tok807
+58	pa	pa	CCONJ	Cc	_	61	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos049.tok808
+59	tudi	tudi	PART	Q	_	61	advmod	_	pronunciation=tudi|Gos2.1_token_id=Gos049.tok809
+60	finančno	finančno	ADV	Rgp	Degree=Pos	61	advmod	_	pronunciation=finančno|Gos2.1_token_id=Gos049.tok810
+61	dalo	dati	VERB	Vmep-sn	Aspect=Perf|Gender=Neut|Number=Sing|VerbForm=Part	30	ccomp	_	pronunciation=dalo|Gos2.1_token_id=Gos049.tok811
+62	kaj	kaj	PRON	Pq-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	63	obj	_	pronunciation=kaj|Gos2.1_token_id=Gos049.tok812
+63	pokriti	pokriti	VERB	Vmen	Aspect=Perf|VerbForm=Inf	61	xcomp	_	pronunciation=pokrit|Gos2.1_token_id=Gos049.tok813
+64	.	.	PUNCT	Z	_	10	punct	_	_
+
+

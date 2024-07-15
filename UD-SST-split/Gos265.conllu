@@ -1,0 +1,99 @@
+# newdoc id = Gos265
+# sent_id = Gos265.s52
+# speaker_id = Mm-prij-01079
+# sound_url = https://nl.ijs.si/project/gos20/Gos265/Gos265.s52.mp3
+# text = pač lesi , tako dolgo dlako bo dobil .
+# split = train
+1	pač	pač	PART	Q	_	2	discourse	_	pronunciation=pač|Gos2.1_token_id=Gos265.tok324
+2	lesi	Lassie	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	pronunciation=lesi|Gos2.1_token_id=Gos265.tok325
+3	,	,	PUNCT	Z	_	8	punct	_	_
+4	tako	tak	DET	Pd-fsa	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	pronunciation=tako|Gos2.1_token_id=Gos265.tok326
+5	dolgo	dolg	ADJ	Agpfsa	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	pronunciation=dolgo|Gos2.1_token_id=Gos265.tok327
+6	dlako	dlaka	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	pronunciation=dlako|Gos2.1_token_id=Gos265.tok328
+7	bo	biti	AUX	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	8	aux	_	pronunciation=o|Gos2.1_token_id=Gos265.tok329
+8	dobil	dobiti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	2	parataxis	_	pronunciation=dobo|Gos2.1_token_id=Gos265.tok330
+9	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos265.s53
+# speaker_id = Im-prij-01080
+# sound_url = https://nl.ijs.si/project/gos20/Gos265/Gos265.s53.mp3
+# text = da ja .
+# split = train
+1	da	da	PART	Q	_	0	root	_	pronunciation=da|Gos2.1_token_id=Gos265.tok331
+2	ja	ja	PART	Q	_	1	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos265.tok332
+3	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos265.s54
+# speaker_id = Mm-prij-01079
+# sound_url = https://nl.ijs.si/project/gos20/Gos265/Gos265.s54.mp3
+# text = drugače bo pa mali , mali ostal , ja , takole , takole visok , pa takole dolg .
+# split = train
+1	drugače	drugače	ADV	Rgp	Degree=Pos	7	advmod	_	pronunciation=drgač|Gos2.1_token_id=Gos265.tok333
+2	bo	biti	AUX	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	7	aux	_	pronunciation=bo|Gos2.1_token_id=Gos265.tok334
+3	pa	pa	CCONJ	Cc	_	7	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos265.tok335
+4	mali	mali	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	6	reparandum	_	pronunciation=mali|Gos2.1_token_id=Gos265.tok336
+5	,	,	PUNCT	Z	_	4	punct	_	_
+6	mali	mali	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	7	xcomp	_	pronunciation=mali|Gos2.1_token_id=Gos265.tok337
+7	ostal	ostati	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=ostal|Gos2.1_token_id=Gos265.tok338
+8	,	,	PUNCT	Z	_	9	punct	_	_
+9	ja	ja	PART	Q	_	7	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos265.tok339
+10	,	,	PUNCT	Z	_	9	punct	_	_
+11	takole	takole	ADV	Rgp	Degree=Pos	13	reparandum	_	pronunciation=tekle|Gos2.1_token_id=Gos265.tok340
+12	,	,	PUNCT	Z	_	11	punct	_	_
+13	takole	takole	ADV	Rgp	Degree=Pos	14	advmod	_	pronunciation=tekle|Gos2.1_token_id=Gos265.tok341
+14	visok	visok	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	7	parataxis	_	pronunciation=vesek|Gos2.1_token_id=Gos265.tok342
+15	,	,	PUNCT	Z	_	18	punct	_	_
+16	pa	pa	CCONJ	Cc	_	18	cc	_	pronunciation=pa|Gos2.1_token_id=Gos265.tok343
+17	takole	takole	ADV	Rgp	Degree=Pos	18	advmod	_	pronunciation=tekle|Gos2.1_token_id=Gos265.tok344
+18	dolg	dolg	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	14	conj	_	pronunciation=dolh|Gos2.1_token_id=Gos265.tok345
+19	.	.	PUNCT	Z	_	7	punct	_	_
+
+
+# sent_id = Gos265.s55
+# speaker_id = Im-prij-01080
+# sound_url = https://nl.ijs.si/project/gos20/Gos265/Gos265.s55.mp3
+# text = bolj mali .
+# split = train
+1	bolj	bolj	ADV	Rgc	Degree=Cmp	2	advmod	_	pronunciation=bolj|Gos2.1_token_id=Gos265.tok346
+2	mali	mali	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	pronunciation=mali|Gos2.1_token_id=Gos265.tok347
+3	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos265.s57
+# speaker_id = Mm-prij-01079
+# sound_url = https://nl.ijs.si/project/gos20/Gos265/Gos265.s57.mp3
+# text = mini lesi se mu reče tudi , ja , ja .
+# split = train
+1	mini	mini	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	pronunciation=mini|Gos2.1_token_id=Gos265.tok348
+2	lesi	Lassie	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	5	xcomp	_	pronunciation=lesi|Gos2.1_token_id=Gos265.tok349
+3	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	5	expl	_	pronunciation=se|Gos2.1_token_id=Gos265.tok350
+4	mu	on	PRON	Pp3msd--y	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	5	obj	_	pronunciation=mu|Gos2.1_token_id=Gos265.tok351
+5	reče	reči	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=reče|Gos2.1_token_id=Gos265.tok352
+6	tudi	tudi	PART	Q	_	5	advmod	_	pronunciation=tudi|Gos2.1_token_id=Gos265.tok353
+7	,	,	PUNCT	Z	_	8	punct	_	_
+8	ja	ja	PART	Q	_	5	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos265.tok355
+9	,	,	PUNCT	Z	_	10	punct	_	_
+10	ja	ja	PART	Q	_	5	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos265.tok356
+11	.	.	PUNCT	Z	_	5	punct	_	_
+
+
+# sent_id = Gos265.s58
+# speaker_id = Im-prij-01080
+# sound_url = https://nl.ijs.si/project/gos20/Gos265/Gos265.s58.mp3
+# text = s- , saj ve to tudi , imate ga malo za
+# split = train
+1	s-	s-	X	Xt	_	3	reparandum	_	pronunciation=s…|Gos2.1_token_id=Gos265.tok357
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	saj	saj	CCONJ	Cc	_	4	advmod	_	pronunciation=se|Gos2.1_token_id=Gos265.tok358
+4	ve	vedeti	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=ve|Gos2.1_token_id=Gos265.tok359
+5	to	ta	DET	Pd-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	4	obj	_	pronunciation=to|Gos2.1_token_id=Gos265.tok360
+6	tudi	tudi	PART	Q	_	4	advmod	_	pronunciation=tud|Gos2.1_token_id=Gos265.tok361
+7	,	,	PUNCT	Z	_	8	punct	_	_
+8	imate	imeti	VERB	Vmpr2p-n	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	parataxis	_	pronunciation=mate|Gos2.1_token_id=Gos265.tok362
+9	ga	on	PRON	Pp3msa--y	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	8	obj	_	pronunciation=ga|Gos2.1_token_id=Gos265.tok363
+10	malo	malo	DET	Rgp	PronType=Ind	8	advmod	_	pronunciation=malo|Gos2.1_token_id=Gos265.tok364
+11	za	za	ADP	Sa	Case=Acc	8	orphan	_	pronunciation=za|Gos2.1_token_id=Gos265.tok365
+
+

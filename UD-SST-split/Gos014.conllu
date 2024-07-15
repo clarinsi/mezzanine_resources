@@ -1,0 +1,385 @@
+# sent_id = Gos014.s636
+# speaker_id = Af-prof-07180
+# sound_url = https://nl.ijs.si/project/gos20/Gos014/Gos014.s636.mp3
+# text = [name:personal] .
+# split = train
+1	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos014.s636.element1
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# newdoc id = Gos014
+# sent_id = Gos014.s618
+# speaker_id = Bm-ucen-07181
+# sound_url = https://nl.ijs.si/project/gos20/Gos014/Gos014.s618.mp3
+# text = kisik .
+# split = train
+1	kisik	kisik	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	root	_	pronunciation=kisik|Gos2.1_token_id=Gos014.tok3111
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos014.s619
+# speaker_id = Cf-ucen-07182
+# sound_url = https://nl.ijs.si/project/gos20/Gos014/Gos014.s619.mp3
+# text = eee , to je , eem , eee , rastlina oddaja kisik , ki ga j- , eee , ogljikov dioksid , ki ga ne potrebuje .
+# split = train
+1	eee	eee	INTJ	I	_	4	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos014.tok3112
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	pronunciation=to|Gos2.1_token_id=Gos014.tok3113
+4	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=je|Gos2.1_token_id=Gos014.tok3114
+5	,	,	PUNCT	Z	_	11	punct	_	_
+6	eem	eem	INTJ	I	_	11	discourse:filler	_	pronunciation=eem|Gos2.1_token_id=Gos014.tok3115
+7	,	,	PUNCT	Z	_	6	punct	_	_
+8	eee	eee	INTJ	I	_	11	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos014.tok3116
+9	,	,	PUNCT	Z	_	8	punct	_	_
+10	rastlina	rastlina	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	pronunciation=rastlina|Gos2.1_token_id=Gos014.tok3117
+11	oddaja	oddajati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis:restart	_	pronunciation=oddaja|Gos2.1_token_id=Gos014.tok3118
+12	kisik	kisik	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	21	reparandum	_	pronunciation=kisik|Gos2.1_token_id=Gos014.tok3119
+13	,	,	PUNCT	Z	_	15	punct	_	_
+14	ki	ki	SCONJ	Cs	_	15	orphan	_	pronunciation=ki|Gos2.1_token_id=Gos014.tok3120
+15	ga	on	PRON	Pp3msa--y	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	12	acl	_	pronunciation=ga|Gos2.1_token_id=Gos014.tok3121
+16	j-	j-	X	Xt	_	15	orphan	_	pronunciation=j…|Gos2.1_token_id=Gos014.tok3122
+17	,	,	PUNCT	Z	_	18	punct	_	_
+18	eee	eee	INTJ	I	_	11	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos014.tok3123
+19	,	,	PUNCT	Z	_	18	punct	_	_
+20	ogljikov	ogljikov	ADJ	Aspmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	21	amod	_	pronunciation=ogljikov|Gos2.1_token_id=Gos014.tok3124
+21	dioksid	dioksid	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obj	_	pronunciation=dioksid|Gos2.1_token_id=Gos014.tok3125
+22	,	,	PUNCT	Z	_	26	punct	_	_
+23	ki	ki	SCONJ	Cs	_	26	mark	_	pronunciation=ki|Gos2.1_token_id=Gos014.tok3126
+24	ga	on	PRON	Pp3msg--y	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	26	obj	_	pronunciation=ga|Gos2.1_token_id=Gos014.tok3127
+25	ne	ne	PART	Q	Polarity=Neg	26	advmod	_	pronunciation=ne|Gos2.1_token_id=Gos014.tok3128
+26	potrebuje	potrebovati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	acl	_	pronunciation=potrebuje|Gos2.1_token_id=Gos014.tok3129
+27	.	.	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos014.s620
+# speaker_id = Af-prof-07180
+# sound_url = https://nl.ijs.si/project/gos20/Gos014/Gos014.s620.mp3
+# text = to pa ne bo šlo , mi zdaj govorimo o kroženju česa .
+# split = train
+1	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	pronunciation=to|Gos2.1_token_id=Gos014.tok3130
+2	pa	pa	CCONJ	Cc	_	5	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos014.tok3131
+3	ne	ne	PART	Q	Polarity=Neg	5	advmod	_	pronunciation=ne|Gos2.1_token_id=Gos014.tok3132
+4	bo	biti	AUX	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	5	aux	_	pronunciation=bo|Gos2.1_token_id=Gos014.tok3133
+5	šlo	iti	VERB	Vmbp-sn	Gender=Neut|Number=Sing|VerbForm=Part	0	root	_	pronunciation=šlo|Gos2.1_token_id=Gos014.tok3134
+6	,	,	PUNCT	Z	_	9	punct	_	_
+7	mi	jaz	PRON	Pp1mpn	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	pronunciation=mi|Gos2.1_token_id=Gos014.tok3135
+8	zdaj	zdaj	ADV	Rgp	Degree=Pos	9	advmod	_	pronunciation=zdej|Gos2.1_token_id=Gos014.tok3136
+9	govorimo	govoriti	VERB	Vmpr1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	parataxis	_	pronunciation=govorimo|Gos2.1_token_id=Gos014.tok3137
+10	o	o	ADP	Sl	Case=Loc	11	case	_	pronunciation=o|Gos2.1_token_id=Gos014.tok3138
+11	kroženju	kroženje	NOUN	Ncnsl	Case=Loc|Gender=Neut|Number=Sing	9	obl	_	pronunciation=kroženju|Gos2.1_token_id=Gos014.tok3139
+12	česa	kaj	PRON	Pq-nsg	Case=Gen|Gender=Neut|Number=Sing|PronType=Int	11	nmod	_	pronunciation=česa|Gos2.1_token_id=Gos014.tok3140
+13	.	.	PUNCT	Z	_	5	punct	_	_
+
+
+# sent_id = Gos014.s621
+# speaker_id = Cf-ucen-07182
+# sound_url = https://nl.ijs.si/project/gos20/Gos014/Gos014.s621.mp3
+# text = vode .
+# split = train
+1	vode	voda	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	0	root	_	pronunciation=vode|Gos2.1_token_id=Gos014.tok3142
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos014.s622
+# speaker_id = Cf-ucen-07182
+# sound_url = https://nl.ijs.si/project/gos20/Gos014/Gos014.s622.mp3
+# text = eee .
+# split = train
+1	eee	eee	INTJ	I	_	0	root	_	pronunciation=eee|Gos2.1_token_id=Gos014.tok3143
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos014.s623
+# speaker_id = Af-prof-07180
+# sound_url = https://nl.ijs.si/project/gos20/Gos014/Gos014.s623.mp3
+# text = vode , kaj torej tiste puščice pomenijo ?
+# split = train
+1	vode	voda	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	0	root	_	pronunciation=vode|Gos2.1_token_id=Gos014.tok3144
+2	,	,	PUNCT	Z	_	7	punct	_	_
+3	kaj	kaj	PRON	Pq-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	7	obj	_	pronunciation=kaj|Gos2.1_token_id=Gos014.tok3145
+4	torej	torej	ADV	Rgp	Degree=Pos	7	advmod	_	pronunciation=torej|Gos2.1_token_id=Gos014.tok3146
+5	tiste	tisti	DET	Pd-fpn	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	6	det	_	pronunciation=tiste|Gos2.1_token_id=Gos014.tok3147
+6	puščice	puščica	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	7	nsubj	_	pronunciation=puščice|Gos2.1_token_id=Gos014.tok3148
+7	pomenijo	pomeniti	VERB	Vmbr3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	pronunciation=pomenijo|Gos2.1_token_id=Gos014.tok3149
+8	?	?	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos014.s624
+# speaker_id = Cf-ucen-07182
+# sound_url = https://nl.ijs.si/project/gos20/Gos014/Gos014.s624.mp3
+# text = eee , da , v , eee , rastlina odvrže vodo .
+# split = train
+1	eee	eee	INTJ	I	_	10	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos014.tok3151
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	da	da	SCONJ	Cs	_	10	mark	_	pronunciation=da|Gos2.1_token_id=Gos014.tok3152
+4	,	,	PUNCT	Z	_	5	punct	_	_
+5	v	v	ADP	Sl	Case=Loc	10	reparandum	_	pronunciation=v|Gos2.1_token_id=Gos014.tok3153
+6	,	,	PUNCT	Z	_	7	punct	_	_
+7	eee	eee	INTJ	I	_	10	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos014.tok3154
+8	,	,	PUNCT	Z	_	7	punct	_	_
+9	rastlina	rastlina	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	pronunciation=rastlina|Gos2.1_token_id=Gos014.tok3155
+10	odvrže	odvreči	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=odvrže|Gos2.1_token_id=Gos014.tok3156
+11	vodo	voda	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	pronunciation=vodo|Gos2.1_token_id=Gos014.tok3157
+12	.	.	PUNCT	Z	_	10	punct	_	_
+
+
+# sent_id = Gos014.s625
+# speaker_id = Af-prof-07180
+# sound_url = https://nl.ijs.si/project/gos20/Gos014/Gos014.s625.mp3
+# text = ma ne bomo rekli , odvrže , kako bomo rekli ?
+# split = train
+1	ma	ma	PART	Q	_	4	discourse	_	pronunciation=ma|Gos2.1_token_id=Gos014.tok3158
+2	ne	ne	PART	Q	Polarity=Neg	4	advmod	_	pronunciation=ne|Gos2.1_token_id=Gos014.tok3159
+3	bomo	biti	AUX	Va-f1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin	4	aux	_	pronunciation=omo|Gos2.1_token_id=Gos014.tok3160
+4	rekli	reči	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	pronunciation=rekli|Gos2.1_token_id=Gos014.tok3161
+5	,	,	PUNCT	Z	_	6	punct	_	_
+6	odvrže	odvreči	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	pronunciation=odvrže|Gos2.1_token_id=Gos014.tok3162
+7	,	,	PUNCT	Z	_	10	punct	_	_
+8	kako	kako	ADV	Rgp	Degree=Pos	10	advmod	_	pronunciation=kako|Gos2.1_token_id=Gos014.tok3163
+9	bomo	biti	AUX	Va-f1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin	10	aux	_	pronunciation=bomo|Gos2.1_token_id=Gos014.tok3164
+10	rekli	reči	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	4	parataxis	_	pronunciation=rekli|Gos2.1_token_id=Gos014.tok3165
+11	?	?	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos014.s626
+# speaker_id = Cf-ucen-07182
+# sound_url = https://nl.ijs.si/project/gos20/Gos014/Gos014.s626.mp3
+# text = eem .
+# split = train
+1	eem	eem	INTJ	I	_	0	root	_	pronunciation=eem|Gos2.1_token_id=Gos014.tok3167
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos014.s628
+# speaker_id = Cf-ucen-07182
+# sound_url = https://nl.ijs.si/project/gos20/Gos014/Gos014.s628.mp3
+# text = izloči vodo .
+# split = train
+1	izloči	izločiti	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=izloči|Gos2.1_token_id=Gos014.tok3168
+2	vodo	voda	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	pronunciation=vodo|Gos2.1_token_id=Gos014.tok3169
+3	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos014.s629
+# speaker_id = Af-prof-07180
+# sound_url = https://nl.ijs.si/project/gos20/Gos014/Gos014.s629.mp3
+# text = skozi kaj ?
+# split = train
+1	skozi	skozi	ADP	Sa	Case=Acc	2	case	_	pronunciation=skozi|Gos2.1_token_id=Gos014.tok3170
+2	kaj	kaj	PRON	Pq-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	0	root	_	pronunciation=kaj|Gos2.1_token_id=Gos014.tok3171
+3	?	?	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos014.s630
+# speaker_id = Cf-ucen-07182
+# sound_url = https://nl.ijs.si/project/gos20/Gos014/Gos014.s630.mp3
+# text = eee , sko-
+# split = train
+1	eee	eee	INTJ	I	_	3	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos014.tok3173
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	sko-	sko-	X	Xt	_	0	root	_	pronunciation=sko…|Gos2.1_token_id=Gos014.tok3174
+
+
+# sent_id = Gos014.s632
+# speaker_id = Cf-ucen-07182
+# sound_url = https://nl.ijs.si/project/gos20/Gos014/Gos014.s632.mp3
+# text = liste .
+# split = train
+1	liste	list	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	0	root	_	pronunciation=liste|Gos2.1_token_id=Gos014.tok3175
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos014.s633
+# speaker_id = Af-prof-07180
+# sound_url = https://nl.ijs.si/project/gos20/Gos014/Gos014.s633.mp3
+# text = skozi liste izloči vodo , ja .
+# split = train
+1	skozi	skozi	ADP	Sa	Case=Acc	2	case	_	pronunciation=skozi|Gos2.1_token_id=Gos014.tok3176
+2	liste	list	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	3	obl	_	pronunciation=liste|Gos2.1_token_id=Gos014.tok3177
+3	izloči	izločiti	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=izloči|Gos2.1_token_id=Gos014.tok3178
+4	vodo	voda	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	pronunciation=vodo|Gos2.1_token_id=Gos014.tok3179
+5	,	,	PUNCT	Z	_	6	punct	_	_
+6	ja	ja	PART	Q	_	3	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos014.tok3180
+7	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos014.s634
+# speaker_id = Af-prof-07180
+# sound_url = https://nl.ijs.si/project/gos20/Gos014/Gos014.s634.mp3
+# text = v redu , kam pa ?
+# split = train
+1	v	v	ADP	Sl	Case=Loc	2	case	_	pronunciation=v|Gos2.1_token_id=Gos014.tok3181
+2	redu	red	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	4	discourse	_	pronunciation=redu|Gos2.1_token_id=Gos014.tok3182
+3	,	,	PUNCT	Z	_	2	punct	_	_
+4	kam	kam	ADV	Rgp	Degree=Pos	0	root	_	pronunciation=kam|Gos2.1_token_id=Gos014.tok3183
+5	pa	pa	CCONJ	Cc	_	4	orphan	_	pronunciation=pa|Gos2.1_token_id=Gos014.tok3184
+6	?	?	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos014.s635
+# speaker_id = Hm-ucen-07187
+# sound_url = https://nl.ijs.si/project/gos20/Gos014/Gos014.s635.mp3
+# text = v zrak .
+# split = train
+1	v	v	ADP	Sa	Case=Acc	2	case	_	pronunciation=v|Gos2.1_token_id=Gos014.tok3186
+2	zrak	zrak	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	root	_	pronunciation=zrak|Gos2.1_token_id=Gos014.tok3187
+3	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos014.s637
+# speaker_id = Hm-ucen-07187
+# sound_url = https://nl.ijs.si/project/gos20/Gos014/Gos014.s637.mp3
+# text = v zrak .
+# split = train
+1	v	v	ADP	Sa	Case=Acc	2	case	_	pronunciation=v|Gos2.1_token_id=Gos014.tok3188
+2	zrak	zrak	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	root	_	pronunciation=zrak|Gos2.1_token_id=Gos014.tok3189
+3	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos014.s638
+# speaker_id = Af-prof-07180
+# sound_url = https://nl.ijs.si/project/gos20/Gos014/Gos014.s638.mp3
+# text = v zrak .
+# split = train
+1	v	v	ADP	Sa	Case=Acc	2	case	_	pronunciation=v|Gos2.1_token_id=Gos014.tok3190
+2	zrak	zrak	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	root	_	pronunciation=zrak|Gos2.1_token_id=Gos014.tok3191
+3	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos014.s639
+# speaker_id = Af-prof-07180
+# sound_url = https://nl.ijs.si/project/gos20/Gos014/Gos014.s639.mp3
+# text = a je zdaj zaključeno kroženje ?
+# split = train
+1	a	a	ADV	Rgp	Degree=Pos	4	advmod	_	pronunciation=a|Gos2.1_token_id=Gos014.tok3192
+2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	pronunciation=je|Gos2.1_token_id=Gos014.tok3193
+3	zdaj	zdaj	ADV	Rgp	Degree=Pos	4	advmod	_	pronunciation=zdej|Gos2.1_token_id=Gos014.tok3194
+4	zaključeno	zaključen	ADJ	Appnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part	0	root	_	pronunciation=zaključeno|Gos2.1_token_id=Gos014.tok3195
+5	kroženje	kroženje	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	pronunciation=kroženje|Gos2.1_token_id=Gos014.tok3196
+6	?	?	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos014.s640
+# speaker_id = Dm-ucen-07183
+# sound_url = https://nl.ijs.si/project/gos20/Gos014/Gos014.s640.mp3
+# text = m- , m- , ja .
+# split = train
+1	m-	m-	X	Xt	_	5	reparandum	_	pronunciation=m…|Gos2.1_token_id=Gos014.tok3198
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	m-	m-	X	Xt	_	5	reparandum	_	pronunciation=m…|Gos2.1_token_id=Gos014.tok3199
+4	,	,	PUNCT	Z	_	3	punct	_	_
+5	ja	ja	PART	Q	_	0	root	_	pronunciation=ja|Gos2.1_token_id=Gos014.tok3200
+6	.	.	PUNCT	Z	_	5	punct	_	_
+
+
+# sent_id = Gos014.s641
+# speaker_id = Hm-ucen-07187
+# sound_url = https://nl.ijs.si/project/gos20/Gos014/Gos014.s641.mp3
+# text = to se še ponovi .
+# split = train
+1	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	pronunciation=to|Gos2.1_token_id=Gos014.tok3201
+2	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	4	expl	_	pronunciation=se|Gos2.1_token_id=Gos014.tok3202
+3	še	še	PART	Q	_	4	advmod	_	pronunciation=še|Gos2.1_token_id=Gos014.tok3203
+4	ponovi	ponoviti	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=ponovi|Gos2.1_token_id=Gos014.tok3204
+5	.	.	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos014.s642
+# speaker_id = Af-prof-07180
+# sound_url = https://nl.ijs.si/project/gos20/Gos014/Gos014.s642.mp3
+# text = tako je , to se ves čas ponavlja , zdaj bo pa nekdo povedal , to kroženje vod , srkanje te kolo- vode , minerali pa do konca .
+# split = train
+1	tako	tako	ADV	Rgp	Degree=Pos	2	advmod	_	pronunciation=tako|Gos2.1_token_id=Gos014.tok3205
+2	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=je|Gos2.1_token_id=Gos014.tok3206
+3	,	,	PUNCT	Z	_	8	punct	_	_
+4	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	_	pronunciation=to|Gos2.1_token_id=Gos014.tok3207
+5	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	8	expl	_	pronunciation=se|Gos2.1_token_id=Gos014.tok3208
+6	ves	ves	DET	Pg-msa	Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	7	det	_	pronunciation=ves|Gos2.1_token_id=Gos014.tok3209
+7	čas	čas	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obl	_	pronunciation=čas|Gos2.1_token_id=Gos014.tok3210
+8	ponavlja	ponavljati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	pronunciation=ponavlja|Gos2.1_token_id=Gos014.tok3211
+9	,	,	PUNCT	Z	_	14	punct	_	_
+10	zdaj	zdaj	ADV	Rgp	Degree=Pos	14	advmod	_	pronunciation=zdej|Gos2.1_token_id=Gos014.tok3212
+11	bo	biti	AUX	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	14	aux	_	pronunciation=bo|Gos2.1_token_id=Gos014.tok3213
+12	pa	pa	CCONJ	Cc	_	14	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos014.tok3214
+13	nekdo	nekdo	PRON	Pi-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	14	nsubj	_	pronunciation=nekdo|Gos2.1_token_id=Gos014.tok3215
+14	povedal	povedati	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	2	parataxis	_	pronunciation=povedal|Gos2.1_token_id=Gos014.tok3216
+15	,	,	PUNCT	Z	_	17	punct	_	_
+16	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	17	det	_	pronunciation=to|Gos2.1_token_id=Gos014.tok3217
+17	kroženje	kroženje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	14	obj	_	pronunciation=kroženje|Gos2.1_token_id=Gos014.tok3218
+18	vod	voda	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	17	nmod	_	pronunciation=vod|Gos2.1_token_id=Gos014.tok3219
+19	,	,	PUNCT	Z	_	20	punct	_	_
+20	srkanje	srkanje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	17	appos	_	pronunciation=srkanje|Gos2.1_token_id=Gos014.tok3220
+21	te	ta	DET	Pd-fsg	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	23	det	_	pronunciation=te|Gos2.1_token_id=Gos014.tok3221
+22	kolo-	kolo-	X	Xt	_	23	reparandum	_	pronunciation=kolo…|Gos2.1_token_id=Gos014.tok3222
+23	vode	voda	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	pronunciation=vode|Gos2.1_token_id=Gos014.tok3223
+24	,	,	PUNCT	Z	_	25	punct	_	_
+25	minerali	mineral	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	23	conj	_	pronunciation=minerali|Gos2.1_token_id=Gos014.tok3224
+26	pa	pa	CCONJ	Cc	_	28	cc	_	pronunciation=pa|Gos2.1_token_id=Gos014.tok3225
+27	do	do	ADP	Sg	Case=Gen	28	case	_	pronunciation=do|Gos2.1_token_id=Gos014.tok3226
+28	konca	konec	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	20	conj	_	pronunciation=konca|Gos2.1_token_id=Gos014.tok3227
+29	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos014.s644
+# speaker_id = Af-prof-07180
+# sound_url = https://nl.ijs.si/project/gos20/Gos014/Gos014.s644.mp3
+# text = mhm .
+# split = train
+1	mhm	mhm	INTJ	I	_	0	root	_	pronunciation=mhm|Gos2.1_token_id=Gos014.tok3228
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos014.s645
+# speaker_id = Af-prof-07180
+# sound_url = https://nl.ijs.si/project/gos20/Gos014/Gos014.s645.mp3
+# text = no , [name:personal] .
+# split = train
+1	no	no	PART	Q	_	3	discourse	_	pronunciation=no|Gos2.1_token_id=Gos014.tok3229
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos014.s645.element1
+4	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos014.s646
+# speaker_id = Hm-ucen-07187
+# sound_url = https://nl.ijs.si/project/gos20/Gos014/Gos014.s646.mp3
+# text = eem , korenine posrkajo vodo iz zemlje .
+# split = train
+1	eem	eem	INTJ	I	_	4	discourse:filler	_	pronunciation=eem|Gos2.1_token_id=Gos014.tok3230
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	korenine	korenina	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	pronunciation=korenine|Gos2.1_token_id=Gos014.tok3231
+4	posrkajo	posrkati	VERB	Vmer3p	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=posrkajo|Gos2.1_token_id=Gos014.tok3232
+5	vodo	voda	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	pronunciation=vodo|Gos2.1_token_id=Gos014.tok3233
+6	iz	iz	ADP	Sg	Case=Gen	7	case	_	pronunciation=iz|Gos2.1_token_id=Gos014.tok3234
+7	zemlje	zemlja	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	4	obl	_	pronunciation=zemlje|Gos2.1_token_id=Gos014.tok3235
+8	.	.	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos014.s647
+# speaker_id = Hm-ucen-07187
+# sound_url = https://nl.ijs.si/project/gos20/Gos014/Gos014.s647.mp3
+# text = eem , potem ta voda gre v druge dele rastline , pa se p- tudi predela v sladkor s fotosintezo .
+# split = train
+1	eem	eem	INTJ	I	_	6	discourse:filler	_	pronunciation=eem|Gos2.1_token_id=Gos014.tok3236
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	potem	potem	ADV	Rgp	Degree=Pos	6	advmod	_	pronunciation=potem|Gos2.1_token_id=Gos014.tok3237
+4	ta	ta	DET	Pd-fsn	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	pronunciation=ta|Gos2.1_token_id=Gos014.tok3238
+5	voda	voda	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	pronunciation=voda|Gos2.1_token_id=Gos014.tok3239
+6	gre	iti	VERB	Vmbr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=gre|Gos2.1_token_id=Gos014.tok3240
+7	v	v	ADP	Sa	Case=Acc	9	case	_	pronunciation=v|Gos2.1_token_id=Gos014.tok3241
+8	druge	drug	ADJ	Mlpmpa	Case=Acc|Gender=Masc|Number=Plur	9	amod	_	pronunciation=druge|Gos2.1_token_id=Gos014.tok3242
+9	dele	del	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	6	obl	_	pronunciation=dele|Gos2.1_token_id=Gos014.tok3243
+10	rastline	rastlina	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	pronunciation=rastline|Gos2.1_token_id=Gos014.tok3244
+11	,	,	PUNCT	Z	_	16	punct	_	_
+12	pa	pa	CCONJ	Cc	_	16	cc	_	pronunciation=pa|Gos2.1_token_id=Gos014.tok3245
+13	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	16	expl	_	pronunciation=se|Gos2.1_token_id=Gos014.tok3246
+14	p-	p-	X	Xt	_	16	reparandum	_	pronunciation=p…|Gos2.1_token_id=Gos014.tok3247
+15	tudi	tudi	PART	Q	_	16	advmod	_	pronunciation=tudi|Gos2.1_token_id=Gos014.tok3248
+16	predela	predelati	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	pronunciation=predela|Gos2.1_token_id=Gos014.tok3249
+17	v	v	ADP	Sa	Case=Acc	18	case	_	pronunciation=v|Gos2.1_token_id=Gos014.tok3250
+18	sladkor	sladkor	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	obl	_	pronunciation=sladkor|Gos2.1_token_id=Gos014.tok3251
+19	s	z	ADP	Si	Case=Ins	20	case	_	pronunciation=s|Gos2.1_token_id=Gos014.tok3252
+20	fotosintezo	fotosinteza	NOUN	Ncfsi	Case=Ins|Gender=Fem|Number=Sing	16	obl	_	pronunciation=fotosintezo|Gos2.1_token_id=Gos014.tok3253
+21	.	.	PUNCT	Z	_	6	punct	_	_
+
+

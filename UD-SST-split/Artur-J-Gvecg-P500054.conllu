@@ -1,0 +1,1349 @@
+# newdoc id = Artur-J-Gvecg-P500054
+# sent_id = Artur-J-Gvecg-P500054.s1_reseg.420
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s1.mp3
+# text = hvala lepa za besedo , lep pozdrav vsem .
+# split = train
+1	hvala	hvala	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	pronunciation=hvala|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s1|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1
+2	lepa	lep	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	amod	_	pronunciation=lepa|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s1|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok2
+3	za	za	ADP	Sa	Case=Acc	4	case	_	pronunciation=za|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s1|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok3
+4	besedo	beseda	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	pronunciation=besedo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s1|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok4
+5	,	,	PUNCT	Z	_	7	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s1|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok5
+6	lep	lep	ADJ	Agpmsan	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	pronunciation=lep|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s1|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok6
+7	pozdrav	pozdrav	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	parataxis	_	pronunciation=pozdrav|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s1|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok7
+8	vsem	ves	DET	Pg-mpd	Case=Dat|Gender=Masc|Number=Plur|PronType=Tot	7	orphan	_	pronunciation=vsəm|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s1|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok8
+9	.	.	PUNCT	Z	_	1	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s1|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok9
+
+
+# sent_id = Artur-J-Gvecg-P500054.s2-s3_reseg.421
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s2-s3.mp3
+# text = jaz bom malce bolj kritična .
+# split = train
+1	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	pronunciation=jəz|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s2|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok10
+2	bom	biti	AUX	Va-f1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin	5	cop	_	pronunciation=bom|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s2|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok11
+3	malce	malce	ADV	Rgp	Degree=Pos	4	advmod	_	pronunciation=malce|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s3|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok12
+4	bolj	bolj	ADV	Rgc	Degree=Cmp	5	advmod	_	pronunciation=bolj|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s3|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok13
+5	kritična	kritičen	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	pronunciation=kritična|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s3|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok14
+6	.	.	PUNCT	Z	_	5	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s3|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok15
+
+
+# sent_id = Artur-J-Gvecg-P500054.s4_reseg.422
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s4.mp3
+# text = e , seveda , pravice otrok so v Sloveniji dobro varovane , ampak to le načeloma .
+# split = train
+1	e	e	INTJ	I	_	11	discourse:filler	_	pronunciation=e|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s4|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok16
+2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s4|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok17
+3	seveda	seveda	PART	Q	_	11	discourse	_	pronunciation=səveda|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s4|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok18
+4	,	,	PUNCT	Z	_	3	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s4|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok19
+5	pravice	pravica	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	11	nsubj	_	pronunciation=pravice|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s4|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok20
+6	otrok	otrok	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	pronunciation=otrok|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s4|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok21
+7	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	cop	_	pronunciation=so|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s4|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok22
+8	v	v	ADP	Sl	Case=Loc	9	case	_	pronunciation=v|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s4|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok23
+9	Sloveniji	Slovenija	PROPN	Npfsl	Case=Loc|Gender=Fem|Number=Sing	11	obl	_	pronunciation=Sloveniji|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s4|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok24
+10	dobro	dobro	ADV	Rgp	Degree=Pos	11	advmod	_	pronunciation=dobro|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s4|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok25
+11	varovane	varovan	ADJ	Appfpn	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	pronunciation=varovane|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s4|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok26
+12	,	,	PUNCT	Z	_	14	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s4|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok27
+13	ampak	ampak	CCONJ	Cc	_	14	cc	_	pronunciation=ampak|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s4|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok28
+14	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	11	conj	_	pronunciation=to|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s4|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok29
+15	le	le	PART	Q	_	16	advmod	_	pronunciation=le|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s4|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok30
+16	načeloma	načeloma	ADV	Rgp	Degree=Pos	14	orphan	_	pronunciation=načeloma|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s4|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok31
+17	.	.	PUNCT	Z	_	11	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s4|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok32
+
+
+# sent_id = Artur-J-Gvecg-P500054.s5_reseg.423
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s5.mp3
+# text = jaz bom tukaj , e , povzela besede gospoda Svetine in z njimi , s temi besedami se absolutno strinjam .
+# split = train
+1	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	pronunciation=jəz|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s5|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok33
+2	bom	biti	AUX	Va-f1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin	7	aux	_	pronunciation=bom|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s5|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok34
+3	tukaj	tukaj	ADV	Rgp	Degree=Pos	7	advmod	_	pronunciation=tukej|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s5|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok35
+4	,	,	PUNCT	Z	_	5	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s5|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok36
+5	e	e	INTJ	I	_	7	discourse:filler	_	pronunciation=e|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s5|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok37
+6	,	,	PUNCT	Z	_	5	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s5|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok38
+7	povzela	povzeti	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=povzela|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s5|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok39
+8	besede	beseda	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	7	obj	_	pronunciation=besede|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s5|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok40
+9	gospoda	gospod	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	pronunciation=gospoda|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s5|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok41
+10	Svetine	Svetina	PROPN	Npmsg	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	pronunciation=Svetine|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s5|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok42
+11	in	in	CCONJ	Cc	_	20	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s5|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok43
+12	z	z	ADP	Si	Case=Ins	13	case	_	pronunciation=z|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s5|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok44
+13	njimi	on	PRON	Pp3fpi	Case=Ins|Gender=Fem|Number=Plur|Person=3|PronType=Prs	20	obl	_	pronunciation=njimi|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s5|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok45
+14	,	,	PUNCT	Z	_	17	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s5|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok46
+15	s	z	ADP	Si	Case=Ins	17	case	_	pronunciation=s|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s5|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok47
+16	temi	ta	DET	Pd-fpi	Case=Ins|Gender=Fem|Number=Plur|PronType=Dem	17	det	_	pronunciation=temi|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s5|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok48
+17	besedami	beseda	NOUN	Ncfpi	Case=Ins|Gender=Fem|Number=Plur	13	appos	_	pronunciation=besedami|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s5|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok49
+18	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	20	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s5|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok50
+19	absolutno	absolutno	ADV	Rgp	Degree=Pos	20	advmod	_	pronunciation=absolutno|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s5|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok51
+20	strinjam	strinjati	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	conj	_	pronunciation=strinjam|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s5|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok52
+21	.	.	PUNCT	Z	_	7	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s5|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok53
+
+
+# sent_id = Artur-J-Gvecg-P500054.s6_reseg.424
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s6.mp3
+# text = ko človek nekako prodre pod , v drobovje , pa vidi , da pravzaprav ni vse tako lepo , kot se mogoče sliši .
+# split = train
+1	ko	ko	SCONJ	Cs	_	4	mark	_	pronunciation=ko|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s6|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok54
+2	človek	človek	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	pronunciation=človək|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s6|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok55
+3	nekako	nekako	ADV	Rgp	Degree=Pos	4	advmod	_	pronunciation=nekako|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s6|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok56
+4	prodre	prodreti	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	pronunciation=prodre|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s6|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok57
+5	pod	pod	ADP	Sa	Case=Acc	8	reparandum	_	pronunciation=pod|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s6|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok58
+6	,	,	PUNCT	Z	_	5	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s6|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok59
+7	v	v	ADP	Sa	Case=Acc	8	case	_	pronunciation=və|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s6|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok60
+8	drobovje	drobovje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	pronunciation=drobovje|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s6|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok61
+9	,	,	PUNCT	Z	_	4	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s6|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok62
+10	pa	pa	CCONJ	Cc	_	11	advmod	_	pronunciation=pa|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s6|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok63
+11	vidi	videti	VERB	Vmbr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=vidi|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s6|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok64
+12	,	,	PUNCT	Z	_	18	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s6|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok65
+13	da	da	SCONJ	Cs	_	18	mark	_	pronunciation=da|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s6|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok66
+14	pravzaprav	pravzaprav	PART	Q	_	18	advmod	_	pronunciation=provzaprov|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s6|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok67
+15	ni	biti	AUX	Va-r3s-y	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	18	cop	_	pronunciation=ni|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s6|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok68
+16	vse	ves	DET	Pg-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	18	nsubj	_	pronunciation=vse|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s6|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok69
+17	tako	tako	ADV	Rgp	Degree=Pos	18	advmod	_	pronunciation=təko|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s6|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok70
+18	lepo	lep	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	11	ccomp	_	pronunciation=lepo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s6|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok71
+19	,	,	PUNCT	Z	_	23	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s6|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok72
+20	kot	kot	SCONJ	Cs	_	23	mark	_	pronunciation=kot|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s6|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok73
+21	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	23	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s6|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok74
+22	mogoče	mogoče	ADV	Rgp	Degree=Pos	23	advmod	_	pronunciation=mogoče|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s6|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok75
+23	sliši	slišati	VERB	Vmbr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	pronunciation=sliši|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s6|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok76
+24	.	.	PUNCT	Z	_	11	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s6|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok77
+
+
+# sent_id = Artur-J-Gvecg-P500054.s7-s13_reseg.425
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s7-s13.mp3
+# text = in kot je deklarativno znano , imamo zakone , e , imamo mednarodne kazalnike , skratka , ampak če gremo konkretno na posamezna področja in v konkretne tudi številke , pa s stanjem na področju varovanja otrokovih pravic v Sloveniji prav gotovo ne moremo biti , e , zadovoljni .
+# split = train
+1	in	in	CCONJ	Cc	_	5	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s7|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok78
+2	kot	kot	SCONJ	Cs	_	5	mark	_	pronunciation=kot|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s7|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok79
+3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s7|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok80
+4	deklarativno	deklarativno	ADV	Rgp	Degree=Pos	5	advmod	_	pronunciation=deklarativno|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s7|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok81
+5	znano	znan	ADJ	Appnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part	7	advcl	_	pronunciation=znano|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s7|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok82
+6	,	,	PUNCT	Z	_	5	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s7|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok83
+7	imamo	imeti	VERB	Vmpr1p-n	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=imamo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s7|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok84
+8	zakone	zakon	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	7	obj	_	pronunciation=zakone|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s7|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok85
+9	,	,	PUNCT	Z	_	12	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s7|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok86
+10	e	e	INTJ	I	_	12	discourse:filler	_	pronunciation=e|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s8|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok87
+11	,	,	PUNCT	Z	_	10	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s8|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok88
+12	imamo	imeti	VERB	Vmpr1p-n	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	parataxis	_	pronunciation=mamo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s8|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok89
+13	mednarodne	mednaroden	ADJ	Agpmpa	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	14	amod	_	pronunciation=mednarodne|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s8|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok90
+14	kazalnike	kazalnik	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	12	obj	_	pronunciation=kazalnike|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s8|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok91
+15	,	,	PUNCT	Z	_	16	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s8|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok92
+16	skratka	skratka	ADV	Rgp	Degree=Pos	7	discourse	_	pronunciation=skratka|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s9|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok93
+17	,	,	PUNCT	Z	_	16	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s9|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok94
+18	ampak	ampak	CCONJ	Cc	_	49	cc	_	pronunciation=ampak|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s9|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok95
+19	če	če	SCONJ	Cs	_	20	mark	_	pronunciation=če|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s10|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok96
+20	gremo	iti	VERB	Vmbr1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	44	advcl	_	pronunciation=gremo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s10|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok97
+21	konkretno	konkretno	ADV	Rgp	Degree=Pos	20	advmod	_	pronunciation=konkretno|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s10|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok98
+22	na	na	ADP	Sa	Case=Acc	24	case	_	pronunciation=na|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s10|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok99
+23	posamezna	posamezen	ADJ	Agpnpa	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	24	amod	_	pronunciation=posaməzna|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s10|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok100
+24	področja	področje	NOUN	Ncnpa	Case=Acc|Gender=Neut|Number=Plur	20	obl	_	pronunciation=področja|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s10|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok101
+25	in	in	CCONJ	Cc	_	29	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s10|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok102
+26	v	v	ADP	Sa	Case=Acc	29	case	_	pronunciation=v|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s10|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok103
+27	konkretne	konkreten	ADJ	Agpfpa	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	29	amod	_	pronunciation=konkretne|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s10|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok104
+28	tudi	tudi	PART	Q	_	29	advmod	_	pronunciation=tudi|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s10|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok105
+29	številke	številka	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	24	conj	_	pronunciation=številke|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s10|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok106
+30	,	,	PUNCT	Z	_	20	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s10|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok107
+31	pa	pa	CCONJ	Cc	_	44	advmod	_	pronunciation=pa|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s10|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok108
+32	s	z	ADP	Si	Case=Ins	33	case	_	pronunciation=s|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s11|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok109
+33	stanjem	stanje	NOUN	Ncnsi	Case=Ins|Gender=Neut|Number=Sing	49	obl	_	pronunciation=stanjəm|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s11|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok110
+34	na	na	ADP	Sl	Case=Loc	35	case	_	pronunciation=na|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s11|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok111
+35	področju	področje	NOUN	Ncnsl	Case=Loc|Gender=Neut|Number=Sing	33	nmod	_	pronunciation=področju|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s11|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok112
+36	varovanja	varovanje	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	35	nmod	_	pronunciation=varovanja|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s11|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok113
+37	otrokovih	otrokov	ADJ	Aspfpg	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Poss=Yes	38	amod	_	pronunciation=otrokovih|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s11|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok114
+38	pravic	pravica	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	36	nmod	_	pronunciation=prəvic|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s11|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok115
+39	v	v	ADP	Sl	Case=Loc	40	case	_	pronunciation=v|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s11|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok116
+40	Sloveniji	Slovenija	PROPN	Npfsl	Case=Loc|Gender=Fem|Number=Sing	38	nmod	_	pronunciation=Sloveniji|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s11|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok117
+41	prav	prav	PART	Q	_	42	advmod	_	pronunciation=prov|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s11|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok118
+42	gotovo	gotovo	ADV	Rgp	Degree=Pos	49	advmod	_	pronunciation=gotovo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s11|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok119
+43	ne	ne	PART	Q	Polarity=Neg	44	advmod	_	pronunciation=ne|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s12|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok120
+44	moremo	moči	VERB	Vmpr1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	conj	_	pronunciation=moremo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s12|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok121
+45	biti	biti	AUX	Va-n	VerbForm=Inf	49	cop	_	pronunciation=biti|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s12|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok122
+46	,	,	PUNCT	Z	_	47	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s12|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok123
+47	e	e	INTJ	I	_	49	discourse:filler	_	pronunciation=e|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s13|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok124
+48	,	,	PUNCT	Z	_	47	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s13|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok125
+49	zadovoljni	zadovoljen	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	44	xcomp	_	pronunciation=zədovolni|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s13|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok126
+50	.	.	PUNCT	Z	_	7	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s13|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok127
+
+
+# sent_id = Artur-J-Gvecg-P500054.s14-s15_reseg.426
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s14-s15.mp3
+# text = e , moram reči , izhodiščno vprašanje , na kaj smo mogoče ponosni , česa smo veseli .
+# split = train
+1	e	e	INTJ	I	_	3	discourse:filler	_	pronunciation=e|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s14|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok128
+2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s14|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok129
+3	moram	morati	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=morəm|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s14|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok130
+4	reči	reči	VERB	Vmen	Aspect=Perf|VerbForm=Inf	3	xcomp	_	pronunciation=reči|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s14|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok131
+5	,	,	PUNCT	Z	_	7	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s14|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok132
+6	izhodiščno	izhodiščen	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	pronunciation=izhodiščno|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s14|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok133
+7	vprašanje	vprašanje	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	3	parataxis	_	pronunciation=vprašanje|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s14|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok134
+8	,	,	PUNCT	Z	_	13	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s14|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok135
+9	na	na	ADP	Sa	Case=Acc	10	case	_	pronunciation=na|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s14|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok136
+10	kaj	kaj	PRON	Pq-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	13	obl	_	pronunciation=kaj|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s14|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok137
+11	smo	biti	AUX	Va-r1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	13	cop	_	pronunciation=smo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s15|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok138
+12	mogoče	mogoče	ADV	Rgp	Degree=Pos	13	advmod	_	pronunciation=mogoče|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s15|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok139
+13	ponosni	ponosen	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	7	acl	_	pronunciation=ponosni|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s15|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok140
+14	,	,	PUNCT	Z	_	17	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s15|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok141
+15	česa	kaj	PRON	Pq-nsg	Case=Gen|Gender=Neut|Number=Sing|PronType=Int	17	obj	_	pronunciation=česa|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s15|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok142
+16	smo	biti	AUX	Va-r1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	17	cop	_	pronunciation=smo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s15|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok143
+17	veseli	vesel	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	13	parataxis	_	pronunciation=veseli|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s15|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok144
+18	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s15|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok145
+
+
+# sent_id = Artur-J-Gvecg-P500054.s15-s24_reseg.427
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s15-s24.mp3
+# text = mi pri Zvezi prijateljev mladine Slovenije bi bili najbolj veseli , če bi bilo humanitarnega dela , torej skrbi konkretno za otroke , družino , za zbiranje sredstev , da bi bilo vsega tega manj , in več tega drugega dela , teh naših programov , ki jih peljemo z vso odgovornostjo , ker vemo , da so dobri , ker vemo , da prebujajo v otrocih , e , njihovo participacijo , njihovo kritično miselnost in ki vzpodbujajo talente in udejanjanje njihovih interesov .
+# split = train
+1	mi	jaz	PRON	Pp1mpn	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	pronunciation=mi|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s15|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok146
+2	pri	pri	ADP	Sl	Case=Loc	3	case	_	pronunciation=pri|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s15|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok147
+3	Zvezi	zveza	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	1	nmod	_	pronunciation=Zvezi|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s15|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok148
+4	prijateljev	prijatelj	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	pronunciation=prijatəljəv|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s15|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok149
+5	mladine	mladina	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	pronunciation=mladine|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s15|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok150
+6	Slovenije	Slovenija	PROPN	Npfsg	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	pronunciation=Slovenije|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s15|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok151
+7	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	10	aux	_	pronunciation=bi|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s16|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok152
+8	bili	biti	AUX	Va-p-pm	Gender=Masc|Number=Plur|VerbForm=Part	10	cop	_	pronunciation=bili|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s16|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok153
+9	najbolj	najbolj	ADV	Rgs	Degree=Sup	10	advmod	_	pronunciation=najbolj|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s16|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok154
+10	veseli	vesel	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	pronunciation=veseli|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s16|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok155
+11	,	,	PUNCT	Z	_	14	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s16|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok156
+12	če	če	SCONJ	Cs	_	14	mark	_	pronunciation=če|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s16|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok157
+13	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	14	aux	_	pronunciation=bi|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s16|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok158
+14	bilo	biti	AUX	Va-p-sn	Gender=Neut|Number=Sing|VerbForm=Part	32	reparandum	_	pronunciation=bilo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s16|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok159
+15	humanitarnega	humanitaren	ADJ	Agpnsg	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	pronunciation=humanitarnəga|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s16|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok160
+16	dela	delo	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	14	nsubj	_	pronunciation=dela|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s16|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok161
+17	,	,	PUNCT	Z	_	19	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s16|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok162
+18	torej	torej	CCONJ	Cc	_	19	cc	_	pronunciation=torej|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s16|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok163
+19	skrbi	skrb	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	16	appos	_	pronunciation=skrbi|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s16|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok164
+20	konkretno	konkretno	ADV	Rgp	Degree=Pos	19	advmod	_	pronunciation=konkretno|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s17|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok165
+21	za	za	ADP	Sa	Case=Acc	22	case	_	pronunciation=za|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s17|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok166
+22	otroke	otrok	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	19	nmod	_	pronunciation=otroke|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s17|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok167
+23	,	,	PUNCT	Z	_	24	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s17|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok168
+24	družino	družina	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	22	conj	_	pronunciation=družino|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s17|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok169
+25	,	,	PUNCT	Z	_	27	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s17|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok170
+26	za	za	ADP	Sa	Case=Acc	27	case	_	pronunciation=za|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s18|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok171
+27	zbiranje	zbiranje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	22	conj	_	pronunciation=zbiranje|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s18|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok172
+28	sredstev	sredstvo	NOUN	Ncnpg	Case=Gen|Gender=Neut|Number=Plur	27	nmod	_	pronunciation=sredstəv|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s18|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok173
+29	,	,	PUNCT	Z	_	32	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s18|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok174
+30	da	da	SCONJ	Cs	_	32	mark	_	pronunciation=da|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s18|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok175
+31	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	32	aux	_	pronunciation=bi|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s18|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok176
+32	bilo	biti	VERB	Va-p-sn	Gender=Neut|Number=Sing|VerbForm=Part	10	ccomp	_	pronunciation=bilo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s18|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok177
+33	vsega	ves	DET	Pg-nsg	Case=Gen|Gender=Neut|Number=Sing|PronType=Tot	34	det	_	pronunciation=vsəga|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s18|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok178
+34	tega	ta	DET	Pd-nsg	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	32	nsubj	_	pronunciation=tega|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s18|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok179
+35	manj	manj	DET	Rgc	PronType=Ind	32	obl	_	pronunciation=manj|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s18|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok180
+36	,	,	PUNCT	Z	_	41	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s18|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok181
+37	in	in	CCONJ	Cc	_	41	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s19|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok182
+38	več	več	DET	Rgc	PronType=Ind	41	orphan	_	pronunciation=več|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s19|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok183
+39	tega	ta	DET	Pd-nsg	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	41	det	_	pronunciation=tega|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s19|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok184
+40	drugega	drug	ADJ	Mlpnsg	Case=Gen|Gender=Neut|Number=Sing	41	amod	_	pronunciation=drugəga|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s19|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok185
+41	dela	delo	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	32	conj	_	pronunciation=dela|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s19|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok186
+42	,	,	PUNCT	Z	_	45	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s19|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok187
+43	teh	ta	DET	Pd-mpg	Case=Gen|Gender=Masc|Number=Plur|PronType=Dem	45	det	_	pronunciation=teh|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s19|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok188
+44	naših	naš	DET	Ps1mpgp	Case=Gen|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	45	det	_	pronunciation=naših|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s19|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok189
+45	programov	program	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	41	appos	_	pronunciation=programov|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s19|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok190
+46	,	,	PUNCT	Z	_	49	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s19|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok191
+47	ki	ki	SCONJ	Cs	_	49	mark	_	pronunciation=ki|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s19|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok192
+48	jih	on	PRON	Pp3mpa--y	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Variant=Short	49	obj	_	pronunciation=jih|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s19|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok193
+49	peljemo	peljati	VERB	Vmpr1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	45	acl	_	pronunciation=peljemo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s20|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok194
+50	z	z	ADP	Si	Case=Ins	52	case	_	pronunciation=z|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s20|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok195
+51	vso	ves	DET	Pg-fsi	Case=Ins|Gender=Fem|Number=Sing|PronType=Tot	52	det	_	pronunciation=vso|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s20|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok196
+52	odgovornostjo	odgovornost	NOUN	Ncfsi	Case=Ins|Gender=Fem|Number=Sing	49	obl	_	pronunciation=odgovornostjo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s20|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok197
+53	,	,	PUNCT	Z	_	55	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s20|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok198
+54	ker	ker	SCONJ	Cs	_	55	mark	_	pronunciation=kər|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s20|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok199
+55	vemo	vedeti	VERB	Vmpr1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	49	advcl	_	pronunciation=vemo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s20|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok200
+56	,	,	PUNCT	Z	_	59	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s20|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok201
+57	da	da	SCONJ	Cs	_	59	mark	_	pronunciation=da|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s20|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok202
+58	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	59	cop	_	pronunciation=so|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s20|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok203
+59	dobri	dober	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	55	ccomp	_	pronunciation=dobri|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s20|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok204
+60	,	,	PUNCT	Z	_	62	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s20|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok205
+61	ker	ker	SCONJ	Cs	_	62	mark	_	pronunciation=kər|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s20|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok206
+62	vemo	vedeti	VERB	Vmpr1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	55	conj	_	pronunciation=vemo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s20|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok207
+63	,	,	PUNCT	Z	_	65	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s20|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok208
+64	da	da	SCONJ	Cs	_	65	mark	_	pronunciation=da|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s20|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok209
+65	prebujajo	prebujati	VERB	Vmpr3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	62	ccomp	_	pronunciation=prəbujajo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s21|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok210
+66	v	v	ADP	Sl	Case=Loc	67	case	_	pronunciation=v|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s21|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok211
+67	otrocih	otrok	NOUN	Ncmpl	Case=Loc|Gender=Masc|Number=Plur	65	obl	_	pronunciation=otrocih|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s21|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok212
+68	,	,	PUNCT	Z	_	69	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s21|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok213
+69	e	e	INTJ	I	_	65	discourse:filler	_	pronunciation=e|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s22|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok214
+70	,	,	PUNCT	Z	_	69	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s22|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok215
+71	njihovo	njihov	DET	Ps3fsap	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	72	det	_	pronunciation=njihovo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s22|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok216
+72	participacijo	participacija	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	65	obj	_	pronunciation=participacijo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s22|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok217
+73	,	,	PUNCT	Z	_	76	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s22|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok218
+74	njihovo	njihov	DET	Ps3fsap	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	76	det	_	pronunciation=njihovo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s22|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok219
+75	kritično	kritičen	ADJ	Agpfsa	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	76	amod	_	pronunciation=kritično|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s22|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok220
+76	miselnost	miselnost	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	72	conj	_	pronunciation=misəlnost|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s22|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok221
+77	in	in	CCONJ	Cc	_	79	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s23|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok222
+78	ki	ki	SCONJ	Cs	_	79	mark	_	pronunciation=ki|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s23|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok223
+79	vzpodbujajo	vzpodbujati	VERB	Vmpr3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	65	conj	_	pronunciation=vzpodbujajo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s23|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok224
+80	talente	talent	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	79	obj	_	pronunciation=talente|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s23|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok225
+81	in	in	CCONJ	Cc	_	82	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s23|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok226
+82	udejanjanje	udejanjanje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	80	conj	_	pronunciation=udejanjanje|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s23|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok227
+83	njihovih	njihov	DET	Ps3mpgp	Case=Gen|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	84	det	_	pronunciation=njihovih|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s23|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok228
+84	interesov	interes	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	82	nmod	_	pronunciation=interesov|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s24|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok229
+85	.	.	PUNCT	Z	_	10	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s24|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok230
+
+
+# sent_id = Artur-J-Gvecg-P500054.s24-s25_reseg.428
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s24-s25.mp3
+# text = zato peljemo programe , kot so Evropa v šoli , e , šolski parlament in tako dalje in še bi lahko naštevala .
+# split = train
+1	zato	zato	CCONJ	Cc	_	2	cc	_	pronunciation=zato|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s24|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok231
+2	peljemo	peljati	VERB	Vmpr1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=peljemo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s24|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok232
+3	programe	program	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	2	obj	_	pronunciation=programe|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s24|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok233
+4	,	,	PUNCT	Z	_	7	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s24|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok234
+5	kot	kot	SCONJ	Cs	_	7	mark	_	pronunciation=kot|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s24|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok235
+6	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	_	pronunciation=so|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s24|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok236
+7	Evropa	Evropa	PROPN	Npfsn	Case=Nom|Gender=Fem|Number=Sing	3	acl	_	pronunciation=Evropa|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s24|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok237
+8	v	v	ADP	Sl	Case=Loc	9	case	_	pronunciation=v|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s24|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok238
+9	šoli	šola	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	7	nmod	_	pronunciation=šoli|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s24|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok239
+10	,	,	PUNCT	Z	_	11	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s24|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok240
+11	e	e	INTJ	I	_	7	discourse:filler	_	pronunciation=e|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s25|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok241
+12	,	,	PUNCT	Z	_	14	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s25|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok242
+13	šolski	šolski	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	pronunciation=šolski|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s25|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok243
+14	parlament	parlament	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	7	conj	_	pronunciation=parlament|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s25|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok244
+15	in	in	CCONJ	Cc	_	7	conj	_	pronunciation=in|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s25|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok245
+16	tako	tako	ADV	Rgp	Degree=Pos	15	fixed	_	pronunciation=tako|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s25|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok246
+17	dalje	dalje	ADV	Rgp	Degree=Pos	15	fixed	_	pronunciation=dalje|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s25|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok247
+18	in	in	CCONJ	Cc	_	22	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s25|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok248
+19	še	še	PART	Q	_	22	advmod	_	pronunciation=še|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s25|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok249
+20	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	22	aux	_	pronunciation=bi|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s25|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok250
+21	lahko	lahko	ADV	Rgp	Degree=Pos	22	advmod	_	pronunciation=lahko|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s25|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok251
+22	naštevala	naštevati	VERB	Vmpp-sf	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	2	conj	_	pronunciation=naštevala|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s25|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok252
+23	.	.	PUNCT	Z	_	2	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s25|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok253
+
+
+# sent_id = Artur-J-Gvecg-P500054.s26-s30_reseg.429
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s26-s30.mp3
+# text = ampak poglejte , eee , kljub dobrim gospodarskim kazalcem smo vendarli smo vendarle soočeni z dejstvom , da v Sloveniji še vedno živi petinštirideset tisoč otrok pod pragom revščine .
+# split = train
+1	ampak	ampak	CCONJ	Cc	_	2	cc	_	pronunciation=ampak|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s26|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok254
+2	poglejte	pogledati	VERB	Vmem2p	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	pronunciation=poglejte|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s26|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok255
+3	,	,	PUNCT	Z	_	14	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s26|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok256
+4	eee	eee	INTJ	I	_	14	discourse:filler	_	pronunciation=eee|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s26|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok257
+5	,	,	PUNCT	Z	_	4	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s26|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok258
+6	kljub	kljub	ADP	Sd	Case=Dat	9	case	_	pronunciation=kljub|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s27|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok259
+7	dobrim	dober	ADJ	Agpmpd	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	9	amod	_	pronunciation=dobrim|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s28|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok260
+8	gospodarskim	gospodarski	ADJ	Agpmpd	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	9	amod	_	pronunciation=gospodarskim|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s28|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok261
+9	kazalcem	kazalec	NOUN	Ncmpd	Case=Dat|Gender=Masc|Number=Plur	14	obl	_	pronunciation=kazalcəm|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s28|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok262
+10	smo	biti	AUX	Va-r1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	14	reparandum	_	pronunciation=smo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s28|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok263
+11	vendarli	vendarli	X	X	_	10	orphan	_	pronunciation=vəndarli…|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s28|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok264
+12	smo	biti	AUX	Va-r1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	14	cop	_	pronunciation=smo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s28|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok265
+13	vendarle	vendarle	CCONJ	Cc	_	14	advmod	_	pronunciation=vəndarle|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s28|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok266
+14	soočeni	soočen	ADJ	Appmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part	2	parataxis	_	pronunciation=soočeni|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s28|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok267
+15	z	z	ADP	Si	Case=Ins	16	case	_	pronunciation=zə|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s29|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok268
+16	dejstvom	dejstvo	NOUN	Ncnsi	Case=Ins|Gender=Neut|Number=Sing	14	obl	_	pronunciation=dejstvom|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s29|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok269
+17	,	,	PUNCT	Z	_	23	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s29|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok270
+18	da	da	SCONJ	Cs	_	23	mark	_	pronunciation=da|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s29|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok271
+19	v	v	ADP	Sl	Case=Loc	20	case	_	pronunciation=v|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s29|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok272
+20	Sloveniji	Slovenija	PROPN	Npfsl	Case=Loc|Gender=Fem|Number=Sing	23	obl	_	pronunciation=Sloveniji|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s29|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok273
+21	še	še	PART	Q	_	23	advmod	_	pronunciation=še|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s29|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok274
+22	vedno	vedno	ADV	Rgp	Degree=Pos	23	advmod	_	pronunciation=vedno|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s29|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok275
+23	živi	živeti	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	acl	_	pronunciation=živi|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s29|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok276
+24	petinštirideset	petinštirideset	NUM	Mlc-pn	Case=Nom|Number=Plur|NumForm=Word|NumType=Card	26	nummod	_	pronunciation=petinštiridesət|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s29|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok277
+25	tisoč	tisoč	NUM	Mlc-pn	Case=Nom|Number=Plur|NumForm=Word|NumType=Card	24	flat	_	pronunciation=tisoč|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s29|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok278
+26	otrok	otrok	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	23	nsubj	_	pronunciation=otrok|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s29|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok279
+27	pod	pod	ADP	Si	Case=Ins	28	case	_	pronunciation=pod|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s30|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok280
+28	pragom	prag	NOUN	Ncmsi	Case=Ins|Gender=Masc|Number=Sing	23	obl	_	pronunciation=pragom|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s30|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok281
+29	revščine	revščina	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	28	nmod	_	pronunciation=revščine|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s30|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok282
+30	.	.	PUNCT	Z	_	2	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s30|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok283
+
+
+# sent_id = Artur-J-Gvecg-P500054.s30-s32_reseg.430
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s30-s32.mp3
+# text = jaz mislim , da je to enostavno nedopustno , nesocialno , nepravično in skregano , eee , z vsako svetlo prihodnostjo .
+# split = train
+1	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	pronunciation=jəz|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s30|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok284
+2	mislim	misliti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=mislim|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s30|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok285
+3	,	,	PUNCT	Z	_	8	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s30|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok286
+4	da	da	SCONJ	Cs	_	8	mark	_	pronunciation=da|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s30|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok287
+5	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s30|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok288
+6	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	_	pronunciation=to|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s30|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok289
+7	enostavno	enostavno	ADV	Rgp	Degree=Pos	8	advmod	_	pronunciation=enostavno|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s31|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok290
+8	nedopustno	nedopusten	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	ccomp	_	pronunciation=nedopustno|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s31|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok291
+9	,	,	PUNCT	Z	_	10	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s31|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok292
+10	nesocialno	nesocialen	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	8	conj	_	pronunciation=nesocialno|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s31|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok293
+11	,	,	PUNCT	Z	_	12	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s31|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok294
+12	nepravično	nepravično	ADV	Rgp	Degree=Pos	8	conj	_	pronunciation=nepravično|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s31|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok295
+13	in	in	CCONJ	Cc	_	14	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s32|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok296
+14	skregano	skregan	ADJ	Appnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part	8	conj	_	pronunciation=skregano|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s32|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok297
+15	,	,	PUNCT	Z	_	16	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s32|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok298
+16	eee	eee	INTJ	I	_	8	discourse:filler	_	pronunciation=eee|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s32|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok299
+17	,	,	PUNCT	Z	_	16	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s32|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok300
+18	z	z	ADP	Si	Case=Ins	21	case	_	pronunciation=z|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s32|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok301
+19	vsako	vsak	DET	Pg-fsi	Case=Ins|Gender=Fem|Number=Sing|PronType=Tot	21	det	_	pronunciation=vsako|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s32|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok302
+20	svetlo	svetel	ADJ	Agpfsi	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	pronunciation=svətlo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s32|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok303
+21	prihodnostjo	prihodnost	NOUN	Ncfsi	Case=Ins|Gender=Fem|Number=Sing	14	nmod	_	pronunciation=prihodnostjo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s32|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok304
+22	.	.	PUNCT	Z	_	2	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s32|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok305
+
+
+# sent_id = Artur-J-Gvecg-P500054.s33_reseg.431
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s33.mp3
+# text = in tukaj se pravzaprav lahko vse konča ali pa vse začne .
+# split = train
+1	in	in	CCONJ	Cc	_	7	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s33|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok306
+2	tukaj	tukaj	ADV	Rgp	Degree=Pos	7	advmod	_	pronunciation=tukej|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s33|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok307
+3	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	7	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s33|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok308
+4	pravzaprav	pravzaprav	PART	Q	_	7	advmod	_	pronunciation=provzaprov|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s33|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok309
+5	lahko	lahko	ADV	Rgp	Degree=Pos	7	advmod	_	pronunciation=lahko|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s33|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok310
+6	vse	ves	DET	Pg-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	7	nsubj	_	pronunciation=vse|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s33|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok311
+7	konča	končati	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=konča|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s33|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok312
+8	ali	ali	CCONJ	Cc	_	11	cc	_	pronunciation=ali|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s33|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok313
+9	pa	pa	CCONJ	Cc	_	11	advmod	_	pronunciation=pa|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s33|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok314
+10	vse	ves	DET	Pg-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	11	nsubj	_	pronunciation=vse|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s33|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok315
+11	začne	začeti	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	pronunciation=zəčne|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s33|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok316
+12	.	.	PUNCT	Z	_	7	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s33|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok317
+
+
+# sent_id = Artur-J-Gvecg-P500054.s34-s36_reseg.432
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s34-s36.mp3
+# text = e , mi pogrešamo s strani odločevalcev , s strani države neko večjo smelost , zagnanost .
+# split = train
+1	e	e	INTJ	I	_	4	discourse:filler	_	pronunciation=e|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s34|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok318
+2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s34|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok319
+3	mi	jaz	PRON	Pp1mpn	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	pronunciation=mi|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s34|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok320
+4	pogrešamo	pogrešati	VERB	Vmpr1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=pogrešamo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s35|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok321
+5	s	z	ADP	Sg	Case=Gen	6	case	_	pronunciation=s|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s35|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok322
+6	strani	stran	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	4	obl	_	pronunciation=strəni|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s35|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok323
+7	odločevalcev	odločevalec	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	pronunciation=odločəvalcəv|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s35|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok324
+8	,	,	PUNCT	Z	_	10	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s35|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok325
+9	s	z	ADP	Sg	Case=Gen	10	case	_	pronunciation=s|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s35|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok326
+10	strani	stran	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	6	conj	_	pronunciation=strəni|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s35|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok327
+11	države	država	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	pronunciation=države|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s35|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok328
+12	neko	nek	DET	Pi-fsa	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	14	det	_	pronunciation=neko|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s36|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok329
+13	večjo	velik	ADJ	Agcfsa	Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing	14	amod	_	pronunciation=večjo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s36|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok330
+14	smelost	smelost	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	pronunciation=smelost|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s36|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok331
+15	,	,	PUNCT	Z	_	16	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s36|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok332
+16	zagnanost	zagnanost	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	14	conj	_	pronunciation=zagnanost|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s36|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok333
+17	.	.	PUNCT	Z	_	4	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s36|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok334
+
+
+# sent_id = Artur-J-Gvecg-P500054.s37-s42_reseg.433
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s37-s42.mp3
+# text = mi pogrešamo to , kar je pravzaprav zapisano v dokumentih , v Ustavi , v Konvenciji , da je treba otroka postaviti prednostno na lestvico političnih prioritet in reševanja vseh problemov , eee , ki so povezani z življenjem otrok .
+# split = train
+1	mi	jaz	PRON	Pp1mpn	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	pronunciation=mi|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s37|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok335
+2	pogrešamo	pogrešati	VERB	Vmpr1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=pogrešamo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s37|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok336
+3	to	ta	DET	Pd-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	2	obj	_	pronunciation=to|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s38|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok337
+4	,	,	PUNCT	Z	_	8	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s38|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok338
+5	kar	kar	PRON	Pr-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	8	nsubj	_	pronunciation=kar|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s38|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok339
+6	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s38|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok340
+7	pravzaprav	pravzaprav	PART	Q	_	8	advmod	_	pronunciation=provzəprov|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s38|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok341
+8	zapisano	zapisan	ADJ	Appnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part	3	acl	_	pronunciation=zapisano|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s38|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok342
+9	v	v	ADP	Sl	Case=Loc	10	case	_	pronunciation=v|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s39|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok343
+10	dokumentih	dokument	NOUN	Ncmpl	Case=Loc|Gender=Masc|Number=Plur	8	obl	_	pronunciation=dokumentih|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s39|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok344
+11	,	,	PUNCT	Z	_	13	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s39|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok345
+12	v	v	ADP	Sl	Case=Loc	13	case	_	pronunciation=v|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s39|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok346
+13	Ustavi	ustava	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	10	conj	_	pronunciation=Ustavi|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s39|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok347
+14	,	,	PUNCT	Z	_	16	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s39|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok348
+15	v	v	ADP	Sl	Case=Loc	16	case	_	pronunciation=v|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s39|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok349
+16	Konvenciji	konvencija	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	10	conj	_	pronunciation=Konvenciji|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s39|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok350
+17	,	,	PUNCT	Z	_	19	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s39|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok351
+18	da	da	SCONJ	Cs	_	19	mark	_	pronunciation=da|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s40|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok352
+19	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	parataxis	_	pronunciation=je|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s40|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok353
+20	treba	treba	ADV	Rgp	Degree=Pos	19	advmod	_	pronunciation=treba|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s40|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok354
+21	otroka	otrok	NOUN	Ncmsay	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	22	obj	_	pronunciation=otroka|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s41|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok355
+22	postaviti	postaviti	VERB	Vmen	Aspect=Perf|VerbForm=Inf	19	csubj	_	pronunciation=postavit|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s41|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok356
+23	prednostno	prednostno	ADV	Rgp	Degree=Pos	22	advmod	_	pronunciation=prednostno|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s41|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok357
+24	na	na	ADP	Sa	Case=Acc	25	case	_	pronunciation=na|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s41|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok358
+25	lestvico	lestvica	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	22	obl	_	pronunciation=lestvico|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s41|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok359
+26	političnih	političen	ADJ	Agpfpg	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	27	amod	_	pronunciation=političnih|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s41|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok360
+27	prioritet	prioriteta	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	25	nmod	_	pronunciation=prioritet|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s41|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok361
+28	in	in	CCONJ	Cc	_	29	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s41|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok362
+29	reševanja	reševanje	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	27	conj	_	pronunciation=rešəvanja|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s41|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok363
+30	vseh	ves	DET	Pg-mpg	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	31	det	_	pronunciation=vsəh|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s41|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok364
+31	problemov	problem	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	29	nmod	_	pronunciation=problemov|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s41|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok365
+32	,	,	PUNCT	Z	_	37	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s41|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok366
+33	eee	eee	INTJ	I	_	37	discourse:filler	_	pronunciation=eee|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s42|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok367
+34	,	,	PUNCT	Z	_	33	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s42|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok368
+35	ki	ki	SCONJ	Cs	_	37	mark	_	pronunciation=ki|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s42|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok369
+36	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	37	cop	_	pronunciation=so|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s42|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok370
+37	povezani	povezan	ADJ	Appmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part	31	acl	_	pronunciation=povezani|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s42|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok371
+38	z	z	ADP	Si	Case=Ins	39	case	_	pronunciation=zə|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s42|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok372
+39	življenjem	življenje	NOUN	Ncnsi	Case=Ins|Gender=Neut|Number=Sing	37	obl	_	pronunciation=življenjəm|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s42|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok373
+40	otrok	otrok	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	39	nmod	_	pronunciation=otrok|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s42|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok374
+41	.	.	PUNCT	Z	_	2	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s42|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok375
+
+
+# sent_id = Artur-J-Gvecg-P500054.s43_reseg.434
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s43.mp3
+# text = na primer , konkretno bom povedala .
+# split = train
+1	na	na	ADP	Sa	Case=Acc	6	cc	_	pronunciation=na|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s43|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok376
+2	primer	primer	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	fixed	_	pronunciation=primər|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s43|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok377
+3	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s43|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok378
+4	konkretno	konkretno	ADV	Rgp	Degree=Pos	6	advmod	_	pronunciation=konkretno|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s43|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok379
+5	bom	biti	AUX	Va-f1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin	6	aux	_	pronunciation=bom|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s43|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok380
+6	povedala	povedati	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=povedala|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s43|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok381
+7	.	.	PUNCT	Z	_	6	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s43|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok382
+
+
+# sent_id = Artur-J-Gvecg-P500054.s43-s47_reseg.435
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s43-s47.mp3
+# text = zelo veliko se pri nas govori o zdravstvu , e , problemov je ogromno , rešitev malo , zelo malo pa se govori o otroku , ki je vržen v ta zdravstveni sistem , eee , o otroku , e , ki ima čedalje več psihičnih težav , pa mora na primer čakati na prvi obisk pedopsihiatra devet mesecev .
+# split = train
+1	zelo	zelo	ADV	Rgp	Degree=Pos	2	advmod	_	pronunciation=zəlo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s43|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok383
+2	veliko	veliko	DET	Rgp	PronType=Ind	6	advmod	_	pronunciation=veliko|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s43|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok384
+3	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	6	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s43|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok385
+4	pri	pri	ADP	Sl	Case=Loc	5	case	_	pronunciation=pri|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s43|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok386
+5	nas	jaz	PRON	Pp1-pl	Case=Loc|Number=Plur|Person=1|PronType=Prs	6	obl	_	pronunciation=nəs|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s43|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok387
+6	govori	govoriti	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=govori|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s43|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok388
+7	o	o	ADP	Sl	Case=Loc	8	case	_	pronunciation=o|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s44|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok389
+8	zdravstvu	zdravstvo	NOUN	Ncnsl	Case=Loc|Gender=Neut|Number=Sing	6	obl	_	pronunciation=zdravstvu|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s44|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok390
+9	,	,	PUNCT	Z	_	13	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s44|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok391
+10	e	e	INTJ	I	_	13	discourse:filler	_	pronunciation=e|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s44|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok392
+11	,	,	PUNCT	Z	_	10	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s44|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok393
+12	problemov	problem	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	13	nsubj	_	pronunciation=problemov|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s44|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok394
+13	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	parataxis	_	pronunciation=je|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s44|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok395
+14	ogromno	ogromno	DET	Rgp	PronType=Ind	13	obl	_	pronunciation=ogromno|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s44|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok396
+15	,	,	PUNCT	Z	_	16	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s44|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok397
+16	rešitev	rešitev	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	13	parataxis	_	pronunciation=rešitəv|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s44|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok398
+17	malo	malo	DET	Rgp	PronType=Ind	16	orphan	_	pronunciation=malo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s44|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok399
+18	,	,	PUNCT	Z	_	23	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s44|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok400
+19	zelo	zelo	ADV	Rgp	Degree=Pos	20	advmod	_	pronunciation=zelo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s44|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok401
+20	malo	malo	DET	Rgp	PronType=Ind	23	advmod	_	pronunciation=malo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s44|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok402
+21	pa	pa	CCONJ	Cc	_	23	advmod	_	pronunciation=pa|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s44|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok403
+22	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	23	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s44|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok404
+23	govori	govoriti	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	parataxis	_	pronunciation=govori|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s44|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok405
+24	o	o	ADP	Sl	Case=Loc	25	case	_	pronunciation=o|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s44|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok406
+25	otroku	otrok	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	23	obl	_	pronunciation=otroku|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s44|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok407
+26	,	,	PUNCT	Z	_	29	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s44|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok408
+27	ki	ki	SCONJ	Cs	_	29	mark	_	pronunciation=ki|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s45|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok409
+28	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	29	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s45|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok410
+29	vržen	vržen	ADJ	Appmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part	25	acl	_	pronunciation=vržən|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s45|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok411
+30	v	v	ADP	Sa	Case=Acc	33	case	_	pronunciation=v|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s45|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok412
+31	ta	ta	DET	Pd-msa	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	33	det	_	pronunciation=ta|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s45|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok413
+32	zdravstveni	zdravstven	ADJ	Agpmsay	Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	33	amod	_	pronunciation=zdravstveni|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s45|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok414
+33	sistem	sistem	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	29	obl	_	pronunciation=sistem|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s45|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok415
+34	,	,	PUNCT	Z	_	38	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s45|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok416
+35	eee	eee	INTJ	I	_	38	discourse:filler	_	pronunciation=eee|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s46|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok417
+36	,	,	PUNCT	Z	_	35	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s46|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok418
+37	o	o	ADP	Sl	Case=Loc	38	case	_	pronunciation=o|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s46|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok419
+38	otroku	otrok	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	25	appos	_	pronunciation=otroku|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s46|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok420
+39	,	,	PUNCT	Z	_	43	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s46|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok421
+40	e	e	INTJ	I	_	43	discourse:filler	_	pronunciation=e|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s46|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok422
+41	,	,	PUNCT	Z	_	40	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s46|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok423
+42	ki	ki	SCONJ	Cs	_	43	mark	_	pronunciation=ki|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s46|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok424
+43	ima	imeti	VERB	Vmpr3s-n	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	38	acl	_	pronunciation=ima|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s46|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok425
+44	čedalje	čedalje	ADV	Rgp	Degree=Pos	45	advmod	_	pronunciation=čedalje|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s46|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok426
+45	več	več	DET	Rgc	PronType=Ind	47	det	_	pronunciation=več|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s46|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok427
+46	psihičnih	psihičen	ADJ	Agpfpg	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	47	amod	_	pronunciation=psihičnih|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s46|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok428
+47	težav	težava	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	43	obj	_	pronunciation=težav|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s46|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok429
+48	,	,	PUNCT	Z	_	50	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s46|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok430
+49	pa	pa	CCONJ	Cc	_	50	cc	_	pronunciation=pa|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s46|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok431
+50	mora	morati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	43	conj	_	pronunciation=mora|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s46|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok432
+51	na	na	ADP	Sa	Case=Acc	53	advmod	_	pronunciation=na|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s46|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok433
+52	primer	primer	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	51	fixed	_	pronunciation=primer|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s46|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok434
+53	čakati	čakati	VERB	Vmpn	Aspect=Imp|VerbForm=Inf	50	xcomp	_	pronunciation=čakat|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s46|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok435
+54	na	na	ADP	Sa	Case=Acc	56	case	_	pronunciation=na|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s47|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok436
+55	prvi	prvi	ADJ	Mlomsa	Case=Acc|Gender=Masc|Number=Sing|NumType=Ord	56	amod	_	pronunciation=prvi|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s47|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok437
+56	obisk	obisk	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	53	obl	_	pronunciation=obisk|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s47|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok438
+57	pedopsihiatra	pedopsihiater	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	56	nmod	_	pronunciation=pedopsihiatra|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s47|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok439
+58	devet	devet	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	59	nummod	_	pronunciation=devet|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s47|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok440
+59	mesecev	mesec	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	53	obl	_	pronunciation=mesəcəv|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s47|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok441
+60	.	.	PUNCT	Z	_	6	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s47|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok442
+
+
+# sent_id = Artur-J-Gvecg-P500054.s47_reseg.436
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s47.mp3
+# text = to je enostavno nedopustno .
+# split = train
+1	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	pronunciation=to|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s47|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok443
+2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s47|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok444
+3	enostavno	enostavno	ADV	Rgp	Degree=Pos	4	advmod	_	pronunciation=enostavno|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s47|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok445
+4	nedopustno	nedopusten	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	pronunciation=nedopustno|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s47|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok446
+5	.	.	PUNCT	Z	_	4	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s47|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok447
+
+
+# sent_id = Artur-J-Gvecg-P500054.s48_reseg.437
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s48.mp3
+# text = več kot leto dni se čaka na obisk pri ortodontu .
+# split = train
+1	več	več	DET	Rgc	PronType=Ind	3	advmod	_	pronunciation=več|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s48|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok448
+2	kot	kot	SCONJ	Cs	_	1	fixed	_	pronunciation=kot|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s48|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok449
+3	leto	leto	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	pronunciation=leto|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s48|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok450
+4	dni	dan	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	pronunciation=dni|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s48|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok451
+5	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	6	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s48|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok452
+6	čaka	čakati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=čaka|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s48|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok453
+7	na	na	ADP	Sa	Case=Acc	8	case	_	pronunciation=na|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s48|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok454
+8	obisk	obisk	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obl	_	pronunciation=obisk|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s48|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok455
+9	pri	pri	ADP	Sl	Case=Loc	10	case	_	pronunciation=pri|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s48|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok456
+10	ortodontu	ortodont	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	8	nmod	_	pronunciation=ortodontu|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s48|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok457
+11	.	.	PUNCT	Z	_	6	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s48|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok458
+
+
+# sent_id = Artur-J-Gvecg-P500054.s48-s52_reseg.438
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s48-s52.mp3
+# text = to so konkretne zadeve , konkretne številke , eem , tako da jaz mislim , da s tem stanjem ne moremo biti zadovoljni , da državo in odločevalce čaka zelo veliko dela .
+# split = train
+1	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	pronunciation=to|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s48|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok459
+2	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	pronunciation=so|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s48|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok460
+3	konkretne	konkreten	ADJ	Agpfpn	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	4	amod	_	pronunciation=konkretne|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s48|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok461
+4	zadeve	zadeva	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	0	root	_	pronunciation=zadeve|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s48|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok462
+5	,	,	PUNCT	Z	_	7	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s48|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok463
+6	konkretne	konkreten	ADJ	Agpfpn	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	7	amod	_	pronunciation=konkretne|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s48|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok464
+7	številke	številka	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	4	appos	_	pronunciation=številke|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s48|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok465
+8	,	,	PUNCT	Z	_	14	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s48|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok466
+9	eem	eem	INTJ	I	_	14	discourse:filler	_	pronunciation=eem|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s49|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok467
+10	,	,	PUNCT	Z	_	9	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s49|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok468
+11	tako	tako	CCONJ	Cc	_	14	cc	_	pronunciation=tako|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s50|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok469
+12	da	da	SCONJ	Cs	_	11	fixed	_	pronunciation=da|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s50|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok470
+13	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	pronunciation=jəz|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s50|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok471
+14	mislim	misliti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	pronunciation=mislim|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s50|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok472
+15	,	,	PUNCT	Z	_	21	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s50|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok473
+16	da	da	SCONJ	Cs	_	21	mark	_	pronunciation=da|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s50|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok474
+17	s	z	ADP	Si	Case=Ins	19	case	_	pronunciation=s|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s50|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok475
+18	tem	ta	DET	Pd-nsi	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	19	det	_	pronunciation=tem|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s50|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok476
+19	stanjem	stanje	NOUN	Ncnsi	Case=Ins|Gender=Neut|Number=Sing	23	obl	_	pronunciation=stanjəm|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s50|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok477
+20	ne	ne	PART	Q	Polarity=Neg	21	advmod	_	pronunciation=ne|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s50|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok478
+21	moremo	moči	VERB	Vmpr1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	14	ccomp	_	pronunciation=moremo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s50|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok479
+22	biti	biti	AUX	Va-n	VerbForm=Inf	23	cop	_	pronunciation=biti|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s50|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok480
+23	zadovoljni	zadovoljen	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	21	xcomp	_	pronunciation=zadovoljni|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s50|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok481
+24	,	,	PUNCT	Z	_	29	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s50|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok482
+25	da	da	SCONJ	Cs	_	29	mark	_	pronunciation=da|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s50|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok483
+26	državo	država	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	29	obj	_	pronunciation=državo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s50|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok484
+27	in	in	CCONJ	Cc	_	28	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s51|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok485
+28	odločevalce	odločevalec	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	26	conj	_	pronunciation=odločəvalce|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s51|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok486
+29	čaka	čakati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	parataxis	_	pronunciation=čaka|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s52|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok487
+30	zelo	zelo	ADV	Rgp	Degree=Pos	31	advmod	_	pronunciation=zelo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s52|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok488
+31	veliko	veliko	DET	Rgp	PronType=Ind	32	det	_	pronunciation=veliko|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s52|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok489
+32	dela	delo	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	29	nsubj	_	pronunciation=dela|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s52|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok490
+33	.	.	PUNCT	Z	_	4	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s52|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok491
+
+
+# sent_id = Artur-J-Gvecg-P500054.s53-s54_reseg.439
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s53-s54.mp3
+# text = seveda , mi kot nedvla- nevladniki , e , se soočamo z dejstvom , da se vlade menjajo , menjajo se ministri , menjajo se direktorji .
+# split = train
+1	seveda	seveda	PART	Q	_	11	discourse	_	pronunciation=səvəda|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s53|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok492
+2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s53|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok493
+3	mi	jaz	PRON	Pp1mpn	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	pronunciation=mi|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s54|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok494
+4	kot	kot	SCONJ	Cs	_	6	case	_	pronunciation=kot|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s54|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok495
+5	nedvla-	nedvla-	X	Xt	_	6	reparandum	_	pronunciation=nedvla…|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s54|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok496
+6	nevladniki	nevladnik	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	3	nmod	_	pronunciation=nevladniki|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s54|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok497
+7	,	,	PUNCT	Z	_	8	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s54|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok498
+8	e	e	INTJ	I	_	11	discourse:filler	_	pronunciation=e|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s54|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok499
+9	,	,	PUNCT	Z	_	8	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s54|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok500
+10	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	11	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s54|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok501
+11	soočamo	soočati	VERB	Vmpr1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=soočamo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s54|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok502
+12	z	z	ADP	Si	Case=Ins	13	case	_	pronunciation=z|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s54|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok503
+13	dejstvom	dejstvo	NOUN	Ncnsi	Case=Ins|Gender=Neut|Number=Sing	11	obl	_	pronunciation=dejstvom|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s54|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok504
+14	,	,	PUNCT	Z	_	18	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s54|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok505
+15	da	da	SCONJ	Cs	_	18	mark	_	pronunciation=da|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s54|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok506
+16	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	18	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s54|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok507
+17	vlade	vlada	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	18	nsubj	_	pronunciation=vlade|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s54|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok508
+18	menjajo	menjati	VERB	Vmer3p	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	acl	_	pronunciation=menjajo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s54|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok509
+19	,	,	PUNCT	Z	_	20	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s54|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok510
+20	menjajo	menjati	VERB	Vmer3p	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	parataxis	_	pronunciation=menjajo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s54|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok511
+21	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	20	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s54|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok512
+22	ministri	minister	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	20	nsubj	_	pronunciation=ministri|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s54|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok513
+23	,	,	PUNCT	Z	_	24	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s54|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok514
+24	menjajo	menjati	VERB	Vmer3p	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	parataxis	_	pronunciation=menjajo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s54|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok515
+25	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	24	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s54|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok516
+26	direktorji	direktor	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	24	nsubj	_	pronunciation=direktorji|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s54|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok517
+27	.	.	PUNCT	Z	_	11	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s54|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok518
+
+
+# sent_id = Artur-J-Gvecg-P500054.s55-s56_reseg.440
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s55-s56.mp3
+# text = pa , e , tega res mi ne zamerite , prosim , ampak vedno znova se čaka , da se bo vendarle krenilo tudi na tem področju varovanja otrokovih pravic .
+# split = train
+1	pa	pa	CCONJ	Cc	_	9	cc	_	pronunciation=pa|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s55|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok519
+2	,	,	PUNCT	Z	_	3	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s55|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok520
+3	e	e	INTJ	I	_	9	discourse:filler	_	pronunciation=e|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s55|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok521
+4	,	,	PUNCT	Z	_	3	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s55|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok522
+5	tega	ta	DET	Pd-nsg	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	9	obj	_	pronunciation=tega|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s55|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok523
+6	res	res	ADV	Rgp	Degree=Pos	9	advmod	_	pronunciation=res|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s55|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok524
+7	mi	jaz	PRON	Pp1-sd--y	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	9	iobj	_	pronunciation=mi|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s55|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok525
+8	ne	ne	PART	Q	Polarity=Neg	9	advmod	_	pronunciation=ne|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s55|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok526
+9	zamerite	zameriti	VERB	Vmem2p	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	pronunciation=zamerite|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s55|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok527
+10	,	,	PUNCT	Z	_	11	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s55|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok528
+11	prosim	prositi	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	discourse	_	pronunciation=prosim|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s55|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok529
+12	,	,	PUNCT	Z	_	17	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s55|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok530
+13	ampak	ampak	CCONJ	Cc	_	17	cc	_	pronunciation=ampak|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s55|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok531
+14	vedno	vedno	ADV	Rgp	Degree=Pos	15	advmod	_	pronunciation=vedno|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s55|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok532
+15	znova	znova	ADV	Rgp	Degree=Pos	17	advmod	_	pronunciation=znova|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s55|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok533
+16	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	17	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s56|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok534
+17	čaka	čakati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	pronunciation=čaka|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s56|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok535
+18	,	,	PUNCT	Z	_	23	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s56|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok536
+19	da	da	SCONJ	Cs	_	23	mark	_	pronunciation=da|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s56|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok537
+20	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	23	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s56|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok538
+21	bo	biti	AUX	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	23	aux	_	pronunciation=bo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s56|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok539
+22	vendarle	vendarle	CCONJ	Cc	_	23	advmod	_	pronunciation=vəndarle|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s56|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok540
+23	krenilo	kreniti	VERB	Vmep-sn	Aspect=Perf|Gender=Neut|Number=Sing|VerbForm=Part	17	ccomp	_	pronunciation=krenilo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s56|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok541
+24	tudi	tudi	PART	Q	_	27	advmod	_	pronunciation=tudi|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s56|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok542
+25	na	na	ADP	Sl	Case=Loc	27	case	_	pronunciation=na|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s56|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok543
+26	tem	ta	DET	Pd-nsl	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	27	det	_	pronunciation=tem|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s56|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok544
+27	področju	področje	NOUN	Ncnsl	Case=Loc|Gender=Neut|Number=Sing	23	obl	_	pronunciation=področju|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s56|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok545
+28	varovanja	varovanje	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	27	nmod	_	pronunciation=varovanja|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s56|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok546
+29	otrokovih	otrokov	ADJ	Aspfpg	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Poss=Yes	30	amod	_	pronunciation=otrokovih|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s56|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok547
+30	pravic	pravica	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	28	nmod	_	pronunciation=pravic|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s56|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok548
+31	.	.	PUNCT	Z	_	9	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s56|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok549
+
+
+# sent_id = Artur-J-Gvecg-P500054.s56-s57_reseg.441
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s56-s57.mp3
+# text = na primer , konkretno programa za otroke ni od leta dva tisoč šestnajst .
+# split = train
+1	na	na	ADP	Sa	Case=Acc	4	cc	_	pronunciation=na|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s56|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok550
+2	primer	primer	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	fixed	_	pronunciation=primər|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s56|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok551
+3	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s56|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok552
+4	konkretno	konkretno	ADV	Rgp	Degree=Pos	0	root	_	pronunciation=konkretno|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s56|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok553
+5	programa	program	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	8	nsubj	_	pronunciation=programa|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s57|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok554
+6	za	za	ADP	Sa	Case=Acc	7	case	_	pronunciation=za|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s57|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok555
+7	otroke	otrok	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	5	nmod	_	pronunciation=otroke|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s57|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok556
+8	ni	biti	VERB	Va-r3s-y	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	4	parataxis	_	pronunciation=ni|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s57|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok557
+9	od	od	ADP	Sg	Case=Gen	10	case	_	pronunciation=od|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s57|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok558
+10	leta	leto	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	8	obl	_	pronunciation=leta|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s57|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok559
+11	dva	dva	NUM	Mlcmdn	Case=Nom|Gender=Masc|Number=Dual|NumForm=Word|NumType=Card	10	nummod	_	pronunciation=dva|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s57|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok560
+12	tisoč	tisoč	NUM	Mlc-pn	Case=Nom|Number=Plur|NumForm=Word|NumType=Card	11	flat	_	pronunciation=tisoč|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s57|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok561
+13	šestnajst	šestnajst	NUM	Mlc-pn	Case=Nom|Number=Plur|NumForm=Word|NumType=Card	11	flat	_	pronunciation=šestnajst|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s57|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok562
+14	.	.	PUNCT	Z	_	4	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s57|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok563
+
+
+# sent_id = Artur-J-Gvecg-P500054.s58-s59_reseg.442
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s58-s59.mp3
+# text = jaz razumem , menjajo se ljudje , menjajo se ministri , ampak poglejte , otroci pa rastejo , se razvijajo tukaj in zdaj .
+# split = train
+1	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	pronunciation=jəz|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s58|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok564
+2	razumem	razumeti	VERB	Vmbr1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=rəzuməm|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s58|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok565
+3	,	,	PUNCT	Z	_	4	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s58|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok566
+4	menjajo	menjati	VERB	Vmer3p	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	pronunciation=menjajo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s58|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok567
+5	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	4	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s58|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok568
+6	ljudje	človek	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	pronunciation=ljudje|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s58|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok569
+7	,	,	PUNCT	Z	_	8	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s58|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok570
+8	menjajo	menjati	VERB	Vmer3p	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	pronunciation=menjajo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s58|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok571
+9	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	8	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s58|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok572
+10	ministri	minister	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	pronunciation=ministri|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s58|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok573
+11	,	,	PUNCT	Z	_	13	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s58|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok574
+12	ampak	ampak	CCONJ	Cc	_	13	cc	_	pronunciation=ampak|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s58|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok575
+13	poglejte	pogledati	VERB	Vmem2p	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	2	conj	_	pronunciation=poglejte|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s58|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok576
+14	,	,	PUNCT	Z	_	17	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s58|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok577
+15	otroci	otrok	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	17	nsubj	_	pronunciation=otroci|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s59|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok578
+16	pa	pa	CCONJ	Cc	_	17	advmod	_	pronunciation=pa|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s59|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok579
+17	rastejo	rasti	VERB	Vmpr3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	parataxis	_	pronunciation=rastəjo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s59|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok580
+18	,	,	PUNCT	Z	_	20	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s59|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok581
+19	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	20	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s59|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok582
+20	razvijajo	razvijati	VERB	Vmpr3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	parataxis	_	pronunciation=rəzvijajo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s59|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok583
+21	tukaj	tukaj	ADV	Rgp	Degree=Pos	20	advmod	_	pronunciation=tukaj|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s59|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok584
+22	in	in	CCONJ	Cc	_	23	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s59|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok585
+23	zdaj	zdaj	ADV	Rgp	Degree=Pos	21	conj	_	pronunciation=zdaj|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s59|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok586
+24	.	.	PUNCT	Z	_	2	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s59|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok587
+
+
+# sent_id = Artur-J-Gvecg-P500054.s60-s65_reseg.443
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s60-s65.mp3
+# text = in če nimamo programa z akcijskim načrtom , kjer bi država , bi rekla , naredila neki spisek prioritet , na primer , v zdravstvu so prioritete te in te , na področju šolstva te in te , na področju sociala- sociale je naša prioriteta na primer , da v treh letih prepolovimo to številko petinštirideset tisoč , ki je res , e , mislim , da , e , grozljiva , nam ni v ponos .
+# split = train
+1	in	in	CCONJ	Cc	_	3	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s60|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok588
+2	če	če	SCONJ	Cs	_	3	mark	_	pronunciation=če|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s60|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok589
+3	nimamo	imeti	VERB	Vmpr1p-y	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=nimamo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s60|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok590
+4	programa	program	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	3	obj	_	pronunciation=programa|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s60|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok591
+5	z	z	ADP	Si	Case=Ins	7	case	_	pronunciation=zə|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s60|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok592
+6	akcijskim	akcijski	ADJ	Agpmsi	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	pronunciation=akcijskim|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s60|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok593
+7	načrtom	načrt	NOUN	Ncmsi	Case=Ins|Gender=Masc|Number=Sing	4	nmod	_	pronunciation=načrtom|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s60|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok594
+8	,	,	PUNCT	Z	_	16	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s60|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok595
+9	kjer	kjer	SCONJ	Cs	_	16	mark	_	pronunciation=kjer|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s60|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok596
+10	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	16	aux	_	pronunciation=bi|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s60|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok597
+11	država	država	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	pronunciation=država|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s60|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok598
+12	,	,	PUNCT	Z	_	14	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s60|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok599
+13	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	14	aux	_	pronunciation=bi|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s61|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok600
+14	rekla	reči	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	16	parataxis:discourse	_	pronunciation=rekla|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s61|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok601
+15	,	,	PUNCT	Z	_	14	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s61|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok602
+16	naredila	narediti	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	4	acl	_	pronunciation=naredila|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s61|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok603
+17	neki	nek	DET	Pi-msa	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	18	det	_	pronunciation=nek|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s61|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok604
+18	spisek	spisek	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	obj	_	pronunciation=spisək|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s61|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok605
+19	prioritet	prioriteta	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	18	nmod	_	pronunciation=prioritet|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s61|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok606
+20	,	,	PUNCT	Z	_	27	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s61|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok607
+21	na	na	ADP	Sa	Case=Acc	27	cc	_	pronunciation=na|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s61|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok608
+22	primer	primer	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	21	fixed	_	pronunciation=primər|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s61|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok609
+23	,	,	PUNCT	Z	_	21	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s61|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok610
+24	v	v	ADP	Sl	Case=Loc	25	case	_	pronunciation=və|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s61|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok611
+25	zdravstvu	zdravstvo	NOUN	Ncnsl	Case=Loc|Gender=Neut|Number=Sing	27	obl	_	pronunciation=zdravstvu|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s61|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok612
+26	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	27	cop	_	pronunciation=so|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s61|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok613
+27	prioritete	prioriteta	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	16	conj	_	pronunciation=priorotete|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s61|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok614
+28	te	ta	DET	Pd-fpn	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	27	nsubj	_	pronunciation=te|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s61|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok615
+29	in	in	CCONJ	Cc	_	30	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s61|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok616
+30	te	ta	DET	Pd-fpn	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	28	conj	_	pronunciation=te|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s61|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok617
+31	,	,	PUNCT	Z	_	35	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s61|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok618
+32	na	na	ADP	Sl	Case=Loc	33	case	_	pronunciation=na|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s62|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok619
+33	področju	področje	NOUN	Ncnsl	Case=Loc|Gender=Neut|Number=Sing	35	orphan	_	pronunciation=področju|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s62|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok620
+34	šolstva	šolstvo	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	33	nmod	_	pronunciation=šolstva|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s62|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok621
+35	te	ta	DET	Pd-fpn	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	27	parataxis	_	pronunciation=te|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s62|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok622
+36	in	in	CCONJ	Cc	_	37	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s62|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok623
+37	te	ta	DET	Pd-fpn	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	35	conj	_	pronunciation=te|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s62|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok624
+38	,	,	PUNCT	Z	_	45	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s62|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok625
+39	na	na	ADP	Sl	Case=Loc	40	case	_	pronunciation=na|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s62|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok626
+40	področju	področje	NOUN	Ncnsl	Case=Loc|Gender=Neut|Number=Sing	45	obl	_	pronunciation=področju|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s62|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok627
+41	sociala-	sociala-	X	Xt	_	42	reparandum	_	pronunciation=sociala…|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s62|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok628
+42	sociale	sociala	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	40	nmod	_	pronunciation=sociale|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s62|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok629
+43	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	45	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s62|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok630
+44	naša	naš	DET	Ps1fsnp	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	45	det	_	pronunciation=naša|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s62|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok631
+45	prioriteta	prioriteta	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	27	parataxis	_	pronunciation=prioriteta|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s62|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok632
+46	na	na	ADP	Sa	Case=Acc	45	advmod	_	pronunciation=na|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s62|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok633
+47	primer	primer	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	46	fixed	_	pronunciation=primər|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s62|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok634
+48	,	,	PUNCT	Z	_	53	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s62|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok635
+49	da	da	SCONJ	Cs	_	53	mark	_	pronunciation=da|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s62|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok636
+50	v	v	ADP	Sl	Case=Loc	52	case	_	pronunciation=və|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s63|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok637
+51	treh	trije	NUM	Mlcnpl	Case=Loc|Gender=Neut|Number=Plur|NumForm=Word|NumType=Card	52	nummod	_	pronunciation=treh|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s63|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok638
+52	letih	leto	NOUN	Ncnpl	Case=Loc|Gender=Neut|Number=Plur	53	obl	_	pronunciation=letih|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s63|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok639
+53	prepolovimo	prepoloviti	VERB	Vmer1p	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	45	csubj	_	pronunciation=prepolovimo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s63|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok640
+54	to	ta	DET	Pd-fsa	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	55	det	_	pronunciation=to|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s64|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok641
+55	številko	številka	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	53	obj	_	pronunciation=številko|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s64|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok642
+56	petinštirideset	petinštirideset	NUM	Mlc-pn	Case=Nom|Number=Plur|NumForm=Word|NumType=Card	55	nummod	_	pronunciation=petinštiridesət|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s64|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok643
+57	tisoč	tisoč	NUM	Mlc-pn	Case=Nom|Number=Plur|NumForm=Word|NumType=Card	56	flat	_	pronunciation=tisoč|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s64|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok644
+58	,	,	PUNCT	Z	_	71	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s64|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok645
+59	ki	ki	SCONJ	Cs	_	71	mark	_	pronunciation=ki|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s64|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok646
+60	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	71	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s64|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok647
+61	res	res	ADV	Rgp	Degree=Pos	71	advmod	_	pronunciation=res|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s64|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok648
+62	,	,	PUNCT	Z	_	65	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s64|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok649
+63	e	e	INTJ	I	_	65	discourse:filler	_	pronunciation=e|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s64|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok650
+64	,	,	PUNCT	Z	_	63	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s64|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok651
+65	mislim	misliti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	71	parataxis:discourse	_	pronunciation=mislim|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s64|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok652
+66	,	,	PUNCT	Z	_	67	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s64|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok653
+67	da	da	SCONJ	Cs	_	65	ccomp	_	pronunciation=da|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s64|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok654
+68	,	,	PUNCT	Z	_	65	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s64|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok655
+69	e	e	INTJ	I	_	71	discourse:filler	_	pronunciation=e|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s65|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok656
+70	,	,	PUNCT	Z	_	69	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s65|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok657
+71	grozljiva	grozljiv	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	55	acl	_	pronunciation=grozljiva|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s65|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok658
+72	,	,	PUNCT	Z	_	74	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s65|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok659
+73	nam	jaz	PRON	Pp1-pd	Case=Dat|Number=Plur|Person=1|PronType=Prs	74	obj	_	pronunciation=nam|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s65|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok660
+74	ni	biti	VERB	Va-r3s-y	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	71	parataxis	_	pronunciation=ni|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s65|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok661
+75	v	v	ADP	Sa	Case=Acc	76	case	_	pronunciation=v|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s65|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok662
+76	ponos	ponos	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	74	obl	_	pronunciation=ponos|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s65|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok663
+77	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s65|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok664
+
+
+# sent_id = Artur-J-Gvecg-P500054.s66-s67_reseg.444
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s66-s67.mp3
+# text = potem bi verjeli , da je otrok postavljen v ospredje nekih politik .
+# split = train
+1	potem	potem	ADV	Rgp	Degree=Pos	3	advmod	_	pronunciation=potem|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s66|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok665
+2	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	3	aux	_	pronunciation=bi|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s66|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok666
+3	verjeli	verjeti	VERB	Vmbp-pm	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	pronunciation=vərjeli|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s66|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok667
+4	,	,	PUNCT	Z	_	8	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s66|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok668
+5	da	da	SCONJ	Cs	_	8	mark	_	pronunciation=da|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s66|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok669
+6	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s67|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok670
+7	otrok	otrok	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	pronunciation=otrok|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s67|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok671
+8	postavljen	postavljen	ADJ	Appmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part	3	ccomp	_	pronunciation=postavlen|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s67|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok672
+9	v	v	ADP	Sa	Case=Acc	10	case	_	pronunciation=v|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s67|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok673
+10	ospredje	ospredje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	8	obl	_	pronunciation=ospredje|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s67|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok674
+11	nekih	nek	DET	Pi-fpg	Case=Gen|Gender=Fem|Number=Plur|PronType=Ind	12	det	_	pronunciation=nekih|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s67|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok675
+12	politik	politika	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	pronunciation=politik|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s67|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok676
+13	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s67|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok677
+
+
+# sent_id = Artur-J-Gvecg-P500054.s68-s73_reseg.445
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s68-s73.mp3
+# text = ta hip pa temu prav gotovo ni tako , eee , in najmanj , kar pričakujemo , pričakujemo enostavno dejstvo , da se otroka , njihove potrebe , e e e , njegove potrebe , njegovo specifiko postavi v ospredje politik .
+# split = train
+1	ta	ta	DET	Pd-msa	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	pronunciation=ta|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s68|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok678
+2	hip	hip	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	pronunciation=hip|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s68|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok679
+3	pa	pa	CCONJ	Cc	_	7	advmod	_	pronunciation=pa|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s68|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok680
+4	temu	ta	DET	Pd-nsd	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	7	obj	_	pronunciation=temu|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s69|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok681
+5	prav	prav	PART	Q	_	6	advmod	_	pronunciation=prav|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s69|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok682
+6	gotovo	gotovo	ADV	Rgp	Degree=Pos	7	advmod	_	pronunciation=gotovo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s69|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok683
+7	ni	biti	VERB	Va-r3s-y	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=ni|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s69|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok684
+8	tako	tako	ADV	Rgp	Degree=Pos	7	advmod	_	pronunciation=tako|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s69|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok685
+9	,	,	PUNCT	Z	_	18	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s69|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok686
+10	eee	eee	INTJ	I	_	18	discourse:filler	_	pronunciation=eee|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s70|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok687
+11	,	,	PUNCT	Z	_	10	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s70|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok688
+12	in	in	CCONJ	Cc	_	18	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s70|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok689
+13	najmanj	najmanj	ADV	Rgs	Degree=Sup	18	advmod	_	pronunciation=najmanj|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s70|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok690
+14	,	,	PUNCT	Z	_	16	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s70|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok691
+15	kar	kar	PRON	Pr-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	16	obj	_	pronunciation=kar|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s70|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok692
+16	pričakujemo	pričakovati	VERB	Vmpr1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	advcl	_	pronunciation=pričakujəmo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s70|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok693
+17	,	,	PUNCT	Z	_	16	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s70|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok694
+18	pričakujemo	pričakovati	VERB	Vmpr1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	conj	_	pronunciation=pričəkujəmo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s70|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok695
+19	enostavno	enostaven	ADJ	Agpnsa	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	pronunciation=enostavno|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s70|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok696
+20	dejstvo	dejstvo	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	18	obj	_	pronunciation=dejstvo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s70|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok697
+21	,	,	PUNCT	Z	_	38	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s70|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok698
+22	da	da	SCONJ	Cs	_	38	mark	_	pronunciation=da|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s70|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok699
+23	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	38	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s70|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok700
+24	otroka	otrok	NOUN	Ncmsay	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	38	obj	_	pronunciation=otroka|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s70|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok701
+25	,	,	PUNCT	Z	_	34	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s70|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok702
+26	njihove	njihov	DET	Ps3fpap	Case=Acc|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	27	det	_	pronunciation=njihove|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s71|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok703
+27	potrebe	potreba	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	34	reparandum	_	pronunciation=potrebe|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s71|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok704
+28	,	,	PUNCT	Z	_	29	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s71|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok705
+29	e	e	INTJ	I	_	34	discourse:filler	_	pronunciation=e|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s72|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok706
+30	e	e	INTJ	I	_	34	discourse:filler	_	pronunciation=e|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s72|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok707
+31	e	e	INTJ	I	_	34	discourse:filler	_	pronunciation=e|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s72|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok708
+32	,	,	PUNCT	Z	_	31	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s72|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok709
+33	njegove	njegov	DET	Ps3fpasm	Case=Acc|Gender=Fem|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	34	det	_	pronunciation=njegove|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s72|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok710
+34	potrebe	potreba	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	24	appos	_	pronunciation=potrebe|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s72|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok711
+35	,	,	PUNCT	Z	_	37	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s72|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok712
+36	njegovo	njegov	DET	Ps3fsasm	Case=Acc|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	37	det	_	pronunciation=njegovo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s72|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok713
+37	specifiko	specifika	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	34	conj	_	pronunciation=specifiko|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s72|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok714
+38	postavi	postaviti	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	acl	_	pronunciation=postavi|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s72|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok715
+39	v	v	ADP	Sa	Case=Acc	40	case	_	pronunciation=və|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s72|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok716
+40	ospredje	ospredje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	38	obl	_	pronunciation=ospredje|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s72|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok717
+41	politik	politik	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	40	nmod	_	pronunciation=politik|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s73|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok718
+42	.	.	PUNCT	Z	_	7	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s73|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok719
+
+
+# sent_id = Artur-J-Gvecg-P500054.s74-s75_reseg.446
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s74-s75.mp3
+# text = jaz bi tukaj izpostavila tri glavna področja .
+# split = train
+1	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	pronunciation=jəz|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s74|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok720
+2	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	4	aux	_	pronunciation=bi|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s74|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok721
+3	tukaj	tukaj	ADV	Rgp	Degree=Pos	4	advmod	_	pronunciation=tukej|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s74|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok722
+4	izpostavila	izpostaviti	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=izpostavila|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s74|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok723
+5	tri	trije	NUM	Mlcnpa	Case=Acc|Gender=Neut|Number=Plur|NumForm=Word|NumType=Card	7	nummod	_	pronunciation=tri|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s75|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok724
+6	glavna	glaven	ADJ	Agpnpa	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	7	amod	_	pronunciation=glavna|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s75|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok725
+7	področja	področje	NOUN	Ncnpa	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	pronunciation=področja|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s75|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok726
+8	.	.	PUNCT	Z	_	4	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s75|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok727
+
+
+# sent_id = Artur-J-Gvecg-P500054.s76_reseg.447
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s76.mp3
+# text = sociala , šolstvo in zdravstvo .
+# split = train
+1	sociala	sociala	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	pronunciation=sociala|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s76|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok728
+2	,	,	PUNCT	Z	_	3	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s76|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok729
+3	šolstvo	šolstvo	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	1	conj	_	pronunciation=šolstvo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s76|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok730
+4	in	in	CCONJ	Cc	_	5	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s76|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok731
+5	zdravstvo	zdravstvo	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	1	conj	_	pronunciation=zdravstvo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s76|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok732
+6	.	.	PUNCT	Z	_	1	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s76|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok733
+
+
+# sent_id = Artur-J-Gvecg-P500054.s77-s80_reseg.448
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s77-s80.mp3
+# text = poglejte , tudi na področju šolstva , govori se o prenovi bele knjige , mene pa zelo zanima in tega jaz ne zasledim , pa spremljam , ker , eee , mislim , da je zelo pomembno .
+# split = train
+1	poglejte	pogledati	VERB	Vmem2p	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	5	parataxis:discourse	_	pronunciation=poglejte|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s77|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok734
+2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s77|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok735
+3	tudi	tudi	PART	Q	_	5	advmod	_	pronunciation=tudi|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s77|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok736
+4	na	na	ADP	Sl	Case=Loc	5	case	_	pronunciation=na|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s77|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok737
+5	področju	področje	NOUN	Ncnsl	Case=Loc|Gender=Neut|Number=Sing	0	root	_	pronunciation=področju|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s77|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok738
+6	šolstva	šolstvo	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	pronunciation=šolstva|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s77|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok739
+7	,	,	PUNCT	Z	_	8	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s77|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok740
+8	govori	govoriti	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	pronunciation=govori|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s78|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok741
+9	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	8	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s78|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok742
+10	o	o	ADP	Sl	Case=Loc	11	case	_	pronunciation=o|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s78|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok743
+11	prenovi	prenova	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	8	obl	_	pronunciation=prenovi|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s78|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok744
+12	bele	bel	ADJ	Agpfsg	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	pronunciation=bele|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s78|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok745
+13	knjige	knjiga	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	pronunciation=knjige|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s78|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok746
+14	,	,	PUNCT	Z	_	18	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s78|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok747
+15	mene	jaz	PRON	Pp1-sa	Case=Acc|Number=Sing|Person=1|PronType=Prs	18	obj	_	pronunciation=mene|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s79|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok748
+16	pa	pa	CCONJ	Cc	_	18	advmod	_	pronunciation=pa|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s79|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok749
+17	zelo	zelo	ADV	Rgp	Degree=Pos	18	advmod	_	pronunciation=zəlo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s79|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok750
+18	zanima	zanimati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	parataxis	_	pronunciation=zanima|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s79|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok751
+19	in	in	CCONJ	Cc	_	23	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s79|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok752
+20	tega	ta	DET	Pd-nsg	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	23	obj	_	pronunciation=tega|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s79|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok753
+21	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	23	nsubj	_	pronunciation=jəz|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s79|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok754
+22	ne	ne	PART	Q	Polarity=Neg	23	advmod	_	pronunciation=ne|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s79|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok755
+23	zasledim	zaslediti	VERB	Vmer1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	18	conj	_	pronunciation=zasledim|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s79|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok756
+24	,	,	PUNCT	Z	_	26	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s79|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok757
+25	pa	pa	CCONJ	Cc	_	26	cc	_	pronunciation=pa|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s79|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok758
+26	spremljam	spremljati	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	23	conj	_	pronunciation=spremlam|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s79|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok759
+27	,	,	PUNCT	Z	_	32	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s79|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok760
+28	ker	ker	SCONJ	Cs	_	32	mark	_	pronunciation=kər|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s79|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok761
+29	,	,	PUNCT	Z	_	30	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s79|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok762
+30	eee	eee	INTJ	I	_	32	discourse:filler	_	pronunciation=eee|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s79|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok763
+31	,	,	PUNCT	Z	_	30	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s79|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok764
+32	mislim	misliti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	26	advcl	_	pronunciation=mislim|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s80|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok765
+33	,	,	PUNCT	Z	_	37	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s80|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok766
+34	da	da	SCONJ	Cs	_	37	mark	_	pronunciation=da|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s80|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok767
+35	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	37	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s80|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok768
+36	zelo	zelo	ADV	Rgp	Degree=Pos	37	advmod	_	pronunciation=zelo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s80|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok769
+37	pomembno	pomemben	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	32	ccomp	_	pronunciation=pomembno|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s80|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok770
+38	.	.	PUNCT	Z	_	5	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s80|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok771
+
+
+# sent_id = Artur-J-Gvecg-P500054.s81-s82_reseg.449
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s81-s82.mp3
+# text = zanima me , kaj bo prenovljen šolski sistem prinesel v smeri odpravljanja , eee , oziroma blaženja socialnih razlik .
+# split = train
+1	zanima	zanimati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=zənima|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s81|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok772
+2	me	jaz	PRON	Pp1-sa--y	Case=Acc|Number=Sing|Person=1|PronType=Prs|Variant=Short	1	obj	_	pronunciation=me|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s81|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok773
+3	,	,	PUNCT	Z	_	9	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s81|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok774
+4	kaj	kaj	PRON	Pq-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	9	obj	_	pronunciation=kaj|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s81|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok775
+5	bo	biti	AUX	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	9	aux	_	pronunciation=bo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s81|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok776
+6	prenovljen	prenovljen	ADJ	Appmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part	8	amod	_	pronunciation=prenovljen|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s81|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok777
+7	šolski	šolski	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	pronunciation=šolski|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s81|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok778
+8	sistem	sistem	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	pronunciation=sistem|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s81|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok779
+9	prinesel	prinesti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	1	csubj	_	pronunciation=prinesəl|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s81|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok780
+10	v	v	ADP	Sl	Case=Loc	11	case	_	pronunciation=və|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s81|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok781
+11	smeri	smer	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	9	obl	_	pronunciation=smeri|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s81|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok782
+12	odpravljanja	odpravljanje	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	pronunciation=odpravlanja|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s81|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok783
+13	,	,	PUNCT	Z	_	14	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s81|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok784
+14	eee	eee	INTJ	I	_	9	discourse:filler	_	pronunciation=eee|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s82|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok785
+15	,	,	PUNCT	Z	_	14	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s82|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok786
+16	oziroma	oziroma	CCONJ	Cc	_	17	cc	_	pronunciation=oziroma|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s82|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok787
+17	blaženja	blaženje	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	12	conj	_	pronunciation=blaženja|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s82|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok788
+18	socialnih	socialen	ADJ	Agpfpg	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	19	amod	_	pronunciation=socialnih|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s82|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok789
+19	razlik	razlika	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	12	nmod	_	pronunciation=razlik|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s82|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok790
+20	.	.	PUNCT	Z	_	1	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s82|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok791
+
+
+# sent_id = Artur-J-Gvecg-P500054.s83-s86_reseg.450
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s83-s86.mp3
+# text = nedopustno je , kar ugotavljajo številne institucije znotraj šolstva , da je učni uspeh in , e , šolanje otroka pogojeno s finančnim stanjem družine .
+# split = train
+1	nedopustno	nedopusten	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	pronunciation=nedopustno|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s83|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok792
+2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s83|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok793
+3	,	,	PUNCT	Z	_	5	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s83|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok794
+4	kar	kar	PRON	Pr-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	5	obj	_	pronunciation=kar|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s83|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok795
+5	ugotavljajo	ugotavljati	VERB	Vmpr3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	pronunciation=ugotavlajo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s83|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok796
+6	številne	številen	ADJ	Agpfpn	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	7	amod	_	pronunciation=številne|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s83|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok797
+7	institucije	institucija	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	pronunciation=institucije|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s83|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok798
+8	znotraj	znotraj	ADP	Sg	Case=Gen	9	case	_	pronunciation=znotraj|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s83|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok799
+9	šolstva	šolstvo	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	pronunciation=šolstva|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s83|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok800
+10	,	,	PUNCT	Z	_	5	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s83|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok801
+11	da	da	SCONJ	Cs	_	21	mark	_	pronunciation=da|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s84|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok802
+12	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	21	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s84|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok803
+13	učni	učen	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	pronunciation=učni|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s84|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok804
+14	uspeh	uspeh	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	21	nsubj	_	pronunciation=uspeh|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s84|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok805
+15	in	in	CCONJ	Cc	_	19	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s84|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok806
+16	,	,	PUNCT	Z	_	17	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s84|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok807
+17	e	e	INTJ	I	_	21	discourse:filler	_	pronunciation=e|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s84|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok808
+18	,	,	PUNCT	Z	_	17	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s84|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok809
+19	šolanje	šolanje	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	14	conj	_	pronunciation=šolanje|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s84|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok810
+20	otroka	otrok	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	pronunciation=otroka|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s84|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok811
+21	pogojeno	pogojen	ADJ	Appnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part	1	csubj	_	pronunciation=pogojeno|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s85|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok812
+22	s	z	ADP	Si	Case=Ins	24	case	_	pronunciation=zə|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s85|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok813
+23	finančnim	finančen	ADJ	Agpnsi	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	pronunciation=finančnim|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s86|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok814
+24	stanjem	stanje	NOUN	Ncnsi	Case=Ins|Gender=Neut|Number=Sing	21	obl	_	pronunciation=stanjəm|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s86|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok815
+25	družine	družina	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	24	nmod	_	pronunciation=družine|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s86|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok816
+26	.	.	PUNCT	Z	_	1	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s86|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok817
+
+
+# sent_id = Artur-J-Gvecg-P500054.s86_reseg.451
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s86.mp3
+# text = mislim , da je to alarmanten podatek .
+# split = train
+1	mislim	misliti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=mislim|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s86|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok818
+2	,	,	PUNCT	Z	_	7	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s86|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok819
+3	da	da	SCONJ	Cs	_	7	mark	_	pronunciation=da|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s86|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok820
+4	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s86|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok821
+5	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	pronunciation=to|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s86|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok822
+6	alarmanten	alarmanten	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	pronunciation=alarmantən|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s86|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok823
+7	podatek	podatek	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	1	ccomp	_	pronunciation=podatək|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s86|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok824
+8	.	.	PUNCT	Z	_	1	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s86|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok825
+
+
+# sent_id = Artur-J-Gvecg-P500054.s87_reseg.452
+# speaker_id = Artur-J-G3110
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s87.mp3
+# text = hvala lepa za zdaj .
+# split = train
+1	hvala	hvala	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	pronunciation=hvala|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s87|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok826
+2	lepa	lep	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	amod	_	pronunciation=lepa|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s87|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok827
+3	za	za	ADP	Sa	Case=Acc	4	case	_	pronunciation=za|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s87|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok828
+4	zdaj	zdaj	ADV	Rgp	Degree=Pos	1	advmod	_	pronunciation=zdej|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s87|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok829
+5	.	.	PUNCT	Z	_	1	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s87|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok830
+
+
+# sent_id = Artur-J-Gvecg-P500054.s88_reseg.453
+# speaker_id = Artur-J-G3109
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s88.mp3
+# text = ja , hvala lepa .
+# split = train
+1	ja	ja	PART	Q	_	3	discourse	_	pronunciation=ja|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s88|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok831
+2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s88|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok832
+3	hvala	hvala	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	pronunciation=hvala|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s88|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok833
+4	lepa	lep	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	pronunciation=lepa|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s88|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok834
+5	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s88|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok835
+
+
+# sent_id = Artur-J-Gvecg-P500054.s89-s90_reseg.454
+# speaker_id = Artur-J-G3109
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s89-s90.mp3
+# text = eee , najprej , e , hvala Zvezi prijateljev mladine Slovenije za pobudo za tole srečanje .
+# split = train
+1	eee	eee	INTJ	I	_	7	discourse:filler	_	pronunciation=eee|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s89|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok836
+2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s89|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok837
+3	najprej	najprej	ADV	Rgs	Degree=Sup	7	discourse	_	pronunciation=najprej|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s89|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok838
+4	,	,	PUNCT	Z	_	3	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s89|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok839
+5	e	e	INTJ	I	_	7	discourse:filler	_	pronunciation=e|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s89|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok840
+6	,	,	PUNCT	Z	_	5	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s89|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok841
+7	hvala	hvala	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	pronunciation=hvala|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s89|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok842
+8	Zvezi	zveza	NOUN	Ncfsd	Case=Dat|Gender=Fem|Number=Sing	7	nmod	_	pronunciation=Zvezi|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s89|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok843
+9	prijateljev	prijatelj	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	pronunciation=prijatəljəv|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s89|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok844
+10	mladine	mladina	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	pronunciation=mladine|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s89|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok845
+11	Slovenije	Slovenija	PROPN	Npfsg	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	pronunciation=Slovenije|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s89|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok846
+12	za	za	ADP	Sa	Case=Acc	13	case	_	pronunciation=za|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s89|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok847
+13	pobudo	pobuda	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	7	nmod	_	pronunciation=pobudo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s89|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok848
+14	za	za	ADP	Sa	Case=Acc	16	case	_	pronunciation=za|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s90|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok849
+15	tole	tale	DET	Pd-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	16	det	_	pronunciation=tole|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s90|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok850
+16	srečanje	srečanje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	13	nmod	_	pronunciation=srečanje|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s90|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok851
+17	.	.	PUNCT	Z	_	7	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s90|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok852
+
+
+# sent_id = Artur-J-Gvecg-P500054.s90_reseg.455
+# speaker_id = Artur-J-G3109
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s90.mp3
+# text = mislim , da je zelo koristno .
+# split = train
+1	mislim	misliti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=mislim|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s90|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok853
+2	,	,	PUNCT	Z	_	6	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s90|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok854
+3	da	da	SCONJ	Cs	_	6	mark	_	pronunciation=da|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s90|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok855
+4	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s90|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok856
+5	zelo	zelo	ADV	Rgp	Degree=Pos	6	advmod	_	pronunciation=zelo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s90|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok857
+6	koristno	koristen	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	1	ccomp	_	pronunciation=koristno|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s90|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok858
+7	.	.	PUNCT	Z	_	1	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s90|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok859
+
+
+# sent_id = Artur-J-Gvecg-P500054.s91-s93_reseg.456
+# speaker_id = Artur-J-G3109
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s91-s93.mp3
+# text = e , v tridesetih letih od sprejetja Konvencije o otrokovih pravicah je le-ta , e , pomembno vplivala in pomagala položaju otrok po svetu .
+# split = train
+1	e	e	INTJ	I	_	18	discourse:filler	_	pronunciation=e|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s91|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok860
+2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s91|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok861
+3	v	v	ADP	Sl	Case=Loc	5	case	_	pronunciation=v|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s92|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok862
+4	tridesetih	trideset	NUM	Mlc-pl	Case=Loc|Number=Plur|NumForm=Word|NumType=Card	5	nummod	_	pronunciation=triesətih|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s92|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok863
+5	letih	leto	NOUN	Ncnpl	Case=Loc|Gender=Neut|Number=Plur	18	obl	_	pronunciation=letih|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s92|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok864
+6	od	od	ADP	Sg	Case=Gen	7	case	_	pronunciation=od|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s92|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok865
+7	sprejetja	sprejetje	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	pronunciation=sprejetja|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s92|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok866
+8	Konvencije	konvencija	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	pronunciation=Konvencije|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s92|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok867
+9	o	o	ADP	Sl	Case=Loc	11	case	_	pronunciation=o|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s92|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok868
+10	otrokovih	otrokov	ADJ	Aspfpl	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur|Poss=Yes	11	amod	_	pronunciation=otrokovih|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s92|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok869
+11	pravicah	pravica	NOUN	Ncfpl	Case=Loc|Gender=Fem|Number=Plur	8	nmod	_	pronunciation=pravicah|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s92|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok870
+12	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	18	aux	_	pronunciation=je|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s92|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok871
+13	le-ta	le-ta	PRON	Pd-fsn	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	18	nsubj	_	pronunciation=le-ta|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s92|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok872
+14	,	,	PUNCT	Z	_	15	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s92|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok873
+15	e	e	INTJ	I	_	18	discourse:filler	_	pronunciation=e|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s93|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok874
+16	,	,	PUNCT	Z	_	15	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s93|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok875
+17	pomembno	pomembno	ADV	Rgp	Degree=Pos	18	advmod	_	pronunciation=pomembno|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s93|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok876
+18	vplivala	vplivati	VERB	Vmpp-sf	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=vplivala|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s93|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok877
+19	in	in	CCONJ	Cc	_	20	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s93|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok878
+20	pomagala	pomagati	VERB	Vmbp-sf	Gender=Fem|Number=Sing|VerbForm=Part	18	conj	_	pronunciation=pomagala|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s93|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok879
+21	položaju	položaj	NOUN	Ncmsd	Case=Dat|Gender=Masc|Number=Sing	20	obj	_	pronunciation=položaju|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s93|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok880
+22	otrok	otrok	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	pronunciation=otrok|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s93|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok881
+23	po	po	ADP	Sl	Case=Loc	24	case	_	pronunciation=po|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s93|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok882
+24	svetu	svet	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	22	nmod	_	pronunciation=svetu|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s93|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok883
+25	.	.	PUNCT	Z	_	18	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s93|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok884
+
+
+# sent_id = Artur-J-Gvecg-P500054.s93-s94_reseg.457
+# speaker_id = Artur-J-G3109
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s93-s94.mp3
+# text = eem , gre za najbolj univerzalno sprejeto konvencijo , razen ene države .
+# split = train
+1	eem	eem	INTJ	I	_	3	discourse:filler	_	pronunciation=eem|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s93|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok885
+2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s93|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok886
+3	gre	iti	VERB	Vmbr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=gre|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s93|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok887
+4	za	za	ADP	Sa	Case=Acc	8	case	_	pronunciation=za|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s93|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok888
+5	najbolj	najbolj	ADV	Rgs	Degree=Sup	6	advmod	_	pronunciation=najbolj|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s93|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok889
+6	univerzalno	univerzalno	ADV	Rgp	Degree=Pos	7	advmod	_	pronunciation=univerzalno|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s93|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok890
+7	sprejeto	sprejet	ADJ	Appfsa	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part	8	amod	_	pronunciation=sprejeto|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s93|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok891
+8	konvencijo	konvencija	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	pronunciation=konvencijo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s94|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok892
+9	,	,	PUNCT	Z	_	12	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s94|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok893
+10	razen	razen	ADP	Sg	Case=Gen	12	case	_	pronunciation=razən|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s94|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok894
+11	ene	en	NUM	Mlpfsg	Case=Gen|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	12	nummod	_	pronunciation=ene|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s94|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok895
+12	države	država	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	3	obl	_	pronunciation=države|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s94|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok896
+13	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s94|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok897
+
+
+# sent_id = Artur-J-Gvecg-P500054.s95-s96_reseg.458
+# speaker_id = Artur-J-G3109
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s95-s96.mp3
+# text = eee , ampak ta s- univerzalna sprejetost bi lahko dala napačen vtis , da so , da se problemi otrok dosledno rešujejo , pa se ne .
+# split = train
+1	eee	eee	INTJ	I	_	10	discourse:filler	_	pronunciation=eee|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s95|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok898
+2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s95|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok899
+3	ampak	ampak	CCONJ	Cc	_	10	cc	_	pronunciation=ampak|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s95|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok900
+4	ta	ta	DET	Pd-fsn	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	pronunciation=ta|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s95|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok901
+5	s-	s-	X	Xt	_	7	reparandum	_	pronunciation=s…|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s95|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok902
+6	univerzalna	univerzalen	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	pronunciation=univeərzalna|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s95|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok903
+7	sprejetost	sprejetost	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	pronunciation=sprejetost|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s95|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok904
+8	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	10	aux	_	pronunciation=bi|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s95|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok905
+9	lahko	lahko	ADV	Rgp	Degree=Pos	10	advmod	_	pronunciation=lahko|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s95|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok906
+10	dala	dati	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=dala|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s95|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok907
+11	napačen	napačen	ADJ	Agpmsan	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	pronunciation=napačən|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s95|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok908
+12	vtis	vtis	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	pronunciation=vtis|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s95|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok909
+13	,	,	PUNCT	Z	_	15	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s95|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok910
+14	da	da	SCONJ	Cs	_	15	mark	_	pronunciation=da|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s95|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok911
+15	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	22	reparandum	_	pronunciation=so|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s96|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok912
+16	,	,	PUNCT	Z	_	22	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s96|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok913
+17	da	da	SCONJ	Cs	_	22	mark	_	pronunciation=da|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s96|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok914
+18	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	22	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s96|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok915
+19	problemi	problem	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	22	nsubj	_	pronunciation=problemi|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s96|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok916
+20	otrok	otrok	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	19	nmod	_	pronunciation=otrok|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s96|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok917
+21	dosledno	dosledno	ADV	Rgp	Degree=Pos	22	advmod	_	pronunciation=dosledno|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s96|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok918
+22	rešujejo	reševati	VERB	Vmpr3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	acl	_	pronunciation=rešujejo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s96|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok919
+23	,	,	PUNCT	Z	_	26	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s96|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok920
+24	pa	pa	CCONJ	Cc	_	26	cc	_	pronunciation=pa|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s96|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok921
+25	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	26	orphan	_	pronunciation=se|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s96|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok922
+26	ne	ne	PART	Q	Polarity=Neg	22	conj	_	pronunciation=ne|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s96|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok923
+27	.	.	PUNCT	Z	_	10	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s96|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok924
+
+
+# sent_id = Artur-J-Gvecg-P500054.s96-s97_reseg.459
+# speaker_id = Artur-J-G3109
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s96-s97.mp3
+# text = rešujejo se v svetu in tudi pri nas , eee , stanje seveda ni optimalno .
+# split = train
+1	rešujejo	reševati	VERB	Vmpr3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=rešujejo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s96|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok925
+2	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	1	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s96|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok926
+3	v	v	ADP	Sl	Case=Loc	4	case	_	pronunciation=v|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s96|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok927
+4	svetu	svet	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	1	obl	_	pronunciation=svetu|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s96|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok928
+5	in	in	CCONJ	Cc	_	15	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s97|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok929
+6	tudi	tudi	PART	Q	_	8	advmod	_	pronunciation=tudi|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s97|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok930
+7	pri	pri	ADP	Sl	Case=Loc	8	case	_	pronunciation=pri|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s97|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok931
+8	nas	jaz	PRON	Pp1-pl	Case=Loc|Number=Plur|Person=1|PronType=Prs	15	obl	_	pronunciation=nas|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s97|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok932
+9	,	,	PUNCT	Z	_	10	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s97|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok933
+10	eee	eee	INTJ	I	_	15	discourse:filler	_	pronunciation=eee|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s97|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok934
+11	,	,	PUNCT	Z	_	10	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s97|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok935
+12	stanje	stanje	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_	pronunciation=stanje|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s97|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok936
+13	seveda	seveda	PART	Q	_	15	advmod	_	pronunciation=səveda|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s97|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok937
+14	ni	biti	AUX	Va-r3s-y	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	15	cop	_	pronunciation=ni|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s97|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok938
+15	optimalno	optimalen	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	1	conj	_	pronunciation=optimalno|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s97|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok939
+16	.	.	PUNCT	Z	_	1	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s97|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok940
+
+
+# sent_id = Artur-J-Gvecg-P500054.s98-s100_reseg.460
+# speaker_id = Artur-J-G3109
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s98-s100.mp3
+# text = na Unicefu pozdravljamo prizadevanja država , države in odločevalcev , da se izboljša položaj otrok , tako kot je gospod Svetina rekel , primarna odgovornost je absolutno točno na državi in odločevalcih , ostali lahko pri tem samo pomagamo , opozarjamo .
+# split = train
+1	na	na	ADP	Sl	Case=Loc	2	case	_	pronunciation=na|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s98|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok941
+2	Unicefu	Unicef	PROPN	Npmsl	Case=Loc|Gender=Masc|Number=Sing	3	obl	_	pronunciation=Unicefu|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s98|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok942
+3	pozdravljamo	pozdravljati	VERB	Vmpr1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=pozdravljamo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s98|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok943
+4	prizadevanja	prizadevanje	NOUN	Ncnpa	Case=Acc|Gender=Neut|Number=Plur	3	obj	_	pronunciation=prizadevanja|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s98|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok944
+5	država	država	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	7	reparandum	_	pronunciation=država|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s98|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok945
+6	,	,	PUNCT	Z	_	5	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s98|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok946
+7	države	država	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	pronunciation=države|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s98|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok947
+8	in	in	CCONJ	Cc	_	9	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s98|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok948
+9	odločevalcev	odločevalec	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	7	conj	_	pronunciation=odločəvalcəv|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s98|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok949
+10	,	,	PUNCT	Z	_	13	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s98|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok950
+11	da	da	SCONJ	Cs	_	13	mark	_	pronunciation=da|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s99|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok951
+12	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	13	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s99|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok952
+13	izboljša	izboljšati	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl	_	pronunciation=izboljša|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s99|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok953
+14	položaj	položaj	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	nsubj	_	pronunciation=položaj|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s99|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok954
+15	otrok	otrok	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	14	nmod	_	pronunciation=otrok|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s99|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok955
+16	,	,	PUNCT	Z	_	22	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s99|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok956
+17	tako	tako	ADV	Rgp	Degree=Pos	22	mark	_	pronunciation=tko|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s99|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok957
+18	kot	kot	SCONJ	Cs	_	17	fixed	_	pronunciation=kot|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s99|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok958
+19	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	22	aux	_	pronunciation=je|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s99|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok959
+20	gospod	gospod	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	pronunciation=gospod|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s99|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok960
+21	Svetina	Svetina	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	20	nmod	_	pronunciation=Svetina|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s99|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok961
+22	rekel	reči	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	26	advcl	_	pronunciation=reku|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s99|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok962
+23	,	,	PUNCT	Z	_	22	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s99|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok963
+24	primarna	primaren	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	pronunciation=primarna|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s99|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok964
+25	odgovornost	odgovornost	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	26	nsubj	_	pronunciation=odgovornost|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s99|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok965
+26	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	parataxis	_	pronunciation=je|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s99|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok966
+27	absolutno	absolutno	ADV	Rgp	Degree=Pos	26	advmod	_	pronunciation=absolutno|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s99|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok967
+28	točno	točno	ADV	Rgp	Degree=Pos	30	advmod	_	pronunciation=točno|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s99|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok968
+29	na	na	ADP	Sl	Case=Loc	30	case	_	pronunciation=na|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s99|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok969
+30	državi	država	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	26	obl	_	pronunciation=državi|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s99|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok970
+31	in	in	CCONJ	Cc	_	32	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s100|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok971
+32	odločevalcih	odločevalec	NOUN	Ncmpl	Case=Loc|Gender=Masc|Number=Plur	30	conj	_	pronunciation=odločəvalcih|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s100|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok972
+33	,	,	PUNCT	Z	_	39	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s100|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok973
+34	ostali	ostal	ADJ	Appmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part	39	nsubj	_	pronunciation=ostali|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s100|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok974
+35	lahko	lahko	ADV	Rgp	Degree=Pos	39	advmod	_	pronunciation=lahko|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s100|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok975
+36	pri	pri	ADP	Sl	Case=Loc	37	case	_	pronunciation=pri|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s100|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok976
+37	tem	ta	DET	Pd-nsl	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	39	obl	_	pronunciation=təmu|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s100|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok977
+38	samo	samo	PART	Q	_	39	advmod	_	pronunciation=samo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s100|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok978
+39	pomagamo	pomagati	VERB	Vmbr1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	26	parataxis	_	pronunciation=pomagamo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s100|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok979
+40	,	,	PUNCT	Z	_	41	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s100|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok980
+41	opozarjamo	opozarjati	VERB	Vmpr1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	39	parataxis	_	pronunciation=opozarjamo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s100|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok981
+42	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s100|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok982
+
+
+# sent_id = Artur-J-Gvecg-P500054.s101_reseg.461
+# speaker_id = Artur-J-G3109
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s101.mp3
+# text = e , naj na tam , e sem zaprošeni smo bili , da povemo kaj pozitivnega , ne .
+# split = train
+1	e	e	INTJ	I	_	5	discourse:filler	_	pronunciation=e|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok983
+2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok984
+3	naj	naj	PART	Q	_	5	orphan	_	pronunciation=naj|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok985
+4	na	na	ADP	Sa	Case=Acc	5	case	_	pronunciation=na|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok986
+5	tam	tam	ADV	Rgp	Degree=Pos	0	root	_	pronunciation=təm|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok987
+6	,	,	PUNCT	Z	_	9	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok988
+7	e	e	INTJ	I	_	9	discourse:filler	_	pronunciation=e|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok989
+8	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	reparandum	_	pronunciation=səm…|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok990
+9	zaprošeni	zaprošen	ADJ	Appmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part	5	parataxis:restart	_	pronunciation=zaprošeni|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok991
+10	smo	biti	AUX	Va-r1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	aux	_	pronunciation=smo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok992
+11	bili	biti	AUX	Va-p-pm	Gender=Masc|Number=Plur|VerbForm=Part	9	cop	_	pronunciation=bli|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok993
+12	,	,	PUNCT	Z	_	14	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok994
+13	da	da	SCONJ	Cs	_	14	mark	_	pronunciation=da|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok995
+14	povemo	povedati	VERB	Vmer1p	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	ccomp	_	pronunciation=povemo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok996
+15	kaj	kaj	PRON	Pq-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	14	obj	_	pronunciation=kaj|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok997
+16	pozitivnega	pozitiven	ADJ	Agpnsg	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	pronunciation=pozitivnega|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok998
+17	,	,	PUNCT	Z	_	18	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok999
+18	ne	ne	PART	Q	Polarity=Neg	14	discourse	_	pronunciation=ne|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1000
+19	.	.	PUNCT	Z	_	5	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1001
+
+
+# sent_id = Artur-J-Gvecg-P500054.s101-s104_reseg.462
+# speaker_id = Artur-J-G3109
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s101-s104.mp3
+# text = naj ponovim za , za gospo Isops , seveda pozdravljamo uveljavitev družinskega zakonika , resolucije o družinski politiki osemnajst , e , osemindvajset , ustanovitev sveta Republike Slovenije za otroke in družino .
+# split = train
+1	naj	naj	PART	Q	_	2	advmod	_	pronunciation=naj|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1002
+2	ponovim	ponoviti	VERB	Vmer1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=ponovim|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1003
+3	za	za	ADP	Sa	Case=Acc	6	reparandum	_	pronunciation=za|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1004
+4	,	,	PUNCT	Z	_	6	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1005
+5	za	za	ADP	Sa	Case=Acc	6	case	_	pronunciation=za|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1006
+6	gospo	gospa	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	pronunciation=gospo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1007
+7	Isops	Isops	PROPN	Npfsa	Case=Acc|Gender=Fem|Number=Sing	6	nmod	_	pronunciation=Isops|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1008
+8	,	,	PUNCT	Z	_	10	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1009
+9	seveda	seveda	PART	Q	_	10	advmod	_	pronunciation=seveda|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1010
+10	pozdravljamo	pozdravljati	VERB	Vmpr1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	parataxis	_	pronunciation=pozdravljamo|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1011
+11	uveljavitev	uveljavitev	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	pronunciation=uveljəvitev|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1012
+12	družinskega	družinski	ADJ	Agpmsg	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	pronunciation=družinskega|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1013
+13	zakonika	zakonik	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	pronunciation=zakonika|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1014
+14	,	,	PUNCT	Z	_	15	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s101|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1015
+15	resolucije	resolucija	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	13	conj	_	pronunciation=resolucije|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s102|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1016
+16	o	o	ADP	Sl	Case=Loc	18	case	_	pronunciation=o|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s102|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1017
+17	družinski	družinski	ADJ	Agpfsl	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	pronunciation=družinski|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s102|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1018
+18	politiki	politika	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	15	nmod	_	pronunciation=politiki|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s102|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1019
+19	osemnajst	osemnajst	NUM	Mlc-pn	Case=Nom|Number=Plur|NumForm=Word|NumType=Card	15	nummod	_	pronunciation=osəmnajst|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s102|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1020
+20	,	,	PUNCT	Z	_	21	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s102|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1021
+21	e	e	INTJ	I	_	10	discourse:filler	_	pronunciation=e|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s103|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1022
+22	,	,	PUNCT	Z	_	21	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s103|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1023
+23	osemindvajset	osemindvajset	NUM	Mlc-pn	Case=Nom|Number=Plur|NumForm=Word|NumType=Card	19	flat	_	pronunciation=osəmindvajsət|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s103|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1024
+24	,	,	PUNCT	Z	_	25	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s103|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1025
+25	ustanovitev	ustanovitev	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	11	conj	_	pronunciation=ustanovitəv|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s103|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1026
+26	sveta	svet	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	25	nmod	_	pronunciation=sveta|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s104|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1027
+27	Republike	republika	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	pronunciation=Rəpublike|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s104|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1028
+28	Slovenije	Slovenija	PROPN	Npfsg	Case=Gen|Gender=Fem|Number=Sing	27	nmod	_	pronunciation=Slovenije|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s104|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1029
+29	za	za	ADP	Sa	Case=Acc	30	case	_	pronunciation=za|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s104|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1030
+30	otroke	otrok	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	26	nmod	_	pronunciation=otroke|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s104|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1031
+31	in	in	CCONJ	Cc	_	32	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s104|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1032
+32	družino	družina	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	30	conj	_	pronunciation=družino|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s104|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1033
+33	.	.	PUNCT	Z	_	2	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s104|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1034
+
+
+# sent_id = Artur-J-Gvecg-P500054.s104_reseg.463
+# speaker_id = Artur-J-G3109
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500054.s104.mp3
+# text = to so vse pozitivne stvari .
+# split = train
+1	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	pronunciation=to|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s104|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1035
+2	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	cop	_	pronunciation=so|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s104|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1036
+3	vse	ves	DET	Pg-fpn	Case=Nom|Gender=Fem|Number=Plur|PronType=Tot	1	det	_	pronunciation=vse|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s104|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1037
+4	pozitivne	pozitiven	ADJ	Agpfpn	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	5	amod	_	pronunciation=pozitivne|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s104|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1038
+5	stvari	stvar	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	0	root	_	pronunciation=stvari|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s104|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1039
+6	.	.	PUNCT	Z	_	5	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500054.s104|Gos2.1_token_id=Artur-J-Gvecg-P500054.tok1040
+
+

@@ -1,0 +1,53 @@
+# sent_id = Gos210.s16
+# speaker_id = Bf-stra-02265
+# sound_url = https://nl.ijs.si/project/gos20/Gos210/Gos210.s16.mp3
+# text = [name:address] , [name:place] .
+# split = train
+1	[name:address]	[name:address]	PROPN	X	_	0	root	_	pronunciation=[name:address]|Gos2.1_token_id=Gos210.s16.element1
+2	,	,	PUNCT	Z	_	3	punct	_	_
+3	[name:place]	[name:place]	PROPN	X	_	1	appos	_	pronunciation=[name:place]|Gos2.1_token_id=Gos210.s16.element2
+4	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# newdoc id = Gos210
+# sent_id = Gos210.s13
+# speaker_id = Af-prod-02278
+# sound_url = https://nl.ijs.si/project/gos20/Gos210/Gos210.s13.mp3
+# text = dajte mi še naslov povedat , prosim .
+# split = train
+1	dajte	dati	VERB	Vmem2p	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	pronunciation=dejte|Gos2.1_token_id=Gos210.tok70
+2	mi	jaz	PRON	Pp1-sd--y	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	5	iobj	_	pronunciation=mi|Gos2.1_token_id=Gos210.tok71
+3	še	še	PART	Q	_	4	advmod	_	pronunciation=še|Gos2.1_token_id=Gos210.tok72
+4	naslov	naslov	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	pronunciation=naslov|Gos2.1_token_id=Gos210.tok73
+5	povedat	povedati	VERB	Vmeu	Aspect=Perf|VerbForm=Sup	1	xcomp	_	pronunciation=povedat|Gos2.1_token_id=Gos210.tok74
+6	,	,	PUNCT	Z	_	7	punct	_	_
+7	prosim	prositi	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	discourse	_	pronunciation=prosim|Gos2.1_token_id=Gos210.tok75
+8	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos210.s14
+# speaker_id = Bf-stra-02265
+# sound_url = https://nl.ijs.si/project/gos20/Gos210/Gos210.s14.mp3
+# text = aha , [name:address] , [name:address] .
+# split = train
+1	aha	aha	INTJ	I	_	3	discourse	_	pronunciation=aha|Gos2.1_token_id=Gos210.tok76
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	[name:address]	[name:address]	PROPN	X	_	0	root	_	pronunciation=[name:address]|Gos2.1_token_id=Gos210.s14.element1
+4	,	,	PUNCT	Z	_	5	punct	_	_
+5	[name:address]	[name:address]	PROPN	X	_	3	appos	_	pronunciation=[name:address]|Gos2.1_token_id=Gos210.s14.element2
+6	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos210.s15
+# speaker_id = Af-prod-02278
+# sound_url = https://nl.ijs.si/project/gos20/Gos210/Gos210.s15.mp3
+# text = aha , dobro , okej .
+# split = train
+1	aha	aha	INTJ	I	_	3	discourse	_	pronunciation=aha|Gos2.1_token_id=Gos210.tok77
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	dobro	dobro	ADV	Rgp	Degree=Pos	0	root	_	pronunciation=dobro|Gos2.1_token_id=Gos210.tok78
+4	,	,	PUNCT	Z	_	5	punct	_	_
+5	okej	okej	ADV	Rgp	Degree=Pos	3	discourse	_	pronunciation=okej|Gos2.1_token_id=Gos210.tok79
+6	.	.	PUNCT	Z	_	3	punct	_	_
+
+

@@ -1,0 +1,151 @@
+# newdoc id = Gos140
+# sent_id = Gos140.s12
+# speaker_id = Bf-inte-10502
+# sound_url = https://nl.ijs.si/project/gos20/Gos140/Gos140.s12.mp3
+# text = ja .
+# split = train
+1	ja	ja	PART	Q	_	0	root	_	pronunciation=ja|Gos2.1_token_id=Gos140.tok120
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos140.s13
+# speaker_id = Am-novi-10501
+# sound_url = https://nl.ijs.si/project/gos20/Gos140/Gos140.s13.mp3
+# text = ta človek se tako pisal , ka to fi .
+# split = train
+1	ta	ta	DET	Pd-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	pronunciation=te|Gos2.1_token_id=Gos140.tok121
+2	človek	človek	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	pronunciation=človek|Gos2.1_token_id=Gos140.tok122
+3	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	5	expl	_	pronunciation=se|Gos2.1_token_id=Gos140.tok123
+4	tako	tako	ADV	Rgp	Degree=Pos	5	advmod	_	pronunciation=tak|Gos2.1_token_id=Gos140.tok124
+5	pisal	pisati	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=piso|Gos2.1_token_id=Gos140.tok125
+6	,	,	PUNCT	Z	_	9	punct	_	_
+7	ka	ka	X	X	_	9	mark	_	pronunciation=ka|Gos2.1_token_id=Gos140.tok126
+8	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	nsubj	_	pronunciation=to|Gos2.1_token_id=Gos140.tok127
+9	fi	fi	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	5	advcl	_	pronunciation=fi|Gos2.1_token_id=Gos140.tok128
+10	.	.	PUNCT	Z	_	5	punct	_	_
+
+
+# sent_id = Gos140.s14
+# speaker_id = Bf-inte-10502
+# sound_url = https://nl.ijs.si/project/gos20/Gos140/Gos140.s14.mp3
+# text = ne [name:surname] .
+# split = train
+1	ne	ne	PART	Q	Polarity=Neg	2	discourse	_	pronunciation=nej|Gos2.1_token_id=Gos140.tok130
+2	[name:surname]	[name:surname]	PROPN	X	_	0	root	_	pronunciation=[name:surname]|Gos2.1_token_id=Gos140.s14.element1
+3	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos140.s15
+# speaker_id = Bf-inte-10502
+# sound_url = https://nl.ijs.si/project/gos20/Gos140/Gos140.s15.mp3
+# text = pajdaš bil , so bili dober pajdaš mojemu očetu , pa te so že gor prišli , ka tisti to dela , pa so ga iskali .
+# split = train
+1	pajdaš	pajdaš	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	7	reparandum	_	pronunciation=padaš|Gos2.1_token_id=Gos140.tok131
+2	bil	biti	AUX	Va-p-sm	Gender=Masc|Number=Sing|VerbForm=Part	1	cop	_	pronunciation=bejo|Gos2.1_token_id=Gos140.tok132
+3	,	,	PUNCT	Z	_	1	punct	_	_
+4	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	pronunciation=s|Gos2.1_token_id=Gos140.tok133
+5	bili	biti	AUX	Va-p-pm	Gender=Masc|Number=Plur|VerbForm=Part	7	cop	_	pronunciation=bli|Gos2.1_token_id=Gos140.tok134
+6	dober	dober	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	pronunciation=dober|Gos2.1_token_id=Gos140.tok135
+7	pajdaš	pajdaš	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	pronunciation=padaš|Gos2.1_token_id=Gos140.tok136
+8	mojemu	moj	DET	Ps1msds	Case=Dat|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	pronunciation=mojmo|Gos2.1_token_id=Gos140.tok137
+9	očetu	oče	NOUN	Ncmsd	Case=Dat|Gender=Masc|Number=Sing	7	nmod	_	pronunciation=očej|Gos2.1_token_id=Gos140.tok138
+10	,	,	PUNCT	Z	_	16	punct	_	_
+11	pa	pa	CCONJ	Cc	_	16	cc	_	pronunciation=pa|Gos2.1_token_id=Gos140.tok139
+12	te	te	ADV	Rgp	Degree=Pos	16	advmod	_	pronunciation=te|Gos2.1_token_id=Gos140.tok140
+13	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	16	aux	_	pronunciation=so|Gos2.1_token_id=Gos140.tok141
+14	že	že	PART	Q	_	16	advmod	_	pronunciation=že|Gos2.1_token_id=Gos140.tok142
+15	gor	gor	ADV	Rgp	Degree=Pos	16	advmod	_	pronunciation=gore|Gos2.1_token_id=Gos140.tok143
+16	prišli	priti	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	7	conj	_	pronunciation=prišli|Gos2.1_token_id=Gos140.tok144
+17	,	,	PUNCT	Z	_	21	punct	_	_
+18	ka	ka	X	X	_	21	mark	_	pronunciation=ka|Gos2.1_token_id=Gos140.tok145
+19	tisti	tisti	DET	Pd-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	21	nsubj	_	pronunciation=tejsti|Gos2.1_token_id=Gos140.tok146
+20	to	ta	DET	Pd-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	21	obj	_	pronunciation=tov|Gos2.1_token_id=Gos140.tok147
+21	dela	delati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	pronunciation=djela|Gos2.1_token_id=Gos140.tok148
+22	,	,	PUNCT	Z	_	26	punct	_	_
+23	pa	pa	CCONJ	Cc	_	26	cc	_	pronunciation=pa|Gos2.1_token_id=Gos140.tok149
+24	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	26	aux	_	pronunciation=so|Gos2.1_token_id=Gos140.tok150
+25	ga	on	PRON	Pp3msa--y	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	26	obj	_	pronunciation=ga|Gos2.1_token_id=Gos140.tok151
+26	iskali	iskati	VERB	Vmpp-pm	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	21	conj	_	pronunciation=ejskali|Gos2.1_token_id=Gos140.tok152
+27	.	.	PUNCT	Z	_	7	punct	_	_
+
+
+# sent_id = Gos140.s16
+# speaker_id = Bf-inte-10502
+# sound_url = https://nl.ijs.si/project/gos20/Gos140/Gos140.s16.mp3
+# text = pa je Števanovce v krčmi mojemu očetu tja pravil , ka v kakšno navoljo je , pa ga je moj oče skril .
+# split = train
+1	pa	pa	CCONJ	Cc	_	9	cc	_	pronunciation=pa|Gos2.1_token_id=Gos140.tok153
+2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	cop	_	pronunciation=je|Gos2.1_token_id=Gos140.tok154
+3	Števanovce	Števanovci	PROPN	Npmpa	Case=Acc|Gender=Masc|Number=Plur	9	obj	_	pronunciation=Števanofce|Gos2.1_token_id=Gos140.tok155
+4	v	v	ADP	Sl	Case=Loc	5	case	_	pronunciation=f|Gos2.1_token_id=Gos140.tok156
+5	krčmi	krčma	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	9	obl	_	pronunciation=krčmej|Gos2.1_token_id=Gos140.tok157
+6	mojemu	moj	DET	Ps1msds	Case=Dat|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	pronunciation=mojmo|Gos2.1_token_id=Gos140.tok158
+7	očetu	oče	NOUN	Ncmsd	Case=Dat|Gender=Masc|Number=Sing	9	iobj	_	pronunciation=očej|Gos2.1_token_id=Gos140.tok159
+8	tja	tja	ADV	Rgp	Degree=Pos	9	advmod	_	pronunciation=ta|Gos2.1_token_id=Gos140.tok160
+9	pravil	pravilo	NOUN	Ncnpg	Case=Gen|Gender=Neut|Number=Plur	0	root	_	pronunciation=pravo|Gos2.1_token_id=Gos140.tok161
+10	,	,	PUNCT	Z	_	15	punct	_	_
+11	ka	ka	SCONJ	Cs	_	15	mark	_	pronunciation=ka|Gos2.1_token_id=Gos140.tok162
+12	v	v	ADP	Sa	Case=Acc	14	case	_	pronunciation=f|Gos2.1_token_id=Gos140.tok163
+13	kakšno	kakšen	DET	Pq-fsa	Case=Acc|Gender=Fem|Number=Sing|PronType=Int	14	det	_	pronunciation=kašo|Gos2.1_token_id=Gos140.tok164
+14	navoljo	navolja	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	15	obl	_	pronunciation=navolo|Gos2.1_token_id=Gos140.tok165
+15	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	ccomp	_	pronunciation=je|Gos2.1_token_id=Gos140.tok166
+16	,	,	PUNCT	Z	_	15	punct	_	_
+17	pa	pa	CCONJ	Cc	_	22	cc	_	pronunciation=pa|Gos2.1_token_id=Gos140.tok167
+18	ga	on	PRON	Pp3msa--y	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	22	obj	_	pronunciation=ga|Gos2.1_token_id=Gos140.tok168
+19	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	22	aux	_	pronunciation=je|Gos2.1_token_id=Gos140.tok169
+20	moj	moj	DET	Ps1msns	Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	21	det	_	pronunciation=moj|Gos2.1_token_id=Gos140.tok170
+21	oče	oče	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	pronunciation=oča|Gos2.1_token_id=Gos140.tok171
+22	skril	skriti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	9	conj	_	pronunciation=skrejo|Gos2.1_token_id=Gos140.tok172
+23	.	.	PUNCT	Z	_	9	punct	_	_
+
+
+# sent_id = Gos140.s17
+# speaker_id = Bf-inte-10502
+# sound_url = https://nl.ijs.si/project/gos20/Gos140/Gos140.s17.mp3
+# text = noter v peč pa potem biti ven razklal takšna drva , ka so ne videli noter , pa je te oče tako pravil , ka bodo kruh pekli .
+# split = train
+1	noter	noter	ADV	Rgp	Degree=Pos	3	advmod	_	pronunciation=notr|Gos2.1_token_id=Gos140.tok173
+2	v	v	ADP	Sa	Case=Acc	3	case	_	pronunciation=f|Gos2.1_token_id=Gos140.tok174
+3	peč	peč	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	pronunciation=pječ|Gos2.1_token_id=Gos140.tok175
+4	pa	pa	CCONJ	Cc	_	8	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos140.tok176
+5	potem	potem	ADV	Rgp	Degree=Pos	8	advmod	_	pronunciation=tjes|Gos2.1_token_id=Gos140.tok177n1
+6	biti	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	aux	_	pronunciation=tjes|Gos2.1_token_id=Gos140.tok177n2
+7	ven	ven	ADV	Rgp	Degree=Pos	8	advmod	_	pronunciation=vje|Gos2.1_token_id=Gos140.tok178
+8	razklal	razklati	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=sklao|Gos2.1_token_id=Gos140.tok179
+9	takšna	takšen	DET	Pd-npa	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem	10	det	_	pronunciation=taša|Gos2.1_token_id=Gos140.tok180
+10	drva	drvo	NOUN	Ncnpa	Case=Acc|Gender=Neut|Number=Plur	8	obj	_	pronunciation=drva|Gos2.1_token_id=Gos140.tok181
+11	,	,	PUNCT	Z	_	15	punct	_	_
+12	ka	ka	SCONJ	Cs	_	15	mark	_	pronunciation=ka|Gos2.1_token_id=Gos140.tok182
+13	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	15	aux	_	pronunciation=so|Gos2.1_token_id=Gos140.tok183
+14	ne	ne	PART	Q	Polarity=Neg	15	advmod	_	pronunciation=nej|Gos2.1_token_id=Gos140.tok184
+15	videli	videti	VERB	Vmbp-pm	Gender=Masc|Number=Plur|VerbForm=Part	10	acl	_	pronunciation=vidli|Gos2.1_token_id=Gos140.tok185
+16	noter	noter	ADV	Rgp	Degree=Pos	15	advmod	_	pronunciation=nutra|Gos2.1_token_id=Gos140.tok186
+17	,	,	PUNCT	Z	_	15	punct	_	_
+18	pa	pa	CCONJ	Cc	_	23	cc	_	pronunciation=pa|Gos2.1_token_id=Gos140.tok187
+19	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	23	aux	_	pronunciation=je|Gos2.1_token_id=Gos140.tok188
+20	te	te	ADV	Rgp	Degree=Pos	23	advmod	_	pronunciation=te|Gos2.1_token_id=Gos140.tok189
+21	oče	oče	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	pronunciation=oča|Gos2.1_token_id=Gos140.tok190
+22	tako	tako	ADV	Rgp	Degree=Pos	23	advmod	_	pronunciation=tak|Gos2.1_token_id=Gos140.tok191
+23	pravil	praviti	VERB	Vmbp-sm	Gender=Masc|Number=Sing|VerbForm=Part	8	conj	_	pronunciation=pravo|Gos2.1_token_id=Gos140.tok192
+24	,	,	PUNCT	Z	_	28	punct	_	_
+25	ka	ka	SCONJ	Cs	_	28	mark	_	pronunciation=ka|Gos2.1_token_id=Gos140.tok193
+26	bodo	biti	AUX	Va-f3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	28	aux	_	pronunciation=do|Gos2.1_token_id=Gos140.tok194
+27	kruh	kruh	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	28	obj	_	pronunciation=kruj|Gos2.1_token_id=Gos140.tok195
+28	pekli	peči	VERB	Vmpp-pm	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	23	ccomp	_	pronunciation=pjekli|Gos2.1_token_id=Gos140.tok196
+29	.	.	PUNCT	Z	_	8	punct	_	_
+
+
+# sent_id = Gos140.s18
+# speaker_id = Am-novi-10501
+# sound_url = https://nl.ijs.si/project/gos20/Gos140/Gos140.s18.mp3
+# text = ker so noter gledali v peč .
+# split = train
+1	ker	ker	SCONJ	Cs	_	4	mark	_	pronunciation=ka|Gos2.1_token_id=Gos140.tok197
+2	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	pronunciation=so|Gos2.1_token_id=Gos140.tok198
+3	noter	noter	ADV	Rgp	Degree=Pos	4	advmod	_	pronunciation=not|Gos2.1_token_id=Gos140.tok199
+4	gledali	gledati	VERB	Vmpp-pm	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	pronunciation=glejdali|Gos2.1_token_id=Gos140.tok200
+5	v	v	ADP	Sa	Case=Acc	6	case	_	pronunciation=f|Gos2.1_token_id=Gos140.tok201
+6	peč	peč	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	pronunciation=pejč|Gos2.1_token_id=Gos140.tok202
+7	.	.	PUNCT	Z	_	4	punct	_	_
+
+

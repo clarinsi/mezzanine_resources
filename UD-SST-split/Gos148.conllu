@@ -1,0 +1,113 @@
+# newdoc id = Gos148
+# sent_id = Gos148.s65
+# speaker_id = Pf-novi-01004
+# sound_url = https://nl.ijs.si/project/gos20/Gos148/Gos148.s65.mp3
+# text = hoteli ste kupiti perzijsko preprogo .
+# split = train
+1	hoteli	hoteti	VERB	Vmpp-pm	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	pronunciation=hoteli|Gos2.1_token_id=Gos148.tok1233
+2	ste	biti	AUX	Va-r2p-n	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	aux	_	pronunciation=ste|Gos2.1_token_id=Gos148.tok1234
+3	kupiti	kupiti	VERB	Vmen	Aspect=Perf|VerbForm=Inf	1	xcomp	_	pronunciation=kupiti|Gos2.1_token_id=Gos148.tok1235
+4	perzijsko	perzijski	ADJ	Agpfsa	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	pronunciation=perzijsko|Gos2.1_token_id=Gos148.tok1236
+5	preprogo	preproga	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	pronunciation=preporogo|Gos2.1_token_id=Gos148.tok1237
+6	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos148.s66
+# speaker_id = Pf-novi-01004
+# sound_url = https://nl.ijs.si/project/gos20/Gos148/Gos148.s66.mp3
+# text = to je nekaj božanskega , kajne ?
+# split = train
+1	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	pronunciation=to|Gos2.1_token_id=Gos148.tok1238
+2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	pronunciation=je|Gos2.1_token_id=Gos148.tok1239
+3	nekaj	nekaj	DET	Pi-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	0	root	_	pronunciation=nekaj|Gos2.1_token_id=Gos148.tok1240
+4	božanskega	božanski	ADJ	Agpnsg	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	pronunciation=božanskega|Gos2.1_token_id=Gos148.tok1241
+5	,	,	PUNCT	Z	_	6	punct	_	_
+6	kajne	kajne	PART	Q	Polarity=Neg	3	discourse	_	pronunciation=kajne|Gos2.1_token_id=Gos148.tok1242
+7	?	?	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos148.s67
+# speaker_id = Pf-novi-01004
+# sound_url = https://nl.ijs.si/project/gos20/Gos148/Gos148.s67.mp3
+# text = jaz se spomnim pred leti , da si lahko kupil v Iranu originalno , ročno izdelano perzijsko preprogo .
+# split = train
+1	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	pronunciation=jz|Gos2.1_token_id=Gos148.tok1244
+2	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	3	expl	_	pronunciation=se|Gos2.1_token_id=Gos148.tok1245
+3	spomnim	spomniti	VERB	Vmer1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=spomnim|Gos2.1_token_id=Gos148.tok1246
+4	pred	pred	ADP	Si	Case=Ins	5	case	_	pronunciation=pred|Gos2.1_token_id=Gos148.tok1247
+5	leti	leto	NOUN	Ncnpi	Case=Ins|Gender=Neut|Number=Plur	10	obl	_	pronunciation=leti|Gos2.1_token_id=Gos148.tok1248
+6	,	,	PUNCT	Z	_	10	punct	_	_
+7	da	da	SCONJ	Cs	_	10	mark	_	pronunciation=da|Gos2.1_token_id=Gos148.tok1249
+8	si	se	PRON	Px---d--y	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	10	expl	_	pronunciation=si|Gos2.1_token_id=Gos148.tok1250
+9	lahko	lahko	ADV	Rgp	Degree=Pos	10	advmod	_	pronunciation=lahko|Gos2.1_token_id=Gos148.tok1251
+10	kupil	kupiti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	3	ccomp	_	pronunciation=kupil|Gos2.1_token_id=Gos148.tok1252
+11	v	v	ADP	Sl	Case=Loc	12	case	_	pronunciation=v|Gos2.1_token_id=Gos148.tok1253
+12	Iranu	Iran	PROPN	Npmsl	Case=Loc|Gender=Masc|Number=Sing	10	obl	_	pronunciation=Iranu|Gos2.1_token_id=Gos148.tok1254
+13	originalno	originalen	ADJ	Agpfsa	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	pronunciation=originalno|Gos2.1_token_id=Gos148.tok1255
+14	,	,	PUNCT	Z	_	16	punct	_	_
+15	ročno	ročno	ADV	Rgp	Degree=Pos	16	advmod	_	pronunciation=ročno|Gos2.1_token_id=Gos148.tok1256
+16	izdelano	izdelan	ADJ	Appfsa	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part	13	conj	_	pronunciation=izdelano|Gos2.1_token_id=Gos148.tok1257
+17	perzijsko	perzijski	ADJ	Agpfsa	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	pronunciation=perzijsko|Gos2.1_token_id=Gos148.tok1258
+18	preprogo	preproga	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	pronunciation=preprogo|Gos2.1_token_id=Gos148.tok1259
+19	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos148.s68
+# speaker_id = Pf-novi-01004
+# sound_url = https://nl.ijs.si/project/gos20/Gos148/Gos148.s68.mp3
+# text = mislim , da , ne vem , takrat v dolarjih , zdaj si bom izmislila primerjavo za dvajset dolarjev , ampak nisi je mogel prenesti ven čez mejo , ne .
+# split = train
+1	mislim	misliti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=mislim|Gos2.1_token_id=Gos148.tok1260
+2	,	,	PUNCT	Z	_	19	punct	_	_
+3	da	da	SCONJ	Cs	_	19	mark	_	pronunciation=da|Gos2.1_token_id=Gos148.tok1261
+4	,	,	PUNCT	Z	_	6	punct	_	_
+5	ne	ne	PART	Q	Polarity=Neg	6	advmod	_	pronunciation=ne|Gos2.1_token_id=Gos148.tok1262
+6	vem	vedeti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	19	parataxis:discourse	_	pronunciation=vem|Gos2.1_token_id=Gos148.tok1263
+7	,	,	PUNCT	Z	_	6	punct	_	_
+8	takrat	takrat	ADV	Rgp	Degree=Pos	19	orphan	_	pronunciation=takrat|Gos2.1_token_id=Gos148.tok1264
+9	v	v	ADP	Sl	Case=Loc	10	case	_	pronunciation=v|Gos2.1_token_id=Gos148.tok1265
+10	dolarjih	dolar	NOUN	Ncmpl	Case=Loc|Gender=Masc|Number=Plur	19	orphan	_	pronunciation=dolarjih|Gos2.1_token_id=Gos148.tok1266
+11	,	,	PUNCT	Z	_	15	punct	_	_
+12	zdaj	zdaj	ADV	Rgp	Degree=Pos	15	advmod	_	pronunciation=zej|Gos2.1_token_id=Gos148.tok1267
+13	si	se	PRON	Px---d--y	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	15	expl	_	pronunciation=si|Gos2.1_token_id=Gos148.tok1268
+14	bom	biti	AUX	Va-f1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin	15	aux	_	pronunciation=bom|Gos2.1_token_id=Gos148.tok1269
+15	izmislila	izmisliti	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	19	parataxis	_	pronunciation=zmislna|Gos2.1_token_id=Gos148.tok1270
+16	primerjavo	primerjava	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	15	obj	_	pronunciation=primerjavo|Gos2.1_token_id=Gos148.tok1271
+17	za	za	ADP	Sa	Case=Acc	19	case	_	pronunciation=za|Gos2.1_token_id=Gos148.tok1272
+18	dvajset	dvajset	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	19	nummod	_	pronunciation=dvajset|Gos2.1_token_id=Gos148.tok1273
+19	dolarjev	dolar	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	1	ccomp	_	pronunciation=dolarjev|Gos2.1_token_id=Gos148.tok1274
+20	,	,	PUNCT	Z	_	19	punct	_	_
+21	ampak	ampak	CCONJ	Cc	_	24	cc	_	pronunciation=ampak|Gos2.1_token_id=Gos148.tok1275
+22	nisi	biti	AUX	Va-r2s-y	Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin	24	aux	_	pronunciation=nisi|Gos2.1_token_id=Gos148.tok1276
+23	je	on	PRON	Pp3fsg--y	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Variant=Short	25	obj	_	pronunciation=je|Gos2.1_token_id=Gos148.tok1277
+24	mogel	moči	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	1	conj	_	pronunciation=mogel|Gos2.1_token_id=Gos148.tok1278
+25	prenesti	prenesti	VERB	Vmen	Aspect=Perf|VerbForm=Inf	24	xcomp	_	pronunciation=prenest|Gos2.1_token_id=Gos148.tok1279
+26	ven	ven	ADV	Rgp	Degree=Pos	25	advmod	_	pronunciation=ven|Gos2.1_token_id=Gos148.tok1280
+27	čez	čez	ADP	Sa	Case=Acc	28	case	_	pronunciation=čez|Gos2.1_token_id=Gos148.tok1281
+28	mejo	meja	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	26	nmod	_	pronunciation=mejo|Gos2.1_token_id=Gos148.tok1282
+29	,	,	PUNCT	Z	_	30	punct	_	_
+30	ne	ne	PART	Q	Polarity=Neg	24	discourse	_	pronunciation=ne|Gos2.1_token_id=Gos148.tok1283
+31	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos148.s69
+# speaker_id = Pf-novi-01004
+# sound_url = https://nl.ijs.si/project/gos20/Gos148/Gos148.s69.mp3
+# text = kako je danes , ste potem na koncu kupili to preprogo ali ne ?
+# split = train
+1	kako	kako	ADV	Rgp	Degree=Pos	2	advmod	_	pronunciation=kako|Gos2.1_token_id=Gos148.tok1284
+2	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=je|Gos2.1_token_id=Gos148.tok1285
+3	danes	danes	ADV	Rgp	Degree=Pos	2	advmod	_	pronunciation=danes|Gos2.1_token_id=Gos148.tok1286
+4	,	,	PUNCT	Z	_	9	punct	_	_
+5	ste	biti	AUX	Va-r2p-n	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	aux	_	pronunciation=ste|Gos2.1_token_id=Gos148.tok1288
+6	potem	potem	ADV	Rgp	Degree=Pos	9	advmod	_	pronunciation=potem|Gos2.1_token_id=Gos148.tok1289
+7	na	na	ADP	Sl	Case=Loc	8	case	_	pronunciation=na|Gos2.1_token_id=Gos148.tok1290
+8	koncu	konec	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	9	obl	_	pronunciation=koncu|Gos2.1_token_id=Gos148.tok1291
+9	kupili	kupiti	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	2	parataxis	_	pronunciation=kupili|Gos2.1_token_id=Gos148.tok1292
+10	to	ta	DET	Pd-fsa	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	11	det	_	pronunciation=to|Gos2.1_token_id=Gos148.tok1293
+11	preprogo	preproga	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	pronunciation=preprogo|Gos2.1_token_id=Gos148.tok1294
+12	ali	ali	CCONJ	Cc	_	13	cc	_	pronunciation=ali|Gos2.1_token_id=Gos148.tok1295
+13	ne	ne	PART	Q	Polarity=Neg	9	conj	_	pronunciation=ne|Gos2.1_token_id=Gos148.tok1296
+14	?	?	PUNCT	Z	_	2	punct	_	_
+
+

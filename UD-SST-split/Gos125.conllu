@@ -1,0 +1,132 @@
+# newdoc id = Gos125
+# sent_id = Gos125.s69
+# speaker_id = Sm-novi-06570
+# sound_url = https://nl.ijs.si/project/gos20/Gos125/Gos125.s69.mp3
+# text = zdaj , nekateri pravijo , da j- dvojni agent , trojni agent , da je trojanski konj , ne vem , kaj .
+# split = train
+1	zdaj	zdaj	ADV	Rgp	Degree=Pos	4	discourse	_	pronunciation=zej|Gos2.1_token_id=Gos125.tok1101
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	nekateri	nekateri	DET	Pi-mpn	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	4	nsubj	_	pronunciation=nekateri|Gos2.1_token_id=Gos125.tok1102
+4	pravijo	praviti	VERB	Vmbr3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=pravjo|Gos2.1_token_id=Gos125.tok1103
+5	,	,	PUNCT	Z	_	9	punct	_	_
+6	da	da	SCONJ	Cs	_	9	mark	_	pronunciation=de|Gos2.1_token_id=Gos125.tok1104
+7	j-	j-	X	Xt	_	9	reparandum	_	pronunciation=j…|Gos2.1_token_id=Gos125.tok1105
+8	dvojni	dvojen	ADJ	Mlsmsny	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|NumType=Mult	9	amod	_	pronunciation=dvojni|Gos2.1_token_id=Gos125.tok1106
+9	agent	agent	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	4	ccomp	_	pronunciation=agent|Gos2.1_token_id=Gos125.tok1107
+10	,	,	PUNCT	Z	_	12	punct	_	_
+11	trojni	trojen	ADJ	Mlsmsny	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|NumType=Mult	12	amod	_	pronunciation=trojni|Gos2.1_token_id=Gos125.tok1108
+12	agent	agent	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	9	conj	_	pronunciation=agent|Gos2.1_token_id=Gos125.tok1109
+13	,	,	PUNCT	Z	_	17	punct	_	_
+14	da	da	SCONJ	Cs	_	17	mark	_	pronunciation=de|Gos2.1_token_id=Gos125.tok1110
+15	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	17	cop	_	pronunciation=j…|Gos2.1_token_id=Gos125.tok1111
+16	trojanski	trojanski	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	pronunciation=trojanski|Gos2.1_token_id=Gos125.tok1112
+17	konj	konj	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	9	parataxis	_	pronunciation=konj|Gos2.1_token_id=Gos125.tok1113
+18	,	,	PUNCT	Z	_	20	punct	_	_
+19	ne	ne	PART	Q	Polarity=Neg	20	advmod	_	pronunciation=ne|Gos2.1_token_id=Gos125.tok1114
+20	vem	vedeti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	parataxis	_	pronunciation=vem|Gos2.1_token_id=Gos125.tok1115
+21	,	,	PUNCT	Z	_	22	punct	_	_
+22	kaj	kaj	PRON	Pq-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	20	obj	_	pronunciation=kaj|Gos2.1_token_id=Gos125.tok1116
+23	.	.	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos125.s70
+# speaker_id = Sm-novi-06570
+# sound_url = https://nl.ijs.si/project/gos20/Gos125/Gos125.s70.mp3
+# text = ampak meni se zdi , da je predvsem v konfliktu interesov .
+# split = train
+1	ampak	ampak	CCONJ	Cc	_	4	cc	_	pronunciation=mpak|Gos2.1_token_id=Gos125.tok1117
+2	meni	jaz	PRON	Pp1-sd	Case=Dat|Number=Sing|Person=1|PronType=Prs	4	obj	_	pronunciation=men|Gos2.1_token_id=Gos125.tok1118
+3	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	4	expl	_	pronunciation=se|Gos2.1_token_id=Gos125.tok1119
+4	zdi	zdeti	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=zdi|Gos2.1_token_id=Gos125.tok1120
+5	,	,	PUNCT	Z	_	7	punct	_	_
+6	da	da	SCONJ	Cs	_	7	mark	_	pronunciation=da|Gos2.1_token_id=Gos125.tok1121
+7	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	csubj	_	pronunciation=je|Gos2.1_token_id=Gos125.tok1122
+8	predvsem	predvsem	PART	Q	_	10	advmod	_	pronunciation=predvsem|Gos2.1_token_id=Gos125.tok1123
+9	v	v	ADP	Sl	Case=Loc	10	case	_	pronunciation=u|Gos2.1_token_id=Gos125.tok1124
+10	konfliktu	konflikt	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	7	obl	_	pronunciation=konfliktu|Gos2.1_token_id=Gos125.tok1125
+11	interesov	interes	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	pronunciation=interesov|Gos2.1_token_id=Gos125.tok1126
+12	.	.	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos125.s71
+# speaker_id = Sm-novi-06570
+# sound_url = https://nl.ijs.si/project/gos20/Gos125/Gos125.s71.mp3
+# text = in bi rekel , to je ena izmed temeljnih značilnosti sodobne politike .
+# split = train
+1	in	in	CCONJ	Cc	_	3	cc	_	pronunciation=in|Gos2.1_token_id=Gos125.tok1127
+2	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	3	aux	_	pronunciation=b|Gos2.1_token_id=Gos125.tok1128
+3	rekel	reči	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=reku|Gos2.1_token_id=Gos125.tok1129
+4	,	,	PUNCT	Z	_	7	punct	_	_
+5	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	pronunciation=to|Gos2.1_token_id=Gos125.tok1130
+6	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	_	pronunciation=je|Gos2.1_token_id=Gos125.tok1131
+7	ena	en	NUM	Mlpfsn	Case=Nom|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	3	parataxis	_	pronunciation=ena|Gos2.1_token_id=Gos125.tok1132
+8	izmed	izmed	ADP	Sg	Case=Gen	10	case	_	pronunciation=izmed|Gos2.1_token_id=Gos125.tok1133
+9	temeljnih	temeljen	ADJ	Agpfpg	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	10	amod	_	pronunciation=temeljnih|Gos2.1_token_id=Gos125.tok1134
+10	značilnosti	značilnost	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	pronunciation=značilnosti|Gos2.1_token_id=Gos125.tok1135
+11	sodobne	sodoben	ADJ	Agpfsg	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	pronunciation=sodobne|Gos2.1_token_id=Gos125.tok1136
+12	politike	politika	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	pronunciation=politke|Gos2.1_token_id=Gos125.tok1137
+13	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos125.s72
+# speaker_id = Sm-novi-06570
+# sound_url = https://nl.ijs.si/project/gos20/Gos125/Gos125.s72.mp3
+# text = slovenske , ne .
+# split = train
+1	slovenske	slovenski	ADJ	Agpfsg	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	pronunciation=slovenske|Gos2.1_token_id=Gos125.tok1138
+2	,	,	PUNCT	Z	_	3	punct	_	_
+3	ne	ne	PART	Q	Polarity=Neg	1	discourse	_	pronunciation=ne|Gos2.1_token_id=Gos125.tok1139
+4	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos125.s73
+# speaker_id = Sm-novi-06570
+# sound_url = https://nl.ijs.si/project/gos20/Gos125/Gos125.s73.mp3
+# text = konflikt interesov .
+# split = train
+1	konflikt	konflikt	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	pronunciation=konflikt|Gos2.1_token_id=Gos125.tok1140
+2	interesov	interes	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	pronunciation=interesov|Gos2.1_token_id=Gos125.tok1141
+3	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos125.s74
+# speaker_id = Sm-novi-06570
+# sound_url = https://nl.ijs.si/project/gos20/Gos125/Gos125.s74.mp3
+# text = ki , bi rekel , ti konfliktni interesi tudi ustvarjajo potem to neko , nek vladajoči razred , ne , iz katerega pravzaprav , ko enkrat prideš vanj , ne moreš več izpasti .
+# split = train
+1	ki	ki	SCONJ	Cs	_	10	reparandum	_	pronunciation=ki|Gos2.1_token_id=Gos125.tok1142
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	4	aux	_	pronunciation=bi|Gos2.1_token_id=Gos125.tok1143
+4	rekel	reči	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	10	parataxis:discourse	_	pronunciation=reku|Gos2.1_token_id=Gos125.tok1144
+5	,	,	PUNCT	Z	_	4	punct	_	_
+6	ti	ta	DET	Pd-mpn	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	8	det	_	pronunciation=ti|Gos2.1_token_id=Gos125.tok1145
+7	konfliktni	konflikten	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	8	amod	_	pronunciation=konfliktni|Gos2.1_token_id=Gos125.tok1146
+8	interesi	interes	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	pronunciation=interesi|Gos2.1_token_id=Gos125.tok1147
+9	tudi	tudi	PART	Q	_	10	advmod	_	pronunciation=tud|Gos2.1_token_id=Gos125.tok1148
+10	ustvarjajo	ustvarjati	VERB	Vmpr3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=ustvarjajo|Gos2.1_token_id=Gos125.tok1149
+11	potem	potem	ADV	Rgp	Degree=Pos	10	advmod	_	pronunciation=potem|Gos2.1_token_id=Gos125.tok1150
+12	to	ta	DET	Pd-fsa	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	13	det	_	pronunciation=to|Gos2.1_token_id=Gos125.tok1151
+13	neko	nek	DET	Pi-fsa	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	17	reparandum	_	pronunciation=neko|Gos2.1_token_id=Gos125.tok1152
+14	,	,	PUNCT	Z	_	13	punct	_	_
+15	nek	nek	DET	Pi-msa	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	17	det	_	pronunciation=nek|Gos2.1_token_id=Gos125.tok1153
+16	vladajoči	vladajoč	ADJ	Appmsay	Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part	17	amod	_	pronunciation=vladajoči|Gos2.1_token_id=Gos125.tok1154
+17	razred	razred	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	pronunciation=razred|Gos2.1_token_id=Gos125.tok1155
+18	,	,	PUNCT	Z	_	19	punct	_	_
+19	ne	ne	PART	Q	Polarity=Neg	10	discourse	_	pronunciation=ne|Gos2.1_token_id=Gos125.tok1156
+20	,	,	PUNCT	Z	_	31	punct	_	_
+21	iz	iz	ADP	Sg	Case=Gen	22	case	_	pronunciation=iz|Gos2.1_token_id=Gos125.tok1157
+22	katerega	kateri	DET	Pq-msg	Case=Gen|Gender=Masc|Number=Sing|PronType=Int	31	obl	_	pronunciation=katerga|Gos2.1_token_id=Gos125.tok1158
+23	pravzaprav	pravzaprav	PART	Q	_	31	advmod	_	pronunciation=provzaprov|Gos2.1_token_id=Gos125.tok1159
+24	,	,	PUNCT	Z	_	27	punct	_	_
+25	ko	ko	SCONJ	Cs	_	27	mark	_	pronunciation=ko|Gos2.1_token_id=Gos125.tok1160
+26	enkrat	enkrat	ADV	Rgp	Degree=Pos	27	advmod	_	pronunciation=enkrat|Gos2.1_token_id=Gos125.tok1161
+27	prideš	priti	VERB	Vmer2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	31	advcl	_	pronunciation=prideš|Gos2.1_token_id=Gos125.tok1162
+28	vanj	vame	PRON	Pp3msa--b	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Bound	27	obl	_	pronunciation=vanj|Gos2.1_token_id=Gos125.tok1163
+29	,	,	PUNCT	Z	_	27	punct	_	_
+30	ne	ne	PART	Q	Polarity=Neg	31	advmod	_	pronunciation=ne|Gos2.1_token_id=Gos125.tok1164
+31	moreš	moči	VERB	Vmpr2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	17	acl	_	pronunciation=morš|Gos2.1_token_id=Gos125.tok1165
+32	več	več	PART	Q	_	31	advmod	_	pronunciation=več|Gos2.1_token_id=Gos125.tok1166
+33	izpasti	izpasti	VERB	Vmen	Aspect=Perf|VerbForm=Inf	31	xcomp	_	pronunciation=izpest|Gos2.1_token_id=Gos125.tok1167
+34	.	.	PUNCT	Z	_	10	punct	_	_
+
+

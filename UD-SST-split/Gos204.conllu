@@ -1,0 +1,137 @@
+# newdoc id = Gos204
+# sent_id = Gos204.s55
+# speaker_id = Af-stra-02233
+# sound_url = https://nl.ijs.si/project/gos20/Gos204/Gos204.s55.mp3
+# text = ha , ja , ja , ja , ja , ja , pekel in pripravljal tam sproti , mhm , ja .
+# split = test
+1	ha	ha	INTJ	I	_	0	root	_	pronunciation=ha|Gos2.1_token_id=Gos204.tok892
+2	,	,	PUNCT	Z	_	3	punct	_	_
+3	ja	ja	PART	Q	_	1	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos204.tok894
+4	,	,	PUNCT	Z	_	5	punct	_	_
+5	ja	ja	PART	Q	_	1	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos204.tok895
+6	,	,	PUNCT	Z	_	7	punct	_	_
+7	ja	ja	PART	Q	_	1	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos204.tok896
+8	,	,	PUNCT	Z	_	9	punct	_	_
+9	ja	ja	PART	Q	_	1	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos204.tok897
+10	,	,	PUNCT	Z	_	11	punct	_	_
+11	ja	ja	PART	Q	_	1	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos204.tok898
+12	,	,	PUNCT	Z	_	11	punct	_	_
+13	pekel	peči	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	1	parataxis	_	pronunciation=peku|Gos2.1_token_id=Gos204.tok900
+14	in	in	CCONJ	Cc	_	15	cc	_	pronunciation=in|Gos2.1_token_id=Gos204.tok901
+15	pripravljal	pripravljati	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	13	conj	_	pronunciation=prpravlu|Gos2.1_token_id=Gos204.tok902
+16	tam	tam	ADV	Rgp	Degree=Pos	13	advmod	_	pronunciation=tam|Gos2.1_token_id=Gos204.tok903
+17	sproti	sproti	ADV	Rgp	Degree=Pos	13	advmod	_	pronunciation=sprot|Gos2.1_token_id=Gos204.tok904
+18	,	,	PUNCT	Z	_	19	punct	_	_
+19	mhm	mhm	INTJ	I	_	13	discourse	_	pronunciation=mhm|Gos2.1_token_id=Gos204.tok905
+20	,	,	PUNCT	Z	_	21	punct	_	_
+21	ja	ja	PART	Q	_	13	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos204.tok906
+22	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos204.s56
+# speaker_id = Bf-info-02319
+# sound_url = https://nl.ijs.si/project/gos20/Gos204/Gos204.s56.mp3
+# text = eee , varianta je , da se usedete v čolne , ne vem , a la na Otočcu , pa pridete v dveh urah do Kostanjevice in pol je tam naprej p- , piknik .
+# split = test
+1	eee	eee	INTJ	I	_	3	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos204.tok907
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	varianta	varianta	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	pronunciation=varianta|Gos2.1_token_id=Gos204.tok908
+4	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	pronunciation=je|Gos2.1_token_id=Gos204.tok909
+5	,	,	PUNCT	Z	_	8	punct	_	_
+6	da	da	SCONJ	Cs	_	8	mark	_	pronunciation=da|Gos2.1_token_id=Gos204.tok910
+7	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	8	expl	_	pronunciation=se|Gos2.1_token_id=Gos204.tok911
+8	usedete	usesti	VERB	Vmer2p	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	csubj	_	pronunciation=usedete|Gos2.1_token_id=Gos204.tok912
+9	v	v	ADP	Sa	Case=Acc	10	case	_	pronunciation=v|Gos2.1_token_id=Gos204.tok913
+10	čolne	čoln	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	8	obl	_	pronunciation=čolne|Gos2.1_token_id=Gos204.tok914
+11	,	,	PUNCT	Z	_	10	punct	_	_
+12	ne	ne	PART	Q	Polarity=Neg	13	advmod	_	pronunciation=ne|Gos2.1_token_id=Gos204.tok915
+13	vem	vedeti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	parataxis:discourse	_	pronunciation=vem|Gos2.1_token_id=Gos204.tok916
+14	,	,	PUNCT	Z	_	18	punct	_	_
+15	a	a	ADV	Rgp	Degree=Pos	18	advmod	_	pronunciation=a|Gos2.1_token_id=Gos204.tok917
+16	la	la	ADV	Rgp	Degree=Pos	15	fixed	_	pronunciation=la|Gos2.1_token_id=Gos204.tok918
+17	na	na	ADP	Sl	Case=Loc	18	case	_	pronunciation=na|Gos2.1_token_id=Gos204.tok919
+18	Otočcu	Otočec	PROPN	Npmsl	Case=Loc|Gender=Masc|Number=Sing	8	obl	_	pronunciation=Otočcu|Gos2.1_token_id=Gos204.tok920
+19	,	,	PUNCT	Z	_	21	punct	_	_
+20	pa	pa	CCONJ	Cc	_	21	cc	_	pronunciation=pa|Gos2.1_token_id=Gos204.tok921
+21	pridete	priti	VERB	Vmer2p	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	8	conj	_	pronunciation=priete|Gos2.1_token_id=Gos204.tok922
+22	v	v	ADP	Sl	Case=Loc	24	case	_	pronunciation=v|Gos2.1_token_id=Gos204.tok923
+23	dveh	dva	NUM	Mlcfdl	Case=Loc|Gender=Fem|Number=Dual|NumForm=Word|NumType=Card	24	nummod	_	pronunciation=dveh|Gos2.1_token_id=Gos204.tok924
+24	urah	ura	NOUN	Ncfpl	Case=Loc|Gender=Fem|Number=Plur	21	obl	_	pronunciation=urah|Gos2.1_token_id=Gos204.tok925
+25	do	do	ADP	Sg	Case=Gen	26	case	_	pronunciation=do|Gos2.1_token_id=Gos204.tok926
+26	Kostanjevice	Kostanjevica	PROPN	Npfsg	Case=Gen|Gender=Fem|Number=Sing	21	obl	_	pronunciation=Kostanjevice|Gos2.1_token_id=Gos204.tok927
+27	in	in	CCONJ	Cc	_	29	cc	_	pronunciation=in|Gos2.1_token_id=Gos204.tok928
+28	pol	pol	DET	Rgp	Degree=Pos	29	advmod	_	pronunciation=pol|Gos2.1_token_id=Gos204.tok929
+29	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	conj	_	pronunciation=je|Gos2.1_token_id=Gos204.tok930
+30	tam	tam	ADV	Rgp	Degree=Pos	29	advmod	_	pronunciation=tam|Gos2.1_token_id=Gos204.tok931
+31	naprej	naprej	ADV	Rgp	Degree=Pos	29	advmod	_	pronunciation=naprej|Gos2.1_token_id=Gos204.tok932
+32	p-	p-	X	Xt	_	34	reparandum	_	pronunciation=p…|Gos2.1_token_id=Gos204.tok933
+33	,	,	PUNCT	Z	_	32	punct	_	_
+34	piknik	piknik	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	29	nsubj	_	pronunciation=piknik|Gos2.1_token_id=Gos204.tok934
+35	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos204.s57
+# speaker_id = Af-stra-02233
+# sound_url = https://nl.ijs.si/project/gos20/Gos204/Gos204.s57.mp3
+# text = aha .
+# split = test
+1	aha	aha	INTJ	I	_	0	root	_	pronunciation=aha|Gos2.1_token_id=Gos204.tok935
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos204.s58
+# speaker_id = Bf-info-02319
+# sound_url = https://nl.ijs.si/project/gos20/Gos204/Gos204.s58.mp3
+# text = druga varianta je , ne vem , da greste vi , kaj jaz rečem , v jamo ali v kako galerijo in pol pridete tam , se usedete v čolne in pol obkrožimo Kostanjevico , ker otok se da pač lepo krožno okoli in pol greste na piknik .
+# split = test
+1	druga	drug	ADJ	Mlpfsn	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	pronunciation=druga|Gos2.1_token_id=Gos204.tok936
+2	varianta	varianta	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	pronunciation=varianta|Gos2.1_token_id=Gos204.tok937
+3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	cop	_	pronunciation=je|Gos2.1_token_id=Gos204.tok938
+4	,	,	PUNCT	Z	_	6	punct	_	_
+5	ne	ne	PART	Q	Polarity=Neg	6	advmod	_	pronunciation=ne|Gos2.1_token_id=Gos204.tok939
+6	vem	vedeti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	parataxis:discourse	_	pronunciation=vem|Gos2.1_token_id=Gos204.tok940
+7	,	,	PUNCT	Z	_	9	punct	_	_
+8	da	da	SCONJ	Cs	_	9	mark	_	pronunciation=da|Gos2.1_token_id=Gos204.tok941
+9	greste	iti	VERB	Vmbr2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	csubj	_	pronunciation=greste|Gos2.1_token_id=Gos204.tok942
+10	vi	ti	PRON	Pp2mpn	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	9	nsubj	_	pronunciation=vi|Gos2.1_token_id=Gos204.tok943
+11	,	,	PUNCT	Z	_	14	punct	_	_
+12	kaj	kaj	PRON	Pq-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	14	obj	_	pronunciation=ka|Gos2.1_token_id=Gos204.tok944
+13	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	pronunciation=jz|Gos2.1_token_id=Gos204.tok945
+14	rečem	reči	VERB	Vmer1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	parataxis	_	pronunciation=rečem|Gos2.1_token_id=Gos204.tok946
+15	,	,	PUNCT	Z	_	14	punct	_	_
+16	v	v	ADP	Sa	Case=Acc	17	case	_	pronunciation=v|Gos2.1_token_id=Gos204.tok947
+17	jamo	jama	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	pronunciation=jamo|Gos2.1_token_id=Gos204.tok948
+18	ali	ali	CCONJ	Cc	_	21	cc	_	pronunciation=al|Gos2.1_token_id=Gos204.tok949
+19	v	v	ADP	Sa	Case=Acc	21	case	_	pronunciation=v|Gos2.1_token_id=Gos204.tok950
+20	kako	kak	DET	Pq-fsa	Case=Acc|Gender=Fem|Number=Sing|PronType=Int	21	det	_	pronunciation=kako|Gos2.1_token_id=Gos204.tok951
+21	galerijo	galerija	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	17	conj	_	pronunciation=galerijo|Gos2.1_token_id=Gos204.tok952
+22	in	in	CCONJ	Cc	_	24	cc	_	pronunciation=in|Gos2.1_token_id=Gos204.tok953
+23	pol	pol	DET	Rgp	Degree=Pos	24	advmod	_	pronunciation=pol|Gos2.1_token_id=Gos204.tok954
+24	pridete	priti	VERB	Vmer2p	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	conj	_	pronunciation=priete|Gos2.1_token_id=Gos204.tok955
+25	tam	tam	ADV	Rgp	Degree=Pos	24	advmod	_	pronunciation=tam|Gos2.1_token_id=Gos204.tok956
+26	,	,	PUNCT	Z	_	28	punct	_	_
+27	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	28	expl	_	pronunciation=se|Gos2.1_token_id=Gos204.tok957
+28	usedete	usesti	VERB	Vmer2p	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	conj	_	pronunciation=usedete|Gos2.1_token_id=Gos204.tok958
+29	v	v	ADP	Sa	Case=Acc	30	case	_	pronunciation=v|Gos2.1_token_id=Gos204.tok959
+30	čolne	čoln	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	28	obl	_	pronunciation=čolne|Gos2.1_token_id=Gos204.tok960
+31	in	in	CCONJ	Cc	_	33	cc	_	pronunciation=in|Gos2.1_token_id=Gos204.tok961
+32	pol	pol	DET	Rgp	Degree=Pos	33	advmod	_	pronunciation=pol|Gos2.1_token_id=Gos204.tok962
+33	obkrožimo	obkrožiti	VERB	Vmer1p	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	conj	_	pronunciation=obkrožmo|Gos2.1_token_id=Gos204.tok963
+34	Kostanjevico	Kostanjevica	PROPN	Npfsa	Case=Acc|Gender=Fem|Number=Sing	33	obj	_	pronunciation=Kostanjevico|Gos2.1_token_id=Gos204.tok964
+35	,	,	PUNCT	Z	_	39	punct	_	_
+36	ker	ker	SCONJ	Cs	_	39	mark	_	pronunciation=ker|Gos2.1_token_id=Gos204.tok965
+37	otok	otok	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	39	obj	_	pronunciation=otok|Gos2.1_token_id=Gos204.tok966
+38	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	39	expl	_	pronunciation=se|Gos2.1_token_id=Gos204.tok967
+39	da	dati	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	advcl	_	pronunciation=da|Gos2.1_token_id=Gos204.tok968
+40	pač	pač	PART	Q	_	39	advmod	_	pronunciation=pač|Gos2.1_token_id=Gos204.tok969
+41	lepo	lepo	ADV	Rgp	Degree=Pos	42	advmod	_	pronunciation=lepo|Gos2.1_token_id=Gos204.tok970
+42	krožno	krožno	ADV	Rgp	Degree=Pos	43	advmod	_	pronunciation=krožno|Gos2.1_token_id=Gos204.tok971
+43	okoli	okoli	ADV	Rgp	Degree=Pos	39	advmod	_	pronunciation=okol|Gos2.1_token_id=Gos204.tok972
+44	in	in	CCONJ	Cc	_	46	cc	_	pronunciation=in|Gos2.1_token_id=Gos204.tok973
+45	pol	pol	DET	Rgp	Degree=Pos	46	advmod	_	pronunciation=pol|Gos2.1_token_id=Gos204.tok974
+46	greste	iti	VERB	Vmbr2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	conj	_	pronunciation=greste|Gos2.1_token_id=Gos204.tok975
+47	na	na	ADP	Sa	Case=Acc	48	case	_	pronunciation=na|Gos2.1_token_id=Gos204.tok976
+48	piknik	piknik	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	46	obl	_	pronunciation=piknik|Gos2.1_token_id=Gos204.tok977
+49	.	.	PUNCT	Z	_	2	punct	_	_
+
+

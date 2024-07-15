@@ -1,0 +1,88 @@
+# newdoc id = Gos150
+# sent_id = Gos150.s118
+# speaker_id = Gm-novi-01008
+# sound_url = https://nl.ijs.si/project/gos20/Gos150/Gos150.s118.mp3
+# text = aha .
+# split = test
+1	aha	aha	INTJ	I	_	0	root	_	pronunciation=aha|Gos2.1_token_id=Gos150.tok837
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos150.s119
+# speaker_id = Gm-novi-01008
+# sound_url = https://nl.ijs.si/project/gos20/Gos150/Gos150.s119.mp3
+# text = kakor , ja , eee t- , tako veš , zjutraj ob štirih .
+# split = test
+1	kakor	kakor	SCONJ	Cs	_	0	root	_	pronunciation=kk|Gos2.1_token_id=Gos150.tok838
+2	,	,	PUNCT	Z	_	3	punct	_	_
+3	ja	ja	PART	Q	_	9	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos150.tok839
+4	,	,	PUNCT	Z	_	3	punct	_	_
+5	eee	eee	INTJ	I	_	9	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos150.tok840
+6	t-	t-	X	Xt	_	8	reparandum	_	pronunciation=t…|Gos2.1_token_id=Gos150.tok841
+7	,	,	PUNCT	Z	_	6	punct	_	_
+8	tako	tako	ADV	Rgp	Degree=Pos	9	advmod	_	pronunciation=tk|Gos2.1_token_id=Gos150.tok842
+9	veš	vedeti	VERB	Vmpr2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	parataxis	_	pronunciation=veš|Gos2.1_token_id=Gos150.tok843
+10	,	,	PUNCT	Z	_	11	punct	_	_
+11	zjutraj	zjutraj	ADV	Rgp	Degree=Pos	9	parataxis	_	pronunciation=zjutro|Gos2.1_token_id=Gos150.tok844
+12	ob	ob	ADP	Sl	Case=Loc	13	case	_	pronunciation=ob|Gos2.1_token_id=Gos150.tok845
+13	štirih	štirje	NUM	Mlcmpl	Case=Loc|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	11	nmod	_	pronunciation=štirih|Gos2.1_token_id=Gos150.tok846
+14	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos150.s120
+# speaker_id = Jm-inte-01009
+# sound_url = https://nl.ijs.si/project/gos20/Gos150/Gos150.s120.mp3
+# text = do petindvajsetega .
+# split = test
+1	do	do	ADP	Sg	Case=Gen	2	case	_	pronunciation=do|Gos2.1_token_id=Gos150.tok847
+2	petindvajsetega	petindvajseti	ADJ	Mlomsg	Case=Gen|Gender=Masc|Number=Sing|NumType=Ord	0	root	_	pronunciation=petndvajstega|Gos2.1_token_id=Gos150.tok848
+3	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos150.s121
+# speaker_id = Gm-novi-01008
+# sound_url = https://nl.ijs.si/project/gos20/Gos150/Gos150.s121.mp3
+# text = ko bo prišel domov , pa ti bo stopnice pokozlal .
+# split = test
+1	ko	ko	SCONJ	Cs	_	3	mark	_	pronunciation=ko|Gos2.1_token_id=Gos150.tok849
+2	bo	biti	AUX	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	3	aux	_	pronunciation=bo|Gos2.1_token_id=Gos150.tok850
+3	prišel	priti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=prešo|Gos2.1_token_id=Gos150.tok851
+4	domov	domov	ADV	Rgp	Degree=Pos	3	advmod	_	pronunciation=dumu|Gos2.1_token_id=Gos150.tok852
+5	,	,	PUNCT	Z	_	10	punct	_	_
+6	pa	pa	CCONJ	Cc	_	10	cc	_	pronunciation=pa|Gos2.1_token_id=Gos150.tok853
+7	ti	ti	PRON	Pp2-sd--y	Case=Dat|Number=Sing|Person=2|PronType=Prs|Variant=Short	10	iobj	_	pronunciation=ti|Gos2.1_token_id=Gos150.tok854
+8	bo	biti	AUX	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	10	aux	_	pronunciation=bo|Gos2.1_token_id=Gos150.tok855
+9	stopnice	stopnica	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	10	obj	_	pronunciation=stopnice|Gos2.1_token_id=Gos150.tok856
+10	pokozlal	pokozlati	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	3	conj	_	pronunciation=pokozlo|Gos2.1_token_id=Gos150.tok857
+11	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos150.s122
+# speaker_id = Jm-inte-01009
+# sound_url = https://nl.ijs.si/project/gos20/Gos150/Gos150.s122.mp3
+# text = a si nor ?
+# split = test
+1	a	a	ADV	Rgp	Degree=Pos	3	advmod	_	pronunciation=a|Gos2.1_token_id=Gos150.tok858
+2	si	biti	AUX	Va-r2s-n	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	pronunciation=si|Gos2.1_token_id=Gos150.tok859
+3	nor	nor	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	pronunciation=nor|Gos2.1_token_id=Gos150.tok860
+4	?	?	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos150.s123
+# speaker_id = Jm-inte-01009
+# sound_url = https://nl.ijs.si/project/gos20/Gos150/Gos150.s123.mp3
+# text = a ja , tako , samo za par ur naprej ?
+# split = test
+1	a	a	INTJ	I	_	9	discourse	_	pronunciation=a|Gos2.1_token_id=Gos150.tok862
+2	ja	ja	PART	Q	_	9	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos150.tok863
+3	,	,	PUNCT	Z	_	2	punct	_	_
+4	tako	tako	ADV	Rgp	Degree=Pos	9	discourse	_	pronunciation=tk|Gos2.1_token_id=Gos150.tok864
+5	,	,	PUNCT	Z	_	4	punct	_	_
+6	samo	samo	PART	Q	_	9	advmod	_	pronunciation=sam|Gos2.1_token_id=Gos150.tok865
+7	za	za	ADP	Sa	Case=Acc	9	case	_	pronunciation=za|Gos2.1_token_id=Gos150.tok866
+8	par	par	DET	Rgp	PronType=Ind	9	det	_	pronunciation=par|Gos2.1_token_id=Gos150.tok867
+9	ur	ura	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	0	root	_	pronunciation=ur|Gos2.1_token_id=Gos150.tok868
+10	naprej	naprej	ADV	Rgp	Degree=Pos	9	advmod	_	pronunciation=naprej|Gos2.1_token_id=Gos150.tok869
+11	?	?	PUNCT	Z	_	9	punct	_	_
+
+

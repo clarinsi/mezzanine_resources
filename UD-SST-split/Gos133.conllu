@@ -1,0 +1,107 @@
+# newdoc id = Gos133
+# sent_id = Gos133.s91
+# speaker_id = Bm-novi-06519
+# sound_url = https://nl.ijs.si/project/gos20/Gos133/Gos133.s91.mp3
+# text = gremo pokonci , danes je torek , enaindvajseti april , vremenski obeti so pa kar spodbudni , kajti popoldne se bo že delno zjasnilo , najvišje temperature pa danes do osemnajst , morda devetnajst stopinj .
+# split = train
+1	gremo	iti	VERB	Vmbr1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=gremo|Gos2.1_token_id=Gos133.tok893
+2	pokonci	pokonci	ADV	Rgp	Degree=Pos	1	advmod	_	pronunciation=pokonci|Gos2.1_token_id=Gos133.tok894
+3	,	,	PUNCT	Z	_	5	punct	_	_
+4	danes	danes	ADV	Rgp	Degree=Pos	5	advmod	_	pronunciation=danes|Gos2.1_token_id=Gos133.tok895
+5	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	parataxis	_	pronunciation=je|Gos2.1_token_id=Gos133.tok896
+6	torek	torek	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	pronunciation=torek|Gos2.1_token_id=Gos133.tok897
+7	,	,	PUNCT	Z	_	9	punct	_	_
+8	enaindvajseti	enaindvajseti	ADJ	Mlomsn	Case=Nom|Gender=Masc|Number=Sing|NumType=Ord	9	amod	_	pronunciation=enaindvejseti|Gos2.1_token_id=Gos133.tok898
+9	april	april	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	6	appos	_	pronunciation=april|Gos2.1_token_id=Gos133.tok899
+10	,	,	PUNCT	Z	_	9	punct	_	_
+11	vremenski	vremenski	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	12	amod	_	pronunciation=vremenski|Gos2.1_token_id=Gos133.tok900
+12	obeti	obet	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	pronunciation=obeti|Gos2.1_token_id=Gos133.tok901
+13	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	16	cop	_	pronunciation=so|Gos2.1_token_id=Gos133.tok902
+14	pa	pa	CCONJ	Cc	_	16	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos133.tok903
+15	kar	kar	ADV	Rgp	Degree=Pos	16	advmod	_	pronunciation=kr|Gos2.1_token_id=Gos133.tok904
+16	spodbudni	spodbuden	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	5	parataxis	_	pronunciation=spodbudni|Gos2.1_token_id=Gos133.tok905
+17	,	,	PUNCT	Z	_	24	punct	_	_
+18	kajti	kajti	CCONJ	Cc	_	24	cc	_	pronunciation=kajti|Gos2.1_token_id=Gos133.tok906
+19	popoldne	popoldne	ADV	Rgp	Degree=Pos	24	advmod	_	pronunciation=popoldne|Gos2.1_token_id=Gos133.tok907
+20	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	24	expl	_	pronunciation=se|Gos2.1_token_id=Gos133.tok908
+21	bo	biti	AUX	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	24	aux	_	pronunciation=bo|Gos2.1_token_id=Gos133.tok909
+22	že	že	PART	Q	_	24	advmod	_	pronunciation=že|Gos2.1_token_id=Gos133.tok910
+23	delno	delno	ADV	Rgp	Degree=Pos	24	advmod	_	pronunciation=delno|Gos2.1_token_id=Gos133.tok911
+24	zjasnilo	zjasniti	VERB	Vmep-sn	Aspect=Perf|Gender=Neut|Number=Sing|VerbForm=Part	16	conj	_	pronunciation=zjasnilo|Gos2.1_token_id=Gos133.tok912
+25	,	,	PUNCT	Z	_	35	punct	_	_
+26	najvišje	visok	ADJ	Agsfpn	Case=Nom|Degree=Sup|Gender=Fem|Number=Plur	27	amod	_	pronunciation=najvišje|Gos2.1_token_id=Gos133.tok913
+27	temperature	temperatura	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	35	nsubj	_	pronunciation=temperature|Gos2.1_token_id=Gos133.tok914
+28	pa	pa	CCONJ	Cc	_	35	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos133.tok915
+29	danes	danes	ADV	Rgp	Degree=Pos	35	advmod	_	pronunciation=danes|Gos2.1_token_id=Gos133.tok916
+30	do	do	ADP	Sg	Case=Gen	35	case	_	pronunciation=do|Gos2.1_token_id=Gos133.tok917
+31	osemnajst	osemnajst	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	35	nummod	_	pronunciation=osemnajst|Gos2.1_token_id=Gos133.tok918
+32	,	,	PUNCT	Z	_	34	punct	_	_
+33	morda	morda	PART	Q	_	34	advmod	_	pronunciation=morda|Gos2.1_token_id=Gos133.tok919
+34	devetnajst	devetnajst	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	31	conj	_	pronunciation=devetnajst|Gos2.1_token_id=Gos133.tok920
+35	stopinj	stopinja	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	24	parataxis	_	pronunciation=stopinj|Gos2.1_token_id=Gos133.tok921
+36	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos133.s92
+# speaker_id = Bm-novi-06519
+# sound_url = https://nl.ijs.si/project/gos20/Gos133/Gos133.s92.mp3
+# text = v nadaljevanju pesem iz osemdesetih , Belinda Karlyle , Heaven is a place on earth , pa Star čebelji pregovor tudi sledi .
+# split = train
+1	v	v	ADP	Sl	Case=Loc	2	case	_	pronunciation=v|Gos2.1_token_id=Gos133.tok922
+2	nadaljevanju	nadaljevanje	NOUN	Ncnsl	Case=Loc|Gender=Neut|Number=Sing	3	orphan	_	pronunciation=nadaljevanju|Gos2.1_token_id=Gos133.tok923
+3	pesem	pesem	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	pronunciation=pesem|Gos2.1_token_id=Gos133.tok924
+4	iz	iz	ADP	Sg	Case=Gen	5	case	_	pronunciation=iz|Gos2.1_token_id=Gos133.tok925
+5	osemdesetih	osemdeset	NUM	Mlc-pg	Case=Gen|Number=Plur|NumForm=Word|NumType=Card	3	nmod	_	pronunciation=osemdesetih|Gos2.1_token_id=Gos133.tok926
+6	,	,	PUNCT	Z	_	7	punct	_	_
+7	Belinda	Belinda	PROPN	Npfsn	Case=Nom|Gender=Fem|Number=Sing	3	appos	_	pronunciation=Belinda|Gos2.1_token_id=Gos133.tok927
+8	Karlyle	Karlyle	PROPN	Npfsn	Case=Nom|Gender=Fem|Number=Sing	7	flat:name	_	pronunciation=Karlajl|Gos2.1_token_id=Gos133.tok928
+9	,	,	PUNCT	Z	_	10	punct	_	_
+10	Heaven	heaven	X	Xf	Foreign=Yes	7	appos	_	pronunciation=Hevn|Gos2.1_token_id=Gos133.tok929
+11	is	is	X	Xf	Foreign=Yes	10	flat:foreign	_	pronunciation=iz|Gos2.1_token_id=Gos133.tok930
+12	a	a	X	Xf	Foreign=Yes	10	flat:foreign	_	pronunciation=e|Gos2.1_token_id=Gos133.tok931
+13	place	place	X	Xf	Foreign=Yes	10	flat:foreign	_	pronunciation=plejs|Gos2.1_token_id=Gos133.tok932
+14	on	on	X	Xf	Foreign=Yes	10	flat:foreign	_	pronunciation=on|Gos2.1_token_id=Gos133.tok933
+15	earth	earth	X	Xf	Foreign=Yes	10	flat:foreign	_	pronunciation=rf|Gos2.1_token_id=Gos133.tok934
+16	,	,	PUNCT	Z	_	3	punct	_	_
+17	pa	pa	CCONJ	Cc	_	22	cc	_	pronunciation=pa|Gos2.1_token_id=Gos133.tok935
+18	Star	star	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	pronunciation=Str|Gos2.1_token_id=Gos133.tok936
+19	čebelji	čebelji	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	pronunciation=čebelji|Gos2.1_token_id=Gos133.tok937
+20	pregovor	pregovor	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	pronunciation=pregovor|Gos2.1_token_id=Gos133.tok938
+21	tudi	tudi	PART	Q	_	22	advmod	_	pronunciation=tudi|Gos2.1_token_id=Gos133.tok939
+22	sledi	slediti	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	pronunciation=sledi|Gos2.1_token_id=Gos133.tok940
+23	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos133.s94
+# speaker_id = Af-novi-06518
+# sound_url = https://nl.ijs.si/project/gos20/Gos133/Gos133.s94.mp3
+# text = še dobrih pet minut do sedmih , do novic na Belviju , v katerih tudi o tem , da bo Ljubljana spet dobila Titovo cesto .
+# split = train
+1	še	še	PART	Q	_	4	advmod	_	pronunciation=še|Gos2.1_token_id=Gos133.tok941
+2	dobrih	dober	ADJ	Agpfpg	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	4	amod	_	pronunciation=dobrih|Gos2.1_token_id=Gos133.tok942
+3	pet	pet	NUM	Mlc-pn	Case=Nom|Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	pronunciation=pet|Gos2.1_token_id=Gos133.tok943
+4	minut	minuta	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	0	root	_	pronunciation=minut|Gos2.1_token_id=Gos133.tok944
+5	do	do	ADP	Sg	Case=Gen	6	case	_	pronunciation=do|Gos2.1_token_id=Gos133.tok945
+6	sedmih	sedem	NUM	Mlc-pg	Case=Gen|Number=Plur|NumForm=Word|NumType=Card	4	nmod	_	pronunciation=sedmih|Gos2.1_token_id=Gos133.tok946
+7	,	,	PUNCT	Z	_	9	punct	_	_
+8	do	do	ADP	Sg	Case=Gen	9	case	_	pronunciation=do|Gos2.1_token_id=Gos133.tok947
+9	novic	novica	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	4	obl	_	pronunciation=novic|Gos2.1_token_id=Gos133.tok948
+10	na	na	ADP	Sl	Case=Loc	11	case	_	pronunciation=na|Gos2.1_token_id=Gos133.tok949
+11	Belviju	Belvi	PROPN	Npmsl	Case=Loc|Gender=Masc|Number=Sing	9	nmod	_	pronunciation=Belviju|Gos2.1_token_id=Gos133.tok950
+12	,	,	PUNCT	Z	_	14	punct	_	_
+13	v	v	ADP	Sl	Case=Loc	14	case	_	pronunciation=v|Gos2.1_token_id=Gos133.tok951
+14	katerih	kateri	DET	Pq-fpg	Case=Gen|Gender=Fem|Number=Plur|PronType=Int	9	acl	_	pronunciation=katerih|Gos2.1_token_id=Gos133.tok952
+15	tudi	tudi	PART	Q	_	17	advmod	_	pronunciation=tudi|Gos2.1_token_id=Gos133.tok953
+16	o	o	ADP	Sl	Case=Loc	17	case	_	pronunciation=o|Gos2.1_token_id=Gos133.tok954
+17	tem	ta	DET	Pd-nsl	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	14	nmod	_	pronunciation=tem|Gos2.1_token_id=Gos133.tok955
+18	,	,	PUNCT	Z	_	23	punct	_	_
+19	da	da	SCONJ	Cs	_	23	mark	_	pronunciation=da|Gos2.1_token_id=Gos133.tok956
+20	bo	biti	AUX	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	23	aux	_	pronunciation=bo|Gos2.1_token_id=Gos133.tok957
+21	Ljubljana	Ljubljana	PROPN	Npfsn	Case=Nom|Gender=Fem|Number=Sing	23	nsubj	_	pronunciation=Ljubljana|Gos2.1_token_id=Gos133.tok958
+22	spet	spet	ADV	Rgp	Degree=Pos	23	advmod	_	pronunciation=spet|Gos2.1_token_id=Gos133.tok959
+23	dobila	dobiti	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	17	acl	_	pronunciation=dobila|Gos2.1_token_id=Gos133.tok960
+24	Titovo	Titov	ADJ	Aspfsa	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	25	amod	_	pronunciation=Titovo|Gos2.1_token_id=Gos133.tok961
+25	cesto	cesta	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	23	obj	_	pronunciation=cesto|Gos2.1_token_id=Gos133.tok962
+26	.	.	PUNCT	Z	_	4	punct	_	_
+
+

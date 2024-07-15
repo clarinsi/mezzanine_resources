@@ -1,0 +1,184 @@
+# newdoc id = Gos009
+# sent_id = Gos009.s221
+# speaker_id = Af-prof-06578
+# sound_url = https://nl.ijs.si/project/gos20/Gos009/Gos009.s221.mp3
+# text = ja .
+# split = test
+1	ja	ja	PART	Q	_	0	root	_	pronunciation=ja|Gos2.1_token_id=Gos009.tok1753
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos009.s222
+# speaker_id = Af-prof-06578
+# sound_url = https://nl.ijs.si/project/gos20/Gos009/Gos009.s222.mp3
+# text = eee , kako ste pa vi iskali svojega cimra , sostanovalca , cimra ?
+# split = test
+1	eee	eee	INTJ	I	_	7	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos009.tok1754
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	kako	kako	ADV	Rgp	Degree=Pos	7	advmod	_	pronunciation=kako|Gos2.1_token_id=Gos009.tok1755
+4	ste	biti	AUX	Va-r2p-n	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	pronunciation=ste|Gos2.1_token_id=Gos009.tok1756
+5	pa	pa	CCONJ	Cc	_	7	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos009.tok1757
+6	vi	ti	PRON	Pp2mpn	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	pronunciation=vi|Gos2.1_token_id=Gos009.tok1758
+7	iskali	iskati	VERB	Vmpp-pm	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	pronunciation=iskali|Gos2.1_token_id=Gos009.tok1759
+8	svojega	svoj	DET	Px-msa	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs|Reflex=Yes	13	det	_	pronunciation=svojega|Gos2.1_token_id=Gos009.tok1760
+9	cimra	cimer	NOUN	Ncmsay	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	13	reparandum	_	pronunciation=cimra|Gos2.1_token_id=Gos009.tok1761
+10	,	,	PUNCT	Z	_	9	punct	_	_
+11	sostanovalca	sostanovalec	NOUN	Ncmsay	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	13	reparandum	_	pronunciation=sostanovalca|Gos2.1_token_id=Gos009.tok1762
+12	,	,	PUNCT	Z	_	11	punct	_	_
+13	cimra	cimer	NOUN	Ncmsay	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	7	obj	_	pronunciation=cimra|Gos2.1_token_id=Gos009.tok1763
+14	?	?	PUNCT	Z	_	7	punct	_	_
+
+
+# sent_id = Gos009.s224
+# speaker_id = Tf-stud-06580
+# sound_url = https://nl.ijs.si/project/gos20/Gos009/Gos009.s224.mp3
+# text = dobro , jaz to nisem , eem .
+# split = test
+1	dobro	dobro	ADV	Rgp	Degree=Pos	5	discourse	_	pronunciation=dobro|Gos2.1_token_id=Gos009.tok1765
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	pronunciation=jaz|Gos2.1_token_id=Gos009.tok1766
+4	to	ta	DET	Pd-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	obj	_	pronunciation=se|Gos2.1_token_id=Gos009.tok1767
+5	nisem	biti	VERB	Va-r1s-y	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=nisem|Gos2.1_token_id=Gos009.tok1768
+6	,	,	PUNCT	Z	_	7	punct	_	_
+7	eem	eem	INTJ	I	_	5	discourse:filler	_	pronunciation=eem|Gos2.1_token_id=Gos009.tok1769
+8	.	.	PUNCT	Z	_	5	punct	_	_
+
+
+# sent_id = Gos009.s225
+# speaker_id = Tf-stud-06580
+# sound_url = https://nl.ijs.si/project/gos20/Gos009/Gos009.s225.mp3
+# text = nisem ga iskala , ampak sem srečala v tečaj slovenščine na začetku , eem , sem srečala moj z- zdaj- , eee , moj
+# split = test
+1	nisem	biti	AUX	Va-r1s-y	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	3	aux	_	pronunciation=nisem|Gos2.1_token_id=Gos009.tok1770
+2	ga	on	PRON	Pp3msa--y	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	3	obj	_	pronunciation=ga|Gos2.1_token_id=Gos009.tok1771
+3	iskala	iskati	VERB	Vmpp-sf	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=iskala|Gos2.1_token_id=Gos009.tok1772
+4	,	,	PUNCT	Z	_	7	punct	_	_
+5	ampak	ampak	CCONJ	Cc	_	7	cc	_	pronunciation=ampak|Gos2.1_token_id=Gos009.tok1773
+6	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	pronunciation=sem|Gos2.1_token_id=Gos009.tok1774
+7	srečala	srečati	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	3	conj	_	pronunciation=srečala|Gos2.1_token_id=Gos009.tok1775
+8	v	v	ADP	Sa	Case=Acc	9	case	_	pronunciation=v|Gos2.1_token_id=Gos009.tok1776
+9	tečaj	tečaj	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	pronunciation=tečaj|Gos2.1_token_id=Gos009.tok1777
+10	slovenščine	slovenščina	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	pronunciation=slovenščine|Gos2.1_token_id=Gos009.tok1778
+11	na	na	ADP	Sl	Case=Loc	12	case	_	pronunciation=na|Gos2.1_token_id=Gos009.tok1779
+12	začetku	začetek	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	17	obl	_	pronunciation=začetku|Gos2.1_token_id=Gos009.tok1780
+13	,	,	PUNCT	Z	_	14	punct	_	_
+14	eem	eem	INTJ	I	_	17	discourse:filler	_	pronunciation=eem|Gos2.1_token_id=Gos009.tok1781
+15	,	,	PUNCT	Z	_	14	punct	_	_
+16	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	17	aux	_	pronunciation=sem|Gos2.1_token_id=Gos009.tok1782
+17	srečala	srečati	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	3	parataxis	_	pronunciation=srečala|Gos2.1_token_id=Gos009.tok1783
+18	moj	moj	DET	Ps1msns	Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	24	reparandum	_	pronunciation=moj|Gos2.1_token_id=Gos009.tok1784
+19	z-	z-	X	Xt	_	24	reparandum	_	pronunciation=z…|Gos2.1_token_id=Gos009.tok1785
+20	zdaj-	zdaj-	X	Xt	_	24	reparandum	_	pronunciation=zdaj…|Gos2.1_token_id=Gos009.tok1786
+21	,	,	PUNCT	Z	_	22	punct	_	_
+22	eee	eee	INTJ	I	_	17	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos009.tok1787
+23	,	,	PUNCT	Z	_	22	punct	_	_
+24	moj	moj	DET	Ps1msns	Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	17	obj	_	pronunciation=moj|Gos2.1_token_id=Gos009.tok1788
+
+
+# sent_id = Gos009.s227
+# speaker_id = Af-prof-06578
+# sound_url = https://nl.ijs.si/project/gos20/Gos009/Gos009.s227.mp3
+# text = mojo cimro , mojega cimra .
+# split = test
+1	mojo	moj	DET	Ps1fsas	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	pronunciation=mojo|Gos2.1_token_id=Gos009.tok1789
+2	cimro	cimra	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	5	reparandum	_	pronunciation=cimro|Gos2.1_token_id=Gos009.tok1790
+3	,	,	PUNCT	Z	_	2	punct	_	_
+4	mojega	moj	DET	Ps1msas	Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	pronunciation=mojega|Gos2.1_token_id=Gos009.tok1791
+5	cimra	cimer	NOUN	Ncmsay	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	0	root	_	pronunciation=cimra|Gos2.1_token_id=Gos009.tok1792
+6	.	.	PUNCT	Z	_	5	punct	_	_
+
+
+# sent_id = Gos009.s228
+# speaker_id = Tf-stud-06580
+# sound_url = https://nl.ijs.si/project/gos20/Gos009/Gos009.s228.mp3
+# text = ja , mojo , mojo cimro .
+# split = test
+1	ja	ja	PART	Q	_	6	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos009.tok1793
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	mojo	moj	DET	Ps1fsas	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	reparandum	_	pronunciation=moj|Gos2.1_token_id=Gos009.tok1794
+4	,	,	PUNCT	Z	_	3	punct	_	_
+5	mojo	moj	DET	Ps1fsas	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	pronunciation=moj|Gos2.1_token_id=Gos009.tok1795
+6	cimro	cimra	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	0	root	_	pronunciation=cimro|Gos2.1_token_id=Gos009.tok1796
+7	.	.	PUNCT	Z	_	6	punct	_	_
+
+
+# sent_id = Gos009.s229
+# speaker_id = Af-prof-06578
+# sound_url = https://nl.ijs.si/project/gos20/Gos009/Gos009.s229.mp3
+# text = cimer , moški .
+# split = test
+1	cimer	cimer	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	pronunciation=cim|Gos2.1_token_id=Gos009.tok1797
+2	,	,	PUNCT	Z	_	3	punct	_	_
+3	moški	moški	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	pronunciation=moški|Gos2.1_token_id=Gos009.tok1798
+4	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos009.s230
+# speaker_id = Tf-stud-06580
+# sound_url = https://nl.ijs.si/project/gos20/Gos009/Gos009.s230.mp3
+# text = a .
+# split = test
+1	a	a	INTJ	I	_	0	root	_	pronunciation=a|Gos2.1_token_id=Gos009.tok1799
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos009.s231
+# speaker_id = Af-prof-06578
+# sound_url = https://nl.ijs.si/project/gos20/Gos009/Gos009.s231.mp3
+# text = mojega cimra .
+# split = test
+1	mojega	moj	DET	Ps1msas	Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	pronunciation=mojega|Gos2.1_token_id=Gos009.tok1800
+2	cimra	cimer	NOUN	Ncmsay	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	0	root	_	pronunciation=cimra|Gos2.1_token_id=Gos009.tok1801
+3	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos009.s232
+# speaker_id = Tf-stud-06580
+# sound_url = https://nl.ijs.si/project/gos20/Gos009/Gos009.s232.mp3
+# text = eee , mojega cimra .
+# split = test
+1	eee	eee	INTJ	I	_	4	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos009.tok1802
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	mojega	moj	DET	Ps1msas	Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	pronunciation=mojega|Gos2.1_token_id=Gos009.tok1803
+4	cimra	cimer	NOUN	Ncmsay	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	0	root	_	pronunciation=cimra|Gos2.1_token_id=Gos009.tok1804
+5	.	.	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos009.s233
+# speaker_id = Ef-stud-06579
+# sound_url = https://nl.ijs.si/project/gos20/Gos009/Gos009.s233.mp3
+# text = moški spol .
+# split = test
+1	moški	moški	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	pronunciation=moški|Gos2.1_token_id=Gos009.tok1805
+2	spol	spol	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	pronunciation=spol|Gos2.1_token_id=Gos009.tok1806
+3	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos009.s234
+# speaker_id = Tf-stud-06580
+# sound_url = https://nl.ijs.si/project/gos20/Gos009/Gos009.s234.mp3
+# text = in , eem , sem mislila , da imam dovolj prostorja , eem , prostora v stanovanju za še eno .
+# split = test
+1	in	in	CCONJ	Cc	_	6	cc	_	pronunciation=in|Gos2.1_token_id=Gos009.tok1807
+2	,	,	PUNCT	Z	_	3	punct	_	_
+3	eem	eem	INTJ	I	_	6	discourse:filler	_	pronunciation=eem|Gos2.1_token_id=Gos009.tok1808
+4	,	,	PUNCT	Z	_	3	punct	_	_
+5	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	pronunciation=sem|Gos2.1_token_id=Gos009.tok1809
+6	mislila	misliti	VERB	Vmpp-sf	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=mislila|Gos2.1_token_id=Gos009.tok1810
+7	,	,	PUNCT	Z	_	9	punct	_	_
+8	da	da	SCONJ	Cs	_	9	mark	_	pronunciation=da|Gos2.1_token_id=Gos009.tok1811
+9	imam	imeti	VERB	Vmpr1s-n	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	ccomp	_	pronunciation=imam|Gos2.1_token_id=Gos009.tok1812
+10	dovolj	dovolj	DET	Rgp	PronType=Ind	15	det	_	pronunciation=dovolj|Gos2.1_token_id=Gos009.tok1813
+11	prostorja	prostor	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	15	reparandum	_	pronunciation=prostorja|Gos2.1_token_id=Gos009.tok1814
+12	,	,	PUNCT	Z	_	13	punct	_	_
+13	eem	eem	INTJ	I	_	9	discourse:filler	_	pronunciation=eem|Gos2.1_token_id=Gos009.tok1815
+14	,	,	PUNCT	Z	_	13	punct	_	_
+15	prostora	prostor	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	9	obj	_	pronunciation=prostora|Gos2.1_token_id=Gos009.tok1816
+16	v	v	ADP	Sl	Case=Loc	17	case	_	pronunciation=v|Gos2.1_token_id=Gos009.tok1817
+17	stanovanju	stanovanje	NOUN	Ncnsl	Case=Loc|Gender=Neut|Number=Sing	9	obl	_	pronunciation=stanovanju|Gos2.1_token_id=Gos009.tok1818
+18	za	za	ADP	Sa	Case=Acc	20	case	_	pronunciation=za|Gos2.1_token_id=Gos009.tok1819
+19	še	še	PART	Q	_	20	advmod	_	pronunciation=še|Gos2.1_token_id=Gos009.tok1820
+20	eno	en	NUM	Mlpfsa	Case=Acc|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	9	obl	_	pronunciation=eno|Gos2.1_token_id=Gos009.tok1821
+21	.	.	PUNCT	Z	_	6	punct	_	_
+
+
