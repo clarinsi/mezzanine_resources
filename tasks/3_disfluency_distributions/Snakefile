@@ -1,0 +1,16 @@
+from pathlib import Path
+
+expected_files = [Path(".")/ i.with_suffix(".json").name for i in Path("/home/peter/mezzanine_resources/Iriss-disfl-anno-phase5-fin-corr").glob("*.xml")]
+rule GatherResults:
+    input: expected_files
+    output:
+        "stats.json"
+    script:
+        "gather.py"
+
+rule DoOne:
+    input: "../../Iriss-disfl-anno-phase5-fin-corr/{file}.xml"
+    output: "{file}.json"
+    conda: "mezzanine"
+    script:
+        "calculate_one.py"
