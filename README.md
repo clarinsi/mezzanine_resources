@@ -3,6 +3,13 @@ Repo for tracking resources for the Mezzanine project
 
 # Structure:
 
+## UD-SST-split
+|              |                                                 |
+| ------------ | ----------------------------------------------- |
+| Origin       | commit 23ac57 on dev branch of UD_Slovenian-SST |
+| Description: | SST conllu files, grouped on recording level.   |
+| Created:     | Peter                                           |
+| By:          | 2024-07-15T14:40:29                             |
 
 ## Iriss-disfl-anno-phase5-fin-corr
 |              |                                                                           |
