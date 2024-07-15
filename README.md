@@ -2,13 +2,7 @@
 Repo for tracking resources for the Mezzanine project
 
 # Structure:
-## Placeholder
-|              |     |
-| ------------ | --- |
-| Origin       |     |
-| Description: |     |
-| Created:     |     |
-| By:          |     |
+
 
 ## Iriss-disfl-anno-phase5-fin-corr
 |              |                                                                           |
@@ -25,6 +19,14 @@ Repo for tracking resources for the Mezzanine project
 | Description: | Annotated disfluencies in XML format.                                                      |
 | Created:     | 2024-04-11                                                                                 |
 | By:          | Darinka                                                                                    |
+
+## UD_Slovenian-SST
+|              |                                                               |
+| ------------ | ------------------------------------------------------------- |
+| Origin       | https://github.com/UniversalDependencies/UD_Slovenian-SST.git |
+| Description: | SST, as updated and extended by Kaja et al.                   |
+| Created:     | 2024-04-10                                                    |
+| By:          | Kaja et al.                                                   |
 
 ## iriss_with_w_and_pauses
 |              |                                                                                                                                |
@@ -66,3 +68,11 @@ Repo for tracking resources for the Mezzanine project
 | Description: | SST, as generated initially. TEI only. |
 | Created:     | 2023-09-06                             |
 | By:          | Peter                                  |
+
+## Placeholder
+|              |     |
+| ------------ | --- |
+| Origin       |     |
+| Description: |     |
+| Created:     |     |
+| By:          |     |
