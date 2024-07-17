@@ -1,34 +1,3 @@
-# sent_id = Gos036.s11
-# speaker_id = Bm-gost-00521
-# sound_url = https://nl.ijs.si/project/gos20/Gos036/Gos036.s11.mp3
-# text = [name:personal] [name:surname] je že starejša oseba , ki je že pred enim letom vstopila v tretjo fazo življenja , se pravi v penzion .
-# split = train
-1	[name:personal]	[name:personal]	PROPN	X	_	6	nsubj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos036.s11.element1
-2	[name:surname]	[name:surname]	PROPN	X	_	1	flat:name	_	pronunciation=[name:surname]|Gos2.1_token_id=Gos036.s11.element2
-3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	cop	_	pronunciation=je|Gos2.1_token_id=Gos036.tok74
-4	že	že	PART	Q	_	6	advmod	_	pronunciation=že|Gos2.1_token_id=Gos036.tok75
-5	starejša	star	ADJ	Agcfsn	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	6	amod	_	pronunciation=starejša|Gos2.1_token_id=Gos036.tok76
-6	oseba	oseba	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	pronunciation=oseba|Gos2.1_token_id=Gos036.tok77
-7	,	,	PUNCT	Z	_	14	punct	_	_
-8	ki	ki	SCONJ	Cs	_	14	mark	_	pronunciation=ki|Gos2.1_token_id=Gos036.tok78
-9	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	14	aux	_	pronunciation=je|Gos2.1_token_id=Gos036.tok79
-10	že	že	PART	Q	_	13	advmod	_	pronunciation=že|Gos2.1_token_id=Gos036.tok80
-11	pred	pred	ADP	Si	Case=Ins	13	case	_	pronunciation=pred|Gos2.1_token_id=Gos036.tok81
-12	enim	en	NUM	Mlpnsi	Case=Ins|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card	13	nummod	_	pronunciation=enim|Gos2.1_token_id=Gos036.tok82
-13	letom	leto	NOUN	Ncnsi	Case=Ins|Gender=Neut|Number=Sing	14	obl	_	pronunciation=letom|Gos2.1_token_id=Gos036.tok83
-14	vstopila	vstopiti	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	6	acl	_	pronunciation=vstopila|Gos2.1_token_id=Gos036.tok84
-15	v	v	ADP	Sa	Case=Acc	17	case	_	pronunciation=v|Gos2.1_token_id=Gos036.tok85
-16	tretjo	tretji	ADJ	Mlofsa	Case=Acc|Gender=Fem|Number=Sing|NumType=Ord	17	amod	_	pronunciation=tretjo|Gos2.1_token_id=Gos036.tok86
-17	fazo	faza	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	14	obl	_	pronunciation=fazo|Gos2.1_token_id=Gos036.tok87
-18	življenja	življenje	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	pronunciation=življenja|Gos2.1_token_id=Gos036.tok88
-19	,	,	PUNCT	Z	_	23	punct	_	_
-20	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	23	cc	_	pronunciation=se|Gos2.1_token_id=Gos036.tok89
-21	pravi	praviti	VERB	Vmbr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	fixed	_	pronunciation=pravi|Gos2.1_token_id=Gos036.tok90
-22	v	v	ADP	Sa	Case=Acc	23	case	_	pronunciation=v|Gos2.1_token_id=Gos036.tok91
-23	penzion	penzion	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	appos	_	pronunciation=penzion|Gos2.1_token_id=Gos036.tok92
-24	.	.	PUNCT	Z	_	6	punct	_	_
-
-
 # newdoc id = Gos036
 # sent_id = Gos036.s7
 # speaker_id = Bm-gost-00521
@@ -110,5 +79,36 @@
 4	sebe	se	PRON	Px---a	Case=Acc|PronType=Prs|Reflex=Yes	5	obj	_	pronunciation=sebe|Gos2.1_token_id=Gos036.tok71
 5	opisali	opisati	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	pronunciation=opisali|Gos2.1_token_id=Gos036.tok72
 6	?	?	PUNCT	Z	_	5	punct	_	_
+
+
+# sent_id = Gos036.s11
+# speaker_id = Bm-gost-00521
+# sound_url = https://nl.ijs.si/project/gos20/Gos036/Gos036.s11.mp3
+# text = [name:personal] [name:surname] je že starejša oseba , ki je že pred enim letom vstopila v tretjo fazo življenja , se pravi v penzion .
+# split = train
+1	[name:personal]	[name:personal]	PROPN	X	_	6	nsubj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos036.s11.element1
+2	[name:surname]	[name:surname]	PROPN	X	_	1	flat:name	_	pronunciation=[name:surname]|Gos2.1_token_id=Gos036.s11.element2
+3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	cop	_	pronunciation=je|Gos2.1_token_id=Gos036.tok74
+4	že	že	PART	Q	_	6	advmod	_	pronunciation=že|Gos2.1_token_id=Gos036.tok75
+5	starejša	star	ADJ	Agcfsn	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	6	amod	_	pronunciation=starejša|Gos2.1_token_id=Gos036.tok76
+6	oseba	oseba	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	pronunciation=oseba|Gos2.1_token_id=Gos036.tok77
+7	,	,	PUNCT	Z	_	14	punct	_	_
+8	ki	ki	SCONJ	Cs	_	14	mark	_	pronunciation=ki|Gos2.1_token_id=Gos036.tok78
+9	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	14	aux	_	pronunciation=je|Gos2.1_token_id=Gos036.tok79
+10	že	že	PART	Q	_	13	advmod	_	pronunciation=že|Gos2.1_token_id=Gos036.tok80
+11	pred	pred	ADP	Si	Case=Ins	13	case	_	pronunciation=pred|Gos2.1_token_id=Gos036.tok81
+12	enim	en	NUM	Mlpnsi	Case=Ins|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card	13	nummod	_	pronunciation=enim|Gos2.1_token_id=Gos036.tok82
+13	letom	leto	NOUN	Ncnsi	Case=Ins|Gender=Neut|Number=Sing	14	obl	_	pronunciation=letom|Gos2.1_token_id=Gos036.tok83
+14	vstopila	vstopiti	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	6	acl	_	pronunciation=vstopila|Gos2.1_token_id=Gos036.tok84
+15	v	v	ADP	Sa	Case=Acc	17	case	_	pronunciation=v|Gos2.1_token_id=Gos036.tok85
+16	tretjo	tretji	ADJ	Mlofsa	Case=Acc|Gender=Fem|Number=Sing|NumType=Ord	17	amod	_	pronunciation=tretjo|Gos2.1_token_id=Gos036.tok86
+17	fazo	faza	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	14	obl	_	pronunciation=fazo|Gos2.1_token_id=Gos036.tok87
+18	življenja	življenje	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	pronunciation=življenja|Gos2.1_token_id=Gos036.tok88
+19	,	,	PUNCT	Z	_	23	punct	_	_
+20	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	23	cc	_	pronunciation=se|Gos2.1_token_id=Gos036.tok89
+21	pravi	praviti	VERB	Vmbr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	fixed	_	pronunciation=pravi|Gos2.1_token_id=Gos036.tok90
+22	v	v	ADP	Sa	Case=Acc	23	case	_	pronunciation=v|Gos2.1_token_id=Gos036.tok91
+23	penzion	penzion	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	17	appos	_	pronunciation=penzion|Gos2.1_token_id=Gos036.tok92
+24	.	.	PUNCT	Z	_	6	punct	_	_
 
 

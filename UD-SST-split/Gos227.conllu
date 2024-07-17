@@ -1,29 +1,3 @@
-# sent_id = Gos227.s71
-# speaker_id = Ef-soro-05613
-# sound_url = https://nl.ijs.si/project/gos20/Gos227/Gos227.s71.mp3
-# text = [name:personal] .
-# split = test
-1	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos227.s71.element1
-2	.	.	PUNCT	Z	_	1	punct	_	_
-
-
-# sent_id = Gos227.s72
-# speaker_id = Bf-soro-05616
-# sound_url = https://nl.ijs.si/project/gos20/Gos227/Gos227.s72.mp3
-# text = [name:personal] je in [name:personal] , [name:personal] mi je prinesla .
-# split = test
-1	[name:personal]	[name:personal]	PROPN	X	_	2	nsubj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos227.s72.element1
-2	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=je|Gos2.1_token_id=Gos227.tok397
-3	in	in	CCONJ	Cc	_	4	cc	_	pronunciation=in|Gos2.1_token_id=Gos227.tok398
-4	[name:personal]	[name:personal]	PROPN	X	_	2	conj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos227.s72.element2
-5	,	,	PUNCT	Z	_	9	punct	_	_
-6	[name:personal]	[name:personal]	PROPN	X	_	9	nsubj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos227.s72.element3
-7	mi	jaz	PRON	Pp1-sd--y	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	9	iobj	_	pronunciation=mi|Gos2.1_token_id=Gos227.tok400
-8	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	aux	_	pronunciation=je|Gos2.1_token_id=Gos227.tok401
-9	prinesla	prinesti	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	2	parataxis	_	pronunciation=prnesla|Gos2.1_token_id=Gos227.tok402
-10	.	.	PUNCT	Z	_	2	punct	_	_
-
-
 # newdoc id = Gos227
 # sent_id = Gos227.s65
 # speaker_id = Af-soro-05615
@@ -98,6 +72,32 @@
 4	nimam	imeti	VERB	Vmpr1s-y	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	2	parataxis	_	pronunciation=nimam|Gos2.1_token_id=Gos227.tok395
 5	pojma	pojem	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	4	obj	_	pronunciation=pojma|Gos2.1_token_id=Gos227.tok396
 6	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos227.s71
+# speaker_id = Ef-soro-05613
+# sound_url = https://nl.ijs.si/project/gos20/Gos227/Gos227.s71.mp3
+# text = [name:personal] .
+# split = test
+1	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos227.s71.element1
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos227.s72
+# speaker_id = Bf-soro-05616
+# sound_url = https://nl.ijs.si/project/gos20/Gos227/Gos227.s72.mp3
+# text = [name:personal] je in [name:personal] , [name:personal] mi je prinesla .
+# split = test
+1	[name:personal]	[name:personal]	PROPN	X	_	2	nsubj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos227.s72.element1
+2	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=je|Gos2.1_token_id=Gos227.tok397
+3	in	in	CCONJ	Cc	_	4	cc	_	pronunciation=in|Gos2.1_token_id=Gos227.tok398
+4	[name:personal]	[name:personal]	PROPN	X	_	2	conj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos227.s72.element2
+5	,	,	PUNCT	Z	_	9	punct	_	_
+6	[name:personal]	[name:personal]	PROPN	X	_	9	nsubj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos227.s72.element3
+7	mi	jaz	PRON	Pp1-sd--y	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	9	iobj	_	pronunciation=mi|Gos2.1_token_id=Gos227.tok400
+8	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	aux	_	pronunciation=je|Gos2.1_token_id=Gos227.tok401
+9	prinesla	prinesti	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	2	parataxis	_	pronunciation=prnesla|Gos2.1_token_id=Gos227.tok402
+10	.	.	PUNCT	Z	_	2	punct	_	_
 
 
 # sent_id = Gos227.s73

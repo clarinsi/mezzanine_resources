@@ -1,14 +1,3 @@
-# sent_id = Gos057.s259
-# speaker_id = Am-prof-07143
-# sound_url = https://nl.ijs.si/project/gos20/Gos057/Gos057.s259.mp3
-# text = [name:personal] , prosim .
-# split = train
-1	[name:personal]	[name:personal]	PROPN	X	_	3	vocative	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos057.s259.element1
-2	,	,	PUNCT	Z	_	1	punct	_	_
-3	prosim	prositi	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=prosm|Gos2.1_token_id=Gos057.tok758
-4	.	.	PUNCT	Z	_	3	punct	_	_
-
-
 # newdoc id = Gos057
 # sent_id = Gos057.s246
 # speaker_id = Cm-ucen-07141
@@ -144,6 +133,17 @@
 8	pri	pri	ADP	Sl	Case=Loc	9	case	_	pronunciation=pri|Gos2.1_token_id=Gos057.tok755
 9	mimiki	mimika	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	7	obl	_	pronunciation=mimiki|Gos2.1_token_id=Gos057.tok756
 10	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos057.s259
+# speaker_id = Am-prof-07143
+# sound_url = https://nl.ijs.si/project/gos20/Gos057/Gos057.s259.mp3
+# text = [name:personal] , prosim .
+# split = train
+1	[name:personal]	[name:personal]	PROPN	X	_	3	vocative	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos057.s259.element1
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	prosim	prositi	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=prosm|Gos2.1_token_id=Gos057.tok758
+4	.	.	PUNCT	Z	_	3	punct	_	_
 
 
 # sent_id = Gos057.s261

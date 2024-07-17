@@ -1,15 +1,3 @@
-# sent_id = Gos226.s82
-# speaker_id = Am-star-02240
-# sound_url = https://nl.ijs.si/project/gos20/Gos226/Gos226.s82.mp3
-# text = [name:personal] so ga dali .
-# split = test
-1	[name:personal]	[name:personal]	PROPN	X	_	4	iobj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos226.s82.element1
-2	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	pronunciation=so|Gos2.1_token_id=Gos226.tok413
-3	ga	on	PRON	Pp3msa--y	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	4	obj	_	pronunciation=ga|Gos2.1_token_id=Gos226.tok414
-4	dali	dati	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	pronunciation=dal|Gos2.1_token_id=Gos226.tok415
-5	.	.	PUNCT	Z	_	4	punct	_	_
-
-
 # newdoc id = Gos226
 # sent_id = Gos226.s79
 # speaker_id = Bf-star-02241
@@ -46,6 +34,18 @@
 6	ta	ta	DET	Pd-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	pronunciation=ta|Gos2.1_token_id=Gos226.tok410
 7	avto	avto	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	pronunciation=avto|Gos2.1_token_id=Gos226.tok411
 8	?	?	PUNCT	Z	_	5	punct	_	_
+
+
+# sent_id = Gos226.s82
+# speaker_id = Am-star-02240
+# sound_url = https://nl.ijs.si/project/gos20/Gos226/Gos226.s82.mp3
+# text = [name:personal] so ga dali .
+# split = test
+1	[name:personal]	[name:personal]	PROPN	X	_	4	iobj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos226.s82.element1
+2	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	pronunciation=so|Gos2.1_token_id=Gos226.tok413
+3	ga	on	PRON	Pp3msa--y	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	4	obj	_	pronunciation=ga|Gos2.1_token_id=Gos226.tok414
+4	dali	dati	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	pronunciation=dal|Gos2.1_token_id=Gos226.tok415
+5	.	.	PUNCT	Z	_	4	punct	_	_
 
 
 # sent_id = Gos226.s83

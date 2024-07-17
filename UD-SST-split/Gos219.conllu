@@ -1,74 +1,3 @@
-# sent_id = Gos219.s87
-# speaker_id = Bm-otro-02105
-# sound_url = https://nl.ijs.si/project/gos20/Gos219/Gos219.s87.mp3
-# text = [name:surname] , [name:surname] , ja .
-# split = test
-1	[name:surname]	[name:surname]	PROPN	X	_	0	root	_	pronunciation=[name:surname]|Gos2.1_token_id=Gos219.s87.element1
-2	,	,	PUNCT	Z	_	3	punct	_	_
-3	[name:surname]	[name:surname]	PROPN	X	_	1	flat:name	_	pronunciation=[name:surname]|Gos2.1_token_id=Gos219.s87.element2
-4	,	,	PUNCT	Z	_	5	punct	_	_
-5	ja	ja	PART	Q	_	1	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos219.tok549
-6	.	.	PUNCT	Z	_	1	punct	_	_
-
-
-# sent_id = Gos219.s94
-# speaker_id = Bm-otro-02105
-# sound_url = https://nl.ijs.si/project/gos20/Gos219/Gos219.s94.mp3
-# text = [name:personal] je doma .
-# split = test
-1	[name:personal]	[name:personal]	PROPN	X	_	2	nsubj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos219.s94.element1
-2	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=je|Gos2.1_token_id=Gos219.tok604
-3	doma	doma	ADV	Rgp	Degree=Pos	2	advmod	_	pronunciation=duoma|Gos2.1_token_id=Gos219.tok605
-4	.	.	PUNCT	Z	_	2	punct	_	_
-
-
-# sent_id = Gos219.s97
-# speaker_id = Am-soro-02104
-# sound_url = https://nl.ijs.si/project/gos20/Gos219/Gos219.s97.mp3
-# text = [name:personal] , tisti , ki je malo bolj droben pa malo bolj velik je , čelavi .
-# split = test
-1	[name:personal]	[name:personal]	PROPN	X	_	3	dislocated	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos219.s97.element1
-2	,	,	PUNCT	Z	_	1	punct	_	_
-3	tisti	tisti	DET	Pd-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	0	root	_	pronunciation=tisti|Gos2.1_token_id=Gos219.tok608
-4	,	,	PUNCT	Z	_	9	punct	_	_
-5	ki	ki	SCONJ	Cs	_	9	mark	_	pronunciation=ku|Gos2.1_token_id=Gos219.tok609
-6	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	cop	_	pronunciation=je|Gos2.1_token_id=Gos219.tok610
-7	malo	malo	DET	Rgp	PronType=Ind	8	advmod	_	pronunciation=mol|Gos2.1_token_id=Gos219.tok611
-8	bolj	bolj	ADV	Rgc	Degree=Cmp	9	advmod	_	pronunciation=bulj|Gos2.1_token_id=Gos219.tok612
-9	droben	droben	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	acl	_	pronunciation=druobn|Gos2.1_token_id=Gos219.tok613
-10	pa	pa	CCONJ	Cc	_	13	cc	_	pronunciation=pa|Gos2.1_token_id=Gos219.tok614
-11	malo	malo	DET	Rgp	PronType=Ind	12	advmod	_	pronunciation=mol|Gos2.1_token_id=Gos219.tok615
-12	bolj	bolj	ADV	Rgc	Degree=Cmp	13	advmod	_	pronunciation=bulj|Gos2.1_token_id=Gos219.tok616
-13	velik	velik	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	9	conj	_	pronunciation=vilek|Gos2.1_token_id=Gos219.tok617
-14	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	13	cop	_	pronunciation=je|Gos2.1_token_id=Gos219.tok618
-15	,	,	PUNCT	Z	_	16	punct	_	_
-16	čelavi	čelav	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	9	conj	_	pronunciation=čjelavi|Gos2.1_token_id=Gos219.tok619
-17	.	.	PUNCT	Z	_	3	punct	_	_
-
-
-# sent_id = Gos219.s99
-# speaker_id = Bm-otro-02105
-# sound_url = https://nl.ijs.si/project/gos20/Gos219/Gos219.s99.mp3
-# text = [name:personal] , ja , tisti so t- , pa ti so tako vsi čisto isti .
-# split = test
-1	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos219.s99.element1
-2	,	,	PUNCT	Z	_	3	punct	_	_
-3	ja	ja	PART	Q	_	1	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos219.tok636
-4	,	,	PUNCT	Z	_	3	punct	_	_
-5	tisti	tisti	DET	Pd-mpn	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	6	nsubj	_	pronunciation=tisti|Gos2.1_token_id=Gos219.tok638
-6	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	15	reparandum	_	pronunciation=so|Gos2.1_token_id=Gos219.tok639
-7	t-	t-	X	Xt	_	6	orphan	_	pronunciation=t…|Gos2.1_token_id=Gos219.tok640
-8	,	,	PUNCT	Z	_	15	punct	_	_
-9	pa	pa	CCONJ	Cc	_	15	cc	_	pronunciation=pa|Gos2.1_token_id=Gos219.tok641
-10	ti	ta	DET	Pd-mpn	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	15	nsubj	_	pronunciation=tuti|Gos2.1_token_id=Gos219.tok642
-11	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	15	cop	_	pronunciation=so|Gos2.1_token_id=Gos219.tok643
-12	tako	tako	ADV	Rgp	Degree=Pos	15	advmod	_	pronunciation=tk|Gos2.1_token_id=Gos219.tok644
-13	vsi	ves	DET	Pg-mpn	Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	15	obl	_	pronunciation=vsi|Gos2.1_token_id=Gos219.tok645
-14	čisto	čisto	ADV	Rgp	Degree=Pos	15	advmod	_	pronunciation=čist|Gos2.1_token_id=Gos219.tok646
-15	isti	isti	DET	Pi-mpn	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	1	parataxis	_	pronunciation=isti|Gos2.1_token_id=Gos219.tok647
-16	.	.	PUNCT	Z	_	1	punct	_	_
-
-
 # newdoc id = Gos219
 # sent_id = Gos219.s75
 # speaker_id = Bm-otro-02105
@@ -265,6 +194,19 @@
 7	?	?	PUNCT	Z	_	4	punct	_	_
 
 
+# sent_id = Gos219.s87
+# speaker_id = Bm-otro-02105
+# sound_url = https://nl.ijs.si/project/gos20/Gos219/Gos219.s87.mp3
+# text = [name:surname] , [name:surname] , ja .
+# split = test
+1	[name:surname]	[name:surname]	PROPN	X	_	0	root	_	pronunciation=[name:surname]|Gos2.1_token_id=Gos219.s87.element1
+2	,	,	PUNCT	Z	_	3	punct	_	_
+3	[name:surname]	[name:surname]	PROPN	X	_	1	flat:name	_	pronunciation=[name:surname]|Gos2.1_token_id=Gos219.s87.element2
+4	,	,	PUNCT	Z	_	5	punct	_	_
+5	ja	ja	PART	Q	_	1	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos219.tok549
+6	.	.	PUNCT	Z	_	1	punct	_	_
+
+
 # sent_id = Gos219.s88
 # speaker_id = Cm-star-02106
 # sound_url = https://nl.ijs.si/project/gos20/Gos219/Gos219.s88.mp3
@@ -373,6 +315,17 @@
 10	.	.	PUNCT	Z	_	5	punct	_	_
 
 
+# sent_id = Gos219.s94
+# speaker_id = Bm-otro-02105
+# sound_url = https://nl.ijs.si/project/gos20/Gos219/Gos219.s94.mp3
+# text = [name:personal] je doma .
+# split = test
+1	[name:personal]	[name:personal]	PROPN	X	_	2	nsubj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos219.s94.element1
+2	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=je|Gos2.1_token_id=Gos219.tok604
+3	doma	doma	ADV	Rgp	Degree=Pos	2	advmod	_	pronunciation=duoma|Gos2.1_token_id=Gos219.tok605
+4	.	.	PUNCT	Z	_	2	punct	_	_
+
+
 # sent_id = Gos219.s95
 # speaker_id = Df-soro-02107
 # sound_url = https://nl.ijs.si/project/gos20/Gos219/Gos219.s95.mp3
@@ -389,6 +342,30 @@
 # split = test
 1	ja	ja	PART	Q	_	0	root	_	pronunciation=ja|Gos2.1_token_id=Gos219.tok607
 2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos219.s97
+# speaker_id = Am-soro-02104
+# sound_url = https://nl.ijs.si/project/gos20/Gos219/Gos219.s97.mp3
+# text = [name:personal] , tisti , ki je malo bolj droben pa malo bolj velik je , čelavi .
+# split = test
+1	[name:personal]	[name:personal]	PROPN	X	_	3	dislocated	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos219.s97.element1
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	tisti	tisti	DET	Pd-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	0	root	_	pronunciation=tisti|Gos2.1_token_id=Gos219.tok608
+4	,	,	PUNCT	Z	_	9	punct	_	_
+5	ki	ki	SCONJ	Cs	_	9	mark	_	pronunciation=ku|Gos2.1_token_id=Gos219.tok609
+6	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	cop	_	pronunciation=je|Gos2.1_token_id=Gos219.tok610
+7	malo	malo	DET	Rgp	PronType=Ind	8	advmod	_	pronunciation=mol|Gos2.1_token_id=Gos219.tok611
+8	bolj	bolj	ADV	Rgc	Degree=Cmp	9	advmod	_	pronunciation=bulj|Gos2.1_token_id=Gos219.tok612
+9	droben	droben	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	acl	_	pronunciation=druobn|Gos2.1_token_id=Gos219.tok613
+10	pa	pa	CCONJ	Cc	_	13	cc	_	pronunciation=pa|Gos2.1_token_id=Gos219.tok614
+11	malo	malo	DET	Rgp	PronType=Ind	12	advmod	_	pronunciation=mol|Gos2.1_token_id=Gos219.tok615
+12	bolj	bolj	ADV	Rgc	Degree=Cmp	13	advmod	_	pronunciation=bulj|Gos2.1_token_id=Gos219.tok616
+13	velik	velik	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	9	conj	_	pronunciation=vilek|Gos2.1_token_id=Gos219.tok617
+14	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	13	cop	_	pronunciation=je|Gos2.1_token_id=Gos219.tok618
+15	,	,	PUNCT	Z	_	16	punct	_	_
+16	čelavi	čelav	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	9	conj	_	pronunciation=čjelavi|Gos2.1_token_id=Gos219.tok619
+17	.	.	PUNCT	Z	_	3	punct	_	_
 
 
 # sent_id = Gos219.s98
@@ -417,5 +394,28 @@
 19	malo	malo	DET	Rgp	PronType=Ind	20	advmod	_	pronunciation=mol|Gos2.1_token_id=Gos219.tok634
 20	narobe	narobe	ADV	Rgp	Degree=Pos	18	orphan	_	pronunciation=narobe|Gos2.1_token_id=Gos219.tok635
 21	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos219.s99
+# speaker_id = Bm-otro-02105
+# sound_url = https://nl.ijs.si/project/gos20/Gos219/Gos219.s99.mp3
+# text = [name:personal] , ja , tisti so t- , pa ti so tako vsi čisto isti .
+# split = test
+1	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos219.s99.element1
+2	,	,	PUNCT	Z	_	3	punct	_	_
+3	ja	ja	PART	Q	_	1	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos219.tok636
+4	,	,	PUNCT	Z	_	3	punct	_	_
+5	tisti	tisti	DET	Pd-mpn	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	6	nsubj	_	pronunciation=tisti|Gos2.1_token_id=Gos219.tok638
+6	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	15	reparandum	_	pronunciation=so|Gos2.1_token_id=Gos219.tok639
+7	t-	t-	X	Xt	_	6	orphan	_	pronunciation=t…|Gos2.1_token_id=Gos219.tok640
+8	,	,	PUNCT	Z	_	15	punct	_	_
+9	pa	pa	CCONJ	Cc	_	15	cc	_	pronunciation=pa|Gos2.1_token_id=Gos219.tok641
+10	ti	ta	DET	Pd-mpn	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	15	nsubj	_	pronunciation=tuti|Gos2.1_token_id=Gos219.tok642
+11	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	15	cop	_	pronunciation=so|Gos2.1_token_id=Gos219.tok643
+12	tako	tako	ADV	Rgp	Degree=Pos	15	advmod	_	pronunciation=tk|Gos2.1_token_id=Gos219.tok644
+13	vsi	ves	DET	Pg-mpn	Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	15	obl	_	pronunciation=vsi|Gos2.1_token_id=Gos219.tok645
+14	čisto	čisto	ADV	Rgp	Degree=Pos	15	advmod	_	pronunciation=čist|Gos2.1_token_id=Gos219.tok646
+15	isti	isti	DET	Pi-mpn	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	1	parataxis	_	pronunciation=isti|Gos2.1_token_id=Gos219.tok647
+16	.	.	PUNCT	Z	_	1	punct	_	_
 
 

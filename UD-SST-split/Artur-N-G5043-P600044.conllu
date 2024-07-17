@@ -52,20 +52,6 @@
 28	.	.	PUNCT	Z	_	4	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G5043-P600044.s4|Gos2.1_token_id=Artur-N-G5043-P600044.tok39
 
 
-# sent_id = Artur-N-G5043-P600044.s13-s14_reseg.1166
-# speaker_id = Artur-N-G5043
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5043-P600044.s13-s14.mp3
-# text = [name:personal] [name:surname] pa tebe pa jaz .
-# split = dev
-1	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	Gos2.1_seg_id=Artur-N-G5043-P600044.s13|Gos2.1_token_id=Artur-N-G5043-P600044.s13.element1
-2	[name:surname]	[name:surname]	PROPN	X	_	1	flat:name	_	Gos2.1_seg_id=Artur-N-G5043-P600044.s13|Gos2.1_token_id=Artur-N-G5043-P600044.s13.element2
-3	pa	pa	CCONJ	Cc	_	4	cc	_	pronunciation=pa|Gos2.1_seg_id=Artur-N-G5043-P600044.s14|Gos2.1_token_id=Artur-N-G5043-P600044.tok85
-4	tebe	ti	PRON	Pp2-sa	Case=Acc|Number=Sing|Person=2|PronType=Prs	1	conj	_	pronunciation=tebe|Gos2.1_seg_id=Artur-N-G5043-P600044.s14|Gos2.1_token_id=Artur-N-G5043-P600044.tok86
-5	pa	pa	CCONJ	Cc	_	6	cc	_	pronunciation=pa|Gos2.1_seg_id=Artur-N-G5043-P600044.s14|Gos2.1_token_id=Artur-N-G5043-P600044.tok87
-6	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	conj	_	pronunciation=jəz|Gos2.1_seg_id=Artur-N-G5043-P600044.s14|Gos2.1_token_id=Artur-N-G5043-P600044.tok88
-7	.	.	PUNCT	Z	_	1	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G5043-P600044.s14|Gos2.1_token_id=Artur-N-G5043-P600044.tok89
-
-
 # sent_id = Artur-N-G5043-P600044.s5_reseg.1160
 # speaker_id = Artur-N-G5043
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5043-P600044.s5.mp3
@@ -151,6 +137,20 @@
 12	,	,	PUNCT	Z	_	13	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5043-P600044.s11|Gos2.1_token_id=Artur-N-G5043-P600044.tok82
 13	umetnika	umetnik	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	3	conj	_	pronunciation=umetnika|Gos2.1_seg_id=Artur-N-G5043-P600044.s12|Gos2.1_token_id=Artur-N-G5043-P600044.tok83
 14	.	.	PUNCT	Z	_	1	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G5043-P600044.s12|Gos2.1_token_id=Artur-N-G5043-P600044.tok84
+
+
+# sent_id = Artur-N-G5043-P600044.s13-s14_reseg.1166
+# speaker_id = Artur-N-G5043
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5043-P600044.s13-s14.mp3
+# text = [name:personal] [name:surname] pa tebe pa jaz .
+# split = dev
+1	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	Gos2.1_seg_id=Artur-N-G5043-P600044.s13|Gos2.1_token_id=Artur-N-G5043-P600044.s13.element1
+2	[name:surname]	[name:surname]	PROPN	X	_	1	flat:name	_	Gos2.1_seg_id=Artur-N-G5043-P600044.s13|Gos2.1_token_id=Artur-N-G5043-P600044.s13.element2
+3	pa	pa	CCONJ	Cc	_	4	cc	_	pronunciation=pa|Gos2.1_seg_id=Artur-N-G5043-P600044.s14|Gos2.1_token_id=Artur-N-G5043-P600044.tok85
+4	tebe	ti	PRON	Pp2-sa	Case=Acc|Number=Sing|Person=2|PronType=Prs	1	conj	_	pronunciation=tebe|Gos2.1_seg_id=Artur-N-G5043-P600044.s14|Gos2.1_token_id=Artur-N-G5043-P600044.tok86
+5	pa	pa	CCONJ	Cc	_	6	cc	_	pronunciation=pa|Gos2.1_seg_id=Artur-N-G5043-P600044.s14|Gos2.1_token_id=Artur-N-G5043-P600044.tok87
+6	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	conj	_	pronunciation=jəz|Gos2.1_seg_id=Artur-N-G5043-P600044.s14|Gos2.1_token_id=Artur-N-G5043-P600044.tok88
+7	.	.	PUNCT	Z	_	1	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G5043-P600044.s14|Gos2.1_token_id=Artur-N-G5043-P600044.tok89
 
 
 # sent_id = Artur-N-G5043-P600044.s15_reseg.1167

@@ -1,14 +1,3 @@
-# sent_id = Gos030.s27
-# speaker_id = Am-mode-05592
-# sound_url = https://nl.ijs.si/project/gos20/Gos030/Gos030.s27.mp3
-# text = [name:personal] , hvala .
-# split = train
-1	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos030.s27.element1
-2	,	,	PUNCT	Z	_	3	punct	_	_
-3	hvala	hvala	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	1	discourse	_	pronunciation=hvala|Gos2.1_token_id=Gos030.tok451
-4	.	.	PUNCT	Z	_	1	punct	_	_
-
-
 # newdoc id = Gos030
 # sent_id = Gos030.s23
 # speaker_id = Am-mode-05592
@@ -114,6 +103,17 @@
 6	Na	na	ADP	Sl	Case=Loc	7	case	_	pronunciation=Na|Gos2.1_token_id=Gos030.tok449
 7	sredi	sreda	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	4	obl	_	pronunciation=sredi|Gos2.1_token_id=Gos030.tok450
 8	.	.	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos030.s27
+# speaker_id = Am-mode-05592
+# sound_url = https://nl.ijs.si/project/gos20/Gos030/Gos030.s27.mp3
+# text = [name:personal] , hvala .
+# split = train
+1	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos030.s27.element1
+2	,	,	PUNCT	Z	_	3	punct	_	_
+3	hvala	hvala	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	1	discourse	_	pronunciation=hvala|Gos2.1_token_id=Gos030.tok451
+4	.	.	PUNCT	Z	_	1	punct	_	_
 
 
 # sent_id = Gos030.s28

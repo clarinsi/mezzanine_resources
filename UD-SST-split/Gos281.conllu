@@ -1,16 +1,3 @@
-# sent_id = Gos281.s279
-# speaker_id = Jm-soro-00810
-# sound_url = https://nl.ijs.si/project/gos20/Gos281/Gos281.s279.mp3
-# text = [name:personal] itak ne , a .
-# split = test
-1	[name:personal]	[name:personal]	PROPN	X	_	3	orphan	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos281.s279.element1
-2	itak	itak	PART	Q	_	3	orphan	_	pronunciation=itak|Gos2.1_token_id=Gos281.tok2837
-3	ne	ne	PART	Q	Polarity=Neg	0	root	_	pronunciation=ne|Gos2.1_token_id=Gos281.tok2838
-4	,	,	PUNCT	Z	_	5	punct	_	_
-5	a	a	INTJ	I	_	3	discourse	_	pronunciation=a|Gos2.1_token_id=Gos281.tok2840
-6	.	.	PUNCT	Z	_	3	punct	_	_
-
-
 # newdoc id = Gos281
 # sent_id = Gos281.s263
 # speaker_id = Jm-soro-00810
@@ -298,6 +285,19 @@
 3	zakaj	zakaj	ADV	Rgp	Degree=Pos	4	orphan	_	pronunciation=zakva|Gos2.1_token_id=Gos281.tok2834
 4	ne	ne	PART	Q	Polarity=Neg	1	parataxis	_	pronunciation=ne|Gos2.1_token_id=Gos281.tok2835
 5	?	?	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos281.s279
+# speaker_id = Jm-soro-00810
+# sound_url = https://nl.ijs.si/project/gos20/Gos281/Gos281.s279.mp3
+# text = [name:personal] itak ne , a .
+# split = test
+1	[name:personal]	[name:personal]	PROPN	X	_	3	orphan	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos281.s279.element1
+2	itak	itak	PART	Q	_	3	orphan	_	pronunciation=itak|Gos2.1_token_id=Gos281.tok2837
+3	ne	ne	PART	Q	Polarity=Neg	0	root	_	pronunciation=ne|Gos2.1_token_id=Gos281.tok2838
+4	,	,	PUNCT	Z	_	5	punct	_	_
+5	a	a	INTJ	I	_	3	discourse	_	pronunciation=a|Gos2.1_token_id=Gos281.tok2840
+6	.	.	PUNCT	Z	_	3	punct	_	_
 
 
 # sent_id = Gos281.s280

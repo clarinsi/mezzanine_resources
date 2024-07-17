@@ -1,33 +1,3 @@
-# sent_id = Gos162.s499
-# speaker_id = Em-nast-00513
-# sound_url = https://nl.ijs.si/project/gos20/Gos162/Gos162.s499.mp3
-# text = [name:personal] je pač mogoče ta teden izrazil željo , da bi pač rad bolj pomagal pri živalih , njega izbral , no .
-# split = train
-1	[name:personal]	[name:personal]	PROPN	X	_	7	nsubj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos162.s499.element1
-2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	pronunciation=je|Gos2.1_token_id=Gos162.tok4005
-3	pač	pač	PART	Q	_	7	advmod	_	pronunciation=pač|Gos2.1_token_id=Gos162.tok4006
-4	mogoče	mogoče	ADV	Rgp	Degree=Pos	7	advmod	_	pronunciation=mogoč|Gos2.1_token_id=Gos162.tok4007
-5	ta	ta	DET	Pd-msa	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	pronunciation=teti|Gos2.1_token_id=Gos162.tok4008
-6	teden	teden	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	pronunciation=tedn|Gos2.1_token_id=Gos162.tok4009
-7	izrazil	izraziti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=izrazu|Gos2.1_token_id=Gos162.tok4010
-8	željo	želja	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	pronunciation=željo|Gos2.1_token_id=Gos162.tok4011
-9	,	,	PUNCT	Z	_	15	punct	_	_
-10	da	da	SCONJ	Cs	_	15	mark	_	pronunciation=da|Gos2.1_token_id=Gos162.tok4012
-11	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	15	aux	_	pronunciation=bi|Gos2.1_token_id=Gos162.tok4013
-12	pač	pač	PART	Q	_	15	advmod	_	pronunciation=pač|Gos2.1_token_id=Gos162.tok4014
-13	rad	rad	ADV	Rgp	Degree=Pos	15	advmod	_	pronunciation=rad|Gos2.1_token_id=Gos162.tok4015
-14	bolj	bolj	ADV	Rgc	Degree=Cmp	15	advmod	_	pronunciation=bolj|Gos2.1_token_id=Gos162.tok4016
-15	pomagal	pomagati	VERB	Vmbp-sm	Gender=Masc|Number=Sing|VerbForm=Part	8	acl	_	pronunciation=pomagal|Gos2.1_token_id=Gos162.tok4017
-16	pri	pri	ADP	Sl	Case=Loc	17	case	_	pronunciation=pr|Gos2.1_token_id=Gos162.tok4018
-17	živalih	žival	NOUN	Ncfpl	Case=Loc|Gender=Fem|Number=Plur	15	obl	_	pronunciation=žvalih|Gos2.1_token_id=Gos162.tok4019
-18	,	,	PUNCT	Z	_	15	punct	_	_
-19	njega	on	PRON	Pp3msa	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	obj	_	pronunciation=njega|Gos2.1_token_id=Gos162.tok4020
-20	izbral	izbrati	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	7	parataxis	_	pronunciation=zbral|Gos2.1_token_id=Gos162.tok4021
-21	,	,	PUNCT	Z	_	22	punct	_	_
-22	no	no	PART	Q	_	20	discourse	_	pronunciation=no|Gos2.1_token_id=Gos162.tok4022
-23	.	.	PUNCT	Z	_	7	punct	_	_
-
-
 # newdoc id = Gos162
 # sent_id = Gos162.s489
 # speaker_id = Dm-nast-00512
@@ -173,6 +143,36 @@
 6	ti	ti	PRON	Pp2-sn	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	pronunciation=ti|Gos2.1_token_id=Gos162.tok4003
 7	izbral	izbrati	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	3	ccomp	_	pronunciation=izbral|Gos2.1_token_id=Gos162.tok4004
 8	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos162.s499
+# speaker_id = Em-nast-00513
+# sound_url = https://nl.ijs.si/project/gos20/Gos162/Gos162.s499.mp3
+# text = [name:personal] je pač mogoče ta teden izrazil željo , da bi pač rad bolj pomagal pri živalih , njega izbral , no .
+# split = train
+1	[name:personal]	[name:personal]	PROPN	X	_	7	nsubj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos162.s499.element1
+2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	pronunciation=je|Gos2.1_token_id=Gos162.tok4005
+3	pač	pač	PART	Q	_	7	advmod	_	pronunciation=pač|Gos2.1_token_id=Gos162.tok4006
+4	mogoče	mogoče	ADV	Rgp	Degree=Pos	7	advmod	_	pronunciation=mogoč|Gos2.1_token_id=Gos162.tok4007
+5	ta	ta	DET	Pd-msa	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	pronunciation=teti|Gos2.1_token_id=Gos162.tok4008
+6	teden	teden	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	pronunciation=tedn|Gos2.1_token_id=Gos162.tok4009
+7	izrazil	izraziti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=izrazu|Gos2.1_token_id=Gos162.tok4010
+8	željo	želja	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	pronunciation=željo|Gos2.1_token_id=Gos162.tok4011
+9	,	,	PUNCT	Z	_	15	punct	_	_
+10	da	da	SCONJ	Cs	_	15	mark	_	pronunciation=da|Gos2.1_token_id=Gos162.tok4012
+11	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	15	aux	_	pronunciation=bi|Gos2.1_token_id=Gos162.tok4013
+12	pač	pač	PART	Q	_	15	advmod	_	pronunciation=pač|Gos2.1_token_id=Gos162.tok4014
+13	rad	rad	ADV	Rgp	Degree=Pos	15	advmod	_	pronunciation=rad|Gos2.1_token_id=Gos162.tok4015
+14	bolj	bolj	ADV	Rgc	Degree=Cmp	15	advmod	_	pronunciation=bolj|Gos2.1_token_id=Gos162.tok4016
+15	pomagal	pomagati	VERB	Vmbp-sm	Gender=Masc|Number=Sing|VerbForm=Part	8	acl	_	pronunciation=pomagal|Gos2.1_token_id=Gos162.tok4017
+16	pri	pri	ADP	Sl	Case=Loc	17	case	_	pronunciation=pr|Gos2.1_token_id=Gos162.tok4018
+17	živalih	žival	NOUN	Ncfpl	Case=Loc|Gender=Fem|Number=Plur	15	obl	_	pronunciation=žvalih|Gos2.1_token_id=Gos162.tok4019
+18	,	,	PUNCT	Z	_	15	punct	_	_
+19	njega	on	PRON	Pp3msa	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	obj	_	pronunciation=njega|Gos2.1_token_id=Gos162.tok4020
+20	izbral	izbrati	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	7	parataxis	_	pronunciation=zbral|Gos2.1_token_id=Gos162.tok4021
+21	,	,	PUNCT	Z	_	22	punct	_	_
+22	no	no	PART	Q	_	20	discourse	_	pronunciation=no|Gos2.1_token_id=Gos162.tok4022
+23	.	.	PUNCT	Z	_	7	punct	_	_
 
 
 # sent_id = Gos162.s500

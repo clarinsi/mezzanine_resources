@@ -6,7 +6,7 @@ dev = list(Path("../../UD_Slovenian-SST").glob("*dev*.conllu"))[0]
 train = list(Path("../../UD_Slovenian-SST").glob("*train*.conllu"))[0]
 test = list(Path("../../UD_Slovenian-SST").glob("*test*.conllu"))[0]
 
-outdir = "../../SST-split"
+outdir = "../../UD-SST-split"
 Path(outdir).mkdir(exist_ok=True, parents=True)
 for file in Path(outdir).glob("*conllu"):
     file.unlink()

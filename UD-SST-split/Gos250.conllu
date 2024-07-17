@@ -1,15 +1,3 @@
-# sent_id = Gos250.s467
-# speaker_id = Bf-ssta-07520
-# sound_url = https://nl.ijs.si/project/gos20/Gos250/Gos250.s467.mp3
-# text = [name:surname] je zdaj doma .
-# split = test
-1	[name:surname]	[name:surname]	PROPN	X	_	2	nsubj	_	pronunciation=[name:surname]|Gos2.1_token_id=Gos250.s467.element1
-2	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=je|Gos2.1_token_id=Gos250.tok2803
-3	zdaj	zdaj	ADV	Rgp	Degree=Pos	2	advmod	_	pronunciation=zdaj|Gos2.1_token_id=Gos250.tok2804
-4	doma	doma	ADV	Rgp	Degree=Pos	2	advmod	_	pronunciation=doma|Gos2.1_token_id=Gos250.tok2805
-5	.	.	PUNCT	Z	_	2	punct	_	_
-
-
 # newdoc id = Gos250
 # sent_id = Gos250.s462
 # speaker_id = Bf-ssta-07520
@@ -58,6 +46,18 @@
 # split = test
 1	zakaj	zakaj	ADV	Rgp	Degree=Pos	0	root	_	pronunciation=zakaj|Gos2.1_token_id=Gos250.tok2801
 2	?	?	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos250.s467
+# speaker_id = Bf-ssta-07520
+# sound_url = https://nl.ijs.si/project/gos20/Gos250/Gos250.s467.mp3
+# text = [name:surname] je zdaj doma .
+# split = test
+1	[name:surname]	[name:surname]	PROPN	X	_	2	nsubj	_	pronunciation=[name:surname]|Gos2.1_token_id=Gos250.s467.element1
+2	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=je|Gos2.1_token_id=Gos250.tok2803
+3	zdaj	zdaj	ADV	Rgp	Degree=Pos	2	advmod	_	pronunciation=zdaj|Gos2.1_token_id=Gos250.tok2804
+4	doma	doma	ADV	Rgp	Degree=Pos	2	advmod	_	pronunciation=doma|Gos2.1_token_id=Gos250.tok2805
+5	.	.	PUNCT	Z	_	2	punct	_	_
 
 
 # sent_id = Gos250.s469

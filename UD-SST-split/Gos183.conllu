@@ -1,16 +1,3 @@
-# sent_id = Gos183.s399
-# speaker_id = Pf-prod-00804
-# sound_url = https://nl.ijs.si/project/gos20/Gos183/Gos183.s399.mp3
-# text = [name:personal] , tam si že ?
-# split = train
-1	[name:personal]	[name:personal]	PROPN	X	_	4	vocative	_	Gos2.1_token_id=Gos183.s399.element1
-2	,	,	PUNCT	Z	_	1	punct	_	_
-3	tam	tam	ADV	Rgp	Degree=Pos	4	advmod	_	pronunciation=tam|Gos2.1_token_id=Gos183.tok2231
-4	si	biti	VERB	Va-r2s-n	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=si|Gos2.1_token_id=Gos183.tok2232
-5	že	že	PART	Q	_	4	advmod	_	pronunciation=že|Gos2.1_token_id=Gos183.tok2233
-6	?	?	PUNCT	Z	_	4	punct	_	_
-
-
 # newdoc id = Gos183
 # sent_id = Gos183.s373
 # speaker_id = Sm-prod-00803
@@ -302,6 +289,19 @@
 # split = train
 1	mmm	mmm	INTJ	I	_	0	root	_	pronunciation=mmm|Gos2.1_token_id=Gos183.tok2229
 2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos183.s399
+# speaker_id = Pf-prod-00804
+# sound_url = https://nl.ijs.si/project/gos20/Gos183/Gos183.s399.mp3
+# text = [name:personal] , tam si že ?
+# split = train
+1	[name:personal]	[name:personal]	PROPN	X	_	4	vocative	_	Gos2.1_token_id=Gos183.s399.element1
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	tam	tam	ADV	Rgp	Degree=Pos	4	advmod	_	pronunciation=tam|Gos2.1_token_id=Gos183.tok2231
+4	si	biti	VERB	Va-r2s-n	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=si|Gos2.1_token_id=Gos183.tok2232
+5	že	že	PART	Q	_	4	advmod	_	pronunciation=že|Gos2.1_token_id=Gos183.tok2233
+6	?	?	PUNCT	Z	_	4	punct	_	_
 
 
 # sent_id = Gos183.s400

@@ -1,14 +1,3 @@
-# sent_id = Gos210.s16
-# speaker_id = Bf-stra-02265
-# sound_url = https://nl.ijs.si/project/gos20/Gos210/Gos210.s16.mp3
-# text = [name:address] , [name:place] .
-# split = train
-1	[name:address]	[name:address]	PROPN	X	_	0	root	_	pronunciation=[name:address]|Gos2.1_token_id=Gos210.s16.element1
-2	,	,	PUNCT	Z	_	3	punct	_	_
-3	[name:place]	[name:place]	PROPN	X	_	1	appos	_	pronunciation=[name:place]|Gos2.1_token_id=Gos210.s16.element2
-4	.	.	PUNCT	Z	_	1	punct	_	_
-
-
 # newdoc id = Gos210
 # sent_id = Gos210.s13
 # speaker_id = Af-prod-02278
@@ -49,5 +38,16 @@
 4	,	,	PUNCT	Z	_	5	punct	_	_
 5	okej	okej	ADV	Rgp	Degree=Pos	3	discourse	_	pronunciation=okej|Gos2.1_token_id=Gos210.tok79
 6	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos210.s16
+# speaker_id = Bf-stra-02265
+# sound_url = https://nl.ijs.si/project/gos20/Gos210/Gos210.s16.mp3
+# text = [name:address] , [name:place] .
+# split = train
+1	[name:address]	[name:address]	PROPN	X	_	0	root	_	pronunciation=[name:address]|Gos2.1_token_id=Gos210.s16.element1
+2	,	,	PUNCT	Z	_	3	punct	_	_
+3	[name:place]	[name:place]	PROPN	X	_	1	appos	_	pronunciation=[name:place]|Gos2.1_token_id=Gos210.s16.element2
+4	.	.	PUNCT	Z	_	1	punct	_	_
 
 

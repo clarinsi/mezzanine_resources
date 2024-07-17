@@ -1,12 +1,3 @@
-# sent_id = Gos020.s395
-# speaker_id = Mf-prof-01061
-# sound_url = https://nl.ijs.si/project/gos20/Gos020/Gos020.s395.mp3
-# text = [name:personal] .
-# split = train
-1	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos020.s395.element1
-2	.	.	PUNCT	Z	_	1	punct	_	_
-
-
 # newdoc id = Gos020
 # sent_id = Gos020.s392
 # speaker_id = Mf-prof-01061
@@ -52,6 +43,15 @@
 4	med	med	ADP	Si	Case=Ins	5	case	_	pronunciation=med|Gos2.1_token_id=Gos020.tok3032
 5	njima	on	PRON	Pp3mdi	Case=Ins|Gender=Masc|Number=Dual|Person=3|PronType=Prs	3	nmod	_	pronunciation=njima|Gos2.1_token_id=Gos020.tok3033
 6	?	?	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos020.s395
+# speaker_id = Mf-prof-01061
+# sound_url = https://nl.ijs.si/project/gos20/Gos020/Gos020.s395.mp3
+# text = [name:personal] .
+# split = train
+1	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos020.s395.element1
+2	.	.	PUNCT	Z	_	1	punct	_	_
 
 
 # sent_id = Gos020.s396

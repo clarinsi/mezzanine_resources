@@ -8,15 +8,6 @@
 2	.	.	PUNCT	Z	_	1	punct	_	_
 
 
-# sent_id = Gos053.s468
-# speaker_id = Af-prof-07037
-# sound_url = https://nl.ijs.si/project/gos20/Gos053/Gos053.s468.mp3
-# text = [name:personal] ?
-# split = test
-1	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos053.s468.element1
-2	?	?	PUNCT	Z	_	1	punct	_	_
-
-
 # sent_id = Gos053.s451
 # speaker_id = Af-prof-07037
 # sound_url = https://nl.ijs.si/project/gos20/Gos053/Gos053.s451.mp3
@@ -162,6 +153,15 @@
 4	zbudila	zbuditi	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=zbudila|Gos2.1_token_id=Gos053.tok2994
 5	danes	danes	ADV	Rgp	Degree=Pos	4	advmod	_	pronunciation=danes|Gos2.1_token_id=Gos053.tok2995
 6	?	?	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos053.s468
+# speaker_id = Af-prof-07037
+# sound_url = https://nl.ijs.si/project/gos20/Gos053/Gos053.s468.mp3
+# text = [name:personal] ?
+# split = test
+1	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos053.s468.element1
+2	?	?	PUNCT	Z	_	1	punct	_	_
 
 
 # sent_id = Gos053.s469

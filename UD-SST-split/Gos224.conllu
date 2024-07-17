@@ -1,80 +1,3 @@
-# sent_id = Gos224.s89
-# speaker_id = Bf-prij-07191
-# sound_url = https://nl.ijs.si/project/gos20/Gos224/Gos224.s89.mp3
-# text = [name:personal] [name:surname] je bila .
-# split = test
-1	[name:personal]	[name:personal]	PROPN	X	_	4	nsubj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos224.s89.element1
-2	[name:surname]	[name:surname]	PROPN	X	_	1	flat:name	_	pronunciation=[name:surname]|Gos2.1_token_id=Gos224.s89.element2
-3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	pronunciation=je|Gos2.1_token_id=Gos224.tok511
-4	bila	biti	VERB	Va-p-sf	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=bla|Gos2.1_token_id=Gos224.tok512
-5	.	.	PUNCT	Z	_	4	punct	_	_
-
-
-# sent_id = Gos224.s91
-# speaker_id = Bf-prij-07191
-# sound_url = https://nl.ijs.si/project/gos20/Gos224/Gos224.s91.mp3
-# text = [name:personal] [name:surname] je bila .
-# split = test
-1	[name:personal]	[name:personal]	PROPN	X	_	4	nsubj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos224.s91.element1
-2	[name:surname]	[name:surname]	PROPN	X	_	1	flat:name	_	pronunciation=[name:surname]|Gos2.1_token_id=Gos224.s91.element2
-3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	pronunciation=je|Gos2.1_token_id=Gos224.tok515
-4	bila	biti	VERB	Va-p-sf	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=bla|Gos2.1_token_id=Gos224.tok516
-5	.	.	PUNCT	Z	_	4	punct	_	_
-
-
-# sent_id = Gos224.s96
-# speaker_id = Af-prij-07190
-# sound_url = https://nl.ijs.si/project/gos20/Gos224/Gos224.s96.mp3
-# text = [name:surname] sem videla .
-# split = test
-1	[name:surname]	[name:surname]	PROPN	X	_	3	obj	_	pronunciation=[name:surname]|Gos2.1_token_id=Gos224.s96.element1
-2	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	pronunciation=sem|Gos2.1_token_id=Gos224.tok530
-3	videla	videti	VERB	Vmbp-sf	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=vidla|Gos2.1_token_id=Gos224.tok531
-4	.	.	PUNCT	Z	_	3	punct	_	_
-
-
-# sent_id = Gos224.s99
-# speaker_id = Af-prij-07190
-# sound_url = https://nl.ijs.si/project/gos20/Gos224/Gos224.s99.mp3
-# text = [name:personal] sem videla v cerkvi .
-# split = test
-1	[name:personal]	[name:personal]	PROPN	X	_	3	obj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos224.s99.element1
-2	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	pronunciation=sn|Gos2.1_token_id=Gos224.tok537
-3	videla	videti	VERB	Vmbp-sf	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=vidla|Gos2.1_token_id=Gos224.tok538
-4	v	v	ADP	Sl	Case=Loc	5	case	_	pronunciation=v|Gos2.1_token_id=Gos224.tok539
-5	cerkvi	cerkev	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	3	obl	_	pronunciation=cerkvi|Gos2.1_token_id=Gos224.tok540
-6	.	.	PUNCT	Z	_	3	punct	_	_
-
-
-# sent_id = Gos224.s114
-# speaker_id = Bf-prij-07191
-# sound_url = https://nl.ijs.si/project/gos20/Gos224/Gos224.s114.mp3
-# text = [name:personal] .
-# split = train
-1	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	Gos2.1_token_id=Gos224.s114.element1
-2	.	.	PUNCT	Z	_	1	punct	_	_
-
-
-# sent_id = Gos224.s115
-# speaker_id = Af-prij-07190
-# sound_url = https://nl.ijs.si/project/gos20/Gos224/Gos224.s115.mp3
-# text = [name:personal] .
-# split = train
-1	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	Gos2.1_token_id=Gos224.s115.element1
-2	.	.	PUNCT	Z	_	1	punct	_	_
-
-
-# sent_id = Gos224.s117
-# speaker_id = Bf-prij-07191
-# sound_url = https://nl.ijs.si/project/gos20/Gos224/Gos224.s117.mp3
-# text = [name:surname] , [name:surname] .
-# split = train
-1	[name:surname]	[name:surname]	PROPN	X	_	0	root	_	Gos2.1_token_id=Gos224.s117.element1
-2	,	,	PUNCT	Z	_	3	punct	_	_
-3	[name:surname]	[name:surname]	PROPN	X	_	1	flat:name	_	Gos2.1_token_id=Gos224.s117.element2
-4	.	.	PUNCT	Z	_	1	punct	_	_
-
-
 # newdoc id = Gos224
 # sent_id = Gos224.s81
 # speaker_id = Af-prij-07190
@@ -199,6 +122,18 @@
 6	tisti	tisti	DET	Pd-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	0	root	_	pronunciation=tist|Gos2.1_token_id=Gos224.tok510
 
 
+# sent_id = Gos224.s89
+# speaker_id = Bf-prij-07191
+# sound_url = https://nl.ijs.si/project/gos20/Gos224/Gos224.s89.mp3
+# text = [name:personal] [name:surname] je bila .
+# split = test
+1	[name:personal]	[name:personal]	PROPN	X	_	4	nsubj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos224.s89.element1
+2	[name:surname]	[name:surname]	PROPN	X	_	1	flat:name	_	pronunciation=[name:surname]|Gos2.1_token_id=Gos224.s89.element2
+3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	pronunciation=je|Gos2.1_token_id=Gos224.tok511
+4	bila	biti	VERB	Va-p-sf	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=bla|Gos2.1_token_id=Gos224.tok512
+5	.	.	PUNCT	Z	_	4	punct	_	_
+
+
 # sent_id = Gos224.s90
 # speaker_id = Af-prij-07190
 # sound_url = https://nl.ijs.si/project/gos20/Gos224/Gos224.s90.mp3
@@ -206,6 +141,18 @@
 # split = test
 1	mmm	mmm	INTJ	I	_	0	root	_	pronunciation=mmm|Gos2.1_token_id=Gos224.tok513
 2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos224.s91
+# speaker_id = Bf-prij-07191
+# sound_url = https://nl.ijs.si/project/gos20/Gos224/Gos224.s91.mp3
+# text = [name:personal] [name:surname] je bila .
+# split = test
+1	[name:personal]	[name:personal]	PROPN	X	_	4	nsubj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos224.s91.element1
+2	[name:surname]	[name:surname]	PROPN	X	_	1	flat:name	_	pronunciation=[name:surname]|Gos2.1_token_id=Gos224.s91.element2
+3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	pronunciation=je|Gos2.1_token_id=Gos224.tok515
+4	bila	biti	VERB	Va-p-sf	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=bla|Gos2.1_token_id=Gos224.tok516
+5	.	.	PUNCT	Z	_	4	punct	_	_
 
 
 # sent_id = Gos224.s92
@@ -248,6 +195,17 @@
 14	.	.	PUNCT	Z	_	4	punct	_	_
 
 
+# sent_id = Gos224.s96
+# speaker_id = Af-prij-07190
+# sound_url = https://nl.ijs.si/project/gos20/Gos224/Gos224.s96.mp3
+# text = [name:surname] sem videla .
+# split = test
+1	[name:surname]	[name:surname]	PROPN	X	_	3	obj	_	pronunciation=[name:surname]|Gos2.1_token_id=Gos224.s96.element1
+2	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	pronunciation=sem|Gos2.1_token_id=Gos224.tok530
+3	videla	videti	VERB	Vmbp-sf	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=vidla|Gos2.1_token_id=Gos224.tok531
+4	.	.	PUNCT	Z	_	3	punct	_	_
+
+
 # sent_id = Gos224.s97
 # speaker_id = Bf-prij-07191
 # sound_url = https://nl.ijs.si/project/gos20/Gos224/Gos224.s97.mp3
@@ -269,6 +227,19 @@
 5	pa	pa	CCONJ	Cc	_	6	cc	_	pronunciation=pa|Gos2.1_token_id=Gos224.tok536
 6	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos224.s98.element1
 7	.	.	PUNCT	Z	_	6	punct	_	_
+
+
+# sent_id = Gos224.s99
+# speaker_id = Af-prij-07190
+# sound_url = https://nl.ijs.si/project/gos20/Gos224/Gos224.s99.mp3
+# text = [name:personal] sem videla v cerkvi .
+# split = test
+1	[name:personal]	[name:personal]	PROPN	X	_	3	obj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos224.s99.element1
+2	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	pronunciation=sn|Gos2.1_token_id=Gos224.tok537
+3	videla	videti	VERB	Vmbp-sf	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=vidla|Gos2.1_token_id=Gos224.tok538
+4	v	v	ADP	Sl	Case=Loc	5	case	_	pronunciation=v|Gos2.1_token_id=Gos224.tok539
+5	cerkvi	cerkev	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	3	obl	_	pronunciation=cerkvi|Gos2.1_token_id=Gos224.tok540
+6	.	.	PUNCT	Z	_	3	punct	_	_
 
 
 # sent_id = Gos224.s100
@@ -405,6 +376,24 @@
 6	.	.	PUNCT	Z	_	2	punct	_	_
 
 
+# sent_id = Gos224.s114
+# speaker_id = Bf-prij-07191
+# sound_url = https://nl.ijs.si/project/gos20/Gos224/Gos224.s114.mp3
+# text = [name:personal] .
+# split = train
+1	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	Gos2.1_token_id=Gos224.s114.element1
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos224.s115
+# speaker_id = Af-prij-07190
+# sound_url = https://nl.ijs.si/project/gos20/Gos224/Gos224.s115.mp3
+# text = [name:personal] .
+# split = train
+1	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	Gos2.1_token_id=Gos224.s115.element1
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
 # sent_id = Gos224.s116
 # speaker_id = Af-prij-07190
 # sound_url = https://nl.ijs.si/project/gos20/Gos224/Gos224.s116.mp3
@@ -418,6 +407,17 @@
 6	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	pronunciation=je|Gos2.1_token_id=Gos224.tok589
 7	bila	biti	VERB	Va-p-sf	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=bla|Gos2.1_token_id=Gos224.tok590
 8	.	.	PUNCT	Z	_	7	punct	_	_
+
+
+# sent_id = Gos224.s117
+# speaker_id = Bf-prij-07191
+# sound_url = https://nl.ijs.si/project/gos20/Gos224/Gos224.s117.mp3
+# text = [name:surname] , [name:surname] .
+# split = train
+1	[name:surname]	[name:surname]	PROPN	X	_	0	root	_	Gos2.1_token_id=Gos224.s117.element1
+2	,	,	PUNCT	Z	_	3	punct	_	_
+3	[name:surname]	[name:surname]	PROPN	X	_	1	flat:name	_	Gos2.1_token_id=Gos224.s117.element2
+4	.	.	PUNCT	Z	_	1	punct	_	_
 
 
 # sent_id = Gos224.s118

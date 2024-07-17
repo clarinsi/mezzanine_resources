@@ -1,16 +1,3 @@
-# sent_id = Gos220.s100
-# speaker_id = Af-star-05611
-# sound_url = https://nl.ijs.si/project/gos20/Gos220/Gos220.s100.mp3
-# text = [name:personal] , ti zvoni telefon .
-# split = train
-1	[name:personal]	[name:personal]	PROPN	X	_	4	vocative	_	Gos2.1_token_id=Gos220.s100.element2
-2	,	,	PUNCT	Z	_	1	punct	_	_
-3	ti	ti	PRON	Pp2-sd--y	Case=Dat|Number=Sing|Person=2|PronType=Prs|Variant=Short	4	obj	_	pronunciation=ti|Gos2.1_token_id=Gos220.tok653
-4	zvoni	zvoniti	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=zvoni|Gos2.1_token_id=Gos220.tok654
-5	telefon	telefon	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	pronunciation=telefon|Gos2.1_token_id=Gos220.tok655
-6	.	.	PUNCT	Z	_	4	punct	_	_
-
-
 # newdoc id = Gos220
 # sent_id = Gos220.s57
 # speaker_id = Af-star-05611
@@ -764,6 +751,19 @@
 7	,	,	PUNCT	Z	_	6	punct	_	_
 8	enkratno	enkraten	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	pronunciation=enkratno|Gos2.1_token_id=Gos220.tok652
 9	.	.	PUNCT	Z	_	8	punct	_	_
+
+
+# sent_id = Gos220.s100
+# speaker_id = Af-star-05611
+# sound_url = https://nl.ijs.si/project/gos20/Gos220/Gos220.s100.mp3
+# text = [name:personal] , ti zvoni telefon .
+# split = train
+1	[name:personal]	[name:personal]	PROPN	X	_	4	vocative	_	Gos2.1_token_id=Gos220.s100.element2
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	ti	ti	PRON	Pp2-sd--y	Case=Dat|Number=Sing|Person=2|PronType=Prs|Variant=Short	4	obj	_	pronunciation=ti|Gos2.1_token_id=Gos220.tok653
+4	zvoni	zvoniti	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=zvoni|Gos2.1_token_id=Gos220.tok654
+5	telefon	telefon	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	pronunciation=telefon|Gos2.1_token_id=Gos220.tok655
+6	.	.	PUNCT	Z	_	4	punct	_	_
 
 
 # sent_id = Gos220.s101

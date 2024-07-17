@@ -1,42 +1,3 @@
-# sent_id = Gos164.s497
-# speaker_id = Zm-mode-00026
-# sound_url = https://nl.ijs.si/project/gos20/Gos164/Gos164.s497.mp3
-# text = [name:personal] , poglejmo , kaj imaš v škatli noter .
-# split = train
-1	[name:personal]	[name:personal]	PROPN	X	_	3	vocative	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos164.s497.element1
-2	,	,	PUNCT	Z	_	1	punct	_	_
-3	poglejmo	pogledati	VERB	Vmem1p	Aspect=Perf|Mood=Imp|Number=Plur|Person=1|VerbForm=Fin	0	root	_	pronunciation=poglejmo|Gos2.1_token_id=Gos164.tok3008
-4	,	,	PUNCT	Z	_	6	punct	_	_
-5	kaj	kaj	PRON	Pq-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	6	obj	_	pronunciation=kaj|Gos2.1_token_id=Gos164.tok3009
-6	imaš	imeti	VERB	Vmpr2s-n	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	ccomp	_	pronunciation=maš|Gos2.1_token_id=Gos164.tok3010
-7	v	v	ADP	Sl	Case=Loc	8	case	_	pronunciation=v|Gos2.1_token_id=Gos164.tok3011
-8	škatli	škatla	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	6	obl	_	pronunciation=škatli|Gos2.1_token_id=Gos164.tok3012
-9	noter	noter	ADV	Rgp	Degree=Pos	8	advmod	_	pronunciation=noter|Gos2.1_token_id=Gos164.tok3013
-10	.	.	PUNCT	Z	_	3	punct	_	_
-
-
-# sent_id = Gos164.s520
-# speaker_id = Zm-mode-00026
-# sound_url = https://nl.ijs.si/project/gos20/Gos164/Gos164.s520.mp3
-# text = [name:personal] [name:surname] .
-# split = train
-1	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos164.s520.element1
-2	[name:surname]	[name:surname]	PROPN	X	_	1	flat:name	_	pronunciation=[name:surname]|Gos2.1_token_id=Gos164.s520.element2
-3	.	.	PUNCT	Z	_	1	punct	_	_
-
-
-# sent_id = Gos164.s539
-# speaker_id = Zm-mode-00026
-# sound_url = https://nl.ijs.si/project/gos20/Gos164/Gos164.s539.mp3
-# text = [name:personal] [name:surname] , ne .
-# split = train
-1	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos164.s539.element1
-2	[name:surname]	[name:surname]	PROPN	X	_	1	flat:name	_	pronunciation=[name:surname]|Gos2.1_token_id=Gos164.s539.element2
-3	,	,	PUNCT	Z	_	4	punct	_	_
-4	ne	ne	PART	Q	Polarity=Neg	1	discourse	_	pronunciation=ne|Gos2.1_token_id=Gos164.tok3170
-5	.	.	PUNCT	Z	_	1	punct	_	_
-
-
 # newdoc id = Gos164
 # sent_id = Gos164.s484
 # speaker_id = Zm-mode-00026
@@ -291,6 +252,23 @@
 6	.	.	PUNCT	Z	_	1	punct	_	_
 
 
+# sent_id = Gos164.s497
+# speaker_id = Zm-mode-00026
+# sound_url = https://nl.ijs.si/project/gos20/Gos164/Gos164.s497.mp3
+# text = [name:personal] , poglejmo , kaj imaš v škatli noter .
+# split = train
+1	[name:personal]	[name:personal]	PROPN	X	_	3	vocative	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos164.s497.element1
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	poglejmo	pogledati	VERB	Vmem1p	Aspect=Perf|Mood=Imp|Number=Plur|Person=1|VerbForm=Fin	0	root	_	pronunciation=poglejmo|Gos2.1_token_id=Gos164.tok3008
+4	,	,	PUNCT	Z	_	6	punct	_	_
+5	kaj	kaj	PRON	Pq-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	6	obj	_	pronunciation=kaj|Gos2.1_token_id=Gos164.tok3009
+6	imaš	imeti	VERB	Vmpr2s-n	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	ccomp	_	pronunciation=maš|Gos2.1_token_id=Gos164.tok3010
+7	v	v	ADP	Sl	Case=Loc	8	case	_	pronunciation=v|Gos2.1_token_id=Gos164.tok3011
+8	škatli	škatla	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	6	obl	_	pronunciation=škatli|Gos2.1_token_id=Gos164.tok3012
+9	noter	noter	ADV	Rgp	Degree=Pos	8	advmod	_	pronunciation=noter|Gos2.1_token_id=Gos164.tok3013
+10	.	.	PUNCT	Z	_	3	punct	_	_
+
+
 # sent_id = Gos164.s499
 # speaker_id = Zm-mode-00026
 # sound_url = https://nl.ijs.si/project/gos20/Gos164/Gos164.s499.mp3
@@ -509,6 +487,16 @@
 3	[name:personal]	[name:personal]	PROPN	X	_	1	vocative	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos164.s519.element1
 4	[name:surname]	[name:surname]	PROPN	X	_	3	flat:name	_	pronunciation=[name:surname]|Gos2.1_token_id=Gos164.s519.element2
 5	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos164.s520
+# speaker_id = Zm-mode-00026
+# sound_url = https://nl.ijs.si/project/gos20/Gos164/Gos164.s520.mp3
+# text = [name:personal] [name:surname] .
+# split = train
+1	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos164.s520.element1
+2	[name:surname]	[name:surname]	PROPN	X	_	1	flat:name	_	pronunciation=[name:surname]|Gos2.1_token_id=Gos164.s520.element2
+3	.	.	PUNCT	Z	_	1	punct	_	_
 
 
 # sent_id = Gos164.s521
@@ -750,6 +738,18 @@
 1	dragi	drag	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	2	amod	_	pronunciation=dragi|Gos2.1_token_id=Gos164.tok3168
 2	gledalci	gledalec	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	0	root	_	pronunciation=gledalci|Gos2.1_token_id=Gos164.tok3169
 3	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos164.s539
+# speaker_id = Zm-mode-00026
+# sound_url = https://nl.ijs.si/project/gos20/Gos164/Gos164.s539.mp3
+# text = [name:personal] [name:surname] , ne .
+# split = train
+1	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos164.s539.element1
+2	[name:surname]	[name:surname]	PROPN	X	_	1	flat:name	_	pronunciation=[name:surname]|Gos2.1_token_id=Gos164.s539.element2
+3	,	,	PUNCT	Z	_	4	punct	_	_
+4	ne	ne	PART	Q	Polarity=Neg	1	discourse	_	pronunciation=ne|Gos2.1_token_id=Gos164.tok3170
+5	.	.	PUNCT	Z	_	1	punct	_	_
 
 
 # sent_id = Gos164.s540

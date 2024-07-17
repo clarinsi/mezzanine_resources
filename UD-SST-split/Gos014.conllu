@@ -1,12 +1,3 @@
-# sent_id = Gos014.s636
-# speaker_id = Af-prof-07180
-# sound_url = https://nl.ijs.si/project/gos20/Gos014/Gos014.s636.mp3
-# text = [name:personal] .
-# split = train
-1	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos014.s636.element1
-2	.	.	PUNCT	Z	_	1	punct	_	_
-
-
 # newdoc id = Gos014
 # sent_id = Gos014.s618
 # speaker_id = Bm-ucen-07181
@@ -224,6 +215,15 @@
 1	v	v	ADP	Sa	Case=Acc	2	case	_	pronunciation=v|Gos2.1_token_id=Gos014.tok3186
 2	zrak	zrak	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	root	_	pronunciation=zrak|Gos2.1_token_id=Gos014.tok3187
 3	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos014.s636
+# speaker_id = Af-prof-07180
+# sound_url = https://nl.ijs.si/project/gos20/Gos014/Gos014.s636.mp3
+# text = [name:personal] .
+# split = train
+1	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos014.s636.element1
+2	.	.	PUNCT	Z	_	1	punct	_	_
 
 
 # sent_id = Gos014.s637

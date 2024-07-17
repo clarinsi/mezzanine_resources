@@ -1,32 +1,3 @@
-# sent_id = Gos174.s24
-# speaker_id = Bf-udel-05579
-# sound_url = https://nl.ijs.si/project/gos20/Gos174/Gos174.s24.mp3
-# text = [name:personal] , ime , eee , kaj , ose- , osebe , zadolžene ali pa odgovorne za , ne , odgovorne za
-# split = train
-1	[name:personal]	[name:personal]	PROPN	X	_	3	vocative	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos174.s24.element1
-2	,	,	PUNCT	Z	_	1	punct	_	_
-3	ime	ime	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	0	root	_	pronunciation=ime|Gos2.1_token_id=Gos174.tok284
-4	,	,	PUNCT	Z	_	5	punct	_	_
-5	eee	eee	INTJ	I	_	3	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos174.tok285
-6	,	,	PUNCT	Z	_	5	punct	_	_
-7	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	3	parataxis	_	pronunciation=kaj|Gos2.1_token_id=Gos174.tok286
-8	,	,	PUNCT	Z	_	9	punct	_	_
-9	ose-	ose-	X	Xt	_	11	reparandum	_	pronunciation=ose…|Gos2.1_token_id=Gos174.tok287
-10	,	,	PUNCT	Z	_	9	punct	_	_
-11	osebe	oseba	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	pronunciation=osebe|Gos2.1_token_id=Gos174.tok288
-12	,	,	PUNCT	Z	_	13	punct	_	_
-13	zadolžene	zadolžen	ADJ	Appfsg	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part	11	acl	_	pronunciation=zadolžene|Gos2.1_token_id=Gos174.tok289
-14	ali	ali	CCONJ	Cc	_	16	cc	_	pronunciation=al|Gos2.1_token_id=Gos174.tok290
-15	pa	pa	CCONJ	Cc	_	14	fixed	_	pronunciation=pa|Gos2.1_token_id=Gos174.tok291
-16	odgovorne	odgovoren	ADJ	Agpfsg	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	conj	_	pronunciation=odgovorne|Gos2.1_token_id=Gos174.tok292
-17	za	za	ADP	Sa	Case=Acc	13	orphan	_	pronunciation=za|Gos2.1_token_id=Gos174.tok293
-18	,	,	PUNCT	Z	_	19	punct	_	_
-19	ne	ne	PART	Q	Polarity=Neg	13	discourse	_	pronunciation=ne|Gos2.1_token_id=Gos174.tok294
-20	,	,	PUNCT	Z	_	21	punct	_	_
-21	odgovorne	odgovoren	ADJ	Agpfsg	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	parataxis:restart	_	pronunciation=odgovorne|Gos2.1_token_id=Gos174.tok295
-22	za	za	ADP	Sa	Case=Acc	21	orphan	_	pronunciation=za|Gos2.1_token_id=Gos174.tok296
-
-
 # newdoc id = Gos174
 # sent_id = Gos174.s20
 # speaker_id = Cf-udel-05580
@@ -139,6 +110,35 @@
 # split = train
 1	mhm	mhm	INTJ	I	_	0	root	_	pronunciation=mhm|Gos2.1_token_id=Gos174.tok283
 2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos174.s24
+# speaker_id = Bf-udel-05579
+# sound_url = https://nl.ijs.si/project/gos20/Gos174/Gos174.s24.mp3
+# text = [name:personal] , ime , eee , kaj , ose- , osebe , zadolžene ali pa odgovorne za , ne , odgovorne za
+# split = train
+1	[name:personal]	[name:personal]	PROPN	X	_	3	vocative	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos174.s24.element1
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	ime	ime	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	0	root	_	pronunciation=ime|Gos2.1_token_id=Gos174.tok284
+4	,	,	PUNCT	Z	_	5	punct	_	_
+5	eee	eee	INTJ	I	_	3	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos174.tok285
+6	,	,	PUNCT	Z	_	5	punct	_	_
+7	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	3	parataxis	_	pronunciation=kaj|Gos2.1_token_id=Gos174.tok286
+8	,	,	PUNCT	Z	_	9	punct	_	_
+9	ose-	ose-	X	Xt	_	11	reparandum	_	pronunciation=ose…|Gos2.1_token_id=Gos174.tok287
+10	,	,	PUNCT	Z	_	9	punct	_	_
+11	osebe	oseba	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	pronunciation=osebe|Gos2.1_token_id=Gos174.tok288
+12	,	,	PUNCT	Z	_	13	punct	_	_
+13	zadolžene	zadolžen	ADJ	Appfsg	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part	11	acl	_	pronunciation=zadolžene|Gos2.1_token_id=Gos174.tok289
+14	ali	ali	CCONJ	Cc	_	16	cc	_	pronunciation=al|Gos2.1_token_id=Gos174.tok290
+15	pa	pa	CCONJ	Cc	_	14	fixed	_	pronunciation=pa|Gos2.1_token_id=Gos174.tok291
+16	odgovorne	odgovoren	ADJ	Agpfsg	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	conj	_	pronunciation=odgovorne|Gos2.1_token_id=Gos174.tok292
+17	za	za	ADP	Sa	Case=Acc	13	orphan	_	pronunciation=za|Gos2.1_token_id=Gos174.tok293
+18	,	,	PUNCT	Z	_	19	punct	_	_
+19	ne	ne	PART	Q	Polarity=Neg	13	discourse	_	pronunciation=ne|Gos2.1_token_id=Gos174.tok294
+20	,	,	PUNCT	Z	_	21	punct	_	_
+21	odgovorne	odgovoren	ADJ	Agpfsg	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	parataxis:restart	_	pronunciation=odgovorne|Gos2.1_token_id=Gos174.tok295
+22	za	za	ADP	Sa	Case=Acc	21	orphan	_	pronunciation=za|Gos2.1_token_id=Gos174.tok296
 
 
 # sent_id = Gos174.s25

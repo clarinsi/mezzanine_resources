@@ -1,16 +1,3 @@
-# sent_id = Gos257.s152
-# speaker_id = Cf-prij-07151
-# sound_url = https://nl.ijs.si/project/gos20/Gos257/Gos257.s152.mp3
-# text = [name:surname] , kateri je to ?
-# split = train
-1	[name:surname]	[name:surname]	PROPN	X	_	0	root	_	Gos2.1_token_id=Gos257.s152.element1
-2	,	,	PUNCT	Z	_	3	punct	_	_
-3	kateri	kateri	DET	Pq-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	1	parataxis	_	pronunciation=kater|Gos2.1_token_id=Gos257.tok2292
-4	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	pronunciation=je|Gos2.1_token_id=Gos257.tok2293
-5	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	pronunciation=to|Gos2.1_token_id=Gos257.tok2294
-6	?	?	PUNCT	Z	_	3	punct	_	_
-
-
 # newdoc id = Gos257
 # sent_id = Gos257.s118
 # speaker_id = Af-prij-07149
@@ -923,6 +910,19 @@
 8	glavnem	glaven	ADJ	Agpnsl	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	5	obl	_	pronunciation=glavnem|Gos2.1_token_id=Gos257.tok2289
 9	žena	žena	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	5	parataxis	_	pronunciation=žena|Gos2.1_token_id=Gos257.tok2291
 10	.	.	PUNCT	Z	_	5	punct	_	_
+
+
+# sent_id = Gos257.s152
+# speaker_id = Cf-prij-07151
+# sound_url = https://nl.ijs.si/project/gos20/Gos257/Gos257.s152.mp3
+# text = [name:surname] , kateri je to ?
+# split = train
+1	[name:surname]	[name:surname]	PROPN	X	_	0	root	_	Gos2.1_token_id=Gos257.s152.element1
+2	,	,	PUNCT	Z	_	3	punct	_	_
+3	kateri	kateri	DET	Pq-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	1	parataxis	_	pronunciation=kater|Gos2.1_token_id=Gos257.tok2292
+4	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	pronunciation=je|Gos2.1_token_id=Gos257.tok2293
+5	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	pronunciation=to|Gos2.1_token_id=Gos257.tok2294
+6	?	?	PUNCT	Z	_	3	punct	_	_
 
 
 # sent_id = Gos257.s153

@@ -1,15 +1,3 @@
-# sent_id = Gos029.s115
-# speaker_id = Rm-novi-05592
-# sound_url = https://nl.ijs.si/project/gos20/Gos029/Gos029.s115.mp3
-# text = [name:personal] , dobro jutro .
-# split = train
-1	[name:personal]	[name:personal]	PROPN	X	_	4	vocative	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos029.s115.element1
-2	,	,	PUNCT	Z	_	1	punct	_	_
-3	dobro	dober	ADJ	Agpnsa	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	pronunciation=dobro|Gos2.1_token_id=Gos029.tok1434
-4	jutro	jutro	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	0	root	_	pronunciation=jutro|Gos2.1_token_id=Gos029.tok1435
-5	.	.	PUNCT	Z	_	4	punct	_	_
-
-
 # newdoc id = Gos029
 # sent_id = Gos029.s112
 # speaker_id = Rm-novi-05592
@@ -46,6 +34,18 @@
 2	,	,	PUNCT	Z	_	3	punct	_	_
 3	živjo	živjo	INTJ	I	_	1	discourse	_	pronunciation=živjo|Gos2.1_token_id=Gos029.tok1433
 4	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos029.s115
+# speaker_id = Rm-novi-05592
+# sound_url = https://nl.ijs.si/project/gos20/Gos029/Gos029.s115.mp3
+# text = [name:personal] , dobro jutro .
+# split = train
+1	[name:personal]	[name:personal]	PROPN	X	_	4	vocative	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos029.s115.element1
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	dobro	dober	ADJ	Agpnsa	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	pronunciation=dobro|Gos2.1_token_id=Gos029.tok1434
+4	jutro	jutro	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	0	root	_	pronunciation=jutro|Gos2.1_token_id=Gos029.tok1435
+5	.	.	PUNCT	Z	_	4	punct	_	_
 
 
 # sent_id = Gos029.s116

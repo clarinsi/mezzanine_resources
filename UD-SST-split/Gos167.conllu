@@ -8,6 +8,15 @@
 2	.	.	PUNCT	Z	_	1	punct	_	_
 
 
+# sent_id = Gos167.s135
+# speaker_id = If-nast-06574
+# sound_url = https://nl.ijs.si/project/gos20/Gos167/Gos167.s135.mp3
+# text = ja .
+# split = train
+1	ja	ja	PART	Q	_	0	root	_	pronunciation=ja|Gos2.1_token_id=Gos167.tok1460
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
 # sent_id = Gos167.s136
 # speaker_id = Df-mode-06573
 # sound_url = https://nl.ijs.si/project/gos20/Gos167/Gos167.s136.mp3
@@ -16,40 +25,6 @@
 1	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos167.s136.element1
 2	[name:surname]	[name:surname]	PROPN	X	_	1	flat:name	_	pronunciation=[name:surname]|Gos2.1_token_id=Gos167.s136.element2
 3	.	.	PUNCT	Z	_	1	punct	_	_
-
-
-# sent_id = Gos167.s175
-# speaker_id = Df-mode-06573
-# sound_url = https://nl.ijs.si/project/gos20/Gos167/Gos167.s175.mp3
-# text = [name:personal] [name:surname] , eee , imate vi tole , eee , same Belokranjce s seboj na tribuni ?
-# split = train
-1	[name:personal]	[name:personal]	PROPN	X	_	6	vocative	_	Gos2.1_token_id=Gos167.s175.element1
-2	[name:surname]	[name:surname]	PROPN	X	_	1	flat:name	_	Gos2.1_token_id=Gos167.s175.element2
-3	,	,	PUNCT	Z	_	1	punct	_	_
-4	eee	eee	INTJ	I	_	6	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos167.tok1921
-5	,	,	PUNCT	Z	_	4	punct	_	_
-6	imate	imeti	VERB	Vmpr2p-n	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=mate|Gos2.1_token_id=Gos167.tok1922
-7	vi	ti	PRON	Pp2mpn	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	6	nsubj	_	pronunciation=vi|Gos2.1_token_id=Gos167.tok1923
-8	tole	tale	DET	Pd-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	6	expl	_	pronunciation=tole|Gos2.1_token_id=Gos167.tok1924
-9	,	,	PUNCT	Z	_	10	punct	_	_
-10	eee	eee	INTJ	I	_	6	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos167.tok1925
-11	,	,	PUNCT	Z	_	10	punct	_	_
-12	same	sam	ADJ	Agpmpa	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	13	amod	_	pronunciation=same|Gos2.1_token_id=Gos167.tok1926
-13	Belokranjce	Belokranjec	PROPN	Npmpa	Case=Acc|Gender=Masc|Number=Plur	6	obj	_	pronunciation=Belokranjce|Gos2.1_token_id=Gos167.tok1927
-14	s	z	ADP	Si	Case=Ins	15	case	_	pronunciation=s|Gos2.1_token_id=Gos167.tok1928
-15	seboj	se	PRON	Px---i	Case=Ins|PronType=Prs|Reflex=Yes	6	obl	_	pronunciation=seboj|Gos2.1_token_id=Gos167.tok1929
-16	na	na	ADP	Sl	Case=Loc	17	case	_	pronunciation=na|Gos2.1_token_id=Gos167.tok1930
-17	tribuni	tribuna	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	6	obl	_	pronunciation=tribuni|Gos2.1_token_id=Gos167.tok1931
-18	?	?	PUNCT	Z	_	6	punct	_	_
-
-
-# sent_id = Gos167.s135
-# speaker_id = If-nast-06574
-# sound_url = https://nl.ijs.si/project/gos20/Gos167/Gos167.s135.mp3
-# text = ja .
-# split = train
-1	ja	ja	PART	Q	_	0	root	_	pronunciation=ja|Gos2.1_token_id=Gos167.tok1460
-2	.	.	PUNCT	Z	_	1	punct	_	_
 
 
 # sent_id = Gos167.s138
@@ -910,6 +885,31 @@
 # split = train
 1	zadnjič	zadnjič	ADV	Rgp	Degree=Pos	0	root	_	pronunciation=zanč|Gos2.1_token_id=Gos167.tok1920
 2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos167.s175
+# speaker_id = Df-mode-06573
+# sound_url = https://nl.ijs.si/project/gos20/Gos167/Gos167.s175.mp3
+# text = [name:personal] [name:surname] , eee , imate vi tole , eee , same Belokranjce s seboj na tribuni ?
+# split = train
+1	[name:personal]	[name:personal]	PROPN	X	_	6	vocative	_	Gos2.1_token_id=Gos167.s175.element1
+2	[name:surname]	[name:surname]	PROPN	X	_	1	flat:name	_	Gos2.1_token_id=Gos167.s175.element2
+3	,	,	PUNCT	Z	_	1	punct	_	_
+4	eee	eee	INTJ	I	_	6	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos167.tok1921
+5	,	,	PUNCT	Z	_	4	punct	_	_
+6	imate	imeti	VERB	Vmpr2p-n	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=mate|Gos2.1_token_id=Gos167.tok1922
+7	vi	ti	PRON	Pp2mpn	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	6	nsubj	_	pronunciation=vi|Gos2.1_token_id=Gos167.tok1923
+8	tole	tale	DET	Pd-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	6	expl	_	pronunciation=tole|Gos2.1_token_id=Gos167.tok1924
+9	,	,	PUNCT	Z	_	10	punct	_	_
+10	eee	eee	INTJ	I	_	6	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos167.tok1925
+11	,	,	PUNCT	Z	_	10	punct	_	_
+12	same	sam	ADJ	Agpmpa	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	13	amod	_	pronunciation=same|Gos2.1_token_id=Gos167.tok1926
+13	Belokranjce	Belokranjec	PROPN	Npmpa	Case=Acc|Gender=Masc|Number=Plur	6	obj	_	pronunciation=Belokranjce|Gos2.1_token_id=Gos167.tok1927
+14	s	z	ADP	Si	Case=Ins	15	case	_	pronunciation=s|Gos2.1_token_id=Gos167.tok1928
+15	seboj	se	PRON	Px---i	Case=Ins|PronType=Prs|Reflex=Yes	6	obl	_	pronunciation=seboj|Gos2.1_token_id=Gos167.tok1929
+16	na	na	ADP	Sl	Case=Loc	17	case	_	pronunciation=na|Gos2.1_token_id=Gos167.tok1930
+17	tribuni	tribuna	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	6	obl	_	pronunciation=tribuni|Gos2.1_token_id=Gos167.tok1931
+18	?	?	PUNCT	Z	_	6	punct	_	_
 
 
 # sent_id = Gos167.s176

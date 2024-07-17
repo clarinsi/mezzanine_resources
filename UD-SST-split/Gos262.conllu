@@ -1,17 +1,3 @@
-# sent_id = Gos262.s147
-# speaker_id = Bf-prij-00508
-# sound_url = https://nl.ijs.si/project/gos20/Gos262/Gos262.s147.mp3
-# text = [name:personal] je rekel , da itak .
-# split = train
-1	[name:personal]	[name:personal]	PROPN	X	_	3	nsubj	_	Gos2.1_token_id=Gos262.s147.element1
-2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	pronunciation=je|Gos2.1_token_id=Gos262.tok1087
-3	rekel	reči	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=rekel|Gos2.1_token_id=Gos262.tok1088
-4	,	,	PUNCT	Z	_	6	punct	_	_
-5	da	da	SCONJ	Cs	_	6	mark	_	pronunciation=da|Gos2.1_token_id=Gos262.tok1089
-6	itak	itak	PART	Q	_	3	ccomp	_	pronunciation=itak|Gos2.1_token_id=Gos262.tok1090
-7	.	.	PUNCT	Z	_	3	punct	_	_
-
-
 # newdoc id = Gos262
 # sent_id = Gos262.s114
 # speaker_id = Bf-prij-00508
@@ -557,6 +543,20 @@
 7	kaj	kaj	PRON	Pq-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	8	obj	_	pronunciation=kej|Gos2.1_token_id=Gos262.tok1084
 8	rekel	reči	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	1	parataxis	_	pronunciation=rekel|Gos2.1_token_id=Gos262.tok1085
 9	?	?	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos262.s147
+# speaker_id = Bf-prij-00508
+# sound_url = https://nl.ijs.si/project/gos20/Gos262/Gos262.s147.mp3
+# text = [name:personal] je rekel , da itak .
+# split = train
+1	[name:personal]	[name:personal]	PROPN	X	_	3	nsubj	_	Gos2.1_token_id=Gos262.s147.element1
+2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	pronunciation=je|Gos2.1_token_id=Gos262.tok1087
+3	rekel	reči	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=rekel|Gos2.1_token_id=Gos262.tok1088
+4	,	,	PUNCT	Z	_	6	punct	_	_
+5	da	da	SCONJ	Cs	_	6	mark	_	pronunciation=da|Gos2.1_token_id=Gos262.tok1089
+6	itak	itak	PART	Q	_	3	ccomp	_	pronunciation=itak|Gos2.1_token_id=Gos262.tok1090
+7	.	.	PUNCT	Z	_	3	punct	_	_
 
 
 # sent_id = Gos262.s148

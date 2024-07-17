@@ -1,16 +1,3 @@
-# sent_id = Gos153.s32
-# speaker_id = Af-mode-01010
-# sound_url = https://nl.ijs.si/project/gos20/Gos153/Gos153.s32.mp3
-# text = [name:personal] , ti prideš letos ?
-# split = test
-1	[name:personal]	[name:personal]	PROPN	X	_	4	vocative	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos153.s32.element1
-2	,	,	PUNCT	Z	_	1	punct	_	_
-3	ti	ti	PRON	Pp2-sn	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	pronunciation=ti|Gos2.1_token_id=Gos153.tok194
-4	prideš	priti	VERB	Vmer2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=prideš|Gos2.1_token_id=Gos153.tok195
-5	letos	letos	ADV	Rgp	Degree=Pos	4	advmod	_	pronunciation=letos|Gos2.1_token_id=Gos153.tok196
-6	?	?	PUNCT	Z	_	4	punct	_	_
-
-
 # newdoc id = Gos153
 # sent_id = Gos153.s23
 # speaker_id = Af-mode-01010
@@ -141,6 +128,19 @@
 4	,	,	PUNCT	Z	_	5	punct	_	_
 5	hm	hm	INTJ	I	_	3	discourse:filler	_	pronunciation=hm|Gos2.1_token_id=Gos153.tok193
 6	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos153.s32
+# speaker_id = Af-mode-01010
+# sound_url = https://nl.ijs.si/project/gos20/Gos153/Gos153.s32.mp3
+# text = [name:personal] , ti prideš letos ?
+# split = test
+1	[name:personal]	[name:personal]	PROPN	X	_	4	vocative	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos153.s32.element1
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	ti	ti	PRON	Pp2-sn	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	pronunciation=ti|Gos2.1_token_id=Gos153.tok194
+4	prideš	priti	VERB	Vmer2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=prideš|Gos2.1_token_id=Gos153.tok195
+5	letos	letos	ADV	Rgp	Degree=Pos	4	advmod	_	pronunciation=letos|Gos2.1_token_id=Gos153.tok196
+6	?	?	PUNCT	Z	_	4	punct	_	_
 
 
 # sent_id = Gos153.s34

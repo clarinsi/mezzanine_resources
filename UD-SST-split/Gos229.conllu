@@ -1,21 +1,3 @@
-# sent_id = Gos229.s362
-# speaker_id = Lf-otro-06567
-# sound_url = https://nl.ijs.si/project/gos20/Gos229/Gos229.s362.mp3
-# text = [name:personal] , en Indijec , ki sem ga učila slovenščino .
-# split = train
-1	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	Gos2.1_token_id=Gos229.s362.element1
-2	,	,	PUNCT	Z	_	4	punct	_	_
-3	en	en	DET	Mlpmsn	Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	4	det	_	pronunciation=en|Gos2.1_token_id=Gos229.tok3087
-4	Indijec	Indijec	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	pronunciation=Indijc|Gos2.1_token_id=Gos229.tok3088
-5	,	,	PUNCT	Z	_	9	punct	_	_
-6	ki	ki	SCONJ	Cs	_	9	mark	_	pronunciation=k|Gos2.1_token_id=Gos229.tok3089
-7	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	aux	_	pronunciation=sem|Gos2.1_token_id=Gos229.tok3090
-8	ga	on	PRON	Pp3msa--y	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	9	iobj	_	pronunciation=ga|Gos2.1_token_id=Gos229.tok3091
-9	učila	učiti	VERB	Vmpp-sf	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	4	acl	_	pronunciation=učila|Gos2.1_token_id=Gos229.tok3092
-10	slovenščino	slovenščina	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	pronunciation=slovenščino|Gos2.1_token_id=Gos229.tok3093
-11	.	.	PUNCT	Z	_	1	punct	_	_
-
-
 # newdoc id = Gos229
 # sent_id = Gos229.s318
 # speaker_id = Lf-otro-06567
@@ -676,6 +658,24 @@
 4	,	,	PUNCT	Z	_	3	punct	_	_
 5	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	Gos2.1_token_id=Gos229.s361.element1
 6	?	?	PUNCT	Z	_	5	punct	_	_
+
+
+# sent_id = Gos229.s362
+# speaker_id = Lf-otro-06567
+# sound_url = https://nl.ijs.si/project/gos20/Gos229/Gos229.s362.mp3
+# text = [name:personal] , en Indijec , ki sem ga učila slovenščino .
+# split = train
+1	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	Gos2.1_token_id=Gos229.s362.element1
+2	,	,	PUNCT	Z	_	4	punct	_	_
+3	en	en	DET	Mlpmsn	Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	4	det	_	pronunciation=en|Gos2.1_token_id=Gos229.tok3087
+4	Indijec	Indijec	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	pronunciation=Indijc|Gos2.1_token_id=Gos229.tok3088
+5	,	,	PUNCT	Z	_	9	punct	_	_
+6	ki	ki	SCONJ	Cs	_	9	mark	_	pronunciation=k|Gos2.1_token_id=Gos229.tok3089
+7	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	aux	_	pronunciation=sem|Gos2.1_token_id=Gos229.tok3090
+8	ga	on	PRON	Pp3msa--y	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	9	iobj	_	pronunciation=ga|Gos2.1_token_id=Gos229.tok3091
+9	učila	učiti	VERB	Vmpp-sf	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	4	acl	_	pronunciation=učila|Gos2.1_token_id=Gos229.tok3092
+10	slovenščino	slovenščina	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	pronunciation=slovenščino|Gos2.1_token_id=Gos229.tok3093
+11	.	.	PUNCT	Z	_	1	punct	_	_
 
 
 # sent_id = Gos229.s363

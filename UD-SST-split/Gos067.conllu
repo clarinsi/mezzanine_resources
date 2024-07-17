@@ -1,17 +1,3 @@
-# sent_id = Gos067.s4
-# speaker_id = Af-novi-02029
-# sound_url = https://nl.ijs.si/project/gos20/Gos067/Gos067.s4.mp3
-# text = [name:personal] živi od prodaje na bolšjaku .
-# split = train
-1	[name:personal]	[name:personal]	PROPN	X	_	2	nsubj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos067.s4.element1
-2	živi	živeti	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=živi|Gos2.1_token_id=Gos067.tok30
-3	od	od	ADP	Sg	Case=Gen	4	case	_	pronunciation=od|Gos2.1_token_id=Gos067.tok31
-4	prodaje	prodaja	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	2	obl	_	pronunciation=prodaje|Gos2.1_token_id=Gos067.tok32
-5	na	na	ADP	Sl	Case=Loc	6	case	_	pronunciation=na|Gos2.1_token_id=Gos067.tok33
-6	bolšjaku	bolšjak	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	4	nmod	_	pronunciation=bolšjaku|Gos2.1_token_id=Gos067.tok34
-7	.	.	PUNCT	Z	_	2	punct	_	_
-
-
 # newdoc id = Gos067
 # sent_id = Gos067.s3
 # speaker_id = Bm-nast-02030
@@ -35,6 +21,20 @@
 15	za	za	ADP	Sa	Case=Acc	16	case	_	pronunciation=za|Gos2.1_token_id=Gos067.tok28
 16	zjutraj	zjutraj	ADV	Rgp	Degree=Pos	8	advmod	_	pronunciation=zjutri|Gos2.1_token_id=Gos067.tok29
 17	.	.	PUNCT	Z	_	5	punct	_	_
+
+
+# sent_id = Gos067.s4
+# speaker_id = Af-novi-02029
+# sound_url = https://nl.ijs.si/project/gos20/Gos067/Gos067.s4.mp3
+# text = [name:personal] živi od prodaje na bolšjaku .
+# split = train
+1	[name:personal]	[name:personal]	PROPN	X	_	2	nsubj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos067.s4.element1
+2	živi	živeti	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=živi|Gos2.1_token_id=Gos067.tok30
+3	od	od	ADP	Sg	Case=Gen	4	case	_	pronunciation=od|Gos2.1_token_id=Gos067.tok31
+4	prodaje	prodaja	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	2	obl	_	pronunciation=prodaje|Gos2.1_token_id=Gos067.tok32
+5	na	na	ADP	Sl	Case=Loc	6	case	_	pronunciation=na|Gos2.1_token_id=Gos067.tok33
+6	bolšjaku	bolšjak	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	4	nmod	_	pronunciation=bolšjaku|Gos2.1_token_id=Gos067.tok34
+7	.	.	PUNCT	Z	_	2	punct	_	_
 
 
 # sent_id = Gos067.s5

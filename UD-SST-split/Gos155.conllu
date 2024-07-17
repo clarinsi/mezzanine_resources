@@ -1,70 +1,3 @@
-# sent_id = Gos155.s86
-# speaker_id = Pm-mode-10504
-# sound_url = https://nl.ijs.si/project/gos20/Gos155/Gos155.s86.mp3
-# text = [name:personal] , si si zapomnil ?
-# split = train
-1	[name:personal]	[name:personal]	PROPN	X	_	5	vocative	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos155.s86.element1
-2	,	,	PUNCT	Z	_	1	punct	_	_
-3	si	biti	AUX	Va-r2s-n	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	pronunciation=si|Gos2.1_token_id=Gos155.tok913
-4	si	se	PRON	Px---d--y	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	5	expl	_	pronunciation=si|Gos2.1_token_id=Gos155.tok914
-5	zapomnil	zapomniti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=zapuna|Gos2.1_token_id=Gos155.tok915
-6	?	?	PUNCT	Z	_	5	punct	_	_
-
-
-# sent_id = Gos155.s87
-# speaker_id = Pm-mode-10504
-# sound_url = https://nl.ijs.si/project/gos20/Gos155/Gos155.s87.mp3
-# text = [name:personal] pravi , ka si je , ka si je zapomnil in ka bo Rdeča vrtnica od Viktorije , pozdrave še nekomu .
-# split = train
-1	[name:personal]	[name:personal]	PROPN	X	_	2	nsubj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos155.s87.element1
-2	pravi	praviti	VERB	Vmbr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=provi|Gos2.1_token_id=Gos155.tok917
-3	,	,	PUNCT	Z	_	6	punct	_	_
-4	ka	ka	SCONJ	Cs	_	6	mark	_	pronunciation=ka|Gos2.1_token_id=Gos155.tok918
-5	si	se	PRON	Px---d--y	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	6	expl	_	pronunciation=si|Gos2.1_token_id=Gos155.tok919
-6	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	reparandum	_	pronunciation=je|Gos2.1_token_id=Gos155.tok920
-7	,	,	PUNCT	Z	_	11	punct	_	_
-8	ka	ka	SCONJ	Cs	_	11	mark	_	pronunciation=ka|Gos2.1_token_id=Gos155.tok921
-9	si	se	PRON	Px---d--y	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	11	expl	_	pronunciation=si|Gos2.1_token_id=Gos155.tok922
-10	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	aux	_	pronunciation=je|Gos2.1_token_id=Gos155.tok923
-11	zapomnil	zapomniti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	2	ccomp	_	pronunciation=zapuna|Gos2.1_token_id=Gos155.tok924
-12	in	in	CCONJ	Cc	_	14	cc	_	pronunciation=in|Gos2.1_token_id=Gos155.tok925
-13	ka	ka	SCONJ	Cs	_	14	mark	_	pronunciation=ka|Gos2.1_token_id=Gos155.tok926
-14	bo	biti	VERB	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	11	conj	_	pronunciation=bude|Gos2.1_token_id=Gos155.tok927
-15	Rdeča	rdeč	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	pronunciation=Rdeča|Gos2.1_token_id=Gos155.tok928
-16	vrtnica	vrtnica	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	pronunciation=vrtnca|Gos2.1_token_id=Gos155.tok929
-17	od	od	ADP	Sg	Case=Gen	18	case	_	pronunciation=od|Gos2.1_token_id=Gos155.tok930
-18	Viktorije	Viktorija	PROPN	Npfsg	Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	pronunciation=Viktorije|Gos2.1_token_id=Gos155.tok931
-19	,	,	PUNCT	Z	_	20	punct	_	_
-20	pozdrave	pozdrav	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	2	parataxis	_	pronunciation=pozdrave|Gos2.1_token_id=Gos155.tok932
-21	še	še	PART	Q	_	22	advmod	_	pronunciation=še|Gos2.1_token_id=Gos155.tok933
-22	nekomu	nekdo	PRON	Pi-msd	Case=Dat|Gender=Masc|Number=Sing|PronType=Ind	20	orphan	_	pronunciation=nekomi|Gos2.1_token_id=Gos155.tok934
-23	.	.	PUNCT	Z	_	2	punct	_	_
-
-
-# sent_id = Gos155.s96
-# speaker_id = Pm-mode-10504
-# sound_url = https://nl.ijs.si/project/gos20/Gos155/Gos155.s96.mp3
-# text = [name:personal] , dobil si Rdečo vrtnico , eno ti , jaz pa bom te ovo drugo .
-# split = train
-1	[name:personal]	[name:personal]	PROPN	X	_	3	vocative	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos155.s96.element1
-2	,	,	PUNCT	Z	_	1	punct	_	_
-3	dobil	dobiti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=dobu|Gos2.1_token_id=Gos155.tok965
-4	si	biti	AUX	Va-r2s-n	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	pronunciation=si|Gos2.1_token_id=Gos155.tok966
-5	Rdečo	rdeč	ADJ	Agpfsa	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	pronunciation=Rdečo|Gos2.1_token_id=Gos155.tok967
-6	vrtnico	vrtnica	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	pronunciation=vrtnco|Gos2.1_token_id=Gos155.tok968
-7	,	,	PUNCT	Z	_	9	punct	_	_
-8	eno	en	NUM	Mlpfsa	Case=Acc|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	9	orphan	_	pronunciation=eno|Gos2.1_token_id=Gos155.tok969
-9	ti	ti	PRON	Pp2-sn	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	parataxis	_	pronunciation=ti|Gos2.1_token_id=Gos155.tok970
-10	,	,	PUNCT	Z	_	13	punct	_	_
-11	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	pronunciation=jaz|Gos2.1_token_id=Gos155.tok971
-12	pa	pa	CCONJ	Cc	_	13	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos155.tok972
-13	bom	biti	VERB	Va-f1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin	3	parataxis	_	pronunciation=bon|Gos2.1_token_id=Gos155.tok973
-14	te	te	ADV	Rgp	Degree=Pos	13	advmod	_	pronunciation=te|Gos2.1_token_id=Gos155.tok974
-15	ovo	ovi	DET	Pd-fsa	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	16	det	_	pronunciation=ovo|Gos2.1_token_id=Gos155.tok975
-16	drugo	drug	ADJ	Mlpfsa	Case=Acc|Gender=Fem|Number=Sing	13	obj	_	pronunciation=drugo|Gos2.1_token_id=Gos155.tok976
-17	.	.	PUNCT	Z	_	3	punct	_	_
-
-
 # newdoc id = Gos155
 # sent_id = Gos155.s80
 # speaker_id = Bm-posl-10506
@@ -129,6 +62,49 @@
 1	Rdeča	rdeč	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	pronunciation=Rdeča|Gos2.1_token_id=Gos155.tok911
 2	vrtnica	vrtnica	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	pronunciation=vrtnca|Gos2.1_token_id=Gos155.tok912
 3	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos155.s86
+# speaker_id = Pm-mode-10504
+# sound_url = https://nl.ijs.si/project/gos20/Gos155/Gos155.s86.mp3
+# text = [name:personal] , si si zapomnil ?
+# split = train
+1	[name:personal]	[name:personal]	PROPN	X	_	5	vocative	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos155.s86.element1
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	si	biti	AUX	Va-r2s-n	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	pronunciation=si|Gos2.1_token_id=Gos155.tok913
+4	si	se	PRON	Px---d--y	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	5	expl	_	pronunciation=si|Gos2.1_token_id=Gos155.tok914
+5	zapomnil	zapomniti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=zapuna|Gos2.1_token_id=Gos155.tok915
+6	?	?	PUNCT	Z	_	5	punct	_	_
+
+
+# sent_id = Gos155.s87
+# speaker_id = Pm-mode-10504
+# sound_url = https://nl.ijs.si/project/gos20/Gos155/Gos155.s87.mp3
+# text = [name:personal] pravi , ka si je , ka si je zapomnil in ka bo Rdeča vrtnica od Viktorije , pozdrave še nekomu .
+# split = train
+1	[name:personal]	[name:personal]	PROPN	X	_	2	nsubj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos155.s87.element1
+2	pravi	praviti	VERB	Vmbr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=provi|Gos2.1_token_id=Gos155.tok917
+3	,	,	PUNCT	Z	_	6	punct	_	_
+4	ka	ka	SCONJ	Cs	_	6	mark	_	pronunciation=ka|Gos2.1_token_id=Gos155.tok918
+5	si	se	PRON	Px---d--y	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	6	expl	_	pronunciation=si|Gos2.1_token_id=Gos155.tok919
+6	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	reparandum	_	pronunciation=je|Gos2.1_token_id=Gos155.tok920
+7	,	,	PUNCT	Z	_	11	punct	_	_
+8	ka	ka	SCONJ	Cs	_	11	mark	_	pronunciation=ka|Gos2.1_token_id=Gos155.tok921
+9	si	se	PRON	Px---d--y	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	11	expl	_	pronunciation=si|Gos2.1_token_id=Gos155.tok922
+10	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	aux	_	pronunciation=je|Gos2.1_token_id=Gos155.tok923
+11	zapomnil	zapomniti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	2	ccomp	_	pronunciation=zapuna|Gos2.1_token_id=Gos155.tok924
+12	in	in	CCONJ	Cc	_	14	cc	_	pronunciation=in|Gos2.1_token_id=Gos155.tok925
+13	ka	ka	SCONJ	Cs	_	14	mark	_	pronunciation=ka|Gos2.1_token_id=Gos155.tok926
+14	bo	biti	VERB	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	11	conj	_	pronunciation=bude|Gos2.1_token_id=Gos155.tok927
+15	Rdeča	rdeč	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	pronunciation=Rdeča|Gos2.1_token_id=Gos155.tok928
+16	vrtnica	vrtnica	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	pronunciation=vrtnca|Gos2.1_token_id=Gos155.tok929
+17	od	od	ADP	Sg	Case=Gen	18	case	_	pronunciation=od|Gos2.1_token_id=Gos155.tok930
+18	Viktorije	Viktorija	PROPN	Npfsg	Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	pronunciation=Viktorije|Gos2.1_token_id=Gos155.tok931
+19	,	,	PUNCT	Z	_	20	punct	_	_
+20	pozdrave	pozdrav	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	2	parataxis	_	pronunciation=pozdrave|Gos2.1_token_id=Gos155.tok932
+21	še	še	PART	Q	_	22	advmod	_	pronunciation=še|Gos2.1_token_id=Gos155.tok933
+22	nekomu	nekdo	PRON	Pi-msd	Case=Dat|Gender=Masc|Number=Sing|PronType=Ind	20	orphan	_	pronunciation=nekomi|Gos2.1_token_id=Gos155.tok934
+23	.	.	PUNCT	Z	_	2	punct	_	_
 
 
 # sent_id = Gos155.s88
@@ -232,6 +208,30 @@
 3	lahko	lahek	ADJ	Agpfsa	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	pronunciation=lehku|Gos2.1_token_id=Gos155.tok963
 4	noč	noč	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	1	discourse	_	pronunciation=noč|Gos2.1_token_id=Gos155.tok964
 5	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos155.s96
+# speaker_id = Pm-mode-10504
+# sound_url = https://nl.ijs.si/project/gos20/Gos155/Gos155.s96.mp3
+# text = [name:personal] , dobil si Rdečo vrtnico , eno ti , jaz pa bom te ovo drugo .
+# split = train
+1	[name:personal]	[name:personal]	PROPN	X	_	3	vocative	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos155.s96.element1
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	dobil	dobiti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=dobu|Gos2.1_token_id=Gos155.tok965
+4	si	biti	AUX	Va-r2s-n	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	pronunciation=si|Gos2.1_token_id=Gos155.tok966
+5	Rdečo	rdeč	ADJ	Agpfsa	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	pronunciation=Rdečo|Gos2.1_token_id=Gos155.tok967
+6	vrtnico	vrtnica	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	pronunciation=vrtnco|Gos2.1_token_id=Gos155.tok968
+7	,	,	PUNCT	Z	_	9	punct	_	_
+8	eno	en	NUM	Mlpfsa	Case=Acc|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	9	orphan	_	pronunciation=eno|Gos2.1_token_id=Gos155.tok969
+9	ti	ti	PRON	Pp2-sn	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	parataxis	_	pronunciation=ti|Gos2.1_token_id=Gos155.tok970
+10	,	,	PUNCT	Z	_	13	punct	_	_
+11	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	pronunciation=jaz|Gos2.1_token_id=Gos155.tok971
+12	pa	pa	CCONJ	Cc	_	13	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos155.tok972
+13	bom	biti	VERB	Va-f1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin	3	parataxis	_	pronunciation=bon|Gos2.1_token_id=Gos155.tok973
+14	te	te	ADV	Rgp	Degree=Pos	13	advmod	_	pronunciation=te|Gos2.1_token_id=Gos155.tok974
+15	ovo	ovi	DET	Pd-fsa	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	16	det	_	pronunciation=ovo|Gos2.1_token_id=Gos155.tok975
+16	drugo	drug	ADJ	Mlpfsa	Case=Acc|Gender=Fem|Number=Sing	13	obj	_	pronunciation=drugo|Gos2.1_token_id=Gos155.tok976
+17	.	.	PUNCT	Z	_	3	punct	_	_
 
 
 # sent_id = Gos155.s97
