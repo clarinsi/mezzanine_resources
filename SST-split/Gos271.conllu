@@ -1,0 +1,81 @@
+# newdoc id = Gos271
+# sent_id = Gos271.s45
+# speaker_id = Af-prij-02102
+# sound_url = https://nl.ijs.si/project/gos20/Gos271/Gos271.s45.mp3
+# text = no , no , ja , n- .
+# split = test
+1	no	no	PART	Q	_	0	root	_	pronunciation=no|Gos2.1_token_id=Gos271.tok307
+2	,	,	PUNCT	Z	_	3	punct	_	_
+3	no	no	PART	Q	_	1	discourse	_	pronunciation=no|Gos2.1_token_id=Gos271.tok309
+4	,	,	PUNCT	Z	_	5	punct	_	_
+5	ja	ja	PART	Q	_	1	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos271.tok311
+6	,	,	PUNCT	Z	_	7	punct	_	_
+7	n-	n-	X	Xt	_	1	orphan	_	pronunciation=n…|Gos2.1_token_id=Gos271.tok312
+8	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos271.s46
+# speaker_id = Af-prij-02102
+# sound_url = https://nl.ijs.si/project/gos20/Gos271/Gos271.s46.mp3
+# text = ja , ni problema , glej .
+# split = test
+1	ja	ja	PART	Q	_	3	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos271.tok313
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	ni	biti	VERB	Va-r3s-y	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=ni|Gos2.1_token_id=Gos271.tok314
+4	problema	problem	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	3	nsubj	_	pronunciation=problema|Gos2.1_token_id=Gos271.tok315
+5	,	,	PUNCT	Z	_	6	punct	_	_
+6	glej	gledati	VERB	Vmpm2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	3	parataxis:discourse	_	pronunciation=glej|Gos2.1_token_id=Gos271.tok316
+7	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos271.s47
+# speaker_id = Bf-prij-02103
+# sound_url = https://nl.ijs.si/project/gos20/Gos271/Gos271.s47.mp3
+# text = v redu .
+# split = test
+1	v	v	ADP	Sl	Case=Loc	2	case	_	pronunciation=v|Gos2.1_token_id=Gos271.tok317
+2	redu	red	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	0	root	_	pronunciation=redi|Gos2.1_token_id=Gos271.tok318
+3	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos271.s48
+# speaker_id = Af-prij-02102
+# sound_url = https://nl.ijs.si/project/gos20/Gos271/Gos271.s48.mp3
+# text = ti kar pridna bodi .
+# split = test
+1	ti	ti	PRON	Pp2-sn	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	pronunciation=ti|Gos2.1_token_id=Gos271.tok319
+2	kar	kar	ADV	Rgp	Degree=Pos	3	advmod	_	pronunciation=kr|Gos2.1_token_id=Gos271.tok320
+3	pridna	priden	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	pronunciation=pridna|Gos2.1_token_id=Gos271.tok321
+4	bodi	biti	AUX	Va-m2s	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	3	cop	_	pronunciation=bodi|Gos2.1_token_id=Gos271.tok322
+5	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos271.s49
+# speaker_id = Bf-prij-02103
+# sound_url = https://nl.ijs.si/project/gos20/Gos271/Gos271.s49.mp3
+# text = ja , bom , bom .
+# split = test
+1	ja	ja	PART	Q	_	3	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos271.tok323
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	bom	biti	VERB	Va-f1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin	0	root	_	pronunciation=bom|Gos2.1_token_id=Gos271.tok324
+4	,	,	PUNCT	Z	_	5	punct	_	_
+5	bom	biti	VERB	Va-f1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin	3	parataxis	_	pronunciation=bom|Gos2.1_token_id=Gos271.tok325
+6	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos271.s50
+# speaker_id = Af-prij-02102
+# sound_url = https://nl.ijs.si/project/gos20/Gos271/Gos271.s50.mp3
+# text = upam , da si se kaj naspala vsaj .
+# split = test
+1	upam	upati	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=upam|Gos2.1_token_id=Gos271.tok326
+2	,	,	PUNCT	Z	_	7	punct	_	_
+3	da	da	SCONJ	Cs	_	7	mark	_	pronunciation=da|Gos2.1_token_id=Gos271.tok327
+4	si	biti	AUX	Va-r2s-n	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	pronunciation=si|Gos2.1_token_id=Gos271.tok328
+5	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	7	expl	_	pronunciation=se|Gos2.1_token_id=Gos271.tok329
+6	kaj	kaj	ADV	Rgp	Degree=Pos	7	advmod	_	pronunciation=ke|Gos2.1_token_id=Gos271.tok330
+7	naspala	naspati	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	1	ccomp	_	pronunciation=naspala|Gos2.1_token_id=Gos271.tok331
+8	vsaj	vsaj	PART	Q	_	7	advmod	_	pronunciation=vsaj|Gos2.1_token_id=Gos271.tok332
+9	.	.	PUNCT	Z	_	1	punct	_	_
+
+

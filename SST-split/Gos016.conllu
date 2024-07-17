@@ -1,0 +1,235 @@
+# newdoc id = Gos016
+# sent_id = Gos016.s587
+# speaker_id = Cf-ucen-05600
+# sound_url = https://nl.ijs.si/project/gos20/Gos016/Gos016.s587.mp3
+# text = ja , se- , se- .
+# split = test
+1	ja	ja	PART	Q	_	0	root	_	pronunciation=ja|Gos2.1_token_id=Gos016.tok2155
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	se-	se-	X	Xt	_	1	orphan	_	pronunciation=se…|Gos2.1_token_id=Gos016.tok2156
+4	,	,	PUNCT	Z	_	1	punct	_	_
+5	se-	se-	X	Xt	_	1	orphan	_	pronunciation=se…|Gos2.1_token_id=Gos016.tok2157
+6	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos016.s588
+# speaker_id = Cf-ucen-05600
+# sound_url = https://nl.ijs.si/project/gos20/Gos016/Gos016.s588.mp3
+# text = semenčice .
+# split = test
+1	semenčice	semenčica	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	0	root	_	pronunciation=semenčice|Gos2.1_token_id=Gos016.tok2158
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos016.s589
+# speaker_id = Af-prof-05598
+# sound_url = https://nl.ijs.si/project/gos20/Gos016/Gos016.s589.mp3
+# text = semenčice , [name:personal] , semenčice , kaj pa je to , semenčice ?
+# split = test
+1	semenčice	semenčica	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	0	root	_	pronunciation=semenčice|Gos2.1_token_id=Gos016.tok2159
+2	,	,	PUNCT	Z	_	3	punct	_	_
+3	[name:personal]	[name:personal]	PROPN	X	_	1	vocative	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos016.s589.element1
+4	,	,	PUNCT	Z	_	5	punct	_	_
+5	semenčice	semenčica	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	1	parataxis	_	pronunciation=semenčice|Gos2.1_token_id=Gos016.tok2160
+6	,	,	PUNCT	Z	_	10	punct	_	_
+7	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	10	nsubj	_	pronunciation=kaj|Gos2.1_token_id=Gos016.tok2161
+8	pa	pa	CCONJ	Cc	_	10	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos016.tok2162
+9	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	cop	_	pronunciation=je|Gos2.1_token_id=Gos016.tok2163
+10	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	parataxis	_	pronunciation=to|Gos2.1_token_id=Gos016.tok2164
+11	,	,	PUNCT	Z	_	12	punct	_	_
+12	semenčice	semenčica	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	10	dislocated	_	pronunciation=semenčice|Gos2.1_token_id=Gos016.tok2165
+13	?	?	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos016.s590
+# speaker_id = Em-ucen-05602
+# sound_url = https://nl.ijs.si/project/gos20/Gos016/Gos016.s590.mp3
+# text = moške spolne celice .
+# split = test
+1	moške	moški	ADJ	Agpfpn	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	3	amod	_	pronunciation=moške|Gos2.1_token_id=Gos016.tok2167
+2	spolne	spolen	ADJ	Agpfpn	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	3	amod	_	pronunciation=spolne|Gos2.1_token_id=Gos016.tok2168
+3	celice	celica	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	0	root	_	pronunciation=celice|Gos2.1_token_id=Gos016.tok2169
+4	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos016.s591
+# speaker_id = Af-prof-05598
+# sound_url = https://nl.ijs.si/project/gos20/Gos016/Gos016.s591.mp3
+# text = to je moška spolna celica , ja .
+# split = test
+1	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	pronunciation=to|Gos2.1_token_id=Gos016.tok2170
+2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	cop	_	pronunciation=je|Gos2.1_token_id=Gos016.tok2171
+3	moška	moški	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	pronunciation=moška|Gos2.1_token_id=Gos016.tok2172
+4	spolna	spolen	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	pronunciation=spolna|Gos2.1_token_id=Gos016.tok2173
+5	celica	celica	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	pronunciation=celica|Gos2.1_token_id=Gos016.tok2174
+6	,	,	PUNCT	Z	_	7	punct	_	_
+7	ja	ja	PART	Q	_	5	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos016.tok2175
+8	.	.	PUNCT	Z	_	5	punct	_	_
+
+
+# sent_id = Gos016.s592
+# speaker_id = Af-prof-05598
+# sound_url = https://nl.ijs.si/project/gos20/Gos016/Gos016.s592.mp3
+# text = no , tu je trizoba kukavica .
+# split = test
+1	no	no	PART	Q	_	4	discourse	_	pronunciation=no|Gos2.1_token_id=Gos016.tok2176
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	tu	tu	ADV	Rgp	Degree=Pos	4	advmod	_	pronunciation=tu|Gos2.1_token_id=Gos016.tok2177
+4	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=je|Gos2.1_token_id=Gos016.tok2178
+5	trizoba	trizob	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	pronunciation=trizoba|Gos2.1_token_id=Gos016.tok2179
+6	kukavica	kukavica	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	pronunciation=kukavica|Gos2.1_token_id=Gos016.tok2180
+7	.	.	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos016.s593
+# speaker_id = Af-prof-05598
+# sound_url = https://nl.ijs.si/project/gos20/Gos016/Gos016.s593.mp3
+# text = poglejte so- , njeni sorodniki pa so navadna kukavica , pegastoprsta ku- kukavica , ste videli kdaj tole na travnikih ?
+# split = test
+1	poglejte	pogledati	VERB	Vmem2p	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	pronunciation=poglejte|Gos2.1_token_id=Gos016.tok2181
+2	so-	so-	X	Xt	_	5	reparandum	_	pronunciation=so…|Gos2.1_token_id=Gos016.tok2182
+3	,	,	PUNCT	Z	_	5	punct	_	_
+4	njeni	njen	DET	Ps3mpnsf	Case=Nom|Gender=Masc|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	pronunciation=njeni|Gos2.1_token_id=Gos016.tok2183
+5	sorodniki	sorodnik	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	1	parataxis	_	pronunciation=sorodniki|Gos2.1_token_id=Gos016.tok2184
+6	pa	pa	CCONJ	Cc	_	5	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos016.tok2185
+7	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	cop	_	pronunciation=so|Gos2.1_token_id=Gos016.tok2186
+8	navadna	navaden	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	pronunciation=navadna|Gos2.1_token_id=Gos016.tok2187
+9	kukavica	kukavica	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	pronunciation=kukavica|Gos2.1_token_id=Gos016.tok2188
+10	,	,	PUNCT	Z	_	13	punct	_	_
+11	pegastoprsta	pegastoprst	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	pronunciation=pegastoprsta|Gos2.1_token_id=Gos016.tok2189
+12	ku-	ku-	X	Xt	_	13	reparandum	_	pronunciation=ku…|Gos2.1_token_id=Gos016.tok2190
+13	kukavica	kukavica	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	9	conj	_	pronunciation=kukavica|Gos2.1_token_id=Gos016.tok2191
+14	,	,	PUNCT	Z	_	16	punct	_	_
+15	ste	biti	AUX	Va-r2p-n	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	16	aux	_	pronunciation=ste|Gos2.1_token_id=Gos016.tok2192
+16	videli	videti	VERB	Vmbp-pm	Gender=Masc|Number=Plur|VerbForm=Part	1	parataxis	_	pronunciation=vidli|Gos2.1_token_id=Gos016.tok2193
+17	kdaj	kdaj	ADV	Rgp	Degree=Pos	16	advmod	_	pronunciation=kdaj|Gos2.1_token_id=Gos016.tok2194
+18	tole	tale	DET	Pd-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	16	obj	_	pronunciation=tole|Gos2.1_token_id=Gos016.tok2195
+19	na	na	ADP	Sl	Case=Loc	20	case	_	pronunciation=na|Gos2.1_token_id=Gos016.tok2196
+20	travnikih	travnik	NOUN	Ncmpl	Case=Loc|Gender=Masc|Number=Plur	16	obl	_	pronunciation=travnikih|Gos2.1_token_id=Gos016.tok2197
+21	?	?	PUNCT	Z	_	16	punct	_	_
+
+
+# sent_id = Gos016.s594
+# speaker_id = Pn-vsiucenci-10000
+# sound_url = https://nl.ijs.si/project/gos20/Gos016/Gos016.s594.mp3
+# text = ja .
+# split = test
+1	ja	ja	PART	Q	_	0	root	_	pronunciation=ja|Gos2.1_token_id=Gos016.tok2199
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos016.s596
+# speaker_id = Hm-ucen-05605
+# sound_url = https://nl.ijs.si/project/gos20/Gos016/Gos016.s596.mp3
+# text = zelo lepa .
+# split = test
+1	zelo	zelo	ADV	Rgp	Degree=Pos	2	advmod	_	pronunciation=zelo|Gos2.1_token_id=Gos016.tok2200
+2	lepa	lep	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	pronunciation=lepa|Gos2.1_token_id=Gos016.tok2201
+3	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos016.s597
+# speaker_id = Af-prof-05598
+# sound_url = https://nl.ijs.si/project/gos20/Gos016/Gos016.s597.mp3
+# text = potem je pikastocvetna kukavica .
+# split = test
+1	potem	potem	ADV	Rgp	Degree=Pos	2	advmod	_	pronunciation=potem|Gos2.1_token_id=Gos016.tok2202
+2	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=je|Gos2.1_token_id=Gos016.tok2203
+3	pikastocvetna	pikastocveten	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	pronunciation=pikastocvetna|Gos2.1_token_id=Gos016.tok2204
+4	kukavica	kukavica	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	pronunciation=kukavica|Gos2.1_token_id=Gos016.tok2205
+5	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos016.s598
+# speaker_id = Cf-ucen-05600
+# sound_url = https://nl.ijs.si/project/gos20/Gos016/Gos016.s598.mp3
+# text = sem tudi videla .
+# split = test
+1	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	pronunciation=sem|Gos2.1_token_id=Gos016.tok2206
+2	tudi	tudi	PART	Q	_	3	advmod	_	pronunciation=tudi|Gos2.1_token_id=Gos016.tok2207
+3	videla	videti	VERB	Vmbp-sf	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=vidla|Gos2.1_token_id=Gos016.tok2208
+4	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos016.s599
+# speaker_id = Af-prof-05598
+# sound_url = https://nl.ijs.si/project/gos20/Gos016/Gos016.s599.mp3
+# text = tudi to je po- kar pogosta rastlina na naših travnikih , ne ?
+# split = test
+1	tudi	tudi	PART	Q	_	2	advmod	_	pronunciation=tudi|Gos2.1_token_id=Gos016.tok2209
+2	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	pronunciation=to|Gos2.1_token_id=Gos016.tok2210
+3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	_	pronunciation=je|Gos2.1_token_id=Gos016.tok2211
+4	po-	po-	X	Xt	_	6	reparandum	_	pronunciation=po…|Gos2.1_token_id=Gos016.tok2212
+5	kar	kar	ADV	Rgp	Degree=Pos	6	advmod	_	pronunciation=kar|Gos2.1_token_id=Gos016.tok2213
+6	pogosta	pogost	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	pronunciation=pogosta|Gos2.1_token_id=Gos016.tok2214
+7	rastlina	rastlina	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	pronunciation=rastlina|Gos2.1_token_id=Gos016.tok2215
+8	na	na	ADP	Sl	Case=Loc	10	case	_	pronunciation=na|Gos2.1_token_id=Gos016.tok2216
+9	naših	naš	DET	Ps1mplp	Case=Loc|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	10	det	_	pronunciation=naših|Gos2.1_token_id=Gos016.tok2217
+10	travnikih	travnik	NOUN	Ncmpl	Case=Loc|Gender=Masc|Number=Plur	7	obl	_	pronunciation=travnikih|Gos2.1_token_id=Gos016.tok2218
+11	,	,	PUNCT	Z	_	12	punct	_	_
+12	ne	ne	PART	Q	Polarity=Neg	7	discourse	_	pronunciation=ne|Gos2.1_token_id=Gos016.tok2219
+13	?	?	PUNCT	Z	_	7	punct	_	_
+
+
+# sent_id = Gos016.s600
+# speaker_id = Af-prof-05598
+# sound_url = https://nl.ijs.si/project/gos20/Gos016/Gos016.s600.mp3
+# text = no , naslednja , eee , družina so metuljnice .
+# split = test
+1	no	no	PART	Q	_	7	discourse	_	pronunciation=no|Gos2.1_token_id=Gos016.tok2220
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	naslednja	naslednji	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	pronunciation=naslednja|Gos2.1_token_id=Gos016.tok2221
+4	,	,	PUNCT	Z	_	5	punct	_	_
+5	eee	eee	INTJ	I	_	7	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos016.tok2222
+6	,	,	PUNCT	Z	_	5	punct	_	_
+7	družina	družina	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	pronunciation=družina|Gos2.1_token_id=Gos016.tok2223
+8	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	_	pronunciation=so|Gos2.1_token_id=Gos016.tok2224
+9	metuljnice	metuljnica	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	7	nsubj	_	pronunciation=metuljnice|Gos2.1_token_id=Gos016.tok2225
+10	.	.	PUNCT	Z	_	7	punct	_	_
+
+
+# sent_id = Gos016.s601
+# speaker_id = Af-prof-05598
+# sound_url = https://nl.ijs.si/project/gos20/Gos016/Gos016.s601.mp3
+# text = letos smo jih že omenjali .
+# split = test
+1	letos	letos	ADV	Rgp	Degree=Pos	5	advmod	_	pronunciation=letos|Gos2.1_token_id=Gos016.tok2226
+2	smo	biti	AUX	Va-r1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	pronunciation=smo|Gos2.1_token_id=Gos016.tok2227
+3	jih	on	PRON	Pp3fpa--y	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Variant=Short	5	obj	_	pronunciation=jih|Gos2.1_token_id=Gos016.tok2228
+4	že	že	PART	Q	_	5	advmod	_	pronunciation=že|Gos2.1_token_id=Gos016.tok2229
+5	omenjali	omenjati	VERB	Vmpp-pm	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	pronunciation=omenjali|Gos2.1_token_id=Gos016.tok2230
+6	.	.	PUNCT	Z	_	5	punct	_	_
+
+
+# sent_id = Gos016.s602
+# speaker_id = Af-prof-05598
+# sound_url = https://nl.ijs.si/project/gos20/Gos016/Gos016.s602.mp3
+# text = s katerimi rastlinami v povezavi ?
+# split = test
+1	s	z	ADP	Si	Case=Ins	3	case	_	pronunciation=s|Gos2.1_token_id=Gos016.tok2231
+2	katerimi	kateri	DET	Pq-fpi	Case=Ins|Gender=Fem|Number=Plur|PronType=Int	3	det	_	pronunciation=katerimi|Gos2.1_token_id=Gos016.tok2232
+3	rastlinami	rastlina	NOUN	Ncfpi	Case=Ins|Gender=Fem|Number=Plur	5	nmod	_	pronunciation=rastlinami|Gos2.1_token_id=Gos016.tok2233
+4	v	v	ADP	Sl	Case=Loc	5	case	_	pronunciation=v|Gos2.1_token_id=Gos016.tok2234
+5	povezavi	povezava	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	0	root	_	pronunciation=povezavi|Gos2.1_token_id=Gos016.tok2235
+6	?	?	PUNCT	Z	_	5	punct	_	_
+
+
+# sent_id = Gos016.s603
+# speaker_id = Af-prof-05598
+# sound_url = https://nl.ijs.si/project/gos20/Gos016/Gos016.s603.mp3
+# text = katere vrste rastlin smo omenjali , da so metuljnice , [name:personal] ?
+# split = test
+1	katere	kateri	DET	Pq-fpa	Case=Acc|Gender=Fem|Number=Plur|PronType=Int	2	det	_	pronunciation=katere|Gos2.1_token_id=Gos016.tok2236
+2	vrste	vrsta	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	5	iobj	_	pronunciation=vrste|Gos2.1_token_id=Gos016.tok2237
+3	rastlin	rastlina	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	2	nmod	_	pronunciation=rastlin|Gos2.1_token_id=Gos016.tok2238
+4	smo	biti	AUX	Va-r1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	pronunciation=smo|Gos2.1_token_id=Gos016.tok2239
+5	omenjali	omenjati	VERB	Vmpp-pm	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	pronunciation=omenjali|Gos2.1_token_id=Gos016.tok2240
+6	,	,	PUNCT	Z	_	9	punct	_	_
+7	da	da	SCONJ	Cs	_	9	mark	_	pronunciation=da|Gos2.1_token_id=Gos016.tok2241
+8	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	cop	_	pronunciation=so|Gos2.1_token_id=Gos016.tok2242
+9	metuljnice	metuljnica	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	5	ccomp	_	pronunciation=metuljnice|Gos2.1_token_id=Gos016.tok2243
+10	,	,	PUNCT	Z	_	11	punct	_	_
+11	[name:personal]	[name:personal]	PROPN	X	_	5	vocative	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos016.s603.element1
+12	?	?	PUNCT	Z	_	5	punct	_	_
+
+

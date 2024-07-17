@@ -33,6 +33,7 @@ df = pd.DataFrame(
         "first_token_id": [i[0]["misc"]["Gos2.1_token_id"] for i in combined],
         "sent_id": [i.metadata["sent_id"] for i in combined],
         "split": [i.metadata["split"] for i in combined],
+        "sent_id": [i.metadata["sent_id"] for i in combined],
     }
 )
 ### # Test for leakage between splits:
@@ -57,7 +58,9 @@ df["file"] = df.first_token_id.str.split(".").str[0].apply(lambda s: s + ".conll
 pattern = r"(\d+)"
 # Extract all matches and convert to a list of tuples
 df["extracted_digits"] = (
-    df["first_token_id"]
+    df["sent_id"]
+    .str.split(".")
+    .str[-1]
     .str.extractall(pattern)
     .groupby(level=0)[0]
     .apply(lambda x: tuple(x.astype(int)))
@@ -68,7 +71,6 @@ df = df.sort_values(by="extracted_digits").reset_index(drop=True)
 from tqdm import tqdm
 
 for i, row in tqdm(df.iterrows(), total=df.shape[0]):
-
     with open(str(Path(outdir) / row["file"]), "a") as f:
         f.write(row["tokenlist"].serialize() + "\n")
 2 + 2

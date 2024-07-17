@@ -1,0 +1,96 @@
+# newdoc id = Gos024
+# sent_id = Gos024.s25
+# speaker_id = Em-mode-05517
+# sound_url = https://nl.ijs.si/project/gos20/Gos024/Gos024.s25.mp3
+# text = huh , eem , da , da zožamo nekatere , eee , teritorije , ne .
+# split = train
+1	huh	huh	INTJ	I	_	8	discourse	_	pronunciation=huh|Gos2.1_token_id=Gos024.tok475
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	eem	eem	INTJ	I	_	8	discourse:filler	_	pronunciation=eem|Gos2.1_token_id=Gos024.tok476
+4	,	,	PUNCT	Z	_	3	punct	_	_
+5	da	da	SCONJ	Cs	_	7	reparandum	_	pronunciation=da|Gos2.1_token_id=Gos024.tok477
+6	,	,	PUNCT	Z	_	5	punct	_	_
+7	da	da	SCONJ	Cs	_	8	mark	_	pronunciation=da|Gos2.1_token_id=Gos024.tok478
+8	zožamo	zožati	VERB	Vmpr1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=zožamo|Gos2.1_token_id=Gos024.tok479
+9	nekatere	nekateri	DET	Pi-mpa	Case=Acc|Gender=Masc|Number=Plur|PronType=Ind	13	det	_	pronunciation=nekatere|Gos2.1_token_id=Gos024.tok480
+10	,	,	PUNCT	Z	_	11	punct	_	_
+11	eee	eee	INTJ	I	_	8	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos024.tok481
+12	,	,	PUNCT	Z	_	11	punct	_	_
+13	teritorije	teritorij	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	8	obj	_	pronunciation=teritorije|Gos2.1_token_id=Gos024.tok482
+14	,	,	PUNCT	Z	_	15	punct	_	_
+15	ne	ne	PART	Q	Polarity=Neg	8	discourse	_	pronunciation=ne|Gos2.1_token_id=Gos024.tok483
+16	.	.	PUNCT	Z	_	8	punct	_	_
+
+
+# sent_id = Gos024.s26
+# speaker_id = Em-mode-05517
+# sound_url = https://nl.ijs.si/project/gos20/Gos024/Gos024.s26.mp3
+# text = ni govora v tem primeru o otrocih , ne .
+# split = train
+1	ni	biti	VERB	Va-r3s-y	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=ni|Gos2.1_token_id=Gos024.tok484
+2	govora	govor	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	1	nsubj	_	pronunciation=govora|Gos2.1_token_id=Gos024.tok485
+3	v	v	ADP	Sl	Case=Loc	5	case	_	pronunciation=v|Gos2.1_token_id=Gos024.tok486
+4	tem	ta	DET	Pd-msl	Case=Loc|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	pronunciation=tem|Gos2.1_token_id=Gos024.tok487
+5	primeru	primer	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	1	obl	_	pronunciation=primeru|Gos2.1_token_id=Gos024.tok488
+6	o	o	ADP	Sl	Case=Loc	7	case	_	pronunciation=o|Gos2.1_token_id=Gos024.tok489
+7	otrocih	otrok	NOUN	Ncmpl	Case=Loc|Gender=Masc|Number=Plur	1	obl	_	pronunciation=otrocih|Gos2.1_token_id=Gos024.tok490
+8	,	,	PUNCT	Z	_	9	punct	_	_
+9	ne	ne	PART	Q	Polarity=Neg	1	discourse	_	pronunciation=ne|Gos2.1_token_id=Gos024.tok491
+10	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos024.s27
+# speaker_id = Em-mode-05517
+# sound_url = https://nl.ijs.si/project/gos20/Gos024/Gos024.s27.mp3
+# text = njih je jasno potrebno pripeti , kljub temu da statistika , da jih je samo sedemdeset , eem , kakšna bila statistika od sedem pripetih otrok , mmm , ta je res neodgovorna , no .
+# split = train
+1	njih	on	PRON	Pp3mpa	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	obj	_	pronunciation=njih|Gos2.1_token_id=Gos024.tok492
+2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	pronunciation=je|Gos2.1_token_id=Gos024.tok493
+3	jasno	jasen	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	advmod	_	pronunciation=jasno|Gos2.1_token_id=Gos024.tok494
+4	potrebno	potreben	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	pronunciation=potrebno|Gos2.1_token_id=Gos024.tok495
+5	pripeti	pripeti	VERB	Vmen	Aspect=Perf|VerbForm=Inf	4	csubj	_	pronunciation=pripeti|Gos2.1_token_id=Gos024.tok496
+6	,	,	PUNCT	Z	_	10	punct	_	_
+7	kljub	kljub	ADP	Sd	Case=Dat	10	mark	_	pronunciation=klub|Gos2.1_token_id=Gos024.tok497
+8	temu	ta	DET	Pd-nsd	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	7	fixed	_	pronunciation=temu|Gos2.1_token_id=Gos024.tok498
+9	da	da	SCONJ	Cs	_	7	fixed	_	pronunciation=da|Gos2.1_token_id=Gos024.tok499
+10	statistika	statistika	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	5	advcl	_	pronunciation=statistika|Gos2.1_token_id=Gos024.tok500
+11	,	,	PUNCT	Z	_	14	punct	_	_
+12	da	da	SCONJ	Cs	_	14	mark	_	pronunciation=da|Gos2.1_token_id=Gos024.tok501
+13	jih	on	PRON	Pp3mpa--y	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Variant=Short	14	obj	_	pronunciation=jih|Gos2.1_token_id=Gos024.tok502
+14	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	parataxis:restart	_	pronunciation=je|Gos2.1_token_id=Gos024.tok503
+15	samo	samo	PART	Q	_	16	advmod	_	pronunciation=samo|Gos2.1_token_id=Gos024.tok504
+16	sedemdeset	sedemdeset	NUM	Mlc-pn	Case=Nom|Number=Plur|NumForm=Word|NumType=Card	14	obl	_	pronunciation=sedemdeset|Gos2.1_token_id=Gos024.tok505
+17	,	,	PUNCT	Z	_	18	punct	_	_
+18	eem	eem	INTJ	I	_	20	discourse:filler	_	pronunciation=eem|Gos2.1_token_id=Gos024.tok506
+19	,	,	PUNCT	Z	_	18	punct	_	_
+20	kakšna	kakšen	DET	Pq-fsn	Case=Nom|Gender=Fem|Number=Sing|PronType=Int	14	parataxis:restart	_	pronunciation=kašna|Gos2.1_token_id=Gos024.tok507
+21	bila	biti	AUX	Va-p-dm	Gender=Masc|Number=Dual|VerbForm=Part	20	cop	_	pronunciation=bla|Gos2.1_token_id=Gos024.tok508
+22	statistika	statistika	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	20	nsubj	_	pronunciation=statistika|Gos2.1_token_id=Gos024.tok509
+23	od	od	ADP	Sg	Case=Gen	24	case	_	pronunciation=od|Gos2.1_token_id=Gos024.tok510
+24	sedem	sedem	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	20	parataxis	_	pronunciation=sedem|Gos2.1_token_id=Gos024.tok511
+25	pripetih	pripet	ADJ	Appmpg	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part	26	amod	_	pronunciation=pripetih|Gos2.1_token_id=Gos024.tok513
+26	otrok	otrok	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	20	parataxis	_	pronunciation=otrok|Gos2.1_token_id=Gos024.tok514
+27	,	,	PUNCT	Z	_	28	punct	_	_
+28	mmm	mmm	INTJ	I	_	33	discourse:filler	_	pronunciation=mmm|Gos2.1_token_id=Gos024.tok515
+29	,	,	PUNCT	Z	_	28	punct	_	_
+30	ta	ta	DET	Pd-fsn	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	33	nsubj	_	pronunciation=tam|Gos2.1_token_id=Gos024.tok516
+31	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	33	cop	_	pronunciation=je|Gos2.1_token_id=Gos024.tok517
+32	res	res	ADV	Rgp	Degree=Pos	33	advmod	_	pronunciation=res|Gos2.1_token_id=Gos024.tok518
+33	neodgovorna	neodgovoren	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	26	parataxis	_	pronunciation=neodgovorna|Gos2.1_token_id=Gos024.tok519
+34	,	,	PUNCT	Z	_	35	punct	_	_
+35	no	no	PART	Q	_	33	discourse	_	pronunciation=no|Gos2.1_token_id=Gos024.tok520
+36	.	.	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos024.s28
+# speaker_id = Af-novi-05533
+# sound_url = https://nl.ijs.si/project/gos20/Gos024/Gos024.s28.mp3
+# text = med petdeset in sedemdeset .
+# split = train
+1	med	med	ADP	Si	Case=Ins	2	case	_	pronunciation=met|Gos2.1_token_id=Gos024.tok521
+2	petdeset	petdeset	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	0	root	_	pronunciation=petdeset|Gos2.1_token_id=Gos024.tok522
+3	in	in	CCONJ	Cc	_	4	cc	_	pronunciation=in|Gos2.1_token_id=Gos024.tok523
+4	sedemdeset	sedemdeset	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	2	conj	_	pronunciation=sedemdeset|Gos2.1_token_id=Gos024.tok524
+5	.	.	PUNCT	Z	_	2	punct	_	_
+
+

@@ -1,0 +1,179 @@
+# newdoc id = Gos251
+# sent_id = Gos251.s295
+# speaker_id = Mm-prij-07531
+# sound_url = https://nl.ijs.si/project/gos20/Gos251/Gos251.s295.mp3
+# text = ha ?
+# split = train
+1	ha	ha	INTJ	I	_	0	root	_	pronunciation=ha|Gos2.1_token_id=Gos251.tok1451
+2	?	?	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos251.s296
+# speaker_id = Om-prij-07528
+# sound_url = https://nl.ijs.si/project/gos20/Gos251/Gos251.s296.mp3
+# text = na računalnik čakat , ja , m , karte naročit do dvanajstih , ne .
+# split = train
+1	na	na	ADP	Sa	Case=Acc	2	case	_	pronunciation=na|Gos2.1_token_id=Gos251.tok1453
+2	računalnik	računalnik	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obl	_	pronunciation=računalnik|Gos2.1_token_id=Gos251.tok1454
+3	čakat	čakati	VERB	Vmpu	Aspect=Imp|VerbForm=Sup	0	root	_	pronunciation=čakat|Gos2.1_token_id=Gos251.tok1455
+4	,	,	PUNCT	Z	_	5	punct	_	_
+5	ja	ja	PART	Q	_	3	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos251.tok1456
+6	,	,	PUNCT	Z	_	5	punct	_	_
+7	m	m	INTJ	I	_	10	discourse:filler	_	pronunciation=m|Gos2.1_token_id=Gos251.tok1457
+8	,	,	PUNCT	Z	_	7	punct	_	_
+9	karte	karta	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	10	obj	_	pronunciation=karte|Gos2.1_token_id=Gos251.tok1458
+10	naročit	naročiti	VERB	Vmeu	Aspect=Perf|VerbForm=Sup	3	parataxis	_	pronunciation=naročit|Gos2.1_token_id=Gos251.tok1459
+11	do	do	ADP	Sg	Case=Gen	12	case	_	pronunciation=do|Gos2.1_token_id=Gos251.tok1460
+12	dvanajstih	dvanajst	NUM	Mlc-pg	Case=Gen|Number=Plur|NumForm=Word|NumType=Card	10	obl	_	pronunciation=dvanajstih|Gos2.1_token_id=Gos251.tok1461
+13	,	,	PUNCT	Z	_	14	punct	_	_
+14	ne	ne	PART	Q	Polarity=Neg	10	discourse	_	pronunciation=ne|Gos2.1_token_id=Gos251.tok1462
+15	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos251.s297
+# speaker_id = Mm-prij-07531
+# sound_url = https://nl.ijs.si/project/gos20/Gos251/Gos251.s297.mp3
+# text = aja , moreš , ja .
+# split = train
+1	aja	aja	INTJ	I	_	3	discourse	_	pronunciation=aja|Gos2.1_token_id=Gos251.tok1463
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	moreš	moči	VERB	Vmpr2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=moreš|Gos2.1_token_id=Gos251.tok1464
+4	,	,	PUNCT	Z	_	5	punct	_	_
+5	ja	ja	PART	Q	_	3	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos251.tok1465
+6	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos251.s298
+# speaker_id = Mm-prij-07531
+# sound_url = https://nl.ijs.si/project/gos20/Gos251/Gos251.s298.mp3
+# text = ker drugače ne bomo dobili , stari .
+# split = train
+1	ker	ker	SCONJ	Cs	_	5	mark	_	pronunciation=ker|Gos2.1_token_id=Gos251.tok1466
+2	drugače	drugače	ADV	Rgp	Degree=Pos	5	advmod	_	pronunciation=drugače|Gos2.1_token_id=Gos251.tok1467
+3	ne	ne	PART	Q	Polarity=Neg	5	advmod	_	pronunciation=neomo|Gos2.1_token_id=Gos251.tok1468n1
+4	bomo	biti	AUX	Va-f1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin	5	aux	_	pronunciation=neomo|Gos2.1_token_id=Gos251.tok1468n2
+5	dobili	dobiti	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	pronunciation=dobili|Gos2.1_token_id=Gos251.tok1469
+6	,	,	PUNCT	Z	_	7	punct	_	_
+7	stari	star	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	5	vocative	_	pronunciation=stari|Gos2.1_token_id=Gos251.tok1470
+8	.	.	PUNCT	Z	_	5	punct	_	_
+
+
+# sent_id = Gos251.s299
+# speaker_id = Om-prij-07528
+# sound_url = https://nl.ijs.si/project/gos20/Gos251/Gos251.s299.mp3
+# text = tri tavžent kart je samo ven šlo , veš kaj to .
+# split = train
+1	tri	trije	NUM	Mlcmpa	Case=Acc|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	3	nummod	_	pronunciation=tri|Gos2.1_token_id=Gos251.tok1471
+2	tavžent	tavžent	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	1	flat	_	pronunciation=taužnt|Gos2.1_token_id=Gos251.tok1472
+3	kart	karta	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	7	nsubj	_	pronunciation=kart|Gos2.1_token_id=Gos251.tok1473
+4	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	pronunciation=je|Gos2.1_token_id=Gos251.tok1474
+5	samo	samo	PART	Q	_	1	advmod	_	pronunciation=samo|Gos2.1_token_id=Gos251.tok1475
+6	ven	ven	ADV	Rgp	Degree=Pos	7	advmod	_	pronunciation=vun|Gos2.1_token_id=Gos251.tok1476
+7	šlo	iti	VERB	Vmbp-sn	Gender=Neut|Number=Sing|VerbForm=Part	0	root	_	pronunciation=šlo|Gos2.1_token_id=Gos251.tok1477
+8	,	,	PUNCT	Z	_	9	punct	_	_
+9	veš	vedeti	VERB	Vmpr2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	parataxis	_	pronunciation=veš|Gos2.1_token_id=Gos251.tok1478
+10	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	9	ccomp	_	pronunciation=kaj|Gos2.1_token_id=Gos251.tok1479
+11	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	10	nsubj	_	pronunciation=to|Gos2.1_token_id=Gos251.tok1480
+12	.	.	PUNCT	Z	_	7	punct	_	_
+
+
+# sent_id = Gos251.s300
+# speaker_id = Sm-prij-07530
+# sound_url = https://nl.ijs.si/project/gos20/Gos251/Gos251.s300.mp3
+# text = pa veš , da bodo m- , veš , da bodo m- .
+# split = train
+1	pa	pa	CCONJ	Cc	_	2	cc	_	pronunciation=pa|Gos2.1_token_id=Gos251.tok1481
+2	veš	vedeti	VERB	Vmpr2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=veš|Gos2.1_token_id=Gos251.tok1482
+3	,	,	PUNCT	Z	_	5	punct	_	_
+4	da	da	SCONJ	Cs	_	5	mark	_	pronunciation=da|Gos2.1_token_id=Gos251.tok1483
+5	bodo	biti	VERB	Va-f3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	2	ccomp	_	pronunciation=bodo|Gos2.1_token_id=Gos251.tok1484
+6	m-	m-	X	Xt	_	5	orphan	_	pronunciation=m…|Gos2.1_token_id=Gos251.tok1485
+7	,	,	PUNCT	Z	_	5	punct	_	_
+8	veš	vedeti	VERB	Vmpr2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	parataxis	_	pronunciation=veš|Gos2.1_token_id=Gos251.tok1486
+9	,	,	PUNCT	Z	_	11	punct	_	_
+10	da	da	SCONJ	Cs	_	11	mark	_	pronunciation=da|Gos2.1_token_id=Gos251.tok1487
+11	bodo	biti	VERB	Va-f3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	8	ccomp	_	pronunciation=bodo|Gos2.1_token_id=Gos251.tok1488
+12	m-	m-	X	Xt	_	11	orphan	_	pronunciation=m…|Gos2.1_token_id=Gos251.tok1489
+13	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos251.s301
+# speaker_id = Mm-prij-07531
+# sound_url = https://nl.ijs.si/project/gos20/Gos251/Gos251.s301.mp3
+# text = kaj ?
+# split = train
+1	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	pronunciation=kaj|Gos2.1_token_id=Gos251.tok1490
+2	?	?	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos251.s302
+# speaker_id = Om-prij-07528
+# sound_url = https://nl.ijs.si/project/gos20/Gos251/Gos251.s302.mp3
+# text = tri tavžent kart je samo ven šlo .
+# split = train
+1	tri	trije	NUM	Mlcmpa	Case=Acc|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	3	nummod	_	pronunciation=tri|Gos2.1_token_id=Gos251.tok1491
+2	tavžent	tavžent	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	1	flat	_	pronunciation=taužnt|Gos2.1_token_id=Gos251.tok1492
+3	kart	karta	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	7	nsubj	_	pronunciation=kart|Gos2.1_token_id=Gos251.tok1493
+4	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	pronunciation=je|Gos2.1_token_id=Gos251.tok1494
+5	samo	samo	PART	Q	_	1	advmod	_	pronunciation=samo|Gos2.1_token_id=Gos251.tok1495
+6	ven	ven	ADV	Rgp	Degree=Pos	7	advmod	_	pronunciation=vun|Gos2.1_token_id=Gos251.tok1496
+7	šlo	iti	VERB	Vmbp-sn	Gender=Neut|Number=Sing|VerbForm=Part	0	root	_	pronunciation=šlo|Gos2.1_token_id=Gos251.tok1497
+8	.	.	PUNCT	Z	_	7	punct	_	_
+
+
+# sent_id = Gos251.s303
+# speaker_id = Sm-prij-07530
+# sound_url = https://nl.ijs.si/project/gos20/Gos251/Gos251.s303.mp3
+# text = kaj ?
+# split = train
+1	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	pronunciation=kaj|Gos2.1_token_id=Gos251.tok1498
+2	?	?	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos251.s304
+# speaker_id = Mm-prij-07531
+# sound_url = https://nl.ijs.si/project/gos20/Gos251/Gos251.s304.mp3
+# text = ja , kaj pa ostalo ?
+# split = train
+1	ja	ja	PART	Q	_	3	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos251.tok1500
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	pronunciation=kaj|Gos2.1_token_id=Gos251.tok1501
+4	pa	pa	CCONJ	Cc	_	3	orphan	_	pronunciation=pa|Gos2.1_token_id=Gos251.tok1502
+5	ostalo	ostal	ADJ	Appnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part	3	orphan	_	pronunciation=ostalo|Gos2.1_token_id=Gos251.tok1503
+6	?	?	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos251.s305
+# speaker_id = Om-prij-07528
+# sound_url = https://nl.ijs.si/project/gos20/Gos251/Gos251.s305.mp3
+# text = ostalo pa je šlo v firme pa v
+# split = train
+1	ostalo	ostal	ADJ	Appnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part	4	nsubj	_	pronunciation=ostalo|Gos2.1_token_id=Gos251.tok1505
+2	pa	pa	CCONJ	Cc	_	4	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos251.tok1506
+3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	pronunciation=je|Gos2.1_token_id=Gos251.tok1507
+4	šlo	iti	VERB	Vmbp-sn	Gender=Neut|Number=Sing|VerbForm=Part	0	root	_	pronunciation=šlo|Gos2.1_token_id=Gos251.tok1508
+5	v	v	ADP	Sa	Case=Acc	6	case	_	pronunciation=v|Gos2.1_token_id=Gos251.tok1509
+6	firme	firma	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	4	obl	_	pronunciation=firme|Gos2.1_token_id=Gos251.tok1510
+7	pa	pa	CCONJ	Cc	_	8	cc	_	pronunciation=pa|Gos2.1_token_id=Gos251.tok1511
+8	v	v	ADP	Sa	Case=Acc	6	orphan	_	pronunciation=v|Gos2.1_token_id=Gos251.tok1512
+
+
+# sent_id = Gos251.s306
+# speaker_id = Om-prij-07528
+# sound_url = https://nl.ijs.si/project/gos20/Gos251/Gos251.s306.mp3
+# text = navijaške klube pa fuzbalerji dobijo , da lahko prodajajo svojim familijam .
+# split = train
+1	navijaške	navijaški	ADJ	Agpmpa	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	2	amod	_	pronunciation=navijaške|Gos2.1_token_id=Gos251.tok1513
+2	klube	klub	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	0	root	_	pronunciation=klube|Gos2.1_token_id=Gos251.tok1514
+3	pa	pa	CCONJ	Cc	_	5	cc	_	pronunciation=pa|Gos2.1_token_id=Gos251.tok1515
+4	fuzbalerji	fuzbaler	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	pronunciation=fuzbalerji|Gos2.1_token_id=Gos251.tok1516
+5	dobijo	dobiti	VERB	Vmer3p	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	pronunciation=dobijo|Gos2.1_token_id=Gos251.tok1517
+6	,	,	PUNCT	Z	_	9	punct	_	_
+7	da	da	SCONJ	Cs	_	9	mark	_	pronunciation=da|Gos2.1_token_id=Gos251.tok1518
+8	lahko	lahko	ADV	Rgp	Degree=Pos	9	advmod	_	pronunciation=lahko|Gos2.1_token_id=Gos251.tok1519
+9	prodajajo	prodajati	VERB	Vmpr3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	pronunciation=prodajajo|Gos2.1_token_id=Gos251.tok1520
+10	svojim	svoj	DET	Px-fpd	Case=Dat|Gender=Fem|Number=Plur|PronType=Prs|Reflex=Yes	11	det	_	pronunciation=svojim|Gos2.1_token_id=Gos251.tok1521
+11	familijam	familija	NOUN	Ncfpd	Case=Dat|Gender=Fem|Number=Plur	9	iobj	_	pronunciation=familijam|Gos2.1_token_id=Gos251.tok1522
+12	.	.	PUNCT	Z	_	2	punct	_	_
+
+

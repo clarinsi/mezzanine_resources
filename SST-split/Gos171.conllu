@@ -1,0 +1,192 @@
+# newdoc id = Gos171
+# sent_id = Gos171.s258
+# speaker_id = Am-mode-00518
+# sound_url = https://nl.ijs.si/project/gos20/Gos171/Gos171.s258.mp3
+# text = domov .
+# split = train
+1	domov	domov	ADV	Rgp	Degree=Pos	0	root	_	pronunciation=domov|Gos2.1_token_id=Gos171.tok2309
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos171.s260
+# speaker_id = Am-mode-00518
+# sound_url = https://nl.ijs.si/project/gos20/Gos171/Gos171.s260.mp3
+# text = kakor koli že , druga menjava pri Poljakih .
+# split = train
+1	kakor	kakor	SCONJ	Cs	_	6	discourse	_	pronunciation=kakorkol|Gos2.1_token_id=Gos171.tok2310n1
+2	koli	koli	PART	Q	_	1	fixed	_	pronunciation=kakorkol|Gos2.1_token_id=Gos171.tok2310n2
+3	že	že	PART	Q	_	1	fixed	_	pronunciation=že|Gos2.1_token_id=Gos171.tok2311
+4	,	,	PUNCT	Z	_	1	punct	_	_
+5	druga	drug	ADJ	Mlpfsn	Case=Nom|Gender=Fem|Number=Sing	6	amod	_	pronunciation=druga|Gos2.1_token_id=Gos171.tok2312
+6	menjava	menjava	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	pronunciation=menjava|Gos2.1_token_id=Gos171.tok2313
+7	pri	pri	ADP	Sl	Case=Loc	8	case	_	pronunciation=pri|Gos2.1_token_id=Gos171.tok2314
+8	Poljakih	Poljak	PROPN	Npmpl	Case=Loc|Gender=Masc|Number=Plur	6	nmod	_	pronunciation=Poljakih|Gos2.1_token_id=Gos171.tok2315
+9	.	.	PUNCT	Z	_	6	punct	_	_
+
+
+# sent_id = Gos171.s261
+# speaker_id = Am-mode-00518
+# sound_url = https://nl.ijs.si/project/gos20/Gos171/Gos171.s261.mp3
+# text = Bartosz Bosacki je izkušen nogometaš , triintridesetletni branilec , ki igra za Lech iz Poznanja .
+# split = train
+1	Bartosz	Bartosz	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	pronunciation=Bartoš|Gos2.1_token_id=Gos171.tok2316
+2	Bosacki	Bosacki	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	1	flat:name	_	pronunciation=Bosacki|Gos2.1_token_id=Gos171.tok2317
+3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	cop	_	pronunciation=je|Gos2.1_token_id=Gos171.tok2318
+4	izkušen	izkušen	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	pronunciation=izkušen|Gos2.1_token_id=Gos171.tok2319
+5	nogometaš	nogometaš	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	pronunciation=nogometaš|Gos2.1_token_id=Gos171.tok2320
+6	,	,	PUNCT	Z	_	8	punct	_	_
+7	triintridesetletni	triintridesetleten	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	pronunciation=triintridesetletni|Gos2.1_token_id=Gos171.tok2321
+8	branilec	branilec	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	5	appos	_	pronunciation=branilec|Gos2.1_token_id=Gos171.tok2322
+9	,	,	PUNCT	Z	_	11	punct	_	_
+10	ki	ki	SCONJ	Cs	_	11	mark	_	pronunciation=ki|Gos2.1_token_id=Gos171.tok2323
+11	igra	igrati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl	_	pronunciation=igra|Gos2.1_token_id=Gos171.tok2324
+12	za	za	ADP	Sa	Case=Acc	13	case	_	pronunciation=za|Gos2.1_token_id=Gos171.tok2325
+13	Lech	Lech	PROPN	Npmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obl	_	pronunciation=Leh|Gos2.1_token_id=Gos171.tok2326
+14	iz	iz	ADP	Sg	Case=Gen	15	case	_	pronunciation=iz|Gos2.1_token_id=Gos171.tok2327
+15	Poznanja	Poznan	PROPN	Npmsg	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	pronunciation=Poznanja|Gos2.1_token_id=Gos171.tok2328
+16	.	.	PUNCT	Z	_	5	punct	_	_
+
+
+# sent_id = Gos171.s263
+# speaker_id = Am-mode-00518
+# sound_url = https://nl.ijs.si/project/gos20/Gos171/Gos171.s263.mp3
+# text = igral je za kratko tudi pri Nurnbergu , to je njegova edina izkušnja iz tujine in zdaj prekršek novega kapetana Mariusza Lewandowskega .
+# split = train
+1	igral	igrati	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=igral|Gos2.1_token_id=Gos171.tok2329
+2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	aux	_	pronunciation=je|Gos2.1_token_id=Gos171.tok2330
+3	za	za	ADP	Sa	Case=Acc	4	case	_	pronunciation=za|Gos2.1_token_id=Gos171.tok2331
+4	kratko	kratko	ADV	Rgp	Degree=Pos	1	advmod	_	pronunciation=kratko|Gos2.1_token_id=Gos171.tok2332
+5	tudi	tudi	PART	Q	_	7	advmod	_	pronunciation=tudi|Gos2.1_token_id=Gos171.tok2333
+6	pri	pri	ADP	Sl	Case=Loc	7	case	_	pronunciation=pri|Gos2.1_token_id=Gos171.tok2334
+7	Nurnbergu	Nurnberg	PROPN	Npmsl	Case=Loc|Gender=Masc|Number=Sing	1	obl	_	pronunciation=Nurnbergu|Gos2.1_token_id=Gos171.tok2335
+8	,	,	PUNCT	Z	_	13	punct	_	_
+9	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	13	nsubj	_	pronunciation=to|Gos2.1_token_id=Gos171.tok2336
+10	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	13	cop	_	pronunciation=je|Gos2.1_token_id=Gos171.tok2337
+11	njegova	njegov	DET	Ps3fsnsm	Case=Nom|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	pronunciation=njegova|Gos2.1_token_id=Gos171.tok2338
+12	edina	edin	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	pronunciation=edina|Gos2.1_token_id=Gos171.tok2339
+13	izkušnja	izkušnja	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	1	parataxis	_	pronunciation=izkušnja|Gos2.1_token_id=Gos171.tok2340
+14	iz	iz	ADP	Sg	Case=Gen	15	case	_	pronunciation=iz|Gos2.1_token_id=Gos171.tok2341
+15	tujine	tujina	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	13	obl	_	pronunciation=tujine|Gos2.1_token_id=Gos171.tok2342
+16	in	in	CCONJ	Cc	_	18	cc	_	pronunciation=in|Gos2.1_token_id=Gos171.tok2343
+17	zdaj	zdaj	ADV	Rgp	Degree=Pos	18	orphan	_	pronunciation=zdaj|Gos2.1_token_id=Gos171.tok2344
+18	prekršek	prekršek	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	pronunciation=prekršek|Gos2.1_token_id=Gos171.tok2345
+19	novega	nov	ADJ	Agpmsg	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	pronunciation=novega|Gos2.1_token_id=Gos171.tok2346
+20	kapetana	kapetan	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	pronunciation=kapetana|Gos2.1_token_id=Gos171.tok2347
+21	Mariusza	Mariusz	PROPN	Npmsg	Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	pronunciation=Mariuša|Gos2.1_token_id=Gos171.tok2348
+22	Lewandowskega	Lewandowski	PROPN	Npmsg	Case=Gen|Gender=Masc|Number=Sing	21	flat:name	_	pronunciation=Levandofskega|Gos2.1_token_id=Gos171.tok2349
+23	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos171.s265
+# speaker_id = Am-mode-00518
+# sound_url = https://nl.ijs.si/project/gos20/Gos171/Gos171.s265.mp3
+# text = Poljaki bodo naslednjo tekmo igrali s San Marinom .
+# split = train
+1	Poljaki	Poljak	PROPN	Npmpn	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	pronunciation=Poljaki|Gos2.1_token_id=Gos171.tok2350
+2	bodo	biti	AUX	Va-f3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	5	aux	_	pronunciation=bodo|Gos2.1_token_id=Gos171.tok2351
+3	naslednjo	naslednji	ADJ	Agpfsa	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	pronunciation=naslednjo|Gos2.1_token_id=Gos171.tok2352
+4	tekmo	tekma	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	pronunciation=tekmo|Gos2.1_token_id=Gos171.tok2353
+5	igrali	igrati	VERB	Vmpp-pm	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	pronunciation=igrali|Gos2.1_token_id=Gos171.tok2354
+6	s	z	ADP	Si	Case=Ins	7	case	_	pronunciation=s|Gos2.1_token_id=Gos171.tok2355
+7	San	San	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	5	obl	_	pronunciation=San|Gos2.1_token_id=Gos171.tok2356
+8	Marinom	Marino	PROPN	Npmsi	Case=Ins|Gender=Masc|Number=Sing	7	nmod	_	pronunciation=Marinom|Gos2.1_token_id=Gos171.tok2357
+9	.	.	PUNCT	Z	_	5	punct	_	_
+
+
+# sent_id = Gos171.s267
+# speaker_id = Am-mode-00518
+# sound_url = https://nl.ijs.si/project/gos20/Gos171/Gos171.s267.mp3
+# text = in sicer prav tako v sredo doma .
+# split = train
+1	in	in	CCONJ	Cc	_	6	cc	_	pronunciation=in|Gos2.1_token_id=Gos171.tok2358
+2	sicer	sicer	CCONJ	Cc	_	1	fixed	_	pronunciation=sicer|Gos2.1_token_id=Gos171.tok2359
+3	prav	prav	PART	Q	_	4	advmod	_	pronunciation=prav|Gos2.1_token_id=Gos171.tok2360
+4	tako	tako	ADV	Rgp	Degree=Pos	6	orphan	_	pronunciation=tako|Gos2.1_token_id=Gos171.tok2361
+5	v	v	ADP	Sa	Case=Acc	6	case	_	pronunciation=v|Gos2.1_token_id=Gos171.tok2362
+6	sredo	sreda	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	0	root	_	pronunciation=sredo|Gos2.1_token_id=Gos171.tok2363
+7	doma	doma	ADV	Rgp	Degree=Pos	6	orphan	_	pronunciation=doma|Gos2.1_token_id=Gos171.tok2364
+8	.	.	PUNCT	Z	_	6	punct	_	_
+
+
+# sent_id = Gos171.s268
+# speaker_id = Am-mode-00518
+# sound_url = https://nl.ijs.si/project/gos20/Gos171/Gos171.s268.mp3
+# text = to je tekma , ki jo seveda morejo dobiti , toda ta poraz , že drugi na gostovanju , bi precej okrnil , okrnil njihove možnosti za zmago v skupini .
+# split = train
+1	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	pronunciation=to|Gos2.1_token_id=Gos171.tok2365
+2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	pronunciation=je|Gos2.1_token_id=Gos171.tok2366
+3	tekma	tekma	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	pronunciation=tekma|Gos2.1_token_id=Gos171.tok2367
+4	,	,	PUNCT	Z	_	8	punct	_	_
+5	ki	ki	SCONJ	Cs	_	8	mark	_	pronunciation=ki|Gos2.1_token_id=Gos171.tok2368
+6	jo	on	PRON	Pp3fsa--y	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Variant=Short	9	obj	_	pronunciation=jo|Gos2.1_token_id=Gos171.tok2369
+7	seveda	seveda	PART	Q	_	8	advmod	_	pronunciation=seveda|Gos2.1_token_id=Gos171.tok2370
+8	morejo	moči	VERB	Vmpr3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	acl	_	pronunciation=morejo|Gos2.1_token_id=Gos171.tok2371
+9	dobiti	dobiti	VERB	Vmen	Aspect=Perf|VerbForm=Inf	8	xcomp	_	pronunciation=dobiti|Gos2.1_token_id=Gos171.tok2372
+10	,	,	PUNCT	Z	_	8	punct	_	_
+11	toda	toda	CCONJ	Cc	_	24	cc	_	pronunciation=toda|Gos2.1_token_id=Gos171.tok2373
+12	ta	ta	DET	Pd-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	13	det	_	pronunciation=ta|Gos2.1_token_id=Gos171.tok2374
+13	poraz	poraz	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	24	nsubj	_	pronunciation=poraz|Gos2.1_token_id=Gos171.tok2375
+14	,	,	PUNCT	Z	_	16	punct	_	_
+15	že	že	PART	Q	_	16	advmod	_	pronunciation=že|Gos2.1_token_id=Gos171.tok2376
+16	drugi	drug	ADJ	Mlpmsny	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	13	appos	_	pronunciation=drugi|Gos2.1_token_id=Gos171.tok2377
+17	na	na	ADP	Sl	Case=Loc	18	case	_	pronunciation=na|Gos2.1_token_id=Gos171.tok2378
+18	gostovanju	gostovanje	NOUN	Ncnsl	Case=Loc|Gender=Neut|Number=Sing	16	nmod	_	pronunciation=gostovanju|Gos2.1_token_id=Gos171.tok2379
+19	,	,	PUNCT	Z	_	16	punct	_	_
+20	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	24	aux	_	pronunciation=bi|Gos2.1_token_id=Gos171.tok2380
+21	precej	precej	ADV	Rgp	Degree=Pos	24	advmod	_	pronunciation=precej|Gos2.1_token_id=Gos171.tok2381
+22	okrnil	okrniti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	24	reparandum	_	pronunciation=okrnil|Gos2.1_token_id=Gos171.tok2382
+23	,	,	PUNCT	Z	_	22	punct	_	_
+24	okrnil	okrniti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	3	conj	_	pronunciation=okrnil|Gos2.1_token_id=Gos171.tok2383
+25	njihove	njihov	DET	Ps3fpap	Case=Acc|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	26	det	_	pronunciation=njihove|Gos2.1_token_id=Gos171.tok2384
+26	možnosti	možnost	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	24	obj	_	pronunciation=možnosti|Gos2.1_token_id=Gos171.tok2385
+27	za	za	ADP	Sa	Case=Acc	28	case	_	pronunciation=za|Gos2.1_token_id=Gos171.tok2386
+28	zmago	zmaga	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	26	nmod	_	pronunciation=zmago|Gos2.1_token_id=Gos171.tok2387
+29	v	v	ADP	Sl	Case=Loc	30	case	_	pronunciation=v|Gos2.1_token_id=Gos171.tok2388
+30	skupini	skupina	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	28	nmod	_	pronunciation=skupini|Gos2.1_token_id=Gos171.tok2389
+31	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos171.s269
+# speaker_id = Am-mode-00518
+# sound_url = https://nl.ijs.si/project/gos20/Gos171/Gos171.s269.mp3
+# text = ne smemo pozabiti , da je poljski nogomet v zadnjih mesecih doživljal hude pretrese s podkupovalnim škandalom v Poljski nogometni zvezi .
+# split = train
+1	ne	ne	PART	Q	Polarity=Neg	2	advmod	_	pronunciation=ne|Gos2.1_token_id=Gos171.tok2390
+2	smemo	smeti	VERB	Vmpr1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=smemo|Gos2.1_token_id=Gos171.tok2391
+3	pozabiti	pozabiti	VERB	Vmen	Aspect=Perf|VerbForm=Inf	2	xcomp	_	pronunciation=pozabiti|Gos2.1_token_id=Gos171.tok2392
+4	,	,	PUNCT	Z	_	12	punct	_	_
+5	da	da	SCONJ	Cs	_	12	mark	_	pronunciation=da|Gos2.1_token_id=Gos171.tok2393
+6	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	12	aux	_	pronunciation=je|Gos2.1_token_id=Gos171.tok2394
+7	poljski	poljski	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	pronunciation=poljski|Gos2.1_token_id=Gos171.tok2395
+8	nogomet	nogomet	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	pronunciation=nogomet|Gos2.1_token_id=Gos171.tok2396
+9	v	v	ADP	Sl	Case=Loc	11	case	_	pronunciation=v|Gos2.1_token_id=Gos171.tok2397
+10	zadnjih	zadnji	ADJ	Agpmpl	Case=Loc|Degree=Pos|Gender=Masc|Number=Plur	11	amod	_	pronunciation=zadnjih|Gos2.1_token_id=Gos171.tok2398
+11	mesecih	mesec	NOUN	Ncmpl	Case=Loc|Gender=Masc|Number=Plur	12	obl	_	pronunciation=mesecih|Gos2.1_token_id=Gos171.tok2399
+12	doživljal	doživljati	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	3	ccomp	_	pronunciation=doživljal|Gos2.1_token_id=Gos171.tok2400
+13	hude	hud	ADJ	Agpmpa	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	14	amod	_	pronunciation=hude|Gos2.1_token_id=Gos171.tok2401
+14	pretrese	pretres	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	12	obj	_	pronunciation=pretrese|Gos2.1_token_id=Gos171.tok2402
+15	s	z	ADP	Si	Case=Ins	17	case	_	pronunciation=s|Gos2.1_token_id=Gos171.tok2403
+16	podkupovalnim	podkupovalen	ADJ	Agpmsi	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	pronunciation=podkupovalnim|Gos2.1_token_id=Gos171.tok2404
+17	škandalom	škandal	NOUN	Ncmsi	Case=Ins|Gender=Masc|Number=Sing	12	obl	_	pronunciation=škandalom|Gos2.1_token_id=Gos171.tok2405
+18	v	v	ADP	Sl	Case=Loc	21	case	_	pronunciation=v|Gos2.1_token_id=Gos171.tok2406
+19	Poljski	poljski	ADJ	Agpfsl	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	pronunciation=Poljski|Gos2.1_token_id=Gos171.tok2407
+20	nogometni	nogometen	ADJ	Agpfsl	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	pronunciation=nogometni|Gos2.1_token_id=Gos171.tok2408
+21	zvezi	zveza	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	17	nmod	_	pronunciation=zvezi|Gos2.1_token_id=Gos171.tok2409
+22	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos171.s270
+# speaker_id = Am-mode-00518
+# sound_url = https://nl.ijs.si/project/gos20/Gos171/Gos171.s270.mp3
+# text = novi predsednik zveze je legendarni Grzegorz Lato .
+# split = train
+1	novi	nov	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	pronunciation=novi|Gos2.1_token_id=Gos171.tok2410
+2	predsednik	predsednik	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	pronunciation=predsednik|Gos2.1_token_id=Gos171.tok2411
+3	zveze	zveza	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	2	obl	_	pronunciation=zveze|Gos2.1_token_id=Gos171.tok2412
+4	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	cop	_	pronunciation=je|Gos2.1_token_id=Gos171.tok2413
+5	legendarni	legendaren	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	pronunciation=legendarni|Gos2.1_token_id=Gos171.tok2414
+6	Grzegorz	Grzegorz	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	pronunciation=Gžegorž|Gos2.1_token_id=Gos171.tok2415
+7	Lato	Lato	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	6	flat:name	_	pronunciation=Lato|Gos2.1_token_id=Gos171.tok2416
+8	.	.	PUNCT	Z	_	2	punct	_	_
+
+

@@ -1,0 +1,69 @@
+# newdoc id = Gos067
+# sent_id = Gos067.s3
+# speaker_id = Bm-nast-02030
+# sound_url = https://nl.ijs.si/project/gos20/Gos067/Gos067.s3.mp3
+# text = dobro jutro , bom rekel , sicer je že ma- , še malo zgodaj za zjutraj .
+# split = train
+1	dobro	dober	ADJ	Agpnsa	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	2	amod	_	pronunciation=dobr|Gos2.1_token_id=Gos067.tok17
+2	jutro	jutro	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	pronunciation=jutr|Gos2.1_token_id=Gos067.tok18
+3	,	,	PUNCT	Z	_	2	punct	_	_
+4	bom	biti	AUX	Va-f1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin	5	aux	_	pronunciation=bom|Gos2.1_token_id=Gos067.tok19
+5	rekel	reči	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=reku|Gos2.1_token_id=Gos067.tok20
+6	,	,	PUNCT	Z	_	8	punct	_	_
+7	sicer	sicer	PART	Q	_	8	advmod	_	pronunciation=sicer|Gos2.1_token_id=Gos067.tok21
+8	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	parataxis	_	pronunciation=je|Gos2.1_token_id=Gos067.tok22
+9	že	že	PART	Q	_	10	advmod	_	pronunciation=že|Gos2.1_token_id=Gos067.tok23
+10	ma-	ma-	X	Xt	_	14	reparandum	_	pronunciation=ma…|Gos2.1_token_id=Gos067.tok24
+11	,	,	PUNCT	Z	_	10	punct	_	_
+12	še	še	PART	Q	_	14	advmod	_	pronunciation=še|Gos2.1_token_id=Gos067.tok25
+13	malo	malo	DET	Rgp	PronType=Ind	14	advmod	_	pronunciation=mal|Gos2.1_token_id=Gos067.tok26
+14	zgodaj	zgodaj	ADV	Rgp	Degree=Pos	8	advmod	_	pronunciation=zgodi|Gos2.1_token_id=Gos067.tok27
+15	za	za	ADP	Sa	Case=Acc	16	case	_	pronunciation=za|Gos2.1_token_id=Gos067.tok28
+16	zjutraj	zjutraj	ADV	Rgp	Degree=Pos	8	advmod	_	pronunciation=zjutri|Gos2.1_token_id=Gos067.tok29
+17	.	.	PUNCT	Z	_	5	punct	_	_
+
+
+# sent_id = Gos067.s4
+# speaker_id = Af-novi-02029
+# sound_url = https://nl.ijs.si/project/gos20/Gos067/Gos067.s4.mp3
+# text = [name:personal] živi od prodaje na bolšjaku .
+# split = train
+1	[name:personal]	[name:personal]	PROPN	X	_	2	nsubj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos067.s4.element1
+2	živi	živeti	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=živi|Gos2.1_token_id=Gos067.tok30
+3	od	od	ADP	Sg	Case=Gen	4	case	_	pronunciation=od|Gos2.1_token_id=Gos067.tok31
+4	prodaje	prodaja	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	2	obl	_	pronunciation=prodaje|Gos2.1_token_id=Gos067.tok32
+5	na	na	ADP	Sl	Case=Loc	6	case	_	pronunciation=na|Gos2.1_token_id=Gos067.tok33
+6	bolšjaku	bolšjak	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	4	nmod	_	pronunciation=bolšjaku|Gos2.1_token_id=Gos067.tok34
+7	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos067.s5
+# speaker_id = Af-novi-02029
+# sound_url = https://nl.ijs.si/project/gos20/Gos067/Gos067.s5.mp3
+# text = ampak zakaj tako zgodaj ?
+# split = train
+1	ampak	ampak	CCONJ	Cc	_	4	cc	_	pronunciation=ampak|Gos2.1_token_id=Gos067.tok35
+2	zakaj	zakaj	ADV	Rgp	Degree=Pos	4	orphan	_	pronunciation=zakaj|Gos2.1_token_id=Gos067.tok36
+3	tako	tako	ADV	Rgp	Degree=Pos	4	orphan	_	pronunciation=tako|Gos2.1_token_id=Gos067.tok37
+4	zgodaj	zgodaj	ADV	Rgp	Degree=Pos	0	root	_	pronunciation=zgodej|Gos2.1_token_id=Gos067.tok38
+5	?	?	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos067.s6
+# speaker_id = Bm-nast-02030
+# sound_url = https://nl.ijs.si/project/gos20/Gos067/Gos067.s6.mp3
+# text = ker je težka borba za , eee , tisto prostor .
+# split = train
+1	ker	ker	SCONJ	Cs	_	4	mark	_	pronunciation=kr|Gos2.1_token_id=Gos067.tok40
+2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	pronunciation=je|Gos2.1_token_id=Gos067.tok41
+3	težka	težek	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	pronunciation=težka|Gos2.1_token_id=Gos067.tok42
+4	borba	borba	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	pronunciation=borba|Gos2.1_token_id=Gos067.tok43
+5	za	za	ADP	Sa	Case=Acc	10	case	_	pronunciation=za|Gos2.1_token_id=Gos067.tok44
+6	,	,	PUNCT	Z	_	7	punct	_	_
+7	eee	eee	INTJ	I	_	4	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos067.tok45
+8	,	,	PUNCT	Z	_	7	punct	_	_
+9	tisto	tisti	DET	Pd-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	10	det	_	pronunciation=tisto|Gos2.1_token_id=Gos067.tok46
+10	prostor	prostor	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	pronunciation=prostor|Gos2.1_token_id=Gos067.tok47
+11	.	.	PUNCT	Z	_	4	punct	_	_
+
+

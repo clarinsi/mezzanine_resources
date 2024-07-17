@@ -1,0 +1,200 @@
+# newdoc id = Gos041
+# sent_id = Gos041.s149
+# speaker_id = Bf-novi-07195
+# sound_url = https://nl.ijs.si/project/gos20/Gos041/Gos041.s149.mp3
+# text = kako to mislite , da vendarle ne prepriča storilcev ?
+# split = train
+1	kako	kako	ADV	Rgp	Degree=Pos	3	advmod	_	pronunciation=kako|Gos2.1_token_id=Gos041.tok2539
+2	to	ta	DET	Pd-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	obj	_	pronunciation=to|Gos2.1_token_id=Gos041.tok2540
+3	mislite	misliti	VERB	Vmpr2p	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=mislite|Gos2.1_token_id=Gos041.tok2541
+4	,	,	PUNCT	Z	_	8	punct	_	_
+5	da	da	SCONJ	Cs	_	8	mark	_	pronunciation=da|Gos2.1_token_id=Gos041.tok2542
+6	vendarle	vendarle	CCONJ	Cc	_	8	advmod	_	pronunciation=vendarle|Gos2.1_token_id=Gos041.tok2543
+7	ne	ne	PART	Q	Polarity=Neg	8	advmod	_	pronunciation=ne|Gos2.1_token_id=Gos041.tok2544
+8	prepriča	prepričati	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	pronunciation=prepriča|Gos2.1_token_id=Gos041.tok2545
+9	storilcev	storilec	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	8	obj	_	pronunciation=storilcev|Gos2.1_token_id=Gos041.tok2546
+10	?	?	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos041.s151
+# speaker_id = Cm-gost-07196
+# sound_url = https://nl.ijs.si/project/gos20/Gos041/Gos041.s151.mp3
+# text = množičen morilec ali , eee , zakrknjen storilec kakšnega hudega kaznivega dejanja ne razmišlja o kazni .
+# split = train
+1	množičen	množičen	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	pronunciation=množičen|Gos2.1_token_id=Gos041.tok2548
+2	morilec	morilec	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	pronunciation=morilec|Gos2.1_token_id=Gos041.tok2549
+3	ali	ali	CCONJ	Cc	_	8	cc	_	pronunciation=ali|Gos2.1_token_id=Gos041.tok2550
+4	,	,	PUNCT	Z	_	5	punct	_	_
+5	eee	eee	INTJ	I	_	14	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos041.tok2551
+6	,	,	PUNCT	Z	_	5	punct	_	_
+7	zakrknjen	zakrknjen	ADJ	Appmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part	8	amod	_	pronunciation=zakrknjen|Gos2.1_token_id=Gos041.tok2552
+8	storilec	storilec	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	pronunciation=storilec|Gos2.1_token_id=Gos041.tok2553
+9	kakšnega	kakšen	DET	Pq-nsg	Case=Gen|Gender=Neut|Number=Sing|PronType=Int	12	det	_	pronunciation=kašnega|Gos2.1_token_id=Gos041.tok2554
+10	hudega	hud	ADJ	Agpnsg	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	pronunciation=hudga|Gos2.1_token_id=Gos041.tok2555
+11	kaznivega	kazniv	ADJ	Agpnsg	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	pronunciation=kaznivga|Gos2.1_token_id=Gos041.tok2556
+12	dejanja	dejanje	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	pronunciation=dejanja|Gos2.1_token_id=Gos041.tok2557
+13	ne	ne	PART	Q	Polarity=Neg	14	advmod	_	pronunciation=ne|Gos2.1_token_id=Gos041.tok2558
+14	razmišlja	razmišljati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=razmišlja|Gos2.1_token_id=Gos041.tok2559
+15	o	o	ADP	Sl	Case=Loc	16	case	_	pronunciation=o|Gos2.1_token_id=Gos041.tok2560
+16	kazni	kazen	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	14	obl	_	pronunciation=kazni|Gos2.1_token_id=Gos041.tok2561
+17	.	.	PUNCT	Z	_	14	punct	_	_
+
+
+# sent_id = Gos041.s152
+# speaker_id = Cm-gost-07196
+# sound_url = https://nl.ijs.si/project/gos20/Gos041/Gos041.s152.mp3
+# text = vi morate vedeti , da , eee , nekdo , ki želi nekoga umoriti , kot so nekateri patološki morilci , ki so v zadnjem času , eden je tudi pred nekaj časa v Sloveniji moril
+# split = train
+1	vi	ti	PRON	Pp2mpn	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	pronunciation=vi|Gos2.1_token_id=Gos041.tok2562
+2	morate	morati	VERB	Vmpr2p	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=morte|Gos2.1_token_id=Gos041.tok2563
+3	vedeti	vedeti	VERB	Vmpn	Aspect=Imp|VerbForm=Inf	2	xcomp	_	pronunciation=vedet|Gos2.1_token_id=Gos041.tok2564
+4	,	,	PUNCT	Z	_	9	punct	_	_
+5	da	da	SCONJ	Cs	_	9	mark	_	pronunciation=da|Gos2.1_token_id=Gos041.tok2565
+6	,	,	PUNCT	Z	_	7	punct	_	_
+7	eee	eee	INTJ	I	_	9	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos041.tok2566
+8	,	,	PUNCT	Z	_	7	punct	_	_
+9	nekdo	nekdo	PRON	Pi-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	2	ccomp	_	pronunciation=nekdo|Gos2.1_token_id=Gos041.tok2567
+10	,	,	PUNCT	Z	_	12	punct	_	_
+11	ki	ki	SCONJ	Cs	_	12	mark	_	pronunciation=ki|Gos2.1_token_id=Gos041.tok2568
+12	želi	želeti	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl	_	pronunciation=želi|Gos2.1_token_id=Gos041.tok2569
+13	nekoga	nekdo	PRON	Pi-msa	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	14	obj	_	pronunciation=nekoga|Gos2.1_token_id=Gos041.tok2570
+14	umoriti	umoriti	VERB	Vmen	Aspect=Perf|VerbForm=Inf	12	xcomp	_	pronunciation=umorit|Gos2.1_token_id=Gos041.tok2571
+15	,	,	PUNCT	Z	_	17	punct	_	_
+16	kot	kot	SCONJ	Cs	_	17	mark	_	pronunciation=kot|Gos2.1_token_id=Gos041.tok2572
+17	so	biti	VERB	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	acl	_	pronunciation=so|Gos2.1_token_id=Gos041.tok2573
+18	nekateri	nekateri	DET	Pi-mpn	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	20	det	_	pronunciation=nekateri|Gos2.1_token_id=Gos041.tok2574
+19	patološki	patološki	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	20	amod	_	pronunciation=patološki|Gos2.1_token_id=Gos041.tok2575
+20	morilci	morilec	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	17	nsubj	_	pronunciation=morilci|Gos2.1_token_id=Gos041.tok2576
+21	,	,	PUNCT	Z	_	23	punct	_	_
+22	ki	ki	SCONJ	Cs	_	23	mark	_	pronunciation=ki|Gos2.1_token_id=Gos041.tok2577
+23	so	biti	VERB	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	20	acl	_	pronunciation=so|Gos2.1_token_id=Gos041.tok2578
+24	v	v	ADP	Sl	Case=Loc	26	case	_	pronunciation=v|Gos2.1_token_id=Gos041.tok2579
+25	zadnjem	zadnji	ADJ	Agpmsl	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	26	amod	_	pronunciation=zadnjem|Gos2.1_token_id=Gos041.tok2580
+26	času	čas	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	23	obl	_	pronunciation=času|Gos2.1_token_id=Gos041.tok2581
+27	,	,	PUNCT	Z	_	36	punct	_	_
+28	eden	eden	NUM	Mlpmsn	Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	36	nsubj	_	pronunciation=eden|Gos2.1_token_id=Gos041.tok2582
+29	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	36	aux	_	pronunciation=je|Gos2.1_token_id=Gos041.tok2583
+30	tudi	tudi	PART	Q	_	35	advmod	_	pronunciation=tud|Gos2.1_token_id=Gos041.tok2584
+31	pred	pred	ADP	Si	Case=Ins	33	case	_	pronunciation=pred|Gos2.1_token_id=Gos041.tok2585
+32	nekaj	nekaj	DET	Rgp	PronType=Ind	33	det	_	pronunciation=neki|Gos2.1_token_id=Gos041.tok2586
+33	časa	čas	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	36	obl	_	pronunciation=časa|Gos2.1_token_id=Gos041.tok2587
+34	v	v	ADP	Sl	Case=Loc	35	case	_	pronunciation=v|Gos2.1_token_id=Gos041.tok2588
+35	Sloveniji	Slovenija	PROPN	Npfsl	Case=Loc|Gender=Fem|Number=Sing	36	obl	_	pronunciation=Sloveniji|Gos2.1_token_id=Gos041.tok2589
+36	moril	moriti	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	23	parataxis:restart	_	pronunciation=moril|Gos2.1_token_id=Gos041.tok2590
+
+
+# sent_id = Gos041.s153
+# speaker_id = Cm-gost-07196
+# sound_url = https://nl.ijs.si/project/gos20/Gos041/Gos041.s153.mp3
+# text = sigurno ni , preden je zavihtel nož , razmišljal , kakšna je zagrožena kazen po kazenskem zakoniku .
+# split = train
+1	sigurno	sigurno	ADV	Rgp	Degree=Pos	9	advmod	_	pronunciation=sigurno|Gos2.1_token_id=Gos041.tok2591
+2	ni	biti	AUX	Va-r3s-y	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	9	aux	_	pronunciation=ni|Gos2.1_token_id=Gos041.tok2592
+3	,	,	PUNCT	Z	_	6	punct	_	_
+4	preden	preden	SCONJ	Cs	_	6	mark	_	pronunciation=preden|Gos2.1_token_id=Gos041.tok2593
+5	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	pronunciation=je|Gos2.1_token_id=Gos041.tok2594
+6	zavihtel	zavihteti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	9	advcl	_	pronunciation=zavihtel|Gos2.1_token_id=Gos041.tok2595
+7	nož	nož	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	pronunciation=nož|Gos2.1_token_id=Gos041.tok2596
+8	,	,	PUNCT	Z	_	6	punct	_	_
+9	razmišljal	razmišljati	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=razmišljal|Gos2.1_token_id=Gos041.tok2597
+10	,	,	PUNCT	Z	_	11	punct	_	_
+11	kakšna	kakšen	DET	Pq-fsn	Case=Nom|Gender=Fem|Number=Sing|PronType=Int	9	ccomp	_	pronunciation=kakšna|Gos2.1_token_id=Gos041.tok2598
+12	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	cop	_	pronunciation=je|Gos2.1_token_id=Gos041.tok2599
+13	zagrožena	zagrožen	ADJ	Appfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part	14	amod	_	pronunciation=zagrožena|Gos2.1_token_id=Gos041.tok2600
+14	kazen	kazen	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	pronunciation=kazen|Gos2.1_token_id=Gos041.tok2601
+15	po	po	ADP	Sl	Case=Loc	17	case	_	pronunciation=po|Gos2.1_token_id=Gos041.tok2602
+16	kazenskem	kazenski	ADJ	Agpmsl	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	pronunciation=kazenskem|Gos2.1_token_id=Gos041.tok2603
+17	zakoniku	zakonik	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	14	nmod	_	pronunciation=zakoniku|Gos2.1_token_id=Gos041.tok2604
+18	.	.	PUNCT	Z	_	9	punct	_	_
+
+
+# sent_id = Gos041.s154
+# speaker_id = Cm-gost-07196
+# sound_url = https://nl.ijs.si/project/gos20/Gos041/Gos041.s154.mp3
+# text = to so ljudje , ki imajo globlje , eee , pobude za , za storitev tega dejanja , in brez skrbi bodite , da jim hujša zagrožena kazen ne bo preprečila , da to naredijo .
+# split = train
+1	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	pronunciation=to|Gos2.1_token_id=Gos041.tok2605
+2	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	pronunciation=so|Gos2.1_token_id=Gos041.tok2606
+3	ljudje	človek	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	0	root	_	pronunciation=ludje|Gos2.1_token_id=Gos041.tok2607
+4	,	,	PUNCT	Z	_	6	punct	_	_
+5	ki	ki	SCONJ	Cs	_	6	mark	_	pronunciation=ki|Gos2.1_token_id=Gos041.tok2608
+6	imajo	imeti	VERB	Vmpr3p-n	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	acl	_	pronunciation=imajo|Gos2.1_token_id=Gos041.tok2609
+7	globlje	globok	ADJ	Agcfpa	Case=Acc|Degree=Cmp|Gender=Fem|Number=Plur	11	amod	_	pronunciation=globlje|Gos2.1_token_id=Gos041.tok2610
+8	,	,	PUNCT	Z	_	9	punct	_	_
+9	eee	eee	INTJ	I	_	6	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos041.tok2611
+10	,	,	PUNCT	Z	_	9	punct	_	_
+11	pobude	pobuda	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	6	obj	_	pronunciation=pobude|Gos2.1_token_id=Gos041.tok2612
+12	za	za	ADP	Sa	Case=Acc	15	reparandum	_	pronunciation=za|Gos2.1_token_id=Gos041.tok2613
+13	,	,	PUNCT	Z	_	12	punct	_	_
+14	za	za	ADP	Sa	Case=Acc	15	case	_	pronunciation=za|Gos2.1_token_id=Gos041.tok2614
+15	storitev	storitev	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	11	nmod	_	pronunciation=storitev|Gos2.1_token_id=Gos041.tok2615
+16	tega	ta	DET	Pd-nsg	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	17	det	_	pronunciation=tega|Gos2.1_token_id=Gos041.tok2616
+17	dejanja	dejanje	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	pronunciation=dejanja|Gos2.1_token_id=Gos041.tok2617
+18	,	,	PUNCT	Z	_	6	punct	_	_
+19	in	in	CCONJ	Cc	_	22	cc	_	pronunciation=in|Gos2.1_token_id=Gos041.tok2618
+20	brez	brez	ADP	Sg	Case=Gen	21	case	_	pronunciation=brez|Gos2.1_token_id=Gos041.tok2619
+21	skrbi	skrb	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	22	obl	_	pronunciation=skrbi|Gos2.1_token_id=Gos041.tok2620
+22	bodite	biti	VERB	Va-m2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	3	conj	_	pronunciation=bodite|Gos2.1_token_id=Gos041.tok2621
+23	,	,	PUNCT	Z	_	31	punct	_	_
+24	da	da	SCONJ	Cs	_	31	mark	_	pronunciation=da|Gos2.1_token_id=Gos041.tok2622
+25	jim	on	PRON	Pp3mpd--y	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Variant=Short	31	iobj	_	pronunciation=jim|Gos2.1_token_id=Gos041.tok2623
+26	hujša	hud	ADJ	Agcfsn	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	28	amod	_	pronunciation=hujša|Gos2.1_token_id=Gos041.tok2624
+27	zagrožena	zagrožen	ADJ	Appfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part	28	amod	_	pronunciation=zagrožena|Gos2.1_token_id=Gos041.tok2625
+28	kazen	kazen	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	31	nsubj	_	pronunciation=kazen|Gos2.1_token_id=Gos041.tok2626
+29	ne	ne	PART	Q	Polarity=Neg	31	advmod	_	pronunciation=ne|Gos2.1_token_id=Gos041.tok2627
+30	bo	biti	AUX	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	31	aux	_	pronunciation=bo|Gos2.1_token_id=Gos041.tok2628
+31	preprečila	preprečiti	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	22	ccomp	_	pronunciation=preprečla|Gos2.1_token_id=Gos041.tok2629
+32	,	,	PUNCT	Z	_	35	punct	_	_
+33	da	da	SCONJ	Cs	_	35	mark	_	pronunciation=da|Gos2.1_token_id=Gos041.tok2630
+34	to	ta	DET	Pd-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	35	obj	_	pronunciation=to|Gos2.1_token_id=Gos041.tok2631
+35	naredijo	narediti	VERB	Vmer3p	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	31	ccomp	_	pronunciation=nardijo|Gos2.1_token_id=Gos041.tok2632
+36	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos041.s155
+# speaker_id = Bf-novi-07195
+# sound_url = https://nl.ijs.si/project/gos20/Gos041/Gos041.s155.mp3
+# text = kje pa vi vidite rešitev ?
+# split = train
+1	kje	kje	ADV	Rgp	Degree=Pos	4	advmod	_	pronunciation=kje|Gos2.1_token_id=Gos041.tok2633
+2	pa	pa	CCONJ	Cc	_	4	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos041.tok2634
+3	vi	ti	PRON	Pp2mpn	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	pronunciation=vi|Gos2.1_token_id=Gos041.tok2635
+4	vidite	videti	VERB	Vmbr2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=vidite|Gos2.1_token_id=Gos041.tok2636
+5	rešitev	rešitev	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	pronunciation=rešitev|Gos2.1_token_id=Gos041.tok2637
+6	?	?	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos041.s156
+# speaker_id = Cm-gost-07196
+# sound_url = https://nl.ijs.si/project/gos20/Gos041/Gos041.s156.mp3
+# text = jaz vidim rešitev v
+# split = train
+1	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	pronunciation=jz|Gos2.1_token_id=Gos041.tok2639
+2	vidim	videti	VERB	Vmbr1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=vidm|Gos2.1_token_id=Gos041.tok2640
+3	rešitev	rešitev	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	pronunciation=rešitev|Gos2.1_token_id=Gos041.tok2641
+4	v	v	ADP	Sa	Case=Acc	2	orphan	_	pronunciation=v|Gos2.1_token_id=Gos041.tok2642
+
+
+# sent_id = Gos041.s157
+# speaker_id = Cm-gost-07196
+# sound_url = https://nl.ijs.si/project/gos20/Gos041/Gos041.s157.mp3
+# text = zdaj , vprašanje je , ali je rešitev oziroma rešitev ni samo v kazenskem zakoniku .
+# split = train
+1	zdaj	zdaj	ADV	Rgp	Degree=Pos	3	discourse	_	pronunciation=zdej|Gos2.1_token_id=Gos041.tok2643
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	vprašanje	vprašanje	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	0	root	_	pronunciation=vprašanje|Gos2.1_token_id=Gos041.tok2644
+4	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	pronunciation=je|Gos2.1_token_id=Gos041.tok2645
+5	,	,	PUNCT	Z	_	7	punct	_	_
+6	ali	ali	ADV	Rgp	Degree=Pos	7	mark	_	pronunciation=ali|Gos2.1_token_id=Gos041.tok2646
+7	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	csubj	_	pronunciation=je|Gos2.1_token_id=Gos041.tok2647
+8	rešitev	rešitev	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	pronunciation=rešitev|Gos2.1_token_id=Gos041.tok2648
+9	oziroma	oziroma	CCONJ	Cc	_	11	cc	_	pronunciation=oziroma|Gos2.1_token_id=Gos041.tok2649
+10	rešitev	rešitev	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	pronunciation=rešitev|Gos2.1_token_id=Gos041.tok2650
+11	ni	biti	VERB	Va-r3s-y	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	7	conj	_	pronunciation=ni|Gos2.1_token_id=Gos041.tok2651
+12	samo	samo	PART	Q	_	15	advmod	_	pronunciation=samo|Gos2.1_token_id=Gos041.tok2652
+13	v	v	ADP	Sl	Case=Loc	15	case	_	pronunciation=v|Gos2.1_token_id=Gos041.tok2653
+14	kazenskem	kazenski	ADJ	Agpmsl	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	pronunciation=kazenskem|Gos2.1_token_id=Gos041.tok2654
+15	zakoniku	zakonik	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	7	obl	_	pronunciation=zakoniku|Gos2.1_token_id=Gos041.tok2655
+16	.	.	PUNCT	Z	_	3	punct	_	_
+
+

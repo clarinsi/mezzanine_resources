@@ -1,0 +1,56 @@
+# newdoc id = Gos089
+# sent_id = Gos089.s42
+# speaker_id = Pf-novi-03503
+# sound_url = https://nl.ijs.si/project/gos20/Gos089/Gos089.s42.mp3
+# text = eee , poglejte , zaposleni so zaskrbljeni za svoja delovna mesta .
+# split = test
+1	eee	eee	INTJ	I	_	7	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos089.tok462
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	poglejte	pogledati	VERB	Vmem2p	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	7	parataxis:discourse	_	pronunciation=poglejte|Gos2.1_token_id=Gos089.tok463
+4	,	,	PUNCT	Z	_	3	punct	_	_
+5	zaposleni	zaposlen	ADJ	Appmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part	7	nsubj	_	pronunciation=zaposleni|Gos2.1_token_id=Gos089.tok464
+6	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	_	pronunciation=so|Gos2.1_token_id=Gos089.tok465
+7	zaskrbljeni	zaskrbljen	ADJ	Appmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	pronunciation=zaskrbljeni|Gos2.1_token_id=Gos089.tok466
+8	za	za	ADP	Sa	Case=Acc	11	case	_	pronunciation=za|Gos2.1_token_id=Gos089.tok467
+9	svoja	svoj	DET	Px-npa	Case=Acc|Gender=Neut|Number=Plur|PronType=Prs|Reflex=Yes	11	det	_	pronunciation=svoja|Gos2.1_token_id=Gos089.tok468
+10	delovna	deloven	ADJ	Agpnpa	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	11	amod	_	pronunciation=delovna|Gos2.1_token_id=Gos089.tok469
+11	mesta	mesto	NOUN	Ncnpa	Case=Acc|Gender=Neut|Number=Plur	7	obl	_	pronunciation=mesta|Gos2.1_token_id=Gos089.tok470
+12	.	.	PUNCT	Z	_	7	punct	_	_
+
+
+# sent_id = Gos089.s43
+# speaker_id = Pf-novi-03503
+# sound_url = https://nl.ijs.si/project/gos20/Gos089/Gos089.s43.mp3
+# text = tudi uprava ni bila najbolj zadovoljna .
+# split = test
+1	tudi	tudi	PART	Q	_	2	advmod	_	pronunciation=tudi|Gos2.1_token_id=Gos089.tok471
+2	uprava	uprava	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	pronunciation=uprava|Gos2.1_token_id=Gos089.tok472
+3	ni	biti	AUX	Va-r3s-y	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	6	aux	_	pronunciation=ni|Gos2.1_token_id=Gos089.tok473
+4	bila	biti	AUX	Va-p-sf	Gender=Fem|Number=Sing|VerbForm=Part	6	cop	_	pronunciation=bila|Gos2.1_token_id=Gos089.tok474
+5	najbolj	najbolj	ADV	Rgs	Degree=Sup	6	advmod	_	pronunciation=najbolj|Gos2.1_token_id=Gos089.tok475
+6	zadovoljna	zadovoljen	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	pronunciation=zadovoljna|Gos2.1_token_id=Gos089.tok476
+7	.	.	PUNCT	Z	_	6	punct	_	_
+
+
+# sent_id = Gos089.s44
+# speaker_id = Pf-novi-03503
+# sound_url = https://nl.ijs.si/project/gos20/Gos089/Gos089.s44.mp3
+# text = eee , se upravičeno bojijo , kaj to pomeni , če jih bodo prevzemali .
+# split = test
+1	eee	eee	INTJ	I	_	5	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos089.tok477
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	5	expl	_	pronunciation=se|Gos2.1_token_id=Gos089.tok478
+4	upravičeno	upravičeno	ADV	Rgp	Degree=Pos	5	advmod	_	pronunciation=upravičeno|Gos2.1_token_id=Gos089.tok479
+5	bojijo	bati	VERB	Vmpr3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=bojijo|Gos2.1_token_id=Gos089.tok480
+6	,	,	PUNCT	Z	_	9	punct	_	_
+7	kaj	kaj	PRON	Pq-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	9	obj	_	pronunciation=kaj|Gos2.1_token_id=Gos089.tok482
+8	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	nsubj	_	pronunciation=to|Gos2.1_token_id=Gos089.tok483
+9	pomeni	pomeniti	VERB	Vmbr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	pronunciation=pomeni|Gos2.1_token_id=Gos089.tok484
+10	,	,	PUNCT	Z	_	14	punct	_	_
+11	če	če	SCONJ	Cs	_	14	mark	_	pronunciation=če|Gos2.1_token_id=Gos089.tok485
+12	jih	on	PRON	Pp3mpa--y	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Variant=Short	14	obj	_	pronunciation=jih|Gos2.1_token_id=Gos089.tok486
+13	bodo	biti	AUX	Va-f3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	14	aux	_	pronunciation=bodo|Gos2.1_token_id=Gos089.tok487
+14	prevzemali	prevzemati	VERB	Vmpp-pm	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	9	advcl	_	pronunciation=prevzemali|Gos2.1_token_id=Gos089.tok488
+15	.	.	PUNCT	Z	_	5	punct	_	_
+
+

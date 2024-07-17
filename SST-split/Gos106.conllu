@@ -1,0 +1,42 @@
+# newdoc id = Gos106
+# sent_id = Gos106.s1
+# speaker_id = Jf-novi-04532
+# sound_url = https://nl.ijs.si/project/gos20/Gos106/Gos106.s1.mp3
+# text = šestinsedemdesetletna pevka je sinoči kljub slabemu zdravju želela nastopiti na koncertu , ki so ga pripravili v podporo pisatelju in borcu proti mafiji Robertu Savianu v kraju Castel Volturno , znanem oporišču Camorre .
+# split = test
+1	šestinsedemdesetletna	šestinsedemdesetleten	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	pronunciation=šestinsedemdesetletna|Gos2.1_token_id=Gos106.tok1
+2	pevka	pevka	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	pronunciation=pevka|Gos2.1_token_id=Gos106.tok2
+3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	aux	_	pronunciation=je|Gos2.1_token_id=Gos106.tok3
+4	sinoči	sinoči	ADV	Rgp	Degree=Pos	8	advmod	_	pronunciation=sinoči|Gos2.1_token_id=Gos106.tok4
+5	kljub	kljub	ADP	Sd	Case=Dat	7	case	_	pronunciation=kljub|Gos2.1_token_id=Gos106.tok5
+6	slabemu	slab	ADJ	Agpnsd	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	pronunciation=slabemu|Gos2.1_token_id=Gos106.tok6
+7	zdravju	zdravje	NOUN	Ncnsd	Case=Dat|Gender=Neut|Number=Sing	8	obl	_	pronunciation=zdravju|Gos2.1_token_id=Gos106.tok7
+8	želela	želeti	VERB	Vmpp-sf	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=želela|Gos2.1_token_id=Gos106.tok8
+9	nastopiti	nastopiti	VERB	Vmen	Aspect=Perf|VerbForm=Inf	8	xcomp	_	pronunciation=nastopiti|Gos2.1_token_id=Gos106.tok9
+10	na	na	ADP	Sl	Case=Loc	11	case	_	pronunciation=na|Gos2.1_token_id=Gos106.tok10
+11	koncertu	koncert	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	9	obl	_	pronunciation=koncertu|Gos2.1_token_id=Gos106.tok11
+12	,	,	PUNCT	Z	_	16	punct	_	_
+13	ki	ki	SCONJ	Cs	_	16	mark	_	pronunciation=ki|Gos2.1_token_id=Gos106.tok12
+14	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	16	aux	_	pronunciation=so|Gos2.1_token_id=Gos106.tok13
+15	ga	on	PRON	Pp3msa--y	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	16	obj	_	pronunciation=ga|Gos2.1_token_id=Gos106.tok14
+16	pripravili	pripraviti	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	11	acl	_	pronunciation=pripravili|Gos2.1_token_id=Gos106.tok15
+17	v	v	ADP	Sa	Case=Acc	18	case	_	pronunciation=v|Gos2.1_token_id=Gos106.tok16
+18	podporo	podpora	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	16	obl	_	pronunciation=podporo|Gos2.1_token_id=Gos106.tok17
+19	pisatelju	pisatelj	NOUN	Ncmsd	Case=Dat|Gender=Masc|Number=Sing	18	nmod	_	pronunciation=pisatelju|Gos2.1_token_id=Gos106.tok18
+20	in	in	CCONJ	Cc	_	21	cc	_	pronunciation=in|Gos2.1_token_id=Gos106.tok19
+21	borcu	borec	NOUN	Ncmsd	Case=Dat|Gender=Masc|Number=Sing	19	conj	_	pronunciation=borcu|Gos2.1_token_id=Gos106.tok20
+22	proti	proti	ADP	Sd	Case=Dat	23	case	_	pronunciation=proti|Gos2.1_token_id=Gos106.tok21
+23	mafiji	mafija	NOUN	Ncfsd	Case=Dat|Gender=Fem|Number=Sing	21	nmod	_	pronunciation=mafiji|Gos2.1_token_id=Gos106.tok22
+24	Robertu	Robert	PROPN	Npmsd	Case=Dat|Gender=Masc|Number=Sing	19	nmod	_	pronunciation=Robertu|Gos2.1_token_id=Gos106.tok23
+25	Savianu	Saviano	PROPN	Npmsd	Case=Dat|Gender=Masc|Number=Sing	24	flat:name	_	pronunciation=Savianu|Gos2.1_token_id=Gos106.tok24
+26	v	v	ADP	Sl	Case=Loc	27	case	_	pronunciation=v|Gos2.1_token_id=Gos106.tok25
+27	kraju	kraj	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	16	obl	_	pronunciation=kraju|Gos2.1_token_id=Gos106.tok26
+28	Castel	Castel	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	27	nmod	_	pronunciation=Kastel|Gos2.1_token_id=Gos106.tok27
+29	Volturno	Volturno	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	28	nmod	_	pronunciation=Volturno|Gos2.1_token_id=Gos106.tok28
+30	,	,	PUNCT	Z	_	32	punct	_	_
+31	znanem	znan	ADJ	Appnsl	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part	32	amod	_	pronunciation=znanem|Gos2.1_token_id=Gos106.tok29
+32	oporišču	oporišče	NOUN	Ncnsl	Case=Loc|Gender=Neut|Number=Sing	28	appos	_	pronunciation=oporišču|Gos2.1_token_id=Gos106.tok30
+33	Camorre	Camorra	PROPN	Npfsg	Case=Gen|Gender=Fem|Number=Sing	32	nmod	_	pronunciation=Kamore|Gos2.1_token_id=Gos106.tok31
+34	.	.	PUNCT	Z	_	8	punct	_	_
+
+

@@ -1,0 +1,52 @@
+# newdoc id = Gos097
+# sent_id = Gos097.s13
+# speaker_id = Rm-inte-03531
+# sound_url = https://nl.ijs.si/project/gos20/Gos097/Gos097.s13.mp3
+# text = v kolikor bomo mi dobili jasno sporočilo na drugi strani , da je vinjenost nekaj , kar se sigurno ne splača , potem ne verjamem , da j- , smo Slovenci tako neumni , da bomo še s- , sedli vinjeni za volan .
+# split = train
+1	v	v	ADP	Sl	Case=Loc	5	mark	_	pronunciation=v|Gos2.1_token_id=Gos097.tok139
+2	kolikor	kolikor	SCONJ	Cs	_	1	fixed	_	pronunciation=kolikor|Gos2.1_token_id=Gos097.tok140
+3	bomo	biti	AUX	Va-f1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin	5	aux	_	pronunciation=bomo|Gos2.1_token_id=Gos097.tok141
+4	mi	jaz	PRON	Pp1mpn	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	pronunciation=mi|Gos2.1_token_id=Gos097.tok142
+5	dobili	dobiti	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	25	advcl	_	pronunciation=dobili|Gos2.1_token_id=Gos097.tok143
+6	jasno	jasen	ADJ	Agpnsa	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	pronunciation=jasno|Gos2.1_token_id=Gos097.tok144
+7	sporočilo	sporočilo	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	pronunciation=sporočilo|Gos2.1_token_id=Gos097.tok145
+8	na	na	ADP	Sl	Case=Loc	10	case	_	pronunciation=na|Gos2.1_token_id=Gos097.tok146
+9	drugi	drug	ADJ	Mlpfsl	Case=Loc|Gender=Fem|Number=Sing	10	amod	_	pronunciation=drugi|Gos2.1_token_id=Gos097.tok147
+10	strani	stran	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	5	obl	_	pronunciation=strani|Gos2.1_token_id=Gos097.tok148
+11	,	,	PUNCT	Z	_	15	punct	_	_
+12	da	da	SCONJ	Cs	_	15	mark	_	pronunciation=da|Gos2.1_token_id=Gos097.tok149
+13	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	15	cop	_	pronunciation=je|Gos2.1_token_id=Gos097.tok150
+14	vinjenost	vinjenost	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	pronunciation=vinjenost|Gos2.1_token_id=Gos097.tok151
+15	nekaj	nekaj	DET	Pi-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	7	acl	_	pronunciation=neki|Gos2.1_token_id=Gos097.tok152
+16	,	,	PUNCT	Z	_	21	punct	_	_
+17	kar	kar	PRON	Pr-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	21	nsubj	_	pronunciation=kar|Gos2.1_token_id=Gos097.tok153
+18	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	21	expl	_	pronunciation=se|Gos2.1_token_id=Gos097.tok154
+19	sigurno	sigurno	ADV	Rgp	Degree=Pos	21	advmod	_	pronunciation=sigurno|Gos2.1_token_id=Gos097.tok155
+20	ne	ne	PART	Q	Polarity=Neg	21	advmod	_	pronunciation=ne|Gos2.1_token_id=Gos097.tok156
+21	splača	splačati	VERB	Vmbr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl	_	pronunciation=splača|Gos2.1_token_id=Gos097.tok157
+22	,	,	PUNCT	Z	_	21	punct	_	_
+23	potem	potem	ADV	Rgp	Degree=Pos	25	advmod	_	pronunciation=potem|Gos2.1_token_id=Gos097.tok158
+24	ne	ne	PART	Q	Polarity=Neg	25	advmod	_	pronunciation=ne|Gos2.1_token_id=Gos097.tok159
+25	verjamem	verjeti	VERB	Vmbr1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=verjamem|Gos2.1_token_id=Gos097.tok160
+26	,	,	PUNCT	Z	_	33	punct	_	_
+27	da	da	SCONJ	Cs	_	33	mark	_	pronunciation=da|Gos2.1_token_id=Gos097.tok161
+28	j-	j-	X	Xt	_	30	reparandum	_	pronunciation=j…|Gos2.1_token_id=Gos097.tok162
+29	,	,	PUNCT	Z	_	28	punct	_	_
+30	smo	biti	AUX	Va-r1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	33	cop	_	pronunciation=smo|Gos2.1_token_id=Gos097.tok163
+31	Slovenci	Slovenec	PROPN	Npmpn	Case=Nom|Gender=Masc|Number=Plur	33	nsubj	_	pronunciation=Slovenci|Gos2.1_token_id=Gos097.tok164
+32	tako	tako	ADV	Rgp	Degree=Pos	33	advmod	_	pronunciation=tako|Gos2.1_token_id=Gos097.tok165
+33	neumni	neumen	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	25	ccomp	_	pronunciation=neumni|Gos2.1_token_id=Gos097.tok166
+34	,	,	PUNCT	Z	_	40	punct	_	_
+35	da	da	SCONJ	Cs	_	40	mark	_	pronunciation=da|Gos2.1_token_id=Gos097.tok167
+36	bomo	biti	AUX	Va-f1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin	40	aux	_	pronunciation=bomo|Gos2.1_token_id=Gos097.tok168
+37	še	še	PART	Q	_	40	advmod	_	pronunciation=še|Gos2.1_token_id=Gos097.tok169
+38	s-	s-	X	Xt	_	40	reparandum	_	pronunciation=s…|Gos2.1_token_id=Gos097.tok170
+39	,	,	PUNCT	Z	_	38	punct	_	_
+40	sedli	sesti	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	33	advcl	_	pronunciation=sedli|Gos2.1_token_id=Gos097.tok171
+41	vinjeni	vinjen	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	40	advcl	_	pronunciation=vinjeni|Gos2.1_token_id=Gos097.tok172
+42	za	za	ADP	Sa	Case=Acc	43	case	_	pronunciation=za|Gos2.1_token_id=Gos097.tok173
+43	volan	volan	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	40	obl	_	pronunciation=volan|Gos2.1_token_id=Gos097.tok174
+44	.	.	PUNCT	Z	_	25	punct	_	_
+
+

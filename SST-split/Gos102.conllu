@@ -1,0 +1,44 @@
+# newdoc id = Gos102
+# sent_id = Gos102.s6
+# speaker_id = Pf-novi-03534
+# sound_url = https://nl.ijs.si/project/gos20/Gos102/Gos102.s6.mp3
+# text = ministrstvo , sindikat , računsko sodišče , ravnatelji , to je po mnenju učitelja [name:personal] [name:surname] seznam tistih , ki bi za nezakonito izplačane plače morali prevzeti odgovornost , pa , kot pravi , niso .
+# split = test
+1	ministrstvo	ministrstvo	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	17	dislocated	_	pronunciation=ministrstvo|Gos2.1_token_id=Gos102.tok75
+2	,	,	PUNCT	Z	_	3	punct	_	_
+3	sindikat	sindikat	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	pronunciation=sindikat|Gos2.1_token_id=Gos102.tok76
+4	,	,	PUNCT	Z	_	6	punct	_	_
+5	računsko	računski	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	pronunciation=računsko|Gos2.1_token_id=Gos102.tok77
+6	sodišče	sodišče	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	1	conj	_	pronunciation=sodišče|Gos2.1_token_id=Gos102.tok78
+7	,	,	PUNCT	Z	_	8	punct	_	_
+8	ravnatelji	ravnatelj	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	1	conj	_	pronunciation=ravnatelji|Gos2.1_token_id=Gos102.tok79
+9	,	,	PUNCT	Z	_	1	punct	_	_
+10	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	17	nsubj	_	pronunciation=to|Gos2.1_token_id=Gos102.tok80
+11	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	17	cop	_	pronunciation=je|Gos2.1_token_id=Gos102.tok81
+12	po	po	ADP	Sl	Case=Loc	13	case	_	pronunciation=po|Gos2.1_token_id=Gos102.tok82
+13	mnenju	mnenje	NOUN	Ncnsl	Case=Loc|Gender=Neut|Number=Sing	17	obl	_	pronunciation=mnenju|Gos2.1_token_id=Gos102.tok83
+14	učitelja	učitelj	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	pronunciation=učitelja|Gos2.1_token_id=Gos102.tok84
+15	[name:personal]	[name:personal]	PROPN	X	_	14	nmod	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos102.s6.element1
+16	[name:surname]	[name:surname]	PROPN	X	_	15	flat:name	_	pronunciation=[name:surname]|Gos2.1_token_id=Gos102.s6.element2
+17	seznam	seznam	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	pronunciation=seznam|Gos2.1_token_id=Gos102.tok85
+18	tistih	tisti	DET	Pd-mpg	Case=Gen|Gender=Masc|Number=Plur|PronType=Dem	17	nmod	_	pronunciation=tistih|Gos2.1_token_id=Gos102.tok86
+19	,	,	PUNCT	Z	_	26	punct	_	_
+20	ki	ki	SCONJ	Cs	_	26	mark	_	pronunciation=ki|Gos2.1_token_id=Gos102.tok87
+21	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	26	aux	_	pronunciation=bi|Gos2.1_token_id=Gos102.tok88
+22	za	za	ADP	Sa	Case=Acc	25	case	_	pronunciation=za|Gos2.1_token_id=Gos102.tok89
+23	nezakonito	nezakonito	ADV	Rgp	Degree=Pos	24	advmod	_	pronunciation=nezakonito|Gos2.1_token_id=Gos102.tok90
+24	izplačane	izplačan	ADJ	Appfpa	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part	25	amod	_	pronunciation=izplačane|Gos2.1_token_id=Gos102.tok91
+25	plače	plača	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	27	obl	_	pronunciation=plače|Gos2.1_token_id=Gos102.tok92
+26	morali	morati	VERB	Vmpp-pm	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	18	acl	_	pronunciation=morali|Gos2.1_token_id=Gos102.tok93
+27	prevzeti	prevzeti	VERB	Vmen	Aspect=Perf|VerbForm=Inf	26	xcomp	_	pronunciation=prevzeti|Gos2.1_token_id=Gos102.tok94
+28	odgovornost	odgovornost	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	27	obj	_	pronunciation=odgovornost|Gos2.1_token_id=Gos102.tok95
+29	,	,	PUNCT	Z	_	26	punct	_	_
+30	pa	pa	CCONJ	Cc	_	35	cc	_	pronunciation=pa|Gos2.1_token_id=Gos102.tok96
+31	,	,	PUNCT	Z	_	33	punct	_	_
+32	kot	kot	SCONJ	Cs	_	33	mark	_	pronunciation=kot|Gos2.1_token_id=Gos102.tok97
+33	pravi	praviti	VERB	Vmbr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	35	advcl	_	pronunciation=pravi|Gos2.1_token_id=Gos102.tok98
+34	,	,	PUNCT	Z	_	33	punct	_	_
+35	niso	biti	VERB	Va-r3p-y	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	26	conj	_	pronunciation=niso|Gos2.1_token_id=Gos102.tok99
+36	.	.	PUNCT	Z	_	17	punct	_	_
+
+

@@ -1,0 +1,209 @@
+# newdoc id = Gos057
+# sent_id = Gos057.s246
+# speaker_id = Cm-ucen-07141
+# sound_url = https://nl.ijs.si/project/gos20/Gos057/Gos057.s246.mp3
+# text = direkt ali .
+# split = train
+1	direkt	direkt	ADV	Rgp	Degree=Pos	0	root	_	pronunciation=direkt|Gos2.1_token_id=Gos057.tok708
+2	ali	ali	CCONJ	Cc	_	1	conj	_	pronunciation=al|Gos2.1_token_id=Gos057.tok709
+3	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos057.s247
+# speaker_id = Am-prof-07143
+# sound_url = https://nl.ijs.si/project/gos20/Gos057/Gos057.s247.mp3
+# text = direkt .
+# split = train
+1	direkt	direkt	ADV	Rgp	Degree=Pos	0	root	_	pronunciation=direkt|Gos2.1_token_id=Gos057.tok710
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos057.s250
+# speaker_id = Am-prof-07143
+# sound_url = https://nl.ijs.si/project/gos20/Gos057/Gos057.s250.mp3
+# text = razlike med njimi .
+# split = train
+1	razlike	razlika	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	0	root	_	pronunciation=razlike|Gos2.1_token_id=Gos057.tok711
+2	med	med	ADP	Si	Case=Ins	3	case	_	pronunciation=med|Gos2.1_token_id=Gos057.tok712
+3	njimi	on	PRON	Pp3mpi	Case=Ins|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	nmod	_	pronunciation=njimi|Gos2.1_token_id=Gos057.tok713
+4	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos057.s251
+# speaker_id = Em-ucen-07144
+# sound_url = https://nl.ijs.si/project/gos20/Gos057/Gos057.s251.mp3
+# text = ja , kompleksna so , eee , mislim , temeljna seveda lahko pokažemo že z obrazno mimiko .
+# split = train
+1	ja	ja	PART	Q	_	3	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos057.tok715
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	kompleksna	kompleksen	ADJ	Agpnpn	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	0	root	_	pronunciation=kompleksna|Gos2.1_token_id=Gos057.tok716
+4	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	pronunciation=so|Gos2.1_token_id=Gos057.tok717
+5	,	,	PUNCT	Z	_	13	punct	_	_
+6	eee	eee	INTJ	I	_	13	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos057.tok718
+7	,	,	PUNCT	Z	_	6	punct	_	_
+8	mislim	misliti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	parataxis:discourse	_	pronunciation=mism|Gos2.1_token_id=Gos057.tok719
+9	,	,	PUNCT	Z	_	8	punct	_	_
+10	temeljna	temeljen	ADJ	Agpnpa	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	13	obj	_	pronunciation=temeljna|Gos2.1_token_id=Gos057.tok720
+11	seveda	seveda	PART	Q	_	13	advmod	_	pronunciation=sevede|Gos2.1_token_id=Gos057.tok721
+12	lahko	lahko	ADV	Rgp	Degree=Pos	13	advmod	_	pronunciation=lahko|Gos2.1_token_id=Gos057.tok722
+13	pokažemo	pokazati	VERB	Vmer1p	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	parataxis:restart	_	pronunciation=pokažemo|Gos2.1_token_id=Gos057.tok723
+14	že	že	PART	Q	_	17	advmod	_	pronunciation=že|Gos2.1_token_id=Gos057.tok724
+15	z	z	ADP	Si	Case=Ins	17	case	_	pronunciation=z|Gos2.1_token_id=Gos057.tok725
+16	obrazno	obrazen	ADJ	Agpfsi	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	pronunciation=obrazno|Gos2.1_token_id=Gos057.tok726
+17	mimiko	mimika	NOUN	Ncfsi	Case=Ins|Gender=Fem|Number=Sing	13	obl	_	pronunciation=mimiko|Gos2.1_token_id=Gos057.tok727
+18	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos057.s252
+# speaker_id = Am-prof-07143
+# sound_url = https://nl.ijs.si/project/gos20/Gos057/Gos057.s252.mp3
+# text = mhm .
+# split = train
+1	mhm	mhm	INTJ	I	_	0	root	_	pronunciation=mhm|Gos2.1_token_id=Gos057.tok728
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos057.s253
+# speaker_id = Am-prof-07143
+# sound_url = https://nl.ijs.si/project/gos20/Gos057/Gos057.s253.mp3
+# text = kaj pa je to ?
+# split = train
+1	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	pronunciation=kaj|Gos2.1_token_id=Gos057.tok729
+2	pa	pa	CCONJ	Cc	_	1	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos057.tok730
+3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	cop	_	pronunciation=je|Gos2.1_token_id=Gos057.tok731
+4	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	nsubj	_	pronunciation=to|Gos2.1_token_id=Gos057.tok732
+5	?	?	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos057.s255
+# speaker_id = Em-ucen-07144
+# sound_url = https://nl.ijs.si/project/gos20/Gos057/Gos057.s255.mp3
+# text = ja , kretnje na obrazu .
+# split = train
+1	ja	ja	PART	Q	_	3	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos057.tok734
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	kretnje	kretnja	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	0	root	_	pronunciation=kretnje|Gos2.1_token_id=Gos057.tok735
+4	na	na	ADP	Sl	Case=Loc	5	case	_	pronunciation=na|Gos2.1_token_id=Gos057.tok736
+5	obrazu	obraz	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	3	nmod	_	pronunciation=obrazu|Gos2.1_token_id=Gos057.tok737
+6	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos057.s256
+# speaker_id = Am-prof-07143
+# sound_url = https://nl.ijs.si/project/gos20/Gos057/Gos057.s256.mp3
+# text = eee , kretnje so to , s rokami so kretnje , ne .
+# split = train
+1	eee	eee	INTJ	I	_	5	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos057.tok738
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	kretnje	kretnja	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	pronunciation=kretnje|Gos2.1_token_id=Gos057.tok739
+4	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	cop	_	pronunciation=so|Gos2.1_token_id=Gos057.tok740
+5	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	pronunciation=to|Gos2.1_token_id=Gos057.tok741
+6	,	,	PUNCT	Z	_	9	punct	_	_
+7	s	z	ADP	Si	Case=Ins	8	case	_	pronunciation=s|Gos2.1_token_id=Gos057.tok742
+8	rokami	roka	NOUN	Ncfpi	Case=Ins|Gender=Fem|Number=Plur	9	obl	_	pronunciation=rokami|Gos2.1_token_id=Gos057.tok743
+9	so	biti	VERB	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	parataxis	_	pronunciation=so|Gos2.1_token_id=Gos057.tok744
+10	kretnje	kretnja	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	9	nsubj	_	pronunciation=kretnje|Gos2.1_token_id=Gos057.tok745
+11	,	,	PUNCT	Z	_	12	punct	_	_
+12	ne	ne	PART	Q	Polarity=Neg	9	discourse	_	pronunciation=ne|Gos2.1_token_id=Gos057.tok746
+13	.	.	PUNCT	Z	_	5	punct	_	_
+
+
+# sent_id = Gos057.s257
+# speaker_id = Em-ucen-07144
+# sound_url = https://nl.ijs.si/project/gos20/Gos057/Gos057.s257.mp3
+# text = mimika pač .
+# split = train
+1	mimika	mimika	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	pronunciation=mimika|Gos2.1_token_id=Gos057.tok747
+2	pač	pač	PART	Q	_	1	discourse	_	pronunciation=pač|Gos2.1_token_id=Gos057.tok748
+3	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos057.s258
+# speaker_id = Am-prof-07143
+# sound_url = https://nl.ijs.si/project/gos20/Gos057/Gos057.s258.mp3
+# text = kaj , kaj na obrazu se spreminja pri mimiki .
+# split = train
+1	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	pronunciation=kaj|Gos2.1_token_id=Gos057.tok749
+2	,	,	PUNCT	Z	_	7	punct	_	_
+3	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	7	nsubj	_	pronunciation=kaj|Gos2.1_token_id=Gos057.tok750
+4	na	na	ADP	Sl	Case=Loc	5	case	_	pronunciation=na|Gos2.1_token_id=Gos057.tok751
+5	obrazu	obraz	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	3	nmod	_	pronunciation=obrazu|Gos2.1_token_id=Gos057.tok752
+6	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	7	expl	_	pronunciation=se|Gos2.1_token_id=Gos057.tok753
+7	spreminja	spreminjati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	pronunciation=spreminja|Gos2.1_token_id=Gos057.tok754
+8	pri	pri	ADP	Sl	Case=Loc	9	case	_	pronunciation=pri|Gos2.1_token_id=Gos057.tok755
+9	mimiki	mimika	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	7	obl	_	pronunciation=mimiki|Gos2.1_token_id=Gos057.tok756
+10	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos057.s259
+# speaker_id = Am-prof-07143
+# sound_url = https://nl.ijs.si/project/gos20/Gos057/Gos057.s259.mp3
+# text = [name:personal] , prosim .
+# split = train
+1	[name:personal]	[name:personal]	PROPN	X	_	3	vocative	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos057.s259.element1
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	prosim	prositi	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=prosm|Gos2.1_token_id=Gos057.tok758
+4	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos057.s261
+# speaker_id = Am-prof-07143
+# sound_url = https://nl.ijs.si/project/gos20/Gos057/Gos057.s261.mp3
+# text = da ne bo samo tebe slišati , ne , celo uro , bodo mislili , da si ti učiteljica , ker toliko govoriš , ne .
+# split = train
+1	da	da	SCONJ	Cs	_	3	mark	_	pronunciation=da|Gos2.1_token_id=Gos057.tok759
+2	ne	ne	PART	Q	Polarity=Neg	3	advmod	_	pronunciation=ne|Gos2.1_token_id=Gos057.tok760
+3	bo	biti	VERB	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	0	root	_	pronunciation=bo|Gos2.1_token_id=Gos057.tok761
+4	samo	samo	PART	Q	_	5	advmod	_	pronunciation=sam|Gos2.1_token_id=Gos057.tok762
+5	tebe	ti	PRON	Pp2-sg	Case=Gen|Number=Sing|Person=2|PronType=Prs	6	obj	_	pronunciation=tebe|Gos2.1_token_id=Gos057.tok763
+6	slišati	slišati	VERB	Vmbn	VerbForm=Inf	3	csubj	_	pronunciation=slišat|Gos2.1_token_id=Gos057.tok764
+7	,	,	PUNCT	Z	_	8	punct	_	_
+8	ne	ne	PART	Q	Polarity=Neg	3	discourse	_	pronunciation=ne|Gos2.1_token_id=Gos057.tok765
+9	,	,	PUNCT	Z	_	8	punct	_	_
+10	celo	cel	ADJ	Agpfsa	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	pronunciation=celo|Gos2.1_token_id=Gos057.tok766
+11	uro	ura	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	pronunciation=uro|Gos2.1_token_id=Gos057.tok767
+12	,	,	PUNCT	Z	_	14	punct	_	_
+13	bodo	biti	AUX	Va-f3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	14	aux	_	pronunciation=bodo|Gos2.1_token_id=Gos057.tok768
+14	mislili	misliti	VERB	Vmpp-pm	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	3	parataxis	_	pronunciation=misli|Gos2.1_token_id=Gos057.tok769
+15	,	,	PUNCT	Z	_	19	punct	_	_
+16	da	da	SCONJ	Cs	_	19	mark	_	pronunciation=da|Gos2.1_token_id=Gos057.tok770
+17	si	biti	AUX	Va-r2s-n	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	19	cop	_	pronunciation=s|Gos2.1_token_id=Gos057.tok771
+18	ti	ti	PRON	Pp2-sn	Case=Nom|Number=Sing|Person=2|PronType=Prs	19	nsubj	_	pronunciation=ti|Gos2.1_token_id=Gos057.tok772
+19	učiteljica	učiteljica	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	14	ccomp	_	pronunciation=učitlca|Gos2.1_token_id=Gos057.tok773
+20	,	,	PUNCT	Z	_	23	punct	_	_
+21	ker	ker	SCONJ	Cs	_	23	mark	_	pronunciation=k|Gos2.1_token_id=Gos057.tok774
+22	toliko	toliko	DET	Rgp	PronType=Ind	23	advmod	_	pronunciation=tok|Gos2.1_token_id=Gos057.tok775
+23	govoriš	govoriti	VERB	Vmpr2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	14	advcl	_	pronunciation=govoriš|Gos2.1_token_id=Gos057.tok776
+24	,	,	PUNCT	Z	_	25	punct	_	_
+25	ne	ne	PART	Q	Polarity=Neg	14	discourse	_	pronunciation=ne|Gos2.1_token_id=Gos057.tok777
+26	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos057.s262
+# speaker_id = Am-prof-07143
+# sound_url = https://nl.ijs.si/project/gos20/Gos057/Gos057.s262.mp3
+# text = povej .
+# split = train
+1	povej	povedati	VERB	Vmem2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	pronunciation=povej|Gos2.1_token_id=Gos057.tok778
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos057.s263
+# speaker_id = Em-ucen-07144
+# sound_url = https://nl.ijs.si/project/gos20/Gos057/Gos057.s263.mp3
+# text = ja , mimika je pač položaj obrvi , oči in ust .
+# split = train
+1	ja	ja	PART	Q	_	6	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos057.tok779
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	mimika	mimika	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	pronunciation=mimika|Gos2.1_token_id=Gos057.tok780
+4	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	cop	_	pronunciation=je|Gos2.1_token_id=Gos057.tok781
+5	pač	pač	PART	Q	_	6	advmod	_	pronunciation=pač|Gos2.1_token_id=Gos057.tok782
+6	položaj	položaj	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	pronunciation=položaj|Gos2.1_token_id=Gos057.tok783
+7	obrvi	obrv	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	pronunciation=obrvi|Gos2.1_token_id=Gos057.tok784
+8	,	,	PUNCT	Z	_	9	punct	_	_
+9	oči	oči	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	7	conj	_	pronunciation=oči|Gos2.1_token_id=Gos057.tok785
+10	in	in	CCONJ	Cc	_	11	cc	_	pronunciation=in|Gos2.1_token_id=Gos057.tok786
+11	ust	usta	NOUN	Ncnpg	Case=Gen|Gender=Neut|Number=Plur	7	conj	_	pronunciation=ust|Gos2.1_token_id=Gos057.tok787
+12	.	.	PUNCT	Z	_	6	punct	_	_
+
+

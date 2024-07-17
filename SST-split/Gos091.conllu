@@ -1,0 +1,32 @@
+# newdoc id = Gos091
+# sent_id = Gos091.s6
+# speaker_id = Vm-gost-03514
+# sound_url = https://nl.ijs.si/project/gos20/Gos091/Gos091.s6.mp3
+# text = no , ameriška vojska ta trenutek šteje približno petsto štirideset tisoč mož , od tega jih imajo kar sto štiriinštirideset tisoč v Iraku .
+# split = train
+1	no	no	PART	Q	_	7	discourse	_	pronunciation=no|Gos2.1_token_id=Gos091.tok85
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	ameriška	ameriški	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	pronunciation=ameriška|Gos2.1_token_id=Gos091.tok86
+4	vojska	vojska	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	pronunciation=vojska|Gos2.1_token_id=Gos091.tok87
+5	ta	ta	DET	Pd-msa	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	pronunciation=ta|Gos2.1_token_id=Gos091.tok88
+6	trenutek	trenutek	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	pronunciation=trenutek|Gos2.1_token_id=Gos091.tok89
+7	šteje	šteti	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=šteje|Gos2.1_token_id=Gos091.tok90
+8	približno	približno	ADV	Rgp	Degree=Pos	9	advmod	_	pronunciation=približno|Gos2.1_token_id=Gos091.tok91
+9	petsto	petsto	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	12	nummod	_	pronunciation=petsto|Gos2.1_token_id=Gos091.tok92
+10	štirideset	štirideset	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	9	flat	_	pronunciation=štirideset|Gos2.1_token_id=Gos091.tok93
+11	tisoč	tisoč	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	9	flat	_	pronunciation=tisoč|Gos2.1_token_id=Gos091.tok94
+12	mož	mož	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	7	obl	_	pronunciation=mož|Gos2.1_token_id=Gos091.tok95
+13	,	,	PUNCT	Z	_	17	punct	_	_
+14	od	od	ADP	Sg	Case=Gen	15	case	_	pronunciation=od|Gos2.1_token_id=Gos091.tok96
+15	tega	ta	DET	Pd-nsg	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	17	obl	_	pronunciation=tega|Gos2.1_token_id=Gos091.tok97
+16	jih	on	PRON	Pp3mpg--y	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Variant=Short	17	obj	_	pronunciation=jih|Gos2.1_token_id=Gos091.tok98
+17	imajo	imeti	VERB	Vmpr3p-n	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	parataxis	_	pronunciation=imajo|Gos2.1_token_id=Gos091.tok99
+18	kar	kar	ADV	Rgp	Degree=Pos	19	advmod	_	pronunciation=kar|Gos2.1_token_id=Gos091.tok100
+19	sto	sto	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	17	nummod	_	pronunciation=sto|Gos2.1_token_id=Gos091.tok101
+20	štiriinštirideset	štiriinštirideset	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	19	flat	_	pronunciation=štiriinštirideset|Gos2.1_token_id=Gos091.tok102
+21	tisoč	tisoč	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	19	flat	_	pronunciation=tisoč|Gos2.1_token_id=Gos091.tok103
+22	v	v	ADP	Sl	Case=Loc	23	case	_	pronunciation=v|Gos2.1_token_id=Gos091.tok104
+23	Iraku	Irak	PROPN	Npmsl	Case=Loc|Gender=Masc|Number=Sing	17	obl	_	pronunciation=Iraku|Gos2.1_token_id=Gos091.tok105
+24	.	.	PUNCT	Z	_	7	punct	_	_
+
+
