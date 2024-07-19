@@ -1,22 +1,27 @@
 from pathlib import Path
 
-original_gos_tei = Path(
-    "/home/peter/mezzanine_resources/Gos.TEI/Artur-J/Artur-J-Gvecg-P580002.xml"
-)
 conllu_path = Path(
-    "/home/peter/mezzanine_resources/UD-SST-split/Artur-J-Gvecg-P580002.conllu"
+    "/home/peter/mezzanine_resources/UD-SST-split/Artur-N-G6116-P611601.conllu"
 )
 exb_path = Path(
-    "/home/peter/mezzanine_resources/Iriss-disfl-anno-phase5-fin-corr/Iriss-J-Gvecg-P580002.exb.xml"
+    "/home/peter/mezzanine_resources/Iriss-disfl-anno-phase5-fin-corr/Iriss-N-G6116-P611601.exb.xml"
+)
+textgrid_path = Path(
+    "/home/peter/mezzanine_resources/iriss-prosodic-units/Iriss-N-G6116-P611601-avd_tv-sm.TextGrid"
 )
 outpath = Path("brisi.xml")
 
 import EXBUtils
 import conllu
+import textgrids
 
 exb = EXBUtils.EXB(exb_path)
 cnl = conllu.parse(conllu_path.read_text())
+grid_pu = textgrids.TextGrid(textgrid_path)["PU"]
 
+for s, tier in exb.get_traceability_tiers().items():
+    for e in tier.findall(".//ud-tier-information"):
+        e.getparent().remove(e)
 
 # Add punctuation:
 for sentence in cnl:
@@ -106,10 +111,10 @@ for speaker in exb.speakers:
     tier = EXBUtils.ET.Element(
         "tier",
         attrib={
-            "id": f"{speaker}SENT",
-            "category": "sentenceid",
+            "id": f"{speaker}sentenceId",
+            "category": "sentenceId",
             "type": "a",
-            "display-name": f"{speaker} [sentenceid]",
+            "display-name": f"{speaker} [sentenceId]",
         },
     )
     for sentence in cnl:
@@ -205,19 +210,23 @@ for sentence in cnl:
         norm_event.text = " ".join([t["form"] for t in tokens])
 
 
-# Now we automate it for upos, lemma, feats, head, deprel and deps
+# Now we add conllu stuff
 for _speaker in exb.speakers:
-    for feature in ["upos", "lemma", "feats", "head", "deprel", "misc"]:
+    for feature in "conllu lemma upos xpos feats head deprel".split():
         featuretier = EXBUtils.ET.Element(
             "tier",
             attrib={
-                "id": f"{_speaker} [{feature.upper()}]",
-                "category": feature.upper(),
+                "id": f"{_speaker} [{feature}]",
+                "category": "{feature}",
                 "type": "a",
-                "display-name": f"{_speaker} [{feature.upper()}]",
+                "display-name": f"{_speaker} [{feature}]",
             },
         )
-
+        featuretier.append(
+            EXBUtils.ET.fromstring(
+                """<ud-tier-information><ud-information attribute-name="exmaralda:hidden">true</ud-information></ud-tier-information>"""
+            )
+        )
         for sentence in cnl:
             speaker = sentence.metadata["speaker_id"]
             if speaker != _speaker:
@@ -243,7 +252,9 @@ for _speaker in exb.speakers:
                 newevent = EXBUtils.ET.Element(
                     "event", start=tracevent.get("start"), end=tracevent.get("end")
                 )
-                newevent.text = str(t[feature])
+                newevent.text = (
+                    str((dict(t),)) if feature == "conllu" else str(t[feature])
+                )
                 featuretier.append(newevent)
 
             # And now we move to multiword tokens, where we map N words from conllu to 1 cell in EXB.
@@ -273,20 +284,65 @@ for _speaker in exb.speakers:
                 newevent = EXBUtils.ET.Element(
                     "event", start=tracevent.get("start"), end=tracevent.get("end")
                 )
-                newevent.text = " ".join([str(t[feature]) for t in tokens])
+                newevent.text = (
+                    str((dict(t) for t in tokens))
+                    if feature == "conllu"
+                    else " ".join([t[feature] for t in tokens])
+                )
                 featuretier.append(newevent)
         exb.doc.findall(".//tier")[-1].getparent().append(featuretier)
 
-# 2 + 2
 
+# Lettuce add Simona's prosodic units:
+for _speaker in exb.speakers:
+    pu_tier = EXBUtils.ET.Element(
+        "tier",
+        attrib={
+            "id": f"{_speaker} [prosodicUnits]",
+            "category": "prosodicUnits",
+            "type": "a",
+            "display-name": f"{_speaker} [prosodicUnits]",
+        },
+    )
+    for interval in grid_pu:
+        if interval.text.strip() == "":
+            continue
+        start_tokenid = "Artur" + interval.text.split("Artur")[1]
+        end_tokenid = "Artur" + interval.text.split("Artur")[-1]
+        startracevent = [
+            e
+            for e in exb.doc.findall(".//event")
+            if e.text.strip() == start_tokenid.strip()
+        ][0]
+        endtracevent = [
+            e
+            for e in exb.doc.findall(".//event")
+            if e.text.strip() == end_tokenid.strip()
+        ][0]
+        e = EXBUtils.ET.Element(
+            "event",
+            attrib={
+                "start": startracevent.get("start"),
+                "end": endtracevent.get("end"),
+            },
+        )
+        e.text = interval.text
+        pu_tier.append(e)
+    exb.doc.find(".//tier").getparent().append(pu_tier)
+
+speakers = exb.speakers
+# Rename top two tiers with explicit suffices:
+for s in speakers:
+    tiers = exb.doc.findall(f".//tier[@speaker='{s}']")
+    tiers[0].set("display-name", f"{s} [word]")
+    tiers[1].set("display-name", f"{s} [norm]")
+
+tier_suffices = EXBUtils.tier_suffices
+order = [s + t for s in speakers for t in tier_suffices]
+mapping = {o: i for i, o in enumerate(order)}
+parent = exb.doc.find(".//tier").getparent()
+parent[:] = sorted(
+    parent, key=lambda child: mapping.get(child.get("display-name"), -100)
+)
 
 exb.save(exb.doc, outpath)
-
-2 + 2
-
-
-# for sentence in cnl:
-#     sent_id = sentence.metadata["sent_id"]
-#     token_ids = [t["misc"]["Gos2.1_token_id"] for t in sentence]
-
-2 + 2

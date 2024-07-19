@@ -3,13 +3,22 @@ from lxml import etree as ET
 import pandas as pd
 
 tier_suffices = [
-    "",
-    "",
+    " [word]",
+    " [norm]",
     " [additional]",
     " [nonverbalDisfluency]",
     " [verbalDisfluency]",
     " [disfluencyStructure]",
     " [traceability]",
+    " [sentenceId]",
+    " [lemma]",
+    " [upos]",
+    " [xpos]",
+    " [feats]",
+    " [head]",
+    " [deprel]",
+    " [conllu]",
+    " [prosodicUnits]"
 ]
 tier_roles = [
     "word",
@@ -19,6 +28,15 @@ tier_roles = [
     "verbalDisfluency",
     "disfluencyStructure",
     "traceability",
+    "sentence_id",
+    "lemma",
+    "upos",
+    "xpos",
+    "feats",
+    "head",
+    "deprel",
+    "conllu",
+    "prosodicUnits"
 ]
 
 
@@ -36,14 +54,17 @@ class EXB:
             )
         self.tiers = self.doc.findall(".//{*}tier")
         self.speakers = self.get_speakers()
-        self.timeline = {
-            tli.get("id"): float(tli.get("time"))
-            for tli in self.doc.findall(".//{*}tli")
-        }
+        self.timeline = self.get_timeline()
         self.timeline_str = {
             tli.get("id"): tli.get("time") for tli in self.doc.findall(".//{*}tli")
         }
         self.df = self.pandalize()
+
+    def get_timeline(self):
+        return {
+            tli.get("id"): float(tli.get("time"))
+            for tli in self.doc.findall(".//{*}tli")
+        }
 
     def get_speakers(self) -> set[str]:
         """Get a set of all speakers present in the doc.
@@ -138,4 +159,6 @@ class EXB:
         Path(path).parents[0].mkdir(parents=True, exist_ok=True)
         Path(path).write_text(EXB.to_str(e))
 
-    # def get_alignment
+
+def trimns(s: str) -> str:
+    return s.replace(".n1", "").replace(".n2", "").replace(".n3", "")
