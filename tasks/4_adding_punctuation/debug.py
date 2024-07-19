@@ -1,13 +1,13 @@
 from pathlib import Path
 
 conllu_path = Path(
-    "/home/peter/mezzanine_resources/UD-SST-split/Artur-N-G6116-P611601.conllu"
+    "/home/peter/mezzanine_resources/UD-SST-split/Artur-J-Gvecg-P580002.conllu"
 )
 exb_path = Path(
-    "/home/peter/mezzanine_resources/Iriss-disfl-anno-phase5-fin-corr/Iriss-N-G6116-P611601.exb.xml"
+    "/home/peter/mezzanine_resources/Iriss-disfl-anno-phase5-fin-corr/Iriss-J-Gvecg-P580002.exb.xml"
 )
 textgrid_path = Path(
-    "/home/peter/mezzanine_resources/iriss-prosodic-units/Iriss-N-G6116-P611601-avd_tv-sm.TextGrid"
+    "/home/peter/mezzanine_resources/iriss-prosodic-units/Iriss-J-Gvecg-P580002-avd_tv_sm.TextGrid"
 )
 outpath = Path("brisi.xml")
 
@@ -314,6 +314,8 @@ for _speaker in exb.speakers:
             for e in exb.doc.findall(".//event")
             if e.text.strip() == start_tokenid.strip()
         ][0]
+        if not _speaker in startracevent.getparent().get("display-name"):
+            continue
         endtracevent = [
             e
             for e in exb.doc.findall(".//event")
