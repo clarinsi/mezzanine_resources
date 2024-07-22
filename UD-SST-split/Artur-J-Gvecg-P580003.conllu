@@ -1,13 +1,3 @@
-# sent_id = Artur-J-Gvecg-P580003.s72_reseg.572.5
-# speaker_id = Artur-J-G4531
-# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P580003.s69-s72.mp3
-# text = Tudi tebe .
-# split = dev
-1	Tudi	tudi	PART	Q	_	2	advmod	_	pronunciation=Tudi|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s72|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok645
-2	tebe	ti	PRON	Pp2-sa	Case=Acc|Number=Sing|Person=2|PronType=Prs	0	root	_	pronunciation=tebe|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s72|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok646
-3	.	.	PUNCT	Z	_	2	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s72|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok647
-
-
 # newdoc id = Artur-J-Gvecg-P580003
 # sent_id = Artur-J-Gvecg-P580003.s1_reseg.552
 # speaker_id = Artur-J-G4531
@@ -117,27 +107,41 @@
 11	.	.	PUNCT	Z	_	7	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s8|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok81
 
 
-# sent_id = Artur-J-Gvecg-P580003.s9-s11_reseg.556
+# sent_id = Artur-J-Gvecg-P580003.s9-s11_reseg.556.0
 # speaker_id = Artur-J-G4531
 # sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P580003.s9-s11.mp3
-# text = klinči , živjo Lep pozdrav na Štajerski val Del tvojega glasbenega značaja je čista zafrkancija .
+# text = Klinči , živjo
 # split = dev
-1	klinči	klinč	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	3	vocative	_	pronunciation=klinči|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s9|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok82
+1	Klinči	klinč	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	3	vocative	_	pronunciation=klinči|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s9|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok82
 2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s9|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok83
 3	živjo	živjo	INTJ	I	_	0	root	_	pronunciation=živjo|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s9|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok84
-4	Lep	lep	ADJ	Agpmsan	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	pronunciation=Lep|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s10|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok85
-5	pozdrav	pozdrav	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	parataxis	_	pronunciation=pozdrav|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s10|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok86
-6	na	na	ADP	Sa	Case=Acc	8	case	_	pronunciation=na|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s10|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok87
-7	Štajerski	štajerski	ADJ	Agpmsay	Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	pronunciation=Štajerski|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s10|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok88
-8	val	val	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	nmod	_	pronunciation=val|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s10|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok89
-9	Del	del	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	pronunciation=Del|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s11|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok90
-10	tvojega	tvoj	DET	Ps2msgs	Case=Gen|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	12	det	_	pronunciation=tvojega|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s11|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok91
-11	glasbenega	glasben	ADJ	Agpmsg	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	pronunciation=glasbenega|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s11|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok92
-12	značaja	značaj	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	pronunciation=značaja|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s11|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok93
-13	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	15	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s11|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok94
-14	čista	čist	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	pronunciation=čista|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s11|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok95
-15	zafrkancija	zafrkancija	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	3	parataxis	_	pronunciation=zafrkancija|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s11|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok96
-16	.	.	PUNCT	Z	_	15	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s11|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok97
+
+
+# sent_id = Artur-J-Gvecg-P580003.s9-s11_reseg.556.1
+# speaker_id = Artur-J-G4530
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P580003.s9-s11.mp3
+# text = # text = Lep pozdrav na Štajerski val
+# split = dev
+1	Lep	lep	ADJ	Agpmsan	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	pronunciation=Lep|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s10|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok85
+2	pozdrav	pozdrav	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	root	_	pronunciation=pozdrav|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s10|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok86
+3	na	na	ADP	Sa	Case=Acc	5	case	_	pronunciation=na|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s10|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok87
+4	Štajerski	štajerski	ADJ	Agpmsay	Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	pronunciation=Štajerski|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s10|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok88
+5	val	val	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	nmod	_	pronunciation=val|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s10|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok89
+
+
+# sent_id = Artur-J-Gvecg-P580003.s9-s11_reseg.556.2
+# speaker_id = Artur-J-G4531
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P580003.s9-s11.mp3
+# text = Del tvojega glasbenega značaja je čista zafrkancija .
+# split = dev
+1	Del	del	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	pronunciation=Del|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s11|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok90
+2	tvojega	tvoj	DET	Ps2msgs	Case=Gen|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	4	det	_	pronunciation=tvojega|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s11|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok91
+3	glasbenega	glasben	ADJ	Agpmsg	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	pronunciation=glasbenega|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s11|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok92
+4	značaja	značaj	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	pronunciation=značaja|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s11|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok93
+5	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s11|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok94
+6	čista	čist	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	pronunciation=čista|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s11|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok95
+7	zafrkancija	zafrkancija	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	pronunciation=zafrkancija|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s11|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok96
+8	.	.	PUNCT	Z	_	7	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s11|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok97
 
 
 # sent_id = Artur-J-Gvecg-P580003.s12_reseg.557
@@ -761,7 +765,7 @@
 15	imena	ime	NOUN	Ncnpn	Case=Nom|Gender=Neut|Number=Plur	10	parataxis	_	pronunciation=imena|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s68|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok619
 
 
-# sent_id = Artur-J-Gvecg-P580003.s69-s72_reseg.571
+# sent_id = Artur-J-Gvecg-P580003.s69-s72_reseg.571.0
 # speaker_id = Artur-J-G4530
 # sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P580003.s69-s72.mp3
 # text = torej Tilen Artač , ko smo ga prvič videli na oddaji , kjer je imitiral , e , določene like in jih izvajal .
@@ -792,7 +796,17 @@
 24	.	.	PUNCT	Z	_	2	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s71|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok644
 
 
-# sent_id = Artur-J-Gvecg-P580003.s73_reseg.572
+# sent_id = Artur-J-Gvecg-P580003.s72_reseg.572.1
+# speaker_id = Artur-J-G4531
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P580003.s69-s72.mp3
+# text = Tudi tebe .
+# split = dev
+1	Tudi	tudi	PART	Q	_	2	advmod	_	pronunciation=Tudi|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s72|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok645
+2	tebe	ti	PRON	Pp2-sa	Case=Acc|Number=Sing|Person=2|PronType=Prs	0	root	_	pronunciation=tebe|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s72|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok646
+3	.	.	PUNCT	Z	_	2	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P580003.s72|Gos2.1_token_id=Artur-J-Gvecg-P580003.tok647
+
+
+# sent_id = Artur-J-Gvecg-P580003.s73_reseg.572.3
 # speaker_id = Artur-J-G4530
 # sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P580003.s73.mp3
 # text = ti si moj sonček , sem rekel : " Evo , glavno vlogo imamo , ne " .

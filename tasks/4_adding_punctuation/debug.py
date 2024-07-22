@@ -1,14 +1,21 @@
 from pathlib import Path
 
-conllu_path = Path(
-    "/home/peter/mezzanine_resources/UD-SST-split/Artur-J-Gvecg-P580002.conllu"
-)
-exb_path = Path(
-    "/home/peter/mezzanine_resources/Iriss-disfl-anno-phase5-fin-corr/Iriss-J-Gvecg-P580002.exb.xml"
-)
-textgrid_path = Path(
-    "/home/peter/mezzanine_resources/iriss-prosodic-units/Iriss-J-Gvecg-P580002-avd_tv_sm.TextGrid"
-)
+searchstring = "J-Gvecg-P500042"
+conllu_path = list(
+    Path(
+        "/home/peter/mezzanine_resources/UD-SST-split/Artur-J-Gvecg-P500016.conllu"
+    ).parent.glob(f"*{searchstring}*")
+)[0]
+exb_path = list(
+    Path(
+        "/home/peter/mezzanine_resources/Iriss-disfl-anno-phase5-fin-corr/Iriss-J-Gvecg-P500016.exb.xml"
+    ).parent.glob(f"*{searchstring}*")
+)[0]
+textgrid_path = list(
+    Path(
+        "/home/peter/mezzanine_resources/iriss-prosodic-units/Iriss-J-Gvecg-P500016-avd_lr_sm-no-arg.TextGrid"
+    ).parent.glob(f"*{searchstring}*")
+)[0]
 outpath = Path("brisi.xml")
 
 import EXBUtils
@@ -24,29 +31,109 @@ for s, tier in exb.get_traceability_tiers().items():
         e.getparent().remove(e)
 
 # Add punctuation:
-for sentence in cnl:
+for i, sentence in enumerate(cnl):
     speaker = sentence.metadata["speaker_id"]
     # Is the first token punctuation?
     if sentence[0]["upos"] == "PUNCT":
-        raise NotImplementedError(
-            "This was not anticipated... Who starts a sentence with a punctuation? ¿What are you, Spanish?"
-        )
-
-    for previous, current in zip(sentence, sentence[1:]):
+        exb.update_timeline()
+        current = sentence[0]
+        previous = cnl[i - 1][1]
         if current["upos"] == "PUNCT":
+            exb.update_timeline()
+            if current["misc"]["Gos2.1_token_id"] == "Artur-J-Gvecg-P580003.tok174":
+                2 + 2
             punctuation = current["form"]
             previous_token_id = EXBUtils.trimns(previous["misc"]["Gos2.1_token_id"])
-            traceability_event = [
+            previous_traceability_event = [
                 e
                 for e in exb.doc.findall(".//event")
                 if e.text.strip() == previous_token_id.strip()
             ][0]
-            end_id = traceability_event.get("end")
+            end_id = previous_traceability_event.get("end")
             time_s = exb.timeline.get(end_id)
             time_str = exb.timeline_str.get(end_id)
 
             # Let's insert a new tli:
             previous_tli = exb.doc.find(f".//tli[@id='{end_id}']")
+            assert previous_tli is not None
+            ind = previous_tli.getparent().index(previous_tli)
+            previous_tli.getparent().insert(
+                ind + 1,
+                EXBUtils.ET.Element("tli", id=end_id + "_punct", time=time_str),
+            )
+            # Let's change all annotation tiers so that they end at the new timestamp:
+            for n in [2, 3, 4]:
+                tier_to_check = exb.get_all_nth_tiers(n=n)[speaker]
+                for event in tier_to_check.findall(f".//event[@end='{end_id}']"):
+                    event.set("end", end_id + "_punct")
+                for event in tier_to_check.findall(f".//event[@start='{end_id}']"):
+                    event.set("start", end_id + "_punct")
+
+            # Let's insert the new punctuation in its proper place:
+            for n in [0, 1]:
+                tier_to_check = exb.get_all_nth_tiers(n=n)[speaker]
+                for event in tier_to_check.findall(f".//event[@end='{end_id}']"):
+                    ind = event.getparent().index(event)
+                    newevent = EXBUtils.ET.Element(
+                        "event", start=end_id, end=end_id + "_punct"
+                    )
+                    newevent.text = punctuation
+                    event.getparent().insert(ind + 1, newevent)
+
+                # Fix also the next item:
+                for event in tier_to_check.findall(f".//event[@start='{end_id}']"):
+                    if event.get("end") == end_id + "_punct":
+                        continue
+                    event.set("start", end_id + "_punct")
+            # Fix traceability tiers too:
+            traceability_tier = exb.get_traceability_tiers()[speaker]
+            for event in traceability_tier.findall(f".//event[@start='{end_id}']"):
+                event.set("start", end_id + "_punct")
+                # Add a new traceability event:
+                ind = event.getparent().index(event)
+                newevent = EXBUtils.ET.Element(
+                    "event", start=end_id, end=end_id + "_punct"
+                )
+                newevent.text = current["misc"]["Gos2.1_token_id"] + " "
+                event.getparent().insert(ind, newevent)
+
+            # If no traceability corrections were performed, then we also didn't introduce a new event.
+            # Lettuce fix that:
+            if (
+                len(
+                    traceability_tier.findall(
+                        f".//event[@start='{end_id}'][@end='{end_id}_punct']"
+                    )
+                )
+                == 0
+            ):
+                event = traceability_tier.findall(f".//event[@end='{end_id}']")[0]
+                ind = event.getparent().index(event)
+                newevent = EXBUtils.ET.Element(
+                    "event", start=end_id, end=end_id + "_punct"
+                )
+                newevent.text = current["misc"]["Gos2.1_token_id"] + " "
+                event.getparent().insert(ind, newevent)
+
+    for previous, current in zip(sentence, sentence[1:]):
+        if current["upos"] == "PUNCT":
+            exb.update_timeline()
+            if current["misc"]["Gos2.1_token_id"] == "Artur-J-Gvecg-P580003.tok174":
+                2 + 2
+            punctuation = current["form"]
+            previous_token_id = EXBUtils.trimns(previous["misc"]["Gos2.1_token_id"])
+            previous_traceability_event = [
+                e
+                for e in exb.doc.findall(".//event")
+                if e.text.strip() == previous_token_id.strip()
+            ][0]
+            end_id = previous_traceability_event.get("end")
+            time_s = exb.timeline.get(end_id)
+            time_str = exb.timeline_str.get(end_id)
+
+            # Let's insert a new tli:
+            previous_tli = exb.doc.find(f".//tli[@id='{end_id}']")
+            assert previous_tli is not None
             ind = previous_tli.getparent().index(previous_tli)
             previous_tli.getparent().insert(
                 ind + 1,
@@ -287,7 +374,16 @@ for _speaker in exb.speakers:
                 newevent.text = (
                     str((dict(t) for t in tokens))
                     if feature == "conllu"
-                    else " ".join([t[feature] for t in tokens])
+                    else " ".join(
+                        [
+                            str(
+                                t.get(
+                                    feature,
+                                )
+                            )
+                            for t in tokens
+                        ]
+                    )
                 )
                 featuretier.append(newevent)
         exb.doc.findall(".//tier")[-1].getparent().append(featuretier)
