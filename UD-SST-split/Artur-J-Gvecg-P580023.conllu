@@ -1333,7 +1333,7 @@
 4	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P580023.s113|Gos2.1_token_id=Artur-J-Gvecg-P580023.tok966
 
 
-# sent_id = Artur-J-Gvecg-P580023.s114-s115_reseg.675
+# sent_id = Artur-J-Gvecg-P580023.s114-s115_reseg.675.0
 # speaker_id = Artur-J-G4544
 # sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P580023.s114-s115.mp3
 # text = veliko tudi gostujete in pa eee nagrade , jih je tudi ja .
@@ -1349,8 +1349,15 @@
 9	jih	on	PRON	Pp3fpg--y	Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Variant=Short	10	nsubj	_	pronunciation=jih|Gos2.1_seg_id=Artur-J-Gvecg-P580023.s114|Gos2.1_token_id=Artur-J-Gvecg-P580023.tok975
 10	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	parataxis	_	pronunciation=je|Gos2.1_seg_id=Artur-J-Gvecg-P580023.s114|Gos2.1_token_id=Artur-J-Gvecg-P580023.tok976
 11	tudi	tudi	PART	Q	_	10	advmod	_	pronunciation=tudi|Gos2.1_seg_id=Artur-J-Gvecg-P580023.s114|Gos2.1_token_id=Artur-J-Gvecg-P580023.tok977
-12	ja	ja	PART	Q	_	3	parataxis	_	pronunciation=Ja|Gos2.1_seg_id=Artur-J-Gvecg-P580023.s115|Gos2.1_token_id=Artur-J-Gvecg-P580023.tok978
-13	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P580023.s115|Gos2.1_token_id=Artur-J-Gvecg-P580023.tok979
+
+
+# sent_id = Artur-J-Gvecg-P580023.s114-s115_reseg.675.1
+# speaker_id = Artur-J-G4554
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P580023.s114-s115.mp3
+# text = veliko tudi gostujete in pa eee nagrade , jih je tudi ja .
+# split = train
+1	ja	ja	PART	Q	_	1	root	_	pronunciation=Ja|Gos2.1_seg_id=Artur-J-Gvecg-P580023.s115|Gos2.1_token_id=Artur-J-Gvecg-P580023.tok978
+2	.	.	PUNCT	Z	_	2	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P580023.s115|Gos2.1_token_id=Artur-J-Gvecg-P580023.tok979
 
 
 # sent_id = Artur-J-Gvecg-P580023.s116_reseg.676
