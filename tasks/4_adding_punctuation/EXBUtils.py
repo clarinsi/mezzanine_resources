@@ -168,12 +168,10 @@ class EXB:
 
 def trimns(s: str) -> str:
     return (
-        s.replace(".n1", "")
-        .replace(".n2", "")
-        .replace(".n3", "")
-        .replace(".element1", "")
-        .replace(".element2", "")
-        .replace(".element3", "")
-        .replace(".element4", "")
-        .replace(".element5", "")
+        s.replace(".n1", "").replace(".n2", "").replace(".n3", "")
+        # .replace(".element1", "")
+        # .replace(".element2", "")
+        # .replace(".element3", "")
+        # .replace(".element4", "")
+        # .replace(".element5", "")
     )
