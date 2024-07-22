@@ -7,7 +7,7 @@ try:
     textgrid_path = Path(snakemake.input.pu)
     outpath = Path(snakemake.output[0])
 except NameError:
-    searchstring = "J-Gvecg-P500042"
+    searchstring = "N-G5019-P600012"
     conllu_path = list(
         Path(
             "/home/peter/mezzanine_resources/UD-SST-split/Artur-J-Gvecg-P500016.conllu"
@@ -450,7 +450,10 @@ for _speaker in exb.speakers:
         },
     )
     for interval in grid_pu:
+        interval.text = interval.text.replace("#", "").strip()
         if interval.text.strip() == "":
+            continue
+        if not interval.text.strip().startswith("Artur"):
             continue
         start_tokenid = "Artur" + interval.text.split("Artur")[1]
         end_tokenid = "Artur" + interval.text.split("Artur")[-1]
