@@ -59,7 +59,7 @@ pattern = r"(\d+)"
 # Extract all matches and convert to a list of tuples
 df["extracted_digits"] = (
     df["sent_id"]
-    .str.split(".")
+    .str.split("_reseg.")
     .str[-1]
     .str.extractall(pattern)
     .groupby(level=0)[0]

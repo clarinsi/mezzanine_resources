@@ -18,7 +18,7 @@ tier_suffices = [
     " [head]",
     " [deprel]",
     " [conllu]",
-    " [prosodicUnits]"
+    " [prosodicUnits]",
 ]
 tier_roles = [
     "word",
@@ -36,7 +36,7 @@ tier_roles = [
     "head",
     "deprel",
     "conllu",
-    "prosodicUnits"
+    "prosodicUnits",
 ]
 
 
@@ -59,6 +59,12 @@ class EXB:
             tli.get("id"): tli.get("time") for tli in self.doc.findall(".//{*}tli")
         }
         self.df = self.pandalize()
+
+    def update_timeline(self):
+        self.timeline = self.get_timeline()
+        self.timeline_str = {
+            tli.get("id"): tli.get("time") for tli in self.doc.findall(".//{*}tli")
+        }
 
     def get_timeline(self):
         return {
@@ -161,4 +167,13 @@ class EXB:
 
 
 def trimns(s: str) -> str:
-    return s.replace(".n1", "").replace(".n2", "").replace(".n3", "")
+    return (
+        s.replace(".n1", "")
+        .replace(".n2", "")
+        .replace(".n3", "")
+        .replace(".element1", "")
+        .replace(".element2", "")
+        .replace(".element3", "")
+        .replace(".element4", "")
+        .replace(".element5", "")
+    )

@@ -1,0 +1,31 @@
+from pathlib import Path
+
+exbdir = Path("../../Iriss-disfl-anno-phase5-fin-corr")
+conlludir = Path("../../UD-SST-split")
+pudir = Path("../../iriss-prosodic-units/")
+outdir = Path("../../Iriss-disfl-conll-pros")
+outdir.mkdir(parents=True, exist_ok=True)
+ids = [i.with_suffix("").with_suffix("").name.replace("Iriss", "") for i in exbdir.glob("*.xml")]
+exbs = [list(exbdir.glob(f"*{i}*"))[0] for i in ids]
+conllus = [list(conlludir.glob(f"*{i}*"))[0] for i in ids]
+pus = [list(pudir.glob(f"*{i}*"))[0] for i in ids]
+# newpus = [pudir / f""]
+outs = [outdir / f"Iriss{i}.exb.xml" for i in ids]
+
+
+def f(wildcards, what):
+    return [p for p in what if wildcards.i in str(p)]
+rule GatherOutputs:
+    input: outs
+
+rule DoOne:
+    input:
+        exb= lambda wildcards: [p for p in exbs if wildcards.i in str(p)][0],
+        conllu= lambda wildcards: [p for p in conllus if wildcards.i in str(p)][0],
+        pu= lambda wildcards: [p for p in pus if wildcards.i in str(p)][0]
+    output:
+        "../../Iriss-disfl-conll-pros/Iriss{i}.exb.xml"
+    conda:
+        "mezzanine"
+    script:
+        "joiner.py"
