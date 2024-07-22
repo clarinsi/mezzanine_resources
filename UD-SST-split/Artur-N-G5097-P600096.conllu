@@ -589,13 +589,13 @@
 # sent_id = Artur-N-G5097-P600096.s49-s51_reseg.1381
 # speaker_id = Artur-N-G5097
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5097-P600096.s49-s51.mp3
-# text = predvsem za pohištvo , z dekoracijo .
+# text = predvsem za pohištvo , za dekoracijo .
 # split = dev
 1	predvsem	predvsem	PART	Q	_	3	advmod	_	pronunciation=predvsəm|Gos2.1_seg_id=Artur-N-G5097-P600096.s49|Gos2.1_token_id=Artur-N-G5097-P600096.tok461
 2	za	za	ADP	Sa	Case=Acc	3	case	_	pronunciation=za|Gos2.1_seg_id=Artur-N-G5097-P600096.s49|Gos2.1_token_id=Artur-N-G5097-P600096.tok462
 3	pohištvo	pohištvo	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	0	root	_	pronunciation=pohištvo|Gos2.1_seg_id=Artur-N-G5097-P600096.s50|Gos2.1_token_id=Artur-N-G5097-P600096.tok463
 4	,	,	PUNCT	Z	_	6	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5097-P600096.s50|Gos2.1_token_id=Artur-N-G5097-P600096.tok464
-5	z	z	ADP	Si	Case=Ins	6	case	_	pronunciation=zə|Gos2.1_seg_id=Artur-N-G5097-P600096.s51|Gos2.1_token_id=Artur-N-G5097-P600096.tok465
+5	za	za	ADP	Sa	Case=Acc	6	case	_	pronunciation=zə|Gos2.1_seg_id=Artur-N-G5097-P600096.s51|Gos2.1_token_id=Artur-N-G5097-P600096.tok465
 6	dekoracijo	dekoracija	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	3	conj	_	pronunciation=dekoracijo|Gos2.1_seg_id=Artur-N-G5097-P600096.s51|Gos2.1_token_id=Artur-N-G5097-P600096.tok466
 7	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G5097-P600096.s51|Gos2.1_token_id=Artur-N-G5097-P600096.tok467
 
@@ -668,7 +668,7 @@
 # sent_id = Artur-N-G5097-P600096.s55-s57_reseg.1385
 # speaker_id = Artur-N-G5097
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5097-P600096.s55-s57.mp3
-# text = ampak sva imela malo težav s prodajalcem teh lustrov , ker je neodziven , in čakala na lustre že skoraj pet mesecev .
+# text = ampak sva imela malo težav s prodajalcem teh lustrov , ker je neodziven , in čakava na lustre že skoraj pet mesecev .
 # split = dev
 1	ampak	ampak	CCONJ	Cc	_	3	cc	_	pronunciation=ampak|Gos2.1_seg_id=Artur-N-G5097-P600096.s55|Gos2.1_token_id=Artur-N-G5097-P600096.tok512
 2	sva	biti	AUX	Va-r1d-n	Mood=Ind|Number=Dual|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	pronunciation=sva|Gos2.1_seg_id=Artur-N-G5097-P600096.s55|Gos2.1_token_id=Artur-N-G5097-P600096.tok513
@@ -685,7 +685,7 @@
 13	neodziven	neodziven	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	3	advcl	_	pronunciation=neodzivən|Gos2.1_seg_id=Artur-N-G5097-P600096.s55|Gos2.1_token_id=Artur-N-G5097-P600096.tok524
 14	,	,	PUNCT	Z	_	13	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5097-P600096.s55|Gos2.1_token_id=Artur-N-G5097-P600096.tok525
 15	in	in	CCONJ	Cc	_	16	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-N-G5097-P600096.s55|Gos2.1_token_id=Artur-N-G5097-P600096.tok526
-16	čakala	čakati	VERB	Vmpp-dm	Aspect=Imp|Gender=Masc|Number=Dual|VerbForm=Part	3	conj	_	pronunciation=čakava|Gos2.1_seg_id=Artur-N-G5097-P600096.s56|Gos2.1_token_id=Artur-N-G5097-P600096.tok527
+16	čakava	čakati	VERB	Vmpr1d	Aspect=Imp|Mood=Ind|Number=Dual|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	pronunciation=čakava|Gos2.1_seg_id=Artur-N-G5097-P600096.s56|Gos2.1_token_id=Artur-N-G5097-P600096.tok527
 17	na	na	ADP	Sa	Case=Acc	18	case	_	pronunciation=na|Gos2.1_seg_id=Artur-N-G5097-P600096.s56|Gos2.1_token_id=Artur-N-G5097-P600096.tok528
 18	lustre	luster	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	16	obl	_	pronunciation=lustre|Gos2.1_seg_id=Artur-N-G5097-P600096.s56|Gos2.1_token_id=Artur-N-G5097-P600096.tok529
 19	že	že	PART	Q	_	22	advmod	_	pronunciation=že|Gos2.1_seg_id=Artur-N-G5097-P600096.s56|Gos2.1_token_id=Artur-N-G5097-P600096.tok530

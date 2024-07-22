@@ -44,10 +44,10 @@
 # sent_id = Artur-N-G5014-P600007.s4-s6_reseg.866
 # speaker_id = Artur-N-G5014
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5014-P600007.s4-s6.mp3
-# text = probal si tudi Fortnite , samo mi ni bilo neke , zdaj pa se dobimo vsak večer skoraj s kolegi pa se pogovarjamo po Discordu pa špilamo lepo Counter-Strike .
+# text = probal sem tudi Fortnite , samo mi ni bilo nekaj , zdaj pa se dobimo vsak večer skoraj s kolegi pa se pogovarjamo po Discordu pa špilamo lepo Counter-Strike .
 # split = train
 1	probal	probati	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=probo|Gos2.1_seg_id=Artur-N-G5014-P600007.s4|Gos2.1_token_id=Artur-N-G5014-P600007.tok29
-2	si	biti	AUX	Va-r2s-n	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	aux	_	pronunciation=sti|Gos2.1_seg_id=Artur-N-G5014-P600007.s4|Gos2.1_token_id=Artur-N-G5014-P600007.tok30.n1
+2	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	aux	_	pronunciation=sti|Gos2.1_seg_id=Artur-N-G5014-P600007.s4|Gos2.1_token_id=Artur-N-G5014-P600007.tok30.n1
 3	tudi	tudi	PART	Q	_	4	advmod	_	pronunciation=sti|Gos2.1_seg_id=Artur-N-G5014-P600007.s4|Gos2.1_token_id=Artur-N-G5014-P600007.tok30.n2
 4	Fortnite	Fortnite	PROPN	Npmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obj	_	pronunciation=fortnajt|Gos2.1_seg_id=Artur-N-G5014-P600007.s4|Gos2.1_token_id=Artur-N-G5014-P600007.tok31
 5	,	,	PUNCT	Z	_	10	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5014-P600007.s4|Gos2.1_token_id=Artur-N-G5014-P600007.tok32
@@ -55,7 +55,7 @@
 7	mi	jaz	PRON	Pp1-sd--y	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	10	obj	_	pronunciation=mi|Gos2.1_seg_id=Artur-N-G5014-P600007.s4|Gos2.1_token_id=Artur-N-G5014-P600007.tok34
 8	ni	biti	AUX	Va-r3s-y	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	10	aux	_	pronunciation=ni|Gos2.1_seg_id=Artur-N-G5014-P600007.s4|Gos2.1_token_id=Artur-N-G5014-P600007.tok35
 9	bilo	biti	AUX	Va-p-sn	Gender=Neut|Number=Sing|VerbForm=Part	10	cop	_	pronunciation=blo|Gos2.1_seg_id=Artur-N-G5014-P600007.s4|Gos2.1_token_id=Artur-N-G5014-P600007.tok36
-10	neke	nek	DET	Pi-fsg	Case=Gen|Gender=Fem|Number=Sing|PronType=Ind	1	conj	_	pronunciation=neke|Gos2.1_seg_id=Artur-N-G5014-P600007.s4|Gos2.1_token_id=Artur-N-G5014-P600007.tok37
+10	nekaj	nekaj	ADV	Rgp	Degree=Pos	1	conj	_	pronunciation=neke|Gos2.1_seg_id=Artur-N-G5014-P600007.s4|Gos2.1_token_id=Artur-N-G5014-P600007.tok37
 11	,	,	PUNCT	Z	_	15	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5014-P600007.s4|Gos2.1_token_id=Artur-N-G5014-P600007.tok38
 12	zdaj	zdaj	ADV	Rgp	Degree=Pos	15	advmod	_	pronunciation=zaj|Gos2.1_seg_id=Artur-N-G5014-P600007.s5|Gos2.1_token_id=Artur-N-G5014-P600007.tok39
 13	pa	pa	CCONJ	Cc	_	15	advmod	_	pronunciation=pa|Gos2.1_seg_id=Artur-N-G5014-P600007.s5|Gos2.1_token_id=Artur-N-G5014-P600007.tok40
@@ -337,7 +337,7 @@
 # sent_id = Artur-N-G5014-P600007.s23_reseg.882
 # speaker_id = Artur-N-G5014
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5014-P600007.s23.mp3
-# text = pol pa še od katerega učitelj v komisiji , ne , po pa za svojega več pik da pa …
+# text = pol pa še od katerega učitelj v komisiji , ne , pol pa za svojega več pik da pa …
 # split = train
 1	pol	pol	DET	Rgp	PronType=Ind	6	orphan	_	pronunciation=po|Gos2.1_seg_id=Artur-N-G5014-P600007.s23|Gos2.1_token_id=Artur-N-G5014-P600007.tok221
 2	pa	pa	CCONJ	Cc	_	6	orphan	_	pronunciation=pa|Gos2.1_seg_id=Artur-N-G5014-P600007.s23|Gos2.1_token_id=Artur-N-G5014-P600007.tok222
@@ -350,7 +350,7 @@
 9	,	,	PUNCT	Z	_	10	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5014-P600007.s23|Gos2.1_token_id=Artur-N-G5014-P600007.tok229
 10	ne	ne	PART	Q	Polarity=Neg	6	discourse	_	pronunciation=ne|Gos2.1_seg_id=Artur-N-G5014-P600007.s23|Gos2.1_token_id=Artur-N-G5014-P600007.tok230
 11	,	,	PUNCT	Z	_	10	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5014-P600007.s23|Gos2.1_token_id=Artur-N-G5014-P600007.tok231
-12	po	po	ADV	Rgp	Degree=Pos	18	advmod	_	pronunciation=po|Gos2.1_seg_id=Artur-N-G5014-P600007.s23|Gos2.1_token_id=Artur-N-G5014-P600007.tok232
+12	pol	pol	ADV	Rgp	Degree=Pos	18	advmod	_	pronunciation=po|Gos2.1_seg_id=Artur-N-G5014-P600007.s23|Gos2.1_token_id=Artur-N-G5014-P600007.tok232
 13	pa	pa	CCONJ	Cc	_	18	advmod	_	pronunciation=pa|Gos2.1_seg_id=Artur-N-G5014-P600007.s23|Gos2.1_token_id=Artur-N-G5014-P600007.tok233
 14	za	za	ADP	Sa	Case=Acc	15	case	_	pronunciation=za|Gos2.1_seg_id=Artur-N-G5014-P600007.s23|Gos2.1_token_id=Artur-N-G5014-P600007.tok234
 15	svojega	svoj	DET	Px-msa	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	18	obl	_	pronunciation=svojga|Gos2.1_seg_id=Artur-N-G5014-P600007.s23|Gos2.1_token_id=Artur-N-G5014-P600007.tok235
@@ -702,9 +702,9 @@
 # sent_id = Artur-N-G5014-P600007.s47-s48_reseg.901
 # speaker_id = Artur-N-G5014
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5014-P600007.s47-s48.mp3
-# text = po pa sem zgubil interes pa sem pač interes našel bolj v športu pa eee mi je to zdaj nekako boljše , ne .
+# text = pol pa sem zgubil interes pa sem pač interes našel bolj v športu pa eee mi je to zdaj nekako boljše , ne .
 # split = train
-1	po	po	ADV	Rgp	Degree=Pos	4	advmod	_	pronunciation=po|Gos2.1_seg_id=Artur-N-G5014-P600007.s47|Gos2.1_token_id=Artur-N-G5014-P600007.tok460
+1	pol	pol	ADV	Rgp	Degree=Pos	4	advmod	_	pronunciation=po|Gos2.1_seg_id=Artur-N-G5014-P600007.s47|Gos2.1_token_id=Artur-N-G5014-P600007.tok460
 2	pa	pa	CCONJ	Cc	_	4	advmod	_	pronunciation=pa|Gos2.1_seg_id=Artur-N-G5014-P600007.s47|Gos2.1_token_id=Artur-N-G5014-P600007.tok461
 3	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	pronunciation=sən|Gos2.1_seg_id=Artur-N-G5014-P600007.s47|Gos2.1_token_id=Artur-N-G5014-P600007.tok462
 4	zgubil	zgubiti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=zgubo|Gos2.1_seg_id=Artur-N-G5014-P600007.s47|Gos2.1_token_id=Artur-N-G5014-P600007.tok463

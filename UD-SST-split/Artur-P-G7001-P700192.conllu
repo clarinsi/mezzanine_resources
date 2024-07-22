@@ -293,7 +293,7 @@
 # sent_id = Artur-P-G7001-P700192.s32-s38_reseg.1795
 # speaker_id = Artur-P-G7001
 # sound_url = https://nl.ijs.si/project/iriss/Artur-P-G7001-P700192.s32-s38.mp3
-# text = morda bi morala biti paleta tistih , ki so to funkcijo opravljali v prejšnjem mandatu , ampak ker govorimo o reciklirani vladi in tistih , ki so bili prej na Ministrstvu za delo , družino in socialne zadeve iz vrst SD-ja , danes sedijo nekje drugje in upam , da to tudi poslušajo .
+# text = morda bi morala biti paleta tistih , ki so to funkcijo opravljali v prejšnjem mandatu , ampak ker govorimo o reciklirani vladi in tisti , ki so bili prej na Ministrstvu za delo , družino in socialne zadeve iz vrst SD-ja , danes sedijo nekje drugje in upam , da to tudi poslušajo .
 # split = dev
 1	morda	morda	PART	Q	_	3	advmod	_	pronunciation=morda|Gos2.1_seg_id=Artur-P-G7001-P700192.s32|Gos2.1_token_id=Artur-P-G7001-P700192.tok222
 2	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	3	aux	_	pronunciation=bi|Gos2.1_seg_id=Artur-P-G7001-P700192.s32|Gos2.1_token_id=Artur-P-G7001-P700192.tok223
@@ -318,7 +318,7 @@
 21	reciklirani	recikliran	ADJ	Appfsl	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part	22	amod	_	pronunciation=reciklirani|Gos2.1_seg_id=Artur-P-G7001-P700192.s34|Gos2.1_token_id=Artur-P-G7001-P700192.tok242
 22	vladi	vlada	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	19	obl	_	pronunciation=vladi|Gos2.1_seg_id=Artur-P-G7001-P700192.s34|Gos2.1_token_id=Artur-P-G7001-P700192.tok243
 23	in	in	CCONJ	Cc	_	44	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-P-G7001-P700192.s34|Gos2.1_token_id=Artur-P-G7001-P700192.tok244
-24	tistih	tisti	DET	Pd-mpg	Case=Gen|Gender=Masc|Number=Plur|PronType=Dem	44	nsubj	_	pronunciation=tistih|Gos2.1_seg_id=Artur-P-G7001-P700192.s34|Gos2.1_token_id=Artur-P-G7001-P700192.tok245
+24	tisti	tisti	DET	Pd-mpn	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	44	nsubj	_	pronunciation=tistih|Gos2.1_seg_id=Artur-P-G7001-P700192.s34|Gos2.1_token_id=Artur-P-G7001-P700192.tok245
 25	,	,	PUNCT	Z	_	28	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-P-G7001-P700192.s34|Gos2.1_token_id=Artur-P-G7001-P700192.tok246
 26	ki	ki	SCONJ	Cs	_	28	mark	_	pronunciation=ki|Gos2.1_seg_id=Artur-P-G7001-P700192.s35|Gos2.1_token_id=Artur-P-G7001-P700192.tok247
 27	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	28	aux	_	pronunciation=so|Gos2.1_seg_id=Artur-P-G7001-P700192.s35|Gos2.1_token_id=Artur-P-G7001-P700192.tok248
@@ -597,10 +597,10 @@
 # sent_id = Artur-P-G7001-P700192.s70-s73_reseg.1804
 # speaker_id = Artur-P-G7001
 # sound_url = https://nl.ijs.si/project/iriss/Artur-P-G7001-P700192.s70-s73.mp3
-# text = eee Šla bom po posameznih področjih , eee ne bom posegala vse , ker je to eee nemogoče , pa ne nazadnje tudi bilo za to pristojno eee telo , ki je zadevo obravnavalo , pa vendar .
+# text = eee šla bom po posameznih področjih , eee ne bom posegala vse , ker je to eee nemogoče , pa ne nazadnje tudi bilo za to pristojno eee telo , ki je zadevo obravnavalo , pa vendar .
 # split = dev
 1	eee	eee	INTJ	I	_	2	discourse:filler	_	pronunciation=eee|Gos2.1_seg_id=Artur-P-G7001-P700192.s70|Gos2.1_token_id=Artur-P-G7001-P700192.tok464
-2	Šla	iti	VERB	Vmbp-sf	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=Šla|Gos2.1_seg_id=Artur-P-G7001-P700192.s70|Gos2.1_token_id=Artur-P-G7001-P700192.tok465
+2	šla	iti	VERB	Vmbp-sf	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=Šla|Gos2.1_seg_id=Artur-P-G7001-P700192.s70|Gos2.1_token_id=Artur-P-G7001-P700192.tok465
 3	bom	biti	AUX	Va-f1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin	2	aux	_	pronunciation=bom|Gos2.1_seg_id=Artur-P-G7001-P700192.s70|Gos2.1_token_id=Artur-P-G7001-P700192.tok466
 4	po	po	ADP	Sl	Case=Loc	6	case	_	pronunciation=po|Gos2.1_seg_id=Artur-P-G7001-P700192.s70|Gos2.1_token_id=Artur-P-G7001-P700192.tok467
 5	posameznih	posamezen	ADJ	Agpnpl	Case=Loc|Degree=Pos|Gender=Neut|Number=Plur	6	amod	_	pronunciation=posameznih|Gos2.1_seg_id=Artur-P-G7001-P700192.s70|Gos2.1_token_id=Artur-P-G7001-P700192.tok468
@@ -989,7 +989,7 @@
 # sent_id = Artur-P-G7001-P700192.s112-s117_reseg.1819
 # speaker_id = Artur-P-G7001
 # sound_url = https://nl.ijs.si/project/iriss/Artur-P-G7001-P700192.s112-s117.mp3
-# text = zdaj bo se vedno nekdo rekel , saj to gre za manjše skupine - niti ena kršitev volilne pravice v tej državi ne bi smela biti in je nedopustna Niti ena Ne na račun sistemskega urejanja oziroma neurejanja .
+# text = zdaj bo se vedno nekdo rekel , saj to gre za manjše skupine - niti ena kršitev volilne pravice v tej državi ne bi smela biti in je nedopustna niti ena ne na račun sistemskega urejanja oziroma neurejanja .
 # split = dev
 1	zdaj	zdaj	ADV	Rgp	Degree=Pos	6	advmod	_	pronunciation=zdej|Gos2.1_seg_id=Artur-P-G7001-P700192.s112|Gos2.1_token_id=Artur-P-G7001-P700192.tok752
 2	bo	biti	AUX	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	6	aux	_	pronunciation=bo|Gos2.1_seg_id=Artur-P-G7001-P700192.s112|Gos2.1_token_id=Artur-P-G7001-P700192.tok753
@@ -1020,9 +1020,9 @@
 27	in	in	CCONJ	Cc	_	29	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-P-G7001-P700192.s114|Gos2.1_token_id=Artur-P-G7001-P700192.tok778
 28	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	29	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-P-G7001-P700192.s114|Gos2.1_token_id=Artur-P-G7001-P700192.tok779
 29	nedopustna	nedopusten	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	26	conj	_	pronunciation=nedopustna|Gos2.1_seg_id=Artur-P-G7001-P700192.s114|Gos2.1_token_id=Artur-P-G7001-P700192.tok780
-30	Niti	niti	PART	Q	_	31	advmod	_	pronunciation=Niti|Gos2.1_seg_id=Artur-P-G7001-P700192.s115|Gos2.1_token_id=Artur-P-G7001-P700192.tok781
+30	niti	niti	PART	Q	_	31	advmod	_	pronunciation=Niti|Gos2.1_seg_id=Artur-P-G7001-P700192.s115|Gos2.1_token_id=Artur-P-G7001-P700192.tok781
 31	ena	en	NUM	Mlpfsn	Case=Nom|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	25	parataxis	_	pronunciation=ena|Gos2.1_seg_id=Artur-P-G7001-P700192.s115|Gos2.1_token_id=Artur-P-G7001-P700192.tok782
-32	Ne	ne	PART	Q	Polarity=Neg	25	parataxis	_	pronunciation=Ne|Gos2.1_seg_id=Artur-P-G7001-P700192.s116|Gos2.1_token_id=Artur-P-G7001-P700192.tok783
+32	ne	ne	PART	Q	Polarity=Neg	25	parataxis	_	pronunciation=Ne|Gos2.1_seg_id=Artur-P-G7001-P700192.s116|Gos2.1_token_id=Artur-P-G7001-P700192.tok783
 33	na	na	ADP	Sa	Case=Acc	34	case	_	pronunciation=na|Gos2.1_seg_id=Artur-P-G7001-P700192.s116|Gos2.1_token_id=Artur-P-G7001-P700192.tok784
 34	račun	račun	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	32	orphan	_	pronunciation=račun|Gos2.1_seg_id=Artur-P-G7001-P700192.s116|Gos2.1_token_id=Artur-P-G7001-P700192.tok785
 35	sistemskega	sistemski	ADJ	Agpnsg	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	36	amod	_	pronunciation=sistemskega|Gos2.1_seg_id=Artur-P-G7001-P700192.s116|Gos2.1_token_id=Artur-P-G7001-P700192.tok786

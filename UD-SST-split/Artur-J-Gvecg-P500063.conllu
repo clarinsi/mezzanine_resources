@@ -699,14 +699,14 @@
 # sent_id = Artur-J-Gvecg-P500063.s125-s133_reseg.474
 # speaker_id = Artur-J-G3134
 # sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500063.s125-s133.mp3
-# text = imetniki dobijo na tako imenovani on stop shop , kjer pravzaprav se njihove pravice upravljajo in , e , tako dobijo uporabniki ta on stop shop , kjer dobijo vse , e , ves repertoar na enem mestu , to je sigurno rešitev , ki so si jo izmislili , bom rekel , ne vem , konec koncev v začetku dvajsetega stoletja in ki je pravzaprav , e , zelo , zelo uporabna , ne , in zato se seveda ne samo , m , kolektivne organizacije , ampak tudi imetniki , e , večinoma zavzemamo zato , da , e , bi bilo čimveč , e , pravic upravljanih kolektivno .
+# text = imetniki dobijo na tako imenovani one stop shop , kjer pravzaprav se njihove pravice upravljajo in , e , tako dobijo uporabniki ta on stop shop , kjer dobijo vse , e , ves repertoar na enem mestu , to je sigurno rešitev , ki so si jo izmislili , bom rekel , ne vem , konec koncev v začetku dvajsetega stoletja in ki je pravzaprav , e , zelo , zelo uporabna , ne , in zato se seveda ne samo , m , kolektivne organizacije , ampak tudi imetniki , e , večinoma zavzemamo zato , da , e , bi bilo čimveč , e , pravic upravljanih kolektivno .
 # split = train
 1	imetniki	imetnik	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	pronunciation=imetniki|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1750
 2	dobijo	dobiti	VERB	Vmer3p	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=dobijo|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1751
 3	na	na	ADP	Sl	Case=Loc	6	case	_	pronunciation=na|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1752
 4	tako	tako	ADV	Rgp	Degree=Pos	6	advmod	_	pronunciation=tako|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s126|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1753
 5	imenovani	imenovan	ADJ	Appfsl	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part	4	fixed	_	pronunciation=imenovali|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s126|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1754
-6	on	on	X	Xf	Foreign=Yes	2	obl	_	pronunciation=uan|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s126|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1755
+6	one	one	X	Xf	Foreign=Yes	2	obl	_	pronunciation=uan|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s126|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1755
 7	stop	stop	X	Xf	Foreign=Yes	6	flat:foreign	_	pronunciation=stop|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s126|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1756
 8	shop	shop	X	Xf	Foreign=Yes	6	flat:foreign	_	pronunciation=šop|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s126|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1757
 9	,	,	PUNCT	Z	_	15	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s126|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1758
@@ -955,7 +955,7 @@
 # sent_id = Artur-J-Gvecg-P500063.s141-s151_reseg.477
 # speaker_id = Artur-J-G3134
 # sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500063.s141-s151.mp3
-# text = zdaj tule mi smo svoje stališče kot Sazor podali lani pač tridesetega četrtega , ko je bil rok , e , za predajo stališč , mislim , smo tam svoje mnenja kar kompaktno in koherentno zastopali , tako da zdaj nismo dajali dodatnih , e , dodatnih komentarjev , saj za temi stališči v celoti stojimo in , eem , moram reči , da je , e , pripravljalec zakona dojel pomen direktive in da je tudi pravilno pristopil k obravnavi tega člena , ki ga je transponiral sedeminštiridesetib člen , če se ne motim .
+# text = zdaj tule mi smo svoje stališče kot Sazor podali lani pač tridesetega četrtega , ko je bil rok , e , za predajo stališč , mislim , smo tam svoje mnenje kar kompaktno in koherentno zastopali , tako da zdaj nismo dajali dodatnih , e , dodatnih komentarjev , saj za temi stališči v celoti stojimo in , eem , moram reči , da je , e , pripravljalec zakona dojel pomen direktive in da je tudi pravilno pristopil k obravnavi tega člena , ki ga je transponiral sedeminštiridesetib člen , če se ne motim .
 # split = train
 1	zdaj	zdaj	ADV	Rgp	Degree=Pos	9	discourse	_	pronunciation=zej|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s141|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1985
 2	tule	tule	ADV	Rgp	Degree=Pos	9	advmod	_	pronunciation=tle|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s141|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1986
@@ -987,7 +987,7 @@
 28	smo	biti	AUX	Va-r1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	36	aux	_	pronunciation=smo|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s143|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok2012
 29	tam	tam	ADV	Rgp	Degree=Pos	36	advmod	_	pronunciation=təm|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s143|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok2013
 30	svoje	svoj	DET	Px-nsa	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	31	det	_	pronunciation=svoje|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s143|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok2014
-31	mnenja	mnenje	NOUN	Ncnpa	Case=Acc|Gender=Neut|Number=Plur	36	obj	_	pronunciation=mnenja|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s143|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok2015
+31	mnenje	mnenje	NOUN	Ncnpa	Case=Acc|Gender=Neut|Number=Plur	36	obj	_	pronunciation=mnenja|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s143|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok2015
 32	kar	kar	ADV	Rgp	Degree=Pos	33	advmod	_	pronunciation=kər|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s143|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok2016
 33	kompaktno	kompaktno	ADV	Rgp	Degree=Pos	36	advmod	_	pronunciation=kompaktno|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s143|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok2017
 34	in	in	CCONJ	Cc	_	35	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s143|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok2018

@@ -2,12 +2,12 @@
 # sent_id = Artur-N-G6047-P604702.s1_reseg.1543
 # speaker_id = Artur-N-G6047
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6047-P604702.s1.mp3
-# text = zadnjič sem si ogledali film The Assistant .
+# text = zadnjič sem si ogledal film The Assistant .
 # split = train
 1	zadnjič	zadnjič	ADV	Rgp	Degree=Pos	4	advmod	_	pronunciation=zadnjič|Gos2.1_seg_id=Artur-N-G6047-P604702.s1|Gos2.1_token_id=Artur-N-G6047-P604702.tok1
 2	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	pronunciation=səm|Gos2.1_seg_id=Artur-N-G6047-P604702.s1|Gos2.1_token_id=Artur-N-G6047-P604702.tok2
 3	si	se	PRON	Px---d--y	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	4	expl	_	pronunciation=si|Gos2.1_seg_id=Artur-N-G6047-P604702.s1|Gos2.1_token_id=Artur-N-G6047-P604702.tok3
-4	ogledali	ogledati	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	pronunciation=ogledal|Gos2.1_seg_id=Artur-N-G6047-P604702.s1|Gos2.1_token_id=Artur-N-G6047-P604702.tok4
+4	ogledal	ogledati	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=ogledal|Gos2.1_seg_id=Artur-N-G6047-P604702.s1|Gos2.1_token_id=Artur-N-G6047-P604702.tok4
 5	film	film	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	pronunciation=film|Gos2.1_seg_id=Artur-N-G6047-P604702.s1|Gos2.1_token_id=Artur-N-G6047-P604702.tok5
 6	The	The	X	Xf	Foreign=Yes	5	nmod	_	pronunciation=Di|Gos2.1_seg_id=Artur-N-G6047-P604702.s1|Gos2.1_token_id=Artur-N-G6047-P604702.tok6
 7	Assistant	Assistant	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	6	flat:foreign	_	pronunciation=əsistənt|Gos2.1_seg_id=Artur-N-G6047-P604702.s1|Gos2.1_token_id=Artur-N-G6047-P604702.tok7
@@ -573,10 +573,10 @@
 # sent_id = Artur-N-G6047-P604702.s60-s61_reseg.1561
 # speaker_id = Artur-N-G6047
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6047-P604702.s60-s61.mp3
-# text = glavna znamenitost je Arboretuma Volčji Potok so prav gotovo otoki cvetic , ki jih lahko najdemo vsepovsod po parku .
+# text = glavne znamenitosti je Arboretuma Volčji Potok so prav gotovo otoki cvetic , ki jih lahko najdemo vsepovsod po parku .
 # split = train
-1	glavna	glaven	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	pronunciation=glavna|Gos2.1_seg_id=Artur-N-G6047-P604702.s60|Gos2.1_token_id=Artur-N-G6047-P604702.tok446
-2	znamenitost	znamenitost	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing|Typo=Yes	10	nsubj	_	pronunciation=znamenitost|Gos2.1_seg_id=Artur-N-G6047-P604702.s60|Gos2.1_token_id=Artur-N-G6047-P604702.tok447
+1	glavne	glaven	ADJ	Agpfpn	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	2	amod	_	pronunciation=glavna|Gos2.1_seg_id=Artur-N-G6047-P604702.s60|Gos2.1_token_id=Artur-N-G6047-P604702.tok446
+2	znamenitosti	znamenitost	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur|Typo=Yes	10	nsubj	_	pronunciation=znamenitost|Gos2.1_seg_id=Artur-N-G6047-P604702.s60|Gos2.1_token_id=Artur-N-G6047-P604702.tok447
 3	je	_	X	Xt	_	2	goeswith	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G6047-P604702.s60|Gos2.1_token_id=Artur-N-G6047-P604702.tok448
 4	Arboretuma	arboretum	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	pronunciation=Arboretuma|Gos2.1_seg_id=Artur-N-G6047-P604702.s60|Gos2.1_token_id=Artur-N-G6047-P604702.tok449
 5	Volčji	volčji	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	pronunciation=Volčji|Gos2.1_seg_id=Artur-N-G6047-P604702.s60|Gos2.1_token_id=Artur-N-G6047-P604702.tok450

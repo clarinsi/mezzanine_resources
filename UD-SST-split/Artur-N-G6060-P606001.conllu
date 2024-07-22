@@ -287,7 +287,7 @@
 # sent_id = Artur-N-G6060-P606001.s28-s30_reseg.1591
 # speaker_id = Artur-N-G6060
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6060-P606001.s28-s30.mp3
-# text = e , veliko ljudi pleše , sicer pa še vedno prevladujemo ženske kot followerke In , e , rabimo fante .
+# text = e , veliko ljudi pleše , sicer pa še vedno prevladujemo ženske kot followerke in , e , rabimo fante .
 # split = train
 1	e	e	INTJ	I	_	5	discourse:filler	_	pronunciation=e|Gos2.1_seg_id=Artur-N-G6060-P606001.s28|Gos2.1_token_id=Artur-N-G6060-P606001.tok237
 2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6060-P606001.s28|Gos2.1_token_id=Artur-N-G6060-P606001.tok238
@@ -303,7 +303,7 @@
 12	ženske	ženska	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	11	nsubj	_	pronunciation=ženske|Gos2.1_seg_id=Artur-N-G6060-P606001.s29|Gos2.1_token_id=Artur-N-G6060-P606001.tok248
 13	kot	kot	SCONJ	Cs	_	14	case	_	pronunciation=kot|Gos2.1_seg_id=Artur-N-G6060-P606001.s29|Gos2.1_token_id=Artur-N-G6060-P606001.tok249
 14	followerke	followerka	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	11	obl	_	pronunciation=folovərke|Gos2.1_seg_id=Artur-N-G6060-P606001.s29|Gos2.1_token_id=Artur-N-G6060-P606001.tok250
-15	In	in	CCONJ	Cc	_	19	cc	_	pronunciation=In|Gos2.1_seg_id=Artur-N-G6060-P606001.s30|Gos2.1_token_id=Artur-N-G6060-P606001.tok251
+15	in	in	CCONJ	Cc	_	19	cc	_	pronunciation=In|Gos2.1_seg_id=Artur-N-G6060-P606001.s30|Gos2.1_token_id=Artur-N-G6060-P606001.tok251
 16	,	,	PUNCT	Z	_	17	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6060-P606001.s30|Gos2.1_token_id=Artur-N-G6060-P606001.tok252
 17	e	e	INTJ	I	_	19	discourse:filler	_	pronunciation=e|Gos2.1_seg_id=Artur-N-G6060-P606001.s30|Gos2.1_token_id=Artur-N-G6060-P606001.tok253
 18	,	,	PUNCT	Z	_	17	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6060-P606001.s30|Gos2.1_token_id=Artur-N-G6060-P606001.tok254
@@ -751,7 +751,7 @@
 # sent_id = Artur-N-G6060-P606001.s63-s66_reseg.1606
 # speaker_id = Artur-N-G6060
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6060-P606001.s63-s66.mp3
-# text = in to je v bistvu to , tako da lindy hop je tako , ki , ki ti da največ kreativnosti , ki ti da največ , eem , neke svobode pri izražanju in tudi dopušča največ napak , da temu tako rečem .
+# text = in to je v bistvu to , tako da lindy hop je tak , ki , ki ti da največ kreativnosti , ki ti da največ , eem , neke svobode pri izražanju in tudi dopušča največ napak , da temu tako rečem .
 # split = train
 1	in	in	CCONJ	Cc	_	6	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-N-G6060-P606001.s63|Gos2.1_token_id=Artur-N-G6060-P606001.tok596
 2	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	pronunciation=to|Gos2.1_seg_id=Artur-N-G6060-P606001.s63|Gos2.1_token_id=Artur-N-G6060-P606001.tok597
@@ -765,7 +765,7 @@
 10	lindy	lindy	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	11	nmod	_	pronunciation=lindi|Gos2.1_seg_id=Artur-N-G6060-P606001.s63|Gos2.1_token_id=Artur-N-G6060-P606001.tok605
 11	hop	hop	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	pronunciation=hop|Gos2.1_seg_id=Artur-N-G6060-P606001.s63|Gos2.1_token_id=Artur-N-G6060-P606001.tok606
 12	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	13	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G6060-P606001.s63|Gos2.1_token_id=Artur-N-G6060-P606001.tok607
-13	tako	tako	ADV	Rgp	Degree=Pos	6	conj	_	pronunciation=tak|Gos2.1_seg_id=Artur-N-G6060-P606001.s63|Gos2.1_token_id=Artur-N-G6060-P606001.tok608
+13	tak	tak	DET	Pd-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	6	conj	_	pronunciation=tak|Gos2.1_seg_id=Artur-N-G6060-P606001.s63|Gos2.1_token_id=Artur-N-G6060-P606001.tok608
 14	,	,	PUNCT	Z	_	19	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6060-P606001.s63|Gos2.1_token_id=Artur-N-G6060-P606001.tok609
 15	ki	ki	SCONJ	Cs	_	17	reparandum	_	pronunciation=ki|Gos2.1_seg_id=Artur-N-G6060-P606001.s63|Gos2.1_token_id=Artur-N-G6060-P606001.tok610
 16	,	,	PUNCT	Z	_	15	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6060-P606001.s63|Gos2.1_token_id=Artur-N-G6060-P606001.tok611

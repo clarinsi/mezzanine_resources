@@ -203,7 +203,7 @@
 # sent_id = Artur-N-G6100-P610002.s15-s22_reseg.1657
 # speaker_id = Artur-N-G6100
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6100-P610002.s15-s22.mp3
-# text = aja , zdaj sem jaz na kratko že opisal zgodbo tega filma , e , pravzaprav v vsaki , v vsakem filmu je ena zgodba , mogoče opišem zgodbo , e , Kraljeva vrnitev , kjer na prestol že več sto leti ni sedel pravi kralj , e , na prestolu vladajo sicer ljudje kot nekaj namestniki kralja , kralj , ki je po krvni liniji kralj , pa se boji tega , e , svojega nasledstva , ker je njegov prednik Ilzidur , e , bil , e , pravzaprav podvržen , e , slabosti , e , gospodarja prstana , se pravi tega prstana .
+# text = aja , zdaj sem jaz na kratko že opisal zgodbo tega filma , e , pravzaprav v vsaki , v vsakem filmu je ena zgodba , mogoče opišem zgodbo , e , Kraljeva vrnitev , kjer na prestol že več sto leti ni sedel pravi kralj , e , na prestolu vladajo sicer ljudje kot neki namestniki kralja , kralj , ki je po krvni liniji kralj , pa se boji tega , e , svojega nasledstva , ker je njegov prednik Ilzidur , e , bil , e , pravzaprav podvržen , e , slabosti , e , gospodarja prstana , se pravi tega prstana .
 # split = train
 1	aja	aja	INTJ	I	_	9	discourse	_	pronunciation=aja|Gos2.1_seg_id=Artur-N-G6100-P610002.s15|Gos2.1_token_id=Artur-N-G6100-P610002.tok181
 2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6100-P610002.s15|Gos2.1_token_id=Artur-N-G6100-P610002.tok182
@@ -260,7 +260,7 @@
 53	sicer	sicer	PART	Q	_	52	advmod	_	pronunciation=sicer|Gos2.1_seg_id=Artur-N-G6100-P610002.s18|Gos2.1_token_id=Artur-N-G6100-P610002.tok233
 54	ljudje	človek	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	52	nsubj	_	pronunciation=ljudje|Gos2.1_seg_id=Artur-N-G6100-P610002.s18|Gos2.1_token_id=Artur-N-G6100-P610002.tok234
 55	kot	kot	SCONJ	Cs	_	57	case	_	pronunciation=kot|Gos2.1_seg_id=Artur-N-G6100-P610002.s19|Gos2.1_token_id=Artur-N-G6100-P610002.tok235
-56	nekaj	nekaj	DET	Rgp	PronType=Ind	57	det	_	pronunciation=neki|Gos2.1_seg_id=Artur-N-G6100-P610002.s19|Gos2.1_token_id=Artur-N-G6100-P610002.tok236
+56	neki	nek	DET	Pi-mpn	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	57	det	_	pronunciation=neki|Gos2.1_seg_id=Artur-N-G6100-P610002.s19|Gos2.1_token_id=Artur-N-G6100-P610002.tok236
 57	namestniki	namestnik	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	52	obj	_	pronunciation=namestniki|Gos2.1_seg_id=Artur-N-G6100-P610002.s19|Gos2.1_token_id=Artur-N-G6100-P610002.tok237
 58	kralja	kralj	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	57	nmod	_	pronunciation=kralja|Gos2.1_seg_id=Artur-N-G6100-P610002.s19|Gos2.1_token_id=Artur-N-G6100-P610002.tok238
 59	,	,	PUNCT	Z	_	71	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6100-P610002.s19|Gos2.1_token_id=Artur-N-G6100-P610002.tok239
@@ -490,7 +490,7 @@
 # sent_id = Artur-N-G6100-P610002.s31-s32_reseg.1664
 # speaker_id = Artur-N-G6100
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6100-P610002.s31-s32.mp3
-# text = aha , glavne znamenitosti tega kraja bi lahko kar opisal , to je , e , Borovnica pri Vrhniki , ena od znamenitosti , ki jih sicer je zgodovinska , e , v tem kraju , je ostal največji viadukt , e , železniški most v času med prvo in drugo svetovno vojno .
+# text = aha , glavne znamenitosti tega kraja bi lahko kar opisal , to je , e , Borovnica pri Vrhniki , ena od znamenitosti , ki jih sicer je zgodovinska , e , v tem kraju , je stal največji viadukt , e , železniški most v času med prvo in drugo svetovno vojno .
 # split = train
 1	aha	aha	INTJ	I	_	10	discourse	_	pronunciation=aha|Gos2.1_seg_id=Artur-N-G6100-P610002.s31|Gos2.1_token_id=Artur-N-G6100-P610002.tok420
 2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6100-P610002.s31|Gos2.1_token_id=Artur-N-G6100-P610002.tok421
@@ -529,7 +529,7 @@
 35	kraju	kraj	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	38	obl	_	pronunciation=kraju|Gos2.1_seg_id=Artur-N-G6100-P610002.s32|Gos2.1_token_id=Artur-N-G6100-P610002.tok454
 36	,	,	PUNCT	Z	_	38	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6100-P610002.s32|Gos2.1_token_id=Artur-N-G6100-P610002.tok455
 37	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	38	aux	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G6100-P610002.s32|Gos2.1_token_id=Artur-N-G6100-P610002.tok456
-38	ostal	ostati	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	29	parataxis	_	pronunciation=ostal|Gos2.1_seg_id=Artur-N-G6100-P610002.s32|Gos2.1_token_id=Artur-N-G6100-P610002.tok457
+38	stal	stati	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	29	parataxis	_	pronunciation=ostal|Gos2.1_seg_id=Artur-N-G6100-P610002.s32|Gos2.1_token_id=Artur-N-G6100-P610002.tok457
 39	največji	velik	ADJ	Agsmsny	Case=Nom|Definite=Def|Degree=Sup|Gender=Masc|Number=Sing	40	amod	_	pronunciation=največji|Gos2.1_seg_id=Artur-N-G6100-P610002.s32|Gos2.1_token_id=Artur-N-G6100-P610002.tok458
 40	viadukt	viadukt	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	38	nsubj	_	pronunciation=viadukt|Gos2.1_seg_id=Artur-N-G6100-P610002.s32|Gos2.1_token_id=Artur-N-G6100-P610002.tok459
 41	,	,	PUNCT	Z	_	42	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6100-P610002.s32|Gos2.1_token_id=Artur-N-G6100-P610002.tok460

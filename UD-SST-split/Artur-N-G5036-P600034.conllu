@@ -199,14 +199,14 @@
 # sent_id = Artur-N-G5036-P600034.s24-s26_reseg.1140
 # speaker_id = Artur-N-G5036
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5036-P600034.s24-s26.mp3
-# text = jaz sem mislil , ke da bolj naporno v smislu vožnje še dodatne .
+# text = jaz sem mislil , ke bo bolj naporno v smislu vožnje še dodatne .
 # split = train
 1	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	pronunciation=jəs|Gos2.1_seg_id=Artur-N-G5036-P600034.s24|Gos2.1_token_id=Artur-N-G5036-P600034.tok109
 2	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	pronunciation=sn|Gos2.1_seg_id=Artur-N-G5036-P600034.s24|Gos2.1_token_id=Artur-N-G5036-P600034.tok110
 3	mislil	misliti	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=mislo|Gos2.1_seg_id=Artur-N-G5036-P600034.s24|Gos2.1_token_id=Artur-N-G5036-P600034.tok111
 4	,	,	PUNCT	Z	_	8	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5036-P600034.s24|Gos2.1_token_id=Artur-N-G5036-P600034.tok112
-5	ke	ke	ADV	Rgp	Degree=Pos	8	dep	_	pronunciation=ke|Gos2.1_seg_id=Artur-N-G5036-P600034.s24|Gos2.1_token_id=Artur-N-G5036-P600034.tok113
-6	da	da	SCONJ	Cs	_	8	mark	_	pronunciation=de|Gos2.1_seg_id=Artur-N-G5036-P600034.s24|Gos2.1_token_id=Artur-N-G5036-P600034.tok114
+5	ke	da	SCONJ	Cs	_	8	mark	_	pronunciation=ke|Gos2.1_seg_id=Artur-N-G5036-P600034.s24|Gos2.1_token_id=Artur-N-G5036-P600034.tok113
+6	bo	biti	AUX	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	8	cop	_	pronunciation=de|Gos2.1_seg_id=Artur-N-G5036-P600034.s24|Gos2.1_token_id=Artur-N-G5036-P600034.tok114
 7	bolj	bolj	ADV	Rgc	Degree=Cmp	8	advmod	_	pronunciation=bol|Gos2.1_seg_id=Artur-N-G5036-P600034.s24|Gos2.1_token_id=Artur-N-G5036-P600034.tok115
 8	naporno	naporen	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	ccomp	_	pronunciation=naporno|Gos2.1_seg_id=Artur-N-G5036-P600034.s24|Gos2.1_token_id=Artur-N-G5036-P600034.tok116
 9	v	v	ADP	Sl	Case=Loc	10	case	_	pronunciation=f|Gos2.1_seg_id=Artur-N-G5036-P600034.s25|Gos2.1_token_id=Artur-N-G5036-P600034.tok117
@@ -598,14 +598,14 @@
 # sent_id = Artur-N-G5036-P600034.s54_reseg.1156
 # speaker_id = Artur-N-G5036
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5036-P600034.s54.mp3
-# text = te pa treba Gold Winga kupite .
+# text = te pa treba Gold Winga kupiti .
 # split = train
 1	te	te	PART	Q	_	6	advmod	_	pronunciation=te|Gos2.1_seg_id=Artur-N-G5036-P600034.s54|Gos2.1_token_id=Artur-N-G5036-P600034.tok397
 2	pa	pa	CCONJ	Cc	_	6	advmod	_	pronunciation=pa|Gos2.1_seg_id=Artur-N-G5036-P600034.s54|Gos2.1_token_id=Artur-N-G5036-P600034.tok398
 3	treba	treba	ADV	Rgp	Degree=Pos	6	advmod	_	pronunciation=treba|Gos2.1_seg_id=Artur-N-G5036-P600034.s54|Gos2.1_token_id=Artur-N-G5036-P600034.tok399
 4	Gold	Gold	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	5	nmod	_	pronunciation=Gold|Gos2.1_seg_id=Artur-N-G5036-P600034.s54|Gos2.1_token_id=Artur-N-G5036-P600034.tok400
 5	Winga	Wing	PROPN	Npmsay	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	pronunciation=Vinga|Gos2.1_seg_id=Artur-N-G5036-P600034.s54|Gos2.1_token_id=Artur-N-G5036-P600034.tok401
-6	kupite	kupiti	VERB	Vmem2p	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	pronunciation=kupte|Gos2.1_seg_id=Artur-N-G5036-P600034.s54|Gos2.1_token_id=Artur-N-G5036-P600034.tok402
+6	kupiti	kupiti	VERB	Vmen	Aspect=Perf|VerbForm=Inf	0	root	_	pronunciation=kupte|Gos2.1_seg_id=Artur-N-G5036-P600034.s54|Gos2.1_token_id=Artur-N-G5036-P600034.tok402
 7	.	.	PUNCT	Z	_	6	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G5036-P600034.s54|Gos2.1_token_id=Artur-N-G5036-P600034.tok403
 
 

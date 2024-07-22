@@ -27,7 +27,7 @@
 # sent_id = Artur-N-G5054-P600052.s3-s6_reseg.1279
 # speaker_id = Artur-N-G5054
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5054-P600052.s3-s6.mp3
-# text = ja , gledala sem eno serijo ne Netflixu , čakaj , e , Eyes , kaj že nekaj , a , fak ne spomnim se naslova , samo je bila taka tako kar fucked up neki lucid dreaming je bil noter .
+# text = ja , gledala sem eno serijo na Netflixu , čakaj , e , Eyes , kaj že nekaj , a , fak ne spomnim se naslova , samo je bila taka tako kar fucked up neki lucid dreaming je bil noter .
 # split = train
 1	ja	ja	PART	Q	_	3	discourse	_	pronunciation=ja|Gos2.1_seg_id=Artur-N-G5054-P600052.s3|Gos2.1_token_id=Artur-N-G5054-P600052.tok13
 2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5054-P600052.s3|Gos2.1_token_id=Artur-N-G5054-P600052.tok14
@@ -35,7 +35,7 @@
 4	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	pronunciation=səm|Gos2.1_seg_id=Artur-N-G5054-P600052.s3|Gos2.1_token_id=Artur-N-G5054-P600052.tok16
 5	eno	en	DET	Mlpfsa	Case=Acc|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	6	det	_	pronunciation=eno|Gos2.1_seg_id=Artur-N-G5054-P600052.s3|Gos2.1_token_id=Artur-N-G5054-P600052.tok17
 6	serijo	serija	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	pronunciation=serijo|Gos2.1_seg_id=Artur-N-G5054-P600052.s3|Gos2.1_token_id=Artur-N-G5054-P600052.tok18
-7	ne	ne	PART	Q	Polarity=Neg	8	case	_	pronunciation=ne|Gos2.1_seg_id=Artur-N-G5054-P600052.s3|Gos2.1_token_id=Artur-N-G5054-P600052.tok19
+7	na	na	ADP	Sl	Case=Loc	8	case	_	pronunciation=ne|Gos2.1_seg_id=Artur-N-G5054-P600052.s3|Gos2.1_token_id=Artur-N-G5054-P600052.tok19
 8	Netflixu	Netflix	PROPN	Npmsl	Case=Loc|Gender=Masc|Number=Sing	3	obl	_	pronunciation=Netfliksu|Gos2.1_seg_id=Artur-N-G5054-P600052.s3|Gos2.1_token_id=Artur-N-G5054-P600052.tok20
 9	,	,	PUNCT	Z	_	14	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5054-P600052.s3|Gos2.1_token_id=Artur-N-G5054-P600052.tok21
 10	čakaj	čakati	VERB	Vmpm2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	14	parataxis:discourse	_	pronunciation=čaki|Gos2.1_seg_id=Artur-N-G5054-P600052.s3|Gos2.1_token_id=Artur-N-G5054-P600052.tok22
@@ -155,10 +155,10 @@
 # sent_id = Artur-N-G5054-P600052.s12_reseg.1286
 # speaker_id = Artur-N-G5054
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5054-P600052.s12.mp3
-# text = ki s to zdaj
+# text = ki si to zdaj
 # split = train
 1	ki	kje	ADV	Rgp	Degree=Pos	2	advmod	_	pronunciation=ki|Gos2.1_seg_id=Artur-N-G5054-P600052.s12|Gos2.1_token_id=Artur-N-G5054-P600052.tok94
-2	s	z	ADP	Si	Case=Ins	0	root	_	pronunciation=s|Gos2.1_seg_id=Artur-N-G5054-P600052.s12|Gos2.1_token_id=Artur-N-G5054-P600052.tok95
+2	si	biti	AUX	Va-r2s-n	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=s|Gos2.1_seg_id=Artur-N-G5054-P600052.s12|Gos2.1_token_id=Artur-N-G5054-P600052.tok95
 3	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	expl	_	pronunciation=to|Gos2.1_seg_id=Artur-N-G5054-P600052.s12|Gos2.1_token_id=Artur-N-G5054-P600052.tok96
 4	zdaj	zdaj	ADV	Rgp	Degree=Pos	2	advmod	_	pronunciation=zaj|Gos2.1_seg_id=Artur-N-G5054-P600052.s12|Gos2.1_token_id=Artur-N-G5054-P600052.tok97
 
@@ -263,7 +263,7 @@
 # sent_id = Artur-N-G5054-P600052.s15-s16_reseg.1290
 # speaker_id = Artur-N-G5054
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5054-P600052.s15-s16.mp3
-# text = samo je pa , je pa luštno toti , mmm , ma- ma- Mike .
+# text = samo je pa , je pa lušten toti , mmm , ma- ma- Mike .
 # split = train
 1	samo	samo	PART	Q	_	7	cc	_	pronunciation=samo|Gos2.1_seg_id=Artur-N-G5054-P600052.s15|Gos2.1_token_id=Artur-N-G5054-P600052.tok174
 2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	reparandum	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G5054-P600052.s15|Gos2.1_token_id=Artur-N-G5054-P600052.tok175
@@ -271,7 +271,7 @@
 4	,	,	PUNCT	Z	_	7	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5054-P600052.s15|Gos2.1_token_id=Artur-N-G5054-P600052.tok177
 5	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G5054-P600052.s15|Gos2.1_token_id=Artur-N-G5054-P600052.tok178
 6	pa	pa	CCONJ	Cc	_	7	advmod	_	pronunciation=pa|Gos2.1_seg_id=Artur-N-G5054-P600052.s15|Gos2.1_token_id=Artur-N-G5054-P600052.tok179
-7	luštno	lušten	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	pronunciation=lušən|Gos2.1_seg_id=Artur-N-G5054-P600052.s15|Gos2.1_token_id=Artur-N-G5054-P600052.tok180
+7	lušten	lušten	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	pronunciation=lušən|Gos2.1_seg_id=Artur-N-G5054-P600052.s15|Gos2.1_token_id=Artur-N-G5054-P600052.tok180
 8	toti	toti	DET	Pd-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	14	det	_	pronunciation=toti|Gos2.1_seg_id=Artur-N-G5054-P600052.s15|Gos2.1_token_id=Artur-N-G5054-P600052.tok181
 9	,	,	PUNCT	Z	_	10	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5054-P600052.s15|Gos2.1_token_id=Artur-N-G5054-P600052.tok182
 10	mmm	mmm	INTJ	I	_	7	discourse:filler	_	pronunciation=mmm|Gos2.1_seg_id=Artur-N-G5054-P600052.s16|Gos2.1_token_id=Artur-N-G5054-P600052.tok183
@@ -380,14 +380,14 @@
 # sent_id = Artur-N-G5054-P600052.s24_reseg.1300
 # speaker_id = Artur-N-G5054
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5054-P600052.s24.mp3
-# text = a , za- zakaj je vsaki drugi hot igralec gej
+# text = a , za- zakaj je vsak drugi hot igralec gej
 # split = train
 1	a	a	INTJ	I	_	10	discourse	_	pronunciation=a|Gos2.1_seg_id=Artur-N-G5054-P600052.s24|Gos2.1_token_id=Artur-N-G5054-P600052.tok224
 2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5054-P600052.s24|Gos2.1_token_id=Artur-N-G5054-P600052.tok225
 3	za-	za-	X	Xt	_	4	reparandum	_	pronunciation=za…|Gos2.1_seg_id=Artur-N-G5054-P600052.s24|Gos2.1_token_id=Artur-N-G5054-P600052.tok226
 4	zakaj	zakaj	ADV	Rgp	Degree=Pos	10	advmod	_	pronunciation=zaka|Gos2.1_seg_id=Artur-N-G5054-P600052.s24|Gos2.1_token_id=Artur-N-G5054-P600052.tok227
 5	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G5054-P600052.s24|Gos2.1_token_id=Artur-N-G5054-P600052.tok228
-6	vsaki	vsak	DET	Pg-fsd	Case=Dat|Gender=Fem|Number=Sing|PronType=Tot	9	det	_	pronunciation=fsaki|Gos2.1_seg_id=Artur-N-G5054-P600052.s24|Gos2.1_token_id=Artur-N-G5054-P600052.tok229
+6	vsak	vsak	DET	Pg-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	9	det	_	pronunciation=fsaki|Gos2.1_seg_id=Artur-N-G5054-P600052.s24|Gos2.1_token_id=Artur-N-G5054-P600052.tok229
 7	drugi	drug	ADJ	Mlpmsny	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	9	amod	_	pronunciation=drugi|Gos2.1_seg_id=Artur-N-G5054-P600052.s24|Gos2.1_token_id=Artur-N-G5054-P600052.tok230
 8	hot	hot	X	Xf	Foreign=Yes	9	amod	_	pronunciation=hot|Gos2.1_seg_id=Artur-N-G5054-P600052.s24|Gos2.1_token_id=Artur-N-G5054-P600052.tok231
 9	igralec	igralec	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	pronunciation=igraləc|Gos2.1_seg_id=Artur-N-G5054-P600052.s24|Gos2.1_token_id=Artur-N-G5054-P600052.tok232
@@ -936,7 +936,7 @@
 # sent_id = Artur-N-G5054-P600052.s58_reseg.1326
 # speaker_id = Artur-N-G5054
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5054-P600052.s58.mp3
-# text = tega pa nisem opazila , je pa res , da saj pravim , da malo tega gledam , je pa Partis , e , so , si videl
+# text = tega pa nisem opazila , je pa res , da saj pravim , da malo tega gledam , ja pa Partis , e , so , si videl
 # split = train
 1	tega	ta	DET	Pd-nsg	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	4	obj	_	pronunciation=tega|Gos2.1_seg_id=Artur-N-G5054-P600052.s58|Gos2.1_token_id=Artur-N-G5054-P600052.tok605
 2	pa	pa	CCONJ	Cc	_	4	advmod	_	pronunciation=pa|Gos2.1_seg_id=Artur-N-G5054-P600052.s58|Gos2.1_token_id=Artur-N-G5054-P600052.tok606
@@ -956,7 +956,7 @@
 16	tega	ta	DET	Pd-nsg	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	17	obj	_	pronunciation=tega|Gos2.1_seg_id=Artur-N-G5054-P600052.s58|Gos2.1_token_id=Artur-N-G5054-P600052.tok620
 17	gledam	gledati	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	csubj	_	pronunciation=glejam|Gos2.1_seg_id=Artur-N-G5054-P600052.s58|Gos2.1_token_id=Artur-N-G5054-P600052.tok621
 18	,	,	PUNCT	Z	_	17	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5054-P600052.s58|Gos2.1_token_id=Artur-N-G5054-P600052.tok622
-19	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	25	discourse	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G5054-P600052.s58|Gos2.1_token_id=Artur-N-G5054-P600052.tok623
+19	ja	ja	PART	Q	_	25	discourse	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G5054-P600052.s58|Gos2.1_token_id=Artur-N-G5054-P600052.tok623
 20	pa	pa	CCONJ	Cc	_	25	orphan	_	pronunciation=pa|Gos2.1_seg_id=Artur-N-G5054-P600052.s58|Gos2.1_token_id=Artur-N-G5054-P600052.tok624
 21	Partis	Partis	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	25	orphan	_	pronunciation=Partis|Gos2.1_seg_id=Artur-N-G5054-P600052.s58|Gos2.1_token_id=Artur-N-G5054-P600052.tok625
 22	,	,	PUNCT	Z	_	23	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5054-P600052.s58|Gos2.1_token_id=Artur-N-G5054-P600052.tok626

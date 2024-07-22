@@ -986,7 +986,7 @@
 # sent_id = Artur-P-G7002-P700444.s99-s101_reseg.1855
 # speaker_id = Artur-P-G7002
 # sound_url = https://nl.ijs.si/project/iriss/Artur-P-G7002-P700444.s99-s101.mp3
-# text = te so še posebej slabe v romskih naseljih , manj pa v romskih družinah , ki živijo izven naselij med večinskih prebivalstvom .
+# text = te so še posebej slabe v romskih naseljih , manj pa v romskih družinah , ki živijo izven naselij med večinskim prebivalstvom .
 # split = train
 1	te	ta	DET	Pd-fpn	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	5	nsubj	_	pronunciation=te|Gos2.1_seg_id=Artur-P-G7002-P700444.s99|Gos2.1_token_id=Artur-P-G7002-P700444.tok768
 2	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	cop	_	pronunciation=so|Gos2.1_seg_id=Artur-P-G7002-P700444.s99|Gos2.1_token_id=Artur-P-G7002-P700444.tok769
@@ -1008,7 +1008,7 @@
 18	izven	izven	ADP	Sg	Case=Gen	19	case	_	pronunciation=izven|Gos2.1_seg_id=Artur-P-G7002-P700444.s101|Gos2.1_token_id=Artur-P-G7002-P700444.tok785
 19	naselij	naselje	NOUN	Ncnpg	Case=Gen|Gender=Neut|Number=Plur	17	obl	_	pronunciation=naselij|Gos2.1_seg_id=Artur-P-G7002-P700444.s101|Gos2.1_token_id=Artur-P-G7002-P700444.tok786
 20	med	med	ADP	Si	Case=Ins	22	case	_	pronunciation=med|Gos2.1_seg_id=Artur-P-G7002-P700444.s101|Gos2.1_token_id=Artur-P-G7002-P700444.tok787
-21	večinskih	večinski	ADJ	Agpnpg	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	22	amod	_	pronunciation=večinskih|Gos2.1_seg_id=Artur-P-G7002-P700444.s101|Gos2.1_token_id=Artur-P-G7002-P700444.tok788
+21	večinskim	večinski	ADJ	Agpnsi	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	pronunciation=večinskih|Gos2.1_seg_id=Artur-P-G7002-P700444.s101|Gos2.1_token_id=Artur-P-G7002-P700444.tok788
 22	prebivalstvom	prebivalstvo	NOUN	Ncnsi	Case=Ins|Gender=Neut|Number=Sing	17	obl	_	pronunciation=prebivalstvom|Gos2.1_seg_id=Artur-P-G7002-P700444.s101|Gos2.1_token_id=Artur-P-G7002-P700444.tok789
 23	.	.	PUNCT	Z	_	5	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-P-G7002-P700444.s101|Gos2.1_token_id=Artur-P-G7002-P700444.tok790
 

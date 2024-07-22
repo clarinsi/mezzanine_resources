@@ -10,10 +10,10 @@
 # sent_id = Artur-N-G5026-P600021.s2_reseg.1060
 # speaker_id = Artur-N-G5026
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5026-P600021.s2.mp3
-# text = vas Tropovci .
+# text = iz Tropovec .
 # split = train
-1	vas	vas	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	pronunciation=vas|Gos2.1_seg_id=Artur-N-G5026-P600021.s2|Gos2.1_token_id=Artur-N-G5026-P600021.tok3
-2	Tropovci	Tropovci	PROPN	Npmpn	Case=Nom|Gender=Masc|Number=Plur	1	nmod	_	pronunciation=Tropovec|Gos2.1_seg_id=Artur-N-G5026-P600021.s2|Gos2.1_token_id=Artur-N-G5026-P600021.tok4
+1	iz	iz	ADP	Sg	Case=Gen	0	root	_	pronunciation=vas|Gos2.1_seg_id=Artur-N-G5026-P600021.s2|Gos2.1_token_id=Artur-N-G5026-P600021.tok3
+2	Tropovec	Tropovci	PROPN	Npmpg	Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	pronunciation=Tropovec|Gos2.1_seg_id=Artur-N-G5026-P600021.s2|Gos2.1_token_id=Artur-N-G5026-P600021.tok4
 3	.	.	PUNCT	Z	_	1	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G5026-P600021.s2|Gos2.1_token_id=Artur-N-G5026-P600021.tok5
 
 
@@ -406,7 +406,7 @@
 # sent_id = Artur-N-G5026-P600021.s50-s52_reseg.1087
 # speaker_id = Artur-N-G5026
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5026-P600021.s50-s52.mp3
-# text = ja , ko je Olga prišla v Nemčijo , kaj sem bila v službi , sem delala .
+# text = ja , ko je Olga prišla v Nemčijo , jaz sem bila v službi , sem delala .
 # split = train
 1	ja	ja	PART	Q	_	6	discourse	_	pronunciation=ja|Gos2.1_seg_id=Artur-N-G5026-P600021.s50|Gos2.1_token_id=Artur-N-G5026-P600021.tok212
 2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5026-P600021.s50|Gos2.1_token_id=Artur-N-G5026-P600021.tok213
@@ -417,7 +417,7 @@
 7	v	v	ADP	Sa	Case=Acc	8	case	_	pronunciation=v|Gos2.1_seg_id=Artur-N-G5026-P600021.s51|Gos2.1_token_id=Artur-N-G5026-P600021.tok218
 8	Nemčijo	Nemčija	PROPN	Npfsa	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	pronunciation=Nemčijo|Gos2.1_seg_id=Artur-N-G5026-P600021.s51|Gos2.1_token_id=Artur-N-G5026-P600021.tok219
 9	,	,	PUNCT	Z	_	12	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5026-P600021.s51|Gos2.1_token_id=Artur-N-G5026-P600021.tok220
-10	kaj	kaj	ADV	Rgp	Degree=Pos	12	nsubj	_	pronunciation=kej|Gos2.1_seg_id=Artur-N-G5026-P600021.s52|Gos2.1_token_id=Artur-N-G5026-P600021.tok221
+10	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	pronunciation=kej|Gos2.1_seg_id=Artur-N-G5026-P600021.s52|Gos2.1_token_id=Artur-N-G5026-P600021.tok221
 11	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	12	aux	_	pronunciation=səm|Gos2.1_seg_id=Artur-N-G5026-P600021.s52|Gos2.1_token_id=Artur-N-G5026-P600021.tok222
 12	bila	biti	VERB	Va-p-sf	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=bila|Gos2.1_seg_id=Artur-N-G5026-P600021.s52|Gos2.1_token_id=Artur-N-G5026-P600021.tok223
 13	v	v	ADP	Sl	Case=Loc	14	case	_	pronunciation=v|Gos2.1_seg_id=Artur-N-G5026-P600021.s52|Gos2.1_token_id=Artur-N-G5026-P600021.tok224
@@ -494,7 +494,7 @@
 # sent_id = Artur-N-G5026-P600021.s61-s64_reseg.1092
 # speaker_id = Artur-N-G5026
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5026-P600021.s61-s64.mp3
-# text = in jaz odhajam samo mimo , ne gledam , što je , ampak sem samo šla naprej , zaenkrat skrči Olga : " Joža Ha , ja od kod pa ti "
+# text = in jaz odhajam samo mimo , ne gledam , što je , ampak sem samo šla naprej , zaenkrat skrči Olga : " Joža ha , ja od kod pa ti "
 # split = train
 1	in	in	CCONJ	Cc	_	3	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-N-G5026-P600021.s61|Gos2.1_token_id=Artur-N-G5026-P600021.tok265
 2	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	pronunciation=ges|Gos2.1_seg_id=Artur-N-G5026-P600021.s61|Gos2.1_token_id=Artur-N-G5026-P600021.tok266
@@ -520,7 +520,7 @@
 22	:	:	PUNCT	Z	_	31	punct	_	pronunciation=:|Gos2.1_seg_id=Artur-N-G5026-P600021.s62|Gos2.1_token_id=Artur-N-G5026-P600021.tok286
 23	"	"	PUNCT	Z	_	31	punct	_	pronunciation="|Gos2.1_seg_id=Artur-N-G5026-P600021.s62|Gos2.1_token_id=Artur-N-G5026-P600021.tok287
 24	Joža	Joža	PROPN	Npfsn	Case=Nom|Gender=Fem|Number=Sing	31	vocative	_	pronunciation=Joža|Gos2.1_seg_id=Artur-N-G5026-P600021.s62|Gos2.1_token_id=Artur-N-G5026-P600021.tok288
-25	Ha	Ha	INTJ	I	_	31	discourse	_	pronunciation=Ha|Gos2.1_seg_id=Artur-N-G5026-P600021.s63|Gos2.1_token_id=Artur-N-G5026-P600021.tok289
+25	ha	ha	INTJ	I	_	31	discourse	_	pronunciation=Ha|Gos2.1_seg_id=Artur-N-G5026-P600021.s63|Gos2.1_token_id=Artur-N-G5026-P600021.tok289
 26	,	,	PUNCT	Z	_	25	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5026-P600021.s63|Gos2.1_token_id=Artur-N-G5026-P600021.tok290
 27	ja	ja	PART	Q	_	31	discourse	_	pronunciation=ja|Gos2.1_seg_id=Artur-N-G5026-P600021.s64|Gos2.1_token_id=Artur-N-G5026-P600021.tok291
 28	od	od	ADP	Sg	Case=Gen	29	case	_	pronunciation=od|Gos2.1_seg_id=Artur-N-G5026-P600021.s64|Gos2.1_token_id=Artur-N-G5026-P600021.tok292

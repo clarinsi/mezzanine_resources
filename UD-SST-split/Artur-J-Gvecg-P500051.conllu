@@ -483,12 +483,12 @@
 # sent_id = Artur-J-Gvecg-P500051.s57-s62_reseg.400
 # speaker_id = Artur-J-G3016
 # sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500051.s57-s62.mp3
-# text = tako da en običajno dan otroka , ki ga je preživel doma , pri šolanju , je pomenil tri- triinšestdeset odstotkov časa sedenja , trideset odstotkov zelo nizko intenzivne dejavnosti , ki nima nekega vpliva na njihov razvoj .
+# text = tako da en običajen dan otroka , ki ga je preživel doma , pri šolanju , je pomenil tri- triinšestdeset odstotkov časa sedenja , trideset odstotkov zelo nizko intenzivne dejavnosti , ki nima nekega vpliva na njihov razvoj .
 # split = train
 1	tako	tako	CCONJ	Cc	_	18	cc	_	pronunciation=tako|Gos2.1_seg_id=Artur-J-Gvecg-P500051.s57|Gos2.1_token_id=Artur-J-Gvecg-P500051.tok356
 2	da	da	SCONJ	Cs	_	1	fixed	_	pronunciation=da|Gos2.1_seg_id=Artur-J-Gvecg-P500051.s57|Gos2.1_token_id=Artur-J-Gvecg-P500051.tok357
 3	en	en	NUM	Mlpmsn	Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	5	nummod	_	pronunciation=en|Gos2.1_seg_id=Artur-J-Gvecg-P500051.s57|Gos2.1_token_id=Artur-J-Gvecg-P500051.tok358
-4	običajno	običajno	ADV	Rgp	Degree=Pos	5	amod	_	pronunciation=običajən|Gos2.1_seg_id=Artur-J-Gvecg-P500051.s57|Gos2.1_token_id=Artur-J-Gvecg-P500051.tok359
+4	običajen	običajen	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	pronunciation=običajən|Gos2.1_seg_id=Artur-J-Gvecg-P500051.s57|Gos2.1_token_id=Artur-J-Gvecg-P500051.tok359
 5	dan	dan	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	pronunciation=dan|Gos2.1_seg_id=Artur-J-Gvecg-P500051.s57|Gos2.1_token_id=Artur-J-Gvecg-P500051.tok360
 6	otroka	otrok	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	pronunciation=otroka|Gos2.1_seg_id=Artur-J-Gvecg-P500051.s57|Gos2.1_token_id=Artur-J-Gvecg-P500051.tok361
 7	,	,	PUNCT	Z	_	11	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500051.s57|Gos2.1_token_id=Artur-J-Gvecg-P500051.tok362
@@ -1099,7 +1099,7 @@
 # sent_id = Artur-J-Gvecg-P500051.s129-s137_reseg.416
 # speaker_id = Artur-J-G3016
 # sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500051.s129-s137.mp3
-# text = in že tukaj lepo vidimo , da je v teh šolah , ki niso imeli informacije , bistveno večji delež otrok trenutno z debelostjo , eee , kot pa v tistih , ki so imeli informacijo seveda pa , če pogledamo , eem m , kakšni so bili ti prirasti , so ti prirasti ogromni , zato je z dvajset odstotkov oziroma za trideset odstotkov , e , več kot trideset odstotkov , e , to so neverjetni prirasti .
+# text = in že tukaj lepo vidimo , da je v teh šolah , ki niso imeli informacije , bistveno večji delež otrok trenutno z debelostjo , eee , kot pa v tistih , ki so imeli informacijo seveda pa , če pogledamo , eem m , kakšni so bili ti prirasti , so ti prirasti ogromni , zato je za dvajset odstotkov oziroma za trideset odstotkov , e , več kot trideset odstotkov , e , to so neverjetni prirasti .
 # split = train
 1	in	in	CCONJ	Cc	_	5	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-J-Gvecg-P500051.s129|Gos2.1_token_id=Artur-J-Gvecg-P500051.tok860
 2	že	že	PART	Q	_	3	advmod	_	pronunciation=že|Gos2.1_seg_id=Artur-J-Gvecg-P500051.s129|Gos2.1_token_id=Artur-J-Gvecg-P500051.tok861
@@ -1159,7 +1159,7 @@
 56	,	,	PUNCT	Z	_	58	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500051.s134|Gos2.1_token_id=Artur-J-Gvecg-P500051.tok915
 57	zato	zato	CCONJ	Cc	_	58	cc	_	pronunciation=zato|Gos2.1_seg_id=Artur-J-Gvecg-P500051.s134|Gos2.1_token_id=Artur-J-Gvecg-P500051.tok916
 58	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	55	conj	_	pronunciation=je|Gos2.1_seg_id=Artur-J-Gvecg-P500051.s134|Gos2.1_token_id=Artur-J-Gvecg-P500051.tok917
-59	z	z	ADP	Si	Case=Ins	61	case	_	pronunciation=z|Gos2.1_seg_id=Artur-J-Gvecg-P500051.s134|Gos2.1_token_id=Artur-J-Gvecg-P500051.tok918
+59	za	za	ADP	Sa	Case=Acc	61	case	_	pronunciation=z|Gos2.1_seg_id=Artur-J-Gvecg-P500051.s134|Gos2.1_token_id=Artur-J-Gvecg-P500051.tok918
 60	dvajset	dvajset	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	61	nummod	_	pronunciation=dvəjsət|Gos2.1_seg_id=Artur-J-Gvecg-P500051.s135|Gos2.1_token_id=Artur-J-Gvecg-P500051.tok919
 61	odstotkov	odstotek	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	58	obl	_	pronunciation=odstotkov|Gos2.1_seg_id=Artur-J-Gvecg-P500051.s135|Gos2.1_token_id=Artur-J-Gvecg-P500051.tok920
 62	oziroma	oziroma	CCONJ	Cc	_	72	cc	_	pronunciation=oziroma|Gos2.1_seg_id=Artur-J-Gvecg-P500051.s136|Gos2.1_token_id=Artur-J-Gvecg-P500051.tok921

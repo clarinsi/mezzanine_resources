@@ -72,14 +72,14 @@
 # sent_id = Artur-N-G5035-P600034.s5_reseg.1100
 # speaker_id = Artur-N-G5035
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5035-P600034.s5.mp3
-# text = o , ja , tam neki pri Trojanah , mislim , da ali kaj takšnega …
+# text = o , ja , tam nekje pri Trojanah , mislim , da ali kaj takšnega …
 # split = dev
 1	o	o	INTJ	I	_	5	discourse	_	pronunciation=o|Gos2.1_seg_id=Artur-N-G5035-P600034.s5|Gos2.1_token_id=Artur-N-G5035-P600034.tok57
 2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5035-P600034.s5|Gos2.1_token_id=Artur-N-G5035-P600034.tok58
 3	ja	ja	PART	Q	_	5	discourse	_	pronunciation=ja|Gos2.1_seg_id=Artur-N-G5035-P600034.s5|Gos2.1_token_id=Artur-N-G5035-P600034.tok59
 4	,	,	PUNCT	Z	_	3	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5035-P600034.s5|Gos2.1_token_id=Artur-N-G5035-P600034.tok60
 5	tam	tam	ADV	Rgp	Degree=Pos	0	root	_	pronunciation=tam|Gos2.1_seg_id=Artur-N-G5035-P600034.s5|Gos2.1_token_id=Artur-N-G5035-P600034.tok61
-6	neki	neki	DET	Pi-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	8	advmod	_	pronunciation=neki|Gos2.1_seg_id=Artur-N-G5035-P600034.s5|Gos2.1_token_id=Artur-N-G5035-P600034.tok62
+6	nekje	nekje	ADV	Rgp	Degree=Pos	8	advmod	_	pronunciation=neki|Gos2.1_seg_id=Artur-N-G5035-P600034.s5|Gos2.1_token_id=Artur-N-G5035-P600034.tok62
 7	pri	pri	ADP	Sl	Case=Loc	8	case	_	pronunciation=pri|Gos2.1_seg_id=Artur-N-G5035-P600034.s5|Gos2.1_token_id=Artur-N-G5035-P600034.tok63
 8	Trojanah	Trojane	PROPN	Npfpl	Case=Loc|Gender=Fem|Number=Plur	5	nmod	_	pronunciation=Trojanah|Gos2.1_seg_id=Artur-N-G5035-P600034.s5|Gos2.1_token_id=Artur-N-G5035-P600034.tok64
 9	,	,	PUNCT	Z	_	10	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5035-P600034.s5|Gos2.1_token_id=Artur-N-G5035-P600034.tok65
@@ -458,7 +458,7 @@
 # sent_id = Artur-N-G5035-P600034.s32-s38_reseg.1115
 # speaker_id = Artur-N-G5035
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5035-P600034.s32-s38.mp3
-# text = isto , ko prideš na konec ture , Zmislim si ene ture , eee , pod e Triglavom , ko smo prišli do izvira eee Save Bohinjke in je ena naša kolegica se naslonila na roko pa takši zahteven zlom zapestja dobila , glih iz tega , čisto na koncu ture , ko si misliš , da si že čisto fertik , in seveda pri vožnji je to še toliko bolj , ne , ker e tam pa še več drugih ogrožaš kak pri takših planinskih e akcijah , ne .
+# text = isto , ko prideš na konec ture , zmislim se ene ture , eee , pod e Triglavom , ko smo prišli do izvira eee Save Bohinjke in je ena naša kolegica se naslonila na roko pa takši zahteven zlom zapestja dobila , glih iz tega , čisto na koncu ture , ko si misliš , da si že čisto fertik , in seveda pri vožnji je to še toliko bolj , ne , ker e tam pa še več drugih ogrožaš kak pri takših planinskih e akcijah , ne .
 # split = dev
 1	isto	isti	DET	Pi-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	0	root	_	pronunciation=isto|Gos2.1_seg_id=Artur-N-G5035-P600034.s32|Gos2.1_token_id=Artur-N-G5035-P600034.tok338
 2	,	,	PUNCT	Z	_	4	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5035-P600034.s32|Gos2.1_token_id=Artur-N-G5035-P600034.tok339
@@ -468,8 +468,8 @@
 6	konec	konec	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	pronunciation=konəc|Gos2.1_seg_id=Artur-N-G5035-P600034.s32|Gos2.1_token_id=Artur-N-G5035-P600034.tok343
 7	ture	tura	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	pronunciation=ture|Gos2.1_seg_id=Artur-N-G5035-P600034.s32|Gos2.1_token_id=Artur-N-G5035-P600034.tok344
 8	,	,	PUNCT	Z	_	9	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5035-P600034.s32|Gos2.1_token_id=Artur-N-G5035-P600034.tok345
-9	Zmislim	zmisliti	VERB	Vmer1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	parataxis	_	pronunciation=Zmislim|Gos2.1_seg_id=Artur-N-G5035-P600034.s33|Gos2.1_token_id=Artur-N-G5035-P600034.tok346
-10	si	se	PRON	Px---d--y	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	9	expl	_	pronunciation=si|Gos2.1_seg_id=Artur-N-G5035-P600034.s33|Gos2.1_token_id=Artur-N-G5035-P600034.tok347
+9	zmislim	zmisliti	VERB	Vmer1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	parataxis	_	pronunciation=Zmislim|Gos2.1_seg_id=Artur-N-G5035-P600034.s33|Gos2.1_token_id=Artur-N-G5035-P600034.tok346
+10	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	9	expl	_	pronunciation=si|Gos2.1_seg_id=Artur-N-G5035-P600034.s33|Gos2.1_token_id=Artur-N-G5035-P600034.tok347
 11	ene	en	DET	Mlpfsg	Case=Gen|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	12	det	_	pronunciation=ene|Gos2.1_seg_id=Artur-N-G5035-P600034.s33|Gos2.1_token_id=Artur-N-G5035-P600034.tok348
 12	ture	tura	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	9	obj	_	pronunciation=ture|Gos2.1_seg_id=Artur-N-G5035-P600034.s33|Gos2.1_token_id=Artur-N-G5035-P600034.tok349
 13	,	,	PUNCT	Z	_	14	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5035-P600034.s33|Gos2.1_token_id=Artur-N-G5035-P600034.tok350
