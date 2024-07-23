@@ -5179,7 +5179,7 @@
       <event start="Artur-N-G6103-P610302.t0.w6" end="Artur-N-G6103-P610302.t0.w7">NOUN</event>
       <event start="Artur-N-G6103-P610302.t0.w7" end="Artur-N-G6103-P610302.t0.w8">X</event>
       <event start="Artur-N-G6103-P610302.t0.w8" end="T1">X</event>
-      <event start="Artur-N-G6103-P610302.t0.w9" end="Artur-N-G6103-P610302.t0.w10">PROPN</event>
+      <event start="Artur-N-G6103-P610302.t0.w9" end="Artur-N-G6103-P610302.t0.w10">X</event>
       <event start="Artur-N-G6103-P610302.t0.w10" end="Artur-N-G6103-P610302.t0.w10_">PUNCT</event>
       <event start="Artur-N-G6103-P610302.t0.w10_" end="Artur-N-G6103-P610302.t0.w11">SCONJ</event>
       <event start="Artur-N-G6103-P610302.t0.w11" end="Artur-N-G6103-P610302.t0.w12">VERB</event>
@@ -7045,7 +7045,7 @@
       <event start="Artur-N-G6103-P610302.t0.w6" end="Artur-N-G6103-P610302.t0.w7">{'Case': 'Nom', 'Gender': 'Masc', 'Number': 'Sing'}</event>
       <event start="Artur-N-G6103-P610302.t0.w7" end="Artur-N-G6103-P610302.t0.w8">{'Foreign': 'Yes'}</event>
       <event start="Artur-N-G6103-P610302.t0.w8" end="T1">{'Foreign': 'Yes'}</event>
-      <event start="Artur-N-G6103-P610302.t0.w9" end="Artur-N-G6103-P610302.t0.w10">{'Case': 'Nom', 'Gender': 'Masc', 'Number': 'Sing'}</event>
+      <event start="Artur-N-G6103-P610302.t0.w9" end="Artur-N-G6103-P610302.t0.w10">{'Foreign': 'Yes'}</event>
       <event start="Artur-N-G6103-P610302.t0.w10" end="Artur-N-G6103-P610302.t0.w10_">None</event>
       <event start="Artur-N-G6103-P610302.t0.w10_" end="Artur-N-G6103-P610302.t0.w11">None</event>
       <event start="Artur-N-G6103-P610302.t0.w11" end="Artur-N-G6103-P610302.t0.w12">{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}</event>
@@ -9844,7 +9844,7 @@
       <event start="Artur-N-G6103-P610302.t0.w6" end="Artur-N-G6103-P610302.t0.w7">({'id': 8, 'form': 'film', 'lemma': 'film', 'upos': 'NOUN', 'xpos': 'Ncmsn', 'feats': {'Case': 'Nom', 'Gender': 'Masc', 'Number': 'Sing'}, 'head': 6, 'deprel': 'nsubj', 'deps': None, 'misc': {'pronunciation': 'film', 'Gos2.1_seg_id': 'Artur-N-G6103-P610302.s1', 'Gos2.1_token_id': 'Artur-N-G6103-P610302.tok8'}},)</event>
       <event start="Artur-N-G6103-P610302.t0.w7" end="Artur-N-G6103-P610302.t0.w8">({'id': 9, 'form': 'The', 'lemma': 'The', 'upos': 'X', 'xpos': 'Xf', 'feats': {'Foreign': 'Yes'}, 'head': 8, 'deprel': 'nmod', 'deps': None, 'misc': {'pronunciation': 'Də', 'Gos2.1_seg_id': 'Artur-N-G6103-P610302.s1', 'Gos2.1_token_id': 'Artur-N-G6103-P610302.tok9'}},)</event>
       <event start="Artur-N-G6103-P610302.t0.w8" end="T1">({'id': 10, 'form': 'Great', 'lemma': 'Great', 'upos': 'X', 'xpos': 'Xf', 'feats': {'Foreign': 'Yes'}, 'head': 9, 'deprel': 'flat:foreign', 'deps': None, 'misc': {'pronunciation': 'Gret', 'Gos2.1_seg_id': 'Artur-N-G6103-P610302.s1', 'Gos2.1_token_id': 'Artur-N-G6103-P610302.tok10'}},)</event>
-      <event start="Artur-N-G6103-P610302.t0.w9" end="Artur-N-G6103-P610302.t0.w10">({'id': 11, 'form': 'Gatsby', 'lemma': 'Gatsby', 'upos': 'PROPN', 'xpos': 'Npmsn', 'feats': {'Case': 'Nom', 'Gender': 'Masc', 'Number': 'Sing'}, 'head': 9, 'deprel': 'flat:foreign', 'deps': None, 'misc': {'pronunciation': 'Getsbi', 'Gos2.1_seg_id': 'Artur-N-G6103-P610302.s1', 'Gos2.1_token_id': 'Artur-N-G6103-P610302.tok11'}},)</event>
+      <event start="Artur-N-G6103-P610302.t0.w9" end="Artur-N-G6103-P610302.t0.w10">({'id': 11, 'form': 'Gatsby', 'lemma': 'Gatsby', 'upos': 'X', 'xpos': 'Npmsn', 'feats': {'Foreign': 'Yes'}, 'head': 9, 'deprel': 'flat:foreign', 'deps': None, 'misc': {'pronunciation': 'Getsbi', 'Gos2.1_seg_id': 'Artur-N-G6103-P610302.s1', 'Gos2.1_token_id': 'Artur-N-G6103-P610302.tok11'}},)</event>
       <event start="Artur-N-G6103-P610302.t0.w10" end="Artur-N-G6103-P610302.t0.w10_">({'id': 12, 'form': ',', 'lemma': ',', 'upos': 'PUNCT', 'xpos': 'Z', 'feats': None, 'head': 14, 'deprel': 'punct', 'deps': None, 'misc': {'pronunciation': ',', 'Gos2.1_seg_id': 'Artur-N-G6103-P610302.s1', 'Gos2.1_token_id': 'Artur-N-G6103-P610302.tok12'}},)</event>
       <event start="Artur-N-G6103-P610302.t0.w10_" end="Artur-N-G6103-P610302.t0.w11">({'id': 13, 'form': 'ker', 'lemma': 'ker', 'upos': 'SCONJ', 'xpos': 'Cs', 'feats': None, 'head': 14, 'deprel': 'mark', 'deps': None, 'misc': {'pronunciation': 'kər', 'Gos2.1_seg_id': 'Artur-N-G6103-P610302.s1', 'Gos2.1_token_id': 'Artur-N-G6103-P610302.tok13'}},)</event>
       <event start="Artur-N-G6103-P610302.t0.w11" end="Artur-N-G6103-P610302.t0.w12">({'id': 14, 'form': 'gre', 'lemma': 'iti', 'upos': 'VERB', 'xpos': 'Vmbr3s', 'feats': {'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}, 'head': 6, 'deprel': 'advcl', 'deps': None, 'misc': {'pronunciation': 'gre', 'Gos2.1_seg_id': 'Artur-N-G6103-P610302.s1', 'Gos2.1_token_id': 'Artur-N-G6103-P610302.tok14'}},)</event>

@@ -4780,8 +4780,8 @@
       <event start="Artur-N-G6001-P600102.t1.w1" end="Artur-N-G6001-P600102.t1.w1_">PUNCT</event>
       <event start="Artur-N-G6001-P600102.t1.w1_" end="Artur-N-G6001-P600102.t1.w2">PRON</event>
       <event start="Artur-N-G6001-P600102.t1.w2" end="Artur-N-G6001-P600102.t1.w3">VERB</event>
-      <event start="Artur-N-G6001-P600102.t1.w3" end="Artur-N-G6001-P600102.t1.w4">PROPN</event>
-      <event start="Artur-N-G6001-P600102.t1.w4" end="Artur-N-G6001-P600102.t1.w5">NOUN</event>
+      <event start="Artur-N-G6001-P600102.t1.w3" end="Artur-N-G6001-P600102.t1.w4">X</event>
+      <event start="Artur-N-G6001-P600102.t1.w4" end="Artur-N-G6001-P600102.t1.w5">X</event>
       <event start="Artur-N-G6001-P600102.t1.w5" end="Artur-N-G6001-P600102.t2">CCONJ</event>
       <event start="Artur-N-G6001-P600102.t2.w0" end="Artur-N-G6001-P600102.t2.w1">ADJ</event>
       <event start="Artur-N-G6001-P600102.t2.w1" end="Artur-N-G6001-P600102.t3">NOUN</event>
@@ -6496,8 +6496,8 @@
       <event start="Artur-N-G6001-P600102.t1.w1" end="Artur-N-G6001-P600102.t1.w1_">None</event>
       <event start="Artur-N-G6001-P600102.t1.w1_" end="Artur-N-G6001-P600102.t1.w2">{'PronType': 'Prs', 'Reflex': 'Yes', 'Variant': 'Short'}</event>
       <event start="Artur-N-G6001-P600102.t1.w2" end="Artur-N-G6001-P600102.t1.w3">{'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}</event>
-      <event start="Artur-N-G6001-P600102.t1.w3" end="Artur-N-G6001-P600102.t1.w4">{'Case': 'Nom', 'Gender': 'Masc', 'Number': 'Sing'}</event>
-      <event start="Artur-N-G6001-P600102.t1.w4" end="Artur-N-G6001-P600102.t1.w5">{'Case': 'Nom', 'Gender': 'Masc', 'Number': 'Sing'}</event>
+      <event start="Artur-N-G6001-P600102.t1.w3" end="Artur-N-G6001-P600102.t1.w4">{'Foreign': 'Yes'}</event>
+      <event start="Artur-N-G6001-P600102.t1.w4" end="Artur-N-G6001-P600102.t1.w5">{'Foreign': 'Yes'}</event>
       <event start="Artur-N-G6001-P600102.t1.w5" end="Artur-N-G6001-P600102.t2">None</event>
       <event start="Artur-N-G6001-P600102.t2.w0" end="Artur-N-G6001-P600102.t2.w1">{'Case': 'Nom', 'Degree': 'Pos', 'Gender': 'Fem', 'Number': 'Sing'}</event>
       <event start="Artur-N-G6001-P600102.t2.w1" end="Artur-N-G6001-P600102.t3">{'Case': 'Nom', 'Gender': 'Fem', 'Number': 'Sing'}</event>
@@ -9070,8 +9070,8 @@
       <event start="Artur-N-G6001-P600102.t1.w1" end="Artur-N-G6001-P600102.t1.w1_">({'id': 10, 'form': ',', 'lemma': ',', 'upos': 'PUNCT', 'xpos': 'Z', 'feats': None, 'head': 9, 'deprel': 'punct', 'deps': None, 'misc': {'pronunciation': ',', 'Gos2.1_seg_id': 'Artur-N-G6001-P600102.s2', 'Gos2.1_token_id': 'Artur-N-G6001-P600102.tok10'}},)</event>
       <event start="Artur-N-G6001-P600102.t1.w1_" end="Artur-N-G6001-P600102.t1.w2">({'id': 11, 'form': 'se', 'lemma': 'se', 'upos': 'PRON', 'xpos': 'Px------y', 'feats': {'PronType': 'Prs', 'Reflex': 'Yes', 'Variant': 'Short'}, 'head': 12, 'deprel': 'expl', 'deps': None, 'misc': {'pronunciation': 'se', 'Gos2.1_seg_id': 'Artur-N-G6001-P600102.s2', 'Gos2.1_token_id': 'Artur-N-G6001-P600102.tok11'}},)</event>
       <event start="Artur-N-G6001-P600102.t1.w2" end="Artur-N-G6001-P600102.t1.w3">({'id': 12, 'form': 'imenuje', 'lemma': 'imenovati', 'upos': 'VERB', 'xpos': 'Vmbr3s', 'feats': {'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}, 'head': 0, 'deprel': 'root', 'deps': None, 'misc': {'pronunciation': 'imenuje', 'Gos2.1_seg_id': 'Artur-N-G6001-P600102.s2', 'Gos2.1_token_id': 'Artur-N-G6001-P600102.tok12'}},)</event>
-      <event start="Artur-N-G6001-P600102.t1.w3" end="Artur-N-G6001-P600102.t1.w4">({'id': 13, 'form': 'Perfect', 'lemma': 'Perfect', 'upos': 'PROPN', 'xpos': 'Npmsn', 'feats': {'Case': 'Nom', 'Gender': 'Masc', 'Number': 'Sing'}, 'head': 12, 'deprel': 'obl', 'deps': None, 'misc': {'pronunciation': 'Pərfekt', 'Gos2.1_seg_id': 'Artur-N-G6001-P600102.s2', 'Gos2.1_token_id': 'Artur-N-G6001-P600102.tok13'}},)</event>
-      <event start="Artur-N-G6001-P600102.t1.w4" end="Artur-N-G6001-P600102.t1.w5">({'id': 14, 'form': 'blue', 'lemma': 'blue', 'upos': 'NOUN', 'xpos': 'Ncmsn', 'feats': {'Case': 'Nom', 'Gender': 'Masc', 'Number': 'Sing'}, 'head': 13, 'deprel': 'flat:foreign', 'deps': None, 'misc': {'pronunciation': 'blu', 'Gos2.1_seg_id': 'Artur-N-G6001-P600102.s2', 'Gos2.1_token_id': 'Artur-N-G6001-P600102.tok14'}},)</event>
+      <event start="Artur-N-G6001-P600102.t1.w3" end="Artur-N-G6001-P600102.t1.w4">({'id': 13, 'form': 'Perfect', 'lemma': 'Perfect', 'upos': 'X', 'xpos': 'Npmsn', 'feats': {'Foreign': 'Yes'}, 'head': 12, 'deprel': 'obl', 'deps': None, 'misc': {'pronunciation': 'Pərfekt', 'Gos2.1_seg_id': 'Artur-N-G6001-P600102.s2', 'Gos2.1_token_id': 'Artur-N-G6001-P600102.tok13'}},)</event>
+      <event start="Artur-N-G6001-P600102.t1.w4" end="Artur-N-G6001-P600102.t1.w5">({'id': 14, 'form': 'blue', 'lemma': 'blue', 'upos': 'X', 'xpos': 'Ncmsn', 'feats': {'Foreign': 'Yes'}, 'head': 13, 'deprel': 'flat:foreign', 'deps': None, 'misc': {'pronunciation': 'blu', 'Gos2.1_seg_id': 'Artur-N-G6001-P600102.s2', 'Gos2.1_token_id': 'Artur-N-G6001-P600102.tok14'}},)</event>
       <event start="Artur-N-G6001-P600102.t1.w5" end="Artur-N-G6001-P600102.t2">({'id': 15, 'form': 'oziroma', 'lemma': 'oziroma', 'upos': 'CCONJ', 'xpos': 'Cc', 'feats': None, 'head': 17, 'deprel': 'cc', 'deps': None, 'misc': {'pronunciation': 'oziroma', 'Gos2.1_seg_id': 'Artur-N-G6001-P600102.s2', 'Gos2.1_token_id': 'Artur-N-G6001-P600102.tok15'}},)</event>
       <event start="Artur-N-G6001-P600102.t2.w0" end="Artur-N-G6001-P600102.t2.w1">({'id': 16, 'form': 'Popolna', 'lemma': 'popoln', 'upos': 'ADJ', 'xpos': 'Agpfsn', 'feats': {'Case': 'Nom', 'Degree': 'Pos', 'Gender': 'Fem', 'Number': 'Sing'}, 'head': 17, 'deprel': 'amod', 'deps': None, 'misc': {'pronunciation': 'Popolna', 'Gos2.1_seg_id': 'Artur-N-G6001-P600102.s3', 'Gos2.1_token_id': 'Artur-N-G6001-P600102.tok16'}},)</event>
       <event start="Artur-N-G6001-P600102.t2.w1" end="Artur-N-G6001-P600102.t3">({'id': 17, 'form': 'modrina', 'lemma': 'modrina', 'upos': 'NOUN', 'xpos': 'Ncfsn', 'feats': {'Case': 'Nom', 'Gender': 'Fem', 'Number': 'Sing'}, 'head': 13, 'deprel': 'conj', 'deps': None, 'misc': {'pronunciation': 'modrina', 'Gos2.1_seg_id': 'Artur-N-G6001-P600102.s3', 'Gos2.1_token_id': 'Artur-N-G6001-P600102.tok17'}},)</event>

@@ -3582,8 +3582,8 @@
       <event start="Artur-N-G5013-P600007.t2.w1" end="Artur-N-G5013-P600007.t2.w2">AUX</event>
       <event start="Artur-N-G5013-P600007.t2.w2" end="Artur-N-G5013-P600007.t2.w3">ADV</event>
       <event start="Artur-N-G5013-P600007.t2.w3" end="Artur-N-G5013-P600007.t2.w4">VERB</event>
-      <event start="Artur-N-G5013-P600007.t2.w4" end="Artur-N-G5013-P600007.t2.w5">PROPN</event>
-      <event start="Artur-N-G5013-P600007.t2.w5" end="Artur-N-G5013-P600007.t3">PROPN</event>
+      <event start="Artur-N-G5013-P600007.t2.w4" end="Artur-N-G5013-P600007.t2.w5">X</event>
+      <event start="Artur-N-G5013-P600007.t2.w5" end="Artur-N-G5013-P600007.t3">X</event>
       <event start="Artur-N-G5013-P600007.t3.w0" end="Artur-N-G5013-P600007.t3.w1">CCONJ</event>
       <event start="Artur-N-G5013-P600007.t3.w1" end="Artur-N-G5013-P600007.t3.w2">PART</event>
       <event start="Artur-N-G5013-P600007.t3.w2" end="Artur-N-G5013-P600007.t3.w3">DET</event>
@@ -4888,8 +4888,8 @@
       <event start="Artur-N-G5013-P600007.t2.w1" end="Artur-N-G5013-P600007.t2.w2">{'Mood': 'Ind', 'Number': 'Sing', 'Person': '1', 'Polarity': 'Pos', 'Tense': 'Pres', 'VerbForm': 'Fin'}</event>
       <event start="Artur-N-G5013-P600007.t2.w2" end="Artur-N-G5013-P600007.t2.w3">{'Degree': 'Pos'}</event>
       <event start="Artur-N-G5013-P600007.t2.w3" end="Artur-N-G5013-P600007.t2.w4">{'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'VerbForm': 'Part'}</event>
-      <event start="Artur-N-G5013-P600007.t2.w4" end="Artur-N-G5013-P600007.t2.w5">{'Animacy': 'Inan', 'Case': 'Acc', 'Gender': 'Masc', 'Number': 'Sing'}</event>
-      <event start="Artur-N-G5013-P600007.t2.w5" end="Artur-N-G5013-P600007.t3">{'Animacy': 'Inan', 'Case': 'Acc', 'Gender': 'Masc', 'Number': 'Sing'}</event>
+      <event start="Artur-N-G5013-P600007.t2.w4" end="Artur-N-G5013-P600007.t2.w5">{'Foreign': 'Yes'}</event>
+      <event start="Artur-N-G5013-P600007.t2.w5" end="Artur-N-G5013-P600007.t3">{'Foreign': 'Yes'}</event>
       <event start="Artur-N-G5013-P600007.t3.w0" end="Artur-N-G5013-P600007.t3.w1">None</event>
       <event start="Artur-N-G5013-P600007.t3.w1" end="Artur-N-G5013-P600007.t3.w2">None</event>
       <event start="Artur-N-G5013-P600007.t3.w2" end="Artur-N-G5013-P600007.t3.w3">{'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing', 'PronType': 'Dem'}</event>
@@ -6847,8 +6847,8 @@
       <event start="Artur-N-G5013-P600007.t2.w1" end="Artur-N-G5013-P600007.t2.w2">({'id': 2, 'form': 'sem', 'lemma': 'biti', 'upos': 'AUX', 'xpos': 'Va-r1s-n', 'feats': {'Mood': 'Ind', 'Number': 'Sing', 'Person': '1', 'Polarity': 'Pos', 'Tense': 'Pres', 'VerbForm': 'Fin'}, 'head': 4, 'deprel': 'aux', 'deps': None, 'misc': {'pronunciation': 'sən', 'Gos2.1_seg_id': 'Artur-N-G5013-P600007.s2', 'Gos2.1_token_id': 'Artur-N-G5013-P600007.tok7'}},)</event>
       <event start="Artur-N-G5013-P600007.t2.w2" end="Artur-N-G5013-P600007.t2.w3">({'id': 3, 'form': 'včasih', 'lemma': 'včasih', 'upos': 'ADV', 'xpos': 'Rgp', 'feats': {'Degree': 'Pos'}, 'head': 4, 'deprel': 'advmod', 'deps': None, 'misc': {'pronunciation': 'fčasih', 'Gos2.1_seg_id': 'Artur-N-G5013-P600007.s2', 'Gos2.1_token_id': 'Artur-N-G5013-P600007.tok8'}},)</event>
       <event start="Artur-N-G5013-P600007.t2.w3" end="Artur-N-G5013-P600007.t2.w4">({'id': 4, 'form': 'igral', 'lemma': 'igrati', 'upos': 'VERB', 'xpos': 'Vmpp-sm', 'feats': {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'VerbForm': 'Part'}, 'head': 0, 'deprel': 'root', 'deps': None, 'misc': {'pronunciation': 'igral', 'Gos2.1_seg_id': 'Artur-N-G5013-P600007.s2', 'Gos2.1_token_id': 'Artur-N-G5013-P600007.tok9'}},)</event>
-      <event start="Artur-N-G5013-P600007.t2.w4" end="Artur-N-G5013-P600007.t2.w5">({'id': 5, 'form': 'Rocket', 'lemma': 'Rocket', 'upos': 'PROPN', 'xpos': 'Npmsan', 'feats': {'Animacy': 'Inan', 'Case': 'Acc', 'Gender': 'Masc', 'Number': 'Sing'}, 'head': 4, 'deprel': 'obj', 'deps': None, 'misc': {'pronunciation': 'Roket', 'Gos2.1_seg_id': 'Artur-N-G5013-P600007.s2', 'Gos2.1_token_id': 'Artur-N-G5013-P600007.tok10'}},)</event>
-      <event start="Artur-N-G5013-P600007.t2.w5" end="Artur-N-G5013-P600007.t3">({'id': 6, 'form': 'League', 'lemma': 'League', 'upos': 'PROPN', 'xpos': 'Npmsan', 'feats': {'Animacy': 'Inan', 'Case': 'Acc', 'Gender': 'Masc', 'Number': 'Sing'}, 'head': 5, 'deprel': 'flat:foreign', 'deps': None, 'misc': {'pronunciation': 'Lig', 'Gos2.1_seg_id': 'Artur-N-G5013-P600007.s2', 'Gos2.1_token_id': 'Artur-N-G5013-P600007.tok11'}},)</event>
+      <event start="Artur-N-G5013-P600007.t2.w4" end="Artur-N-G5013-P600007.t2.w5">({'id': 5, 'form': 'Rocket', 'lemma': 'Rocket', 'upos': 'X', 'xpos': 'Npmsan', 'feats': {'Foreign': 'Yes'}, 'head': 4, 'deprel': 'obj', 'deps': None, 'misc': {'pronunciation': 'Roket', 'Gos2.1_seg_id': 'Artur-N-G5013-P600007.s2', 'Gos2.1_token_id': 'Artur-N-G5013-P600007.tok10'}},)</event>
+      <event start="Artur-N-G5013-P600007.t2.w5" end="Artur-N-G5013-P600007.t3">({'id': 6, 'form': 'League', 'lemma': 'League', 'upos': 'X', 'xpos': 'Npmsan', 'feats': {'Foreign': 'Yes'}, 'head': 5, 'deprel': 'flat:foreign', 'deps': None, 'misc': {'pronunciation': 'Lig', 'Gos2.1_seg_id': 'Artur-N-G5013-P600007.s2', 'Gos2.1_token_id': 'Artur-N-G5013-P600007.tok11'}},)</event>
       <event start="Artur-N-G5013-P600007.t3.w0" end="Artur-N-G5013-P600007.t3.w1">({'id': 7, 'form': 'pa', 'lemma': 'pa', 'upos': 'CCONJ', 'xpos': 'Cc', 'feats': None, 'head': 9, 'deprel': 'cc', 'deps': None, 'misc': {'pronunciation': 'pa', 'Gos2.1_seg_id': 'Artur-N-G5013-P600007.s3', 'Gos2.1_token_id': 'Artur-N-G5013-P600007.tok12'}},)</event>
       <event start="Artur-N-G5013-P600007.t3.w1" end="Artur-N-G5013-P600007.t3.w2">({'id': 8, 'form': 'še', 'lemma': 'še', 'upos': 'PART', 'xpos': 'Q', 'feats': None, 'head': 9, 'deprel': 'advmod', 'deps': None, 'misc': {'pronunciation': 'še', 'Gos2.1_seg_id': 'Artur-N-G5013-P600007.s3', 'Gos2.1_token_id': 'Artur-N-G5013-P600007.tok13'}},)</event>
       <event start="Artur-N-G5013-P600007.t3.w2" end="Artur-N-G5013-P600007.t3.w3">({'id': 9, 'form': 'to', 'lemma': 'ta', 'upos': 'DET', 'xpos': 'Pd-nsa', 'feats': {'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing', 'PronType': 'Dem'}, 'head': 4, 'deprel': 'conj', 'deps': None, 'misc': {'pronunciation': 'to', 'Gos2.1_seg_id': 'Artur-N-G5013-P600007.s3', 'Gos2.1_token_id': 'Artur-N-G5013-P600007.tok14'}},)</event>

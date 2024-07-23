@@ -105,8 +105,7 @@ def insert_before(token, end_id):
     for event in exb.doc.findall(f".//event[@end='{end_id}']"):
         event.set("end", start_id)
     # # Let's change all annotation tiers so that they end at the new timestamp:
-    # # Inhibited for consistency with prosodic units.
-    # for n in [2, 3, 4]:
+    # for n in [5]:
     #     tier_to_check = exb.get_all_nth_tiers(n=n)[speaker]
     #     for event in tier_to_check.findall(f".//event[@start='{end_id}']"):
     #         event.set("start", start_id)
@@ -144,8 +143,7 @@ def insert_after(token, start_id):
     for event in exb.doc.findall(f".//event[@start='{start_id}']"):
         event.set("start", end_id)
     # # Let's change annotation tiers so that they end at the new timestamp:
-    # # This was inhibited so that it's consistent with prosodic units.
-    # for n in [2, 3, 4]:
+    # for n in [5]:
     #     tier_to_check = exb.get_all_nth_tiers(n=n)[speaker]
     #     for event in tier_to_check.findall(f".//event[@end='{start_id}']"):
     #         event.set("end", end_id)
