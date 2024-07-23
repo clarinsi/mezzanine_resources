@@ -7,7 +7,7 @@ try:
     textgrid_path = Path(snakemake.input.pu)
     outpath = Path(snakemake.output[0])
 except NameError:
-    searchstring = "N-G5026-P600021"
+    searchstring = "-J-Gvecg-P500014"
     conllu_path = list(
         Path(
             "/home/peter/mezzanine_resources/UD-SST-split/Artur-J-Gvecg-P500016.conllu"
@@ -104,11 +104,12 @@ def insert_before(token, end_id):
     # Move preceeding neighbouring events around
     for event in exb.doc.findall(f".//event[@end='{end_id}']"):
         event.set("end", start_id)
-    # Let's change all annotation tiers so that they end at the new timestamp:
-    for n in [2, 3, 4]:
-        tier_to_check = exb.get_all_nth_tiers(n=n)[speaker]
-        for event in tier_to_check.findall(f".//event[@start='{end_id}']"):
-            event.set("start", start_id)
+    # # Let's change all annotation tiers so that they end at the new timestamp:
+    # # Inhibited for consistency with prosodic units.
+    # for n in [2, 3, 4]:
+    #     tier_to_check = exb.get_all_nth_tiers(n=n)[speaker]
+    #     for event in tier_to_check.findall(f".//event[@start='{end_id}']"):
+    #         event.set("start", start_id)
 
     # Let's insert the new punctuation in its proper place:
     for n in [0, 1]:
@@ -142,11 +143,12 @@ def insert_after(token, start_id):
     # Move neighbouring events around
     for event in exb.doc.findall(f".//event[@start='{start_id}']"):
         event.set("start", end_id)
-    # Let's change annotation tiers so that they end at the new timestamp:
-    for n in [2, 3, 4]:
-        tier_to_check = exb.get_all_nth_tiers(n=n)[speaker]
-        for event in tier_to_check.findall(f".//event[@end='{start_id}']"):
-            event.set("end", end_id)
+    # # Let's change annotation tiers so that they end at the new timestamp:
+    # # This was inhibited so that it's consistent with prosodic units.
+    # for n in [2, 3, 4]:
+    #     tier_to_check = exb.get_all_nth_tiers(n=n)[speaker]
+    #     for event in tier_to_check.findall(f".//event[@end='{start_id}']"):
+    #         event.set("end", end_id)
     # Let's insert the new element in its proper place:
     for n in [0, 1]:
         tier_to_check = exb.get_all_nth_tiers(n=n)[speaker]
@@ -420,7 +422,7 @@ for _speaker in exb.speakers:
                     "event", start=tracevent.get("start"), end=tracevent.get("end")
                 )
                 newevent.text = (
-                    str((dict(t) for t in tokens))
+                    str([dict(t) for t in tokens])
                     if feature == "conllu"
                     else " ".join(
                         [
