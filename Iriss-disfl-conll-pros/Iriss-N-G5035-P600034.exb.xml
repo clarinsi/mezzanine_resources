@@ -6950,7 +6950,7 @@
       <event start="Artur-N-G5035-P600034.t3.w0" end="Artur-N-G5035-P600034.t3.w1">({'id': 31, 'form': 'e', 'lemma': 'e', 'upos': 'INTJ', 'xpos': 'I', 'feats': None, 'head': 35, 'deprel': 'discourse:filler', 'deps': None, 'misc': {'pronunciation': 'e', 'Gos2.1_seg_id': 'Artur-N-G5035-P600034.s3', 'Gos2.1_token_id': 'Artur-N-G5035-P600034.tok31'}},)</event>
       <event start="Artur-N-G5035-P600034.t3.w1" end="Artur-N-G5035-P600034.t3.w1_">({'id': 32, 'form': ',', 'lemma': ',', 'upos': 'PUNCT', 'xpos': 'Z', 'feats': None, 'head': 31, 'deprel': 'punct', 'deps': None, 'misc': {'pronunciation': ',', 'Gos2.1_seg_id': 'Artur-N-G5035-P600034.s3', 'Gos2.1_token_id': 'Artur-N-G5035-P600034.tok32'}},)</event>
       <event start="Artur-N-G5035-P600034.t3.w1_" end="Artur-N-G5035-P600034.t3.w2">({'id': 33, 'form': 'tvoja', 'lemma': 'tvoj', 'upos': 'DET', 'xpos': 'Ps2fsns', 'feats': {'Case': 'Nom', 'Gender': 'Fem', 'Number': 'Sing', 'Number[psor]': 'Sing', 'Person': '2', 'Poss': 'Yes', 'PronType': 'Prs'}, 'head': 35, 'deprel': 'det', 'deps': None, 'misc': {'pronunciation': 'tvoja', 'Gos2.1_seg_id': 'Artur-N-G5035-P600034.s3', 'Gos2.1_token_id': 'Artur-N-G5035-P600034.tok33'}},)</event>
-      <event start="Artur-N-G5035-P600034.t3.w2" end="Artur-N-G5035-P600034.t4">&lt;generator object &lt;genexpr&gt; at 0x7f6ca0b3d630&gt;</event>
+      <event start="Artur-N-G5035-P600034.t3.w2" end="Artur-N-G5035-P600034.t4">&lt;generator object &lt;genexpr&gt; at 0x7f9667f19630&gt;</event>
       <event start="Artur-N-G5035-P600034.t5.w0" end="T5">({'id': 1, 'form': 'ja', 'lemma': 'ja', 'upos': 'PART', 'xpos': 'Q', 'feats': None, 'head': 5, 'deprel': 'discourse', 'deps': None, 'misc': {'pronunciation': 'ja', 'Gos2.1_seg_id': 'Artur-N-G5035-P600034.s4', 'Gos2.1_token_id': 'Artur-N-G5035-P600034.tok36'}},)</event>
       <event start="T5" end="T5_">({'id': 2, 'form': ',', 'lemma': ',', 'upos': 'PUNCT', 'xpos': 'Z', 'feats': None, 'head': 1, 'deprel': 'punct', 'deps': None, 'misc': {'pronunciation': ',', 'Gos2.1_seg_id': 'Artur-N-G5035-P600034.s4', 'Gos2.1_token_id': 'Artur-N-G5035-P600034.tok37'}},)</event>
       <event start="Artur-N-G5035-P600034.t5.w1" end="Artur-N-G5035-P600034.t5.w2">({'id': 3, 'form': 'teh', 'lemma': 'ta', 'upos': 'DET', 'xpos': 'Pd-fpg', 'feats': {'Case': 'Gen', 'Gender': 'Fem', 'Number': 'Plur', 'PronType': 'Dem'}, 'head': 5, 'deprel': 'nsubj', 'deps': None, 'misc': {'pronunciation': 'teh', 'Gos2.1_seg_id': 'Artur-N-G5035-P600034.s4', 'Gos2.1_token_id': 'Artur-N-G5035-P600034.tok38'}},)</event>
@@ -7732,7 +7732,7 @@
       <event start="Artur-N-G5035-P600034.t72.w0" end="T10">Artur-N-G5035-P600034.tok653Artur-N-G5035-P600034.tok654</event>
       <event start="Artur-N-G5035-P600034.t72.w2" end="Artur-N-G5035-P600034.t73">Artur-N-G5035-P600034.tok655Artur-N-G5035-P600034.tok656</event>
     </tier>
-    <tier id="Artur-N-G5035 [dialogActsPrimary]" category="dialogActsPrimary" type="a" display-name="Artur-N-G5035 [dialogActsPrimary]"/>
-    <tier id="Artur-N-G5035 [dialogActsSecondary]" category="dialogActsSecondary" type="a" display-name="Artur-N-G5035 [dialogActsSecondary]"/>
+    <tier id="Artur-N-G5035 [dialogActsPrimary]" category="dialogActsPrimary" type="a" display-name="Artur-N-G5035 [dialogActsPrimary]" speaker="Artur-N-G5035"/>
+    <tier id="Artur-N-G5035 [dialogActsSecondary]" category="dialogActsSecondary" type="a" display-name="Artur-N-G5035 [dialogActsSecondary]" speaker="Artur-N-G5035"/>
   </basic-body>
 </basic-transcription>

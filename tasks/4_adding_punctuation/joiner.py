@@ -345,16 +345,17 @@ for _speaker in exb.speakers:
             "tier",
             attrib={
                 "id": f"{_speaker} [{feature}]",
-                "category": "{feature}",
+                "category": f"{feature}",
                 "type": "a",
                 "display-name": f"{_speaker} [{feature}]",
+                "speaker": f"{_speaker}",
             },
         )
-        featuretier.append(
-            EXBUtils.ET.fromstring(
-                """<ud-tier-information><ud-information attribute-name="exmaralda:hidden">true</ud-information></ud-tier-information>"""
-            )
-        )
+        # featuretier.append(
+        #     EXBUtils.ET.fromstring(
+        #         """<ud-tier-information><ud-information attribute-name="exmaralda:hidden">true</ud-information></ud-tier-information>"""
+        #     )
+        # )
         for sentence in cnl:
             speaker = sentence.metadata["speaker_id"]
             if speaker != _speaker:
@@ -478,6 +479,21 @@ for _speaker in exb.speakers:
         pu_tier.append(e)
     exb.doc.find(".//tier").getparent().append(pu_tier)
 
+# A fix for the missing sentence ID...
+sentence_id_event = [
+    e
+    for e in exb.doc.findall(".//event")
+    if str(e.text).strip() == "Artur-N-G5044-P600044.s5_reseg.1196"
+]
+if sentence_id_event:
+    should_start_from = [
+        e
+        for e in exb.doc.findall(".//event")
+        if str(e.text).strip() == "Artur-N-G5044-P600044.s5.element1"
+    ][0].get("start")
+    sentence_id_event[0].set("start", should_start_from)
+
+
 speakers = exb.speakers
 # Rename top two tiers with explicit suffices:
 for s in speakers:
@@ -493,6 +509,22 @@ for s in speakers:
     ]
     for tier in tiers:
         tier.set("speaker", s.strip())
+
+# Add dialog acts tiers
+# Lettuce add Simona's prosodic units:
+for _speaker in exb.speakers:
+    for tiersuffix in "Primary Secondary".split():
+        tier = EXBUtils.ET.Element(
+            "tier",
+            attrib={
+                "id": f"{_speaker} [dialogActs{tiersuffix}]",
+                "category": f"dialogActs{tiersuffix}",
+                "type": "a",
+                "display-name": f"{_speaker} [dialogActs{tiersuffix}]",
+                "speaker": f"{_speaker}",
+            },
+        )  # type: ignore
+        exb.doc.find(".//tier").getparent().append(tier)
 
 # Reorder tiers so that they are as we expect them.
 tier_suffices = EXBUtils.tier_suffices

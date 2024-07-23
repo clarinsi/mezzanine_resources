@@ -19,6 +19,8 @@ tier_suffices = [
     " [deprel]",
     " [conllu]",
     " [prosodicUnits]",
+    " [dialogActsPrimary]",
+    " [dialogActsSecondary]",
 ]
 tier_roles = [
     "word",
@@ -37,6 +39,8 @@ tier_roles = [
     "deprel",
     "conllu",
     "prosodicUnits",
+    "dialogActsPrimary",
+    "dialogActsSecondary",
 ]
 
 
@@ -154,6 +158,7 @@ class EXB:
 
     @staticmethod
     def to_str(e: ET.Element) -> str:
+        ET.indent(e, space="  ")
         return ET.tostring(e, encoding="unicode", pretty_print=True, with_tail=False)
 
     @staticmethod
