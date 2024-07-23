@@ -500,15 +500,6 @@ for s in speakers:
     tiers = exb.doc.findall(f".//tier[@speaker='{s}']")
     tiers[0].set("display-name", f"{s} [word]")
     tiers[1].set("display-name", f"{s} [norm]")
-# Explicitly encode speakers in tiers
-for s in speakers:
-    tiers = [
-        tier
-        for tier in exb.doc.findall(f".//tier")
-        if s.strip() in tier.get("display-name")
-    ]
-    for tier in tiers:
-        tier.set("speaker", s.strip())
 
 # Add dialog acts tiers
 # Lettuce add Simona's prosodic units:
@@ -526,6 +517,15 @@ for _speaker in exb.speakers:
         )  # type: ignore
         exb.doc.find(".//tier").getparent().append(tier)
 
+# Explicitly encode speakers in tiers
+for s in speakers:
+    tiers = [
+        tier
+        for tier in exb.doc.findall(f".//tier")
+        if s.strip() in tier.get("display-name")
+    ]
+    for tier in tiers:
+        tier.set("speaker", s.strip())
 # Reorder tiers so that they are as we expect them.
 tier_suffices = EXBUtils.tier_suffices
 order = [s + t for s in speakers for t in tier_suffices]
