@@ -7,7 +7,7 @@ try:
     textgrid_path = Path(snakemake.input.pu)
     outpath = Path(snakemake.output[0])
 except NameError:
-    searchstring = "N-G5019-P600012"
+    searchstring = "N-G5026-P600021"
     conllu_path = list(
         Path(
             "/home/peter/mezzanine_resources/UD-SST-split/Artur-J-Gvecg-P500016.conllu"
@@ -91,8 +91,6 @@ def get_middle_tokens(sentence, f=f) -> list[list[int]]:
 
 
 def insert_before(token, end_id):
-    if token["misc"]["Gos2.1_token_id"] == "Artur-N-G5026-P600021.tok298":
-        2 + 2
     time_str = exb.timeline_str[end_id]
     start_id = end_id + "_"
     # Do tli stuff
@@ -103,7 +101,7 @@ def insert_before(token, end_id):
         new_tli,
     )
     exb.update_timeline()
-    # Move neighbouring events around
+    # Move preceeding neighbouring events around
     for event in exb.doc.findall(f".//event[@end='{end_id}']"):
         event.set("end", start_id)
     # Let's change all annotation tiers so that they end at the new timestamp:
@@ -199,9 +197,9 @@ for i, sentence in enumerate(cnl):
         tracevent = [
             e
             for e in exb.doc.findall(".//event")
-            if e.text.strip() == next_word_token_id
+            if str(e.text).strip() == next_word_token_id
         ][0]
-        end_id = tracevent.get("end")
+        end_id = tracevent.get("start")
         time_str = exb.timeline_str[end_id]
         for t in starting[::-1]:
             token = sentence[t]
