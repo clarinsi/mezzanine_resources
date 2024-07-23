@@ -542,6 +542,8 @@
 <event start="Artur-N-G5044-P600044.t22.w4" end="Artur-N-G5044-P600044.t22.w5">je </event>
 <event start="Artur-N-G5044-P600044.t22.w5" end="Artur-N-G5044-P600044.t22.w6">bil </event>
 <event start="Artur-N-G5044-P600044.t22.w6" end="T2">pa </event>
+<event start="T2" end="T1">[name:surname</event>
+<event start="T1" end="Artur-N-G5044-P600044.t23">[name:personal]</event>
 <event start="Artur-N-G5044-P600044.t24.w0" end="Artur-N-G5044-P600044.t24.w1">no </event>
 <event start="Artur-N-G5044-P600044.t24.w1" end="Artur-N-G5044-P600044.t24.w2">jəz </event>
 <event start="Artur-N-G5044-P600044.t24.w2" end="Artur-N-G5044-P600044.t24.w3">tud </event>
@@ -931,6 +933,8 @@
 <event start="Artur-N-G5044-P600044.t22.w4" end="Artur-N-G5044-P600044.t22.w5">je </event>
 <event start="Artur-N-G5044-P600044.t22.w5" end="Artur-N-G5044-P600044.t22.w6">bil </event>
 <event start="Artur-N-G5044-P600044.t22.w6" end="T2">pa </event>
+<event start="T2" end="T1">[name:surname]</event>
+<event start="T1" end="Artur-N-G5044-P600044.t23">[name:personal]</event>
 <event start="Artur-N-G5044-P600044.t24.w0" end="Artur-N-G5044-P600044.t24.w1">no </event>
 <event start="Artur-N-G5044-P600044.t24.w1" end="Artur-N-G5044-P600044.t24.w2">jaz </event>
 <event start="Artur-N-G5044-P600044.t24.w2" end="Artur-N-G5044-P600044.t24.w3">tudi </event>
@@ -1290,7 +1294,7 @@
 <event start="Artur-N-G5044-P600044.t64.w0" end="Artur-N-G5044-P600044.t65">reparandum </event>
 <event start="Artur-N-G5044-P600044.t65" end="Artur-N-G5044-P600044.t65.w0">interregnum </event>
 <event start="Artur-N-G5044-P600044.t65.w0" end="Artur-N-G5044-P600044.t66">repair </event>
-</tier><tier id="8" category="traceability" type="a" display-name="Artur-N-G5044 [traceability]"><ud-tier-information><ud-information attribute-name="exmaralda:hidden">true</ud-information></ud-tier-information><event start="Artur-N-G5044-P600044.t2.w0" end="Artur-N-G5044-P600044.t2.w1">Artur-N-G5044-P600044.tok1 </event>
+</tier><tier id="8" category="traceability" type="a" display-name="Artur-N-G5044 [traceability]"><event start="Artur-N-G5044-P600044.t2.w0" end="Artur-N-G5044-P600044.t2.w1">Artur-N-G5044-P600044.tok1 </event>
 <event start="Artur-N-G5044-P600044.t2.w1" end="Artur-N-G5044-P600044.t2.w2">Artur-N-G5044-P600044.tok2 </event>
 <event start="Artur-N-G5044-P600044.t2.w2" end="Artur-N-G5044-P600044.t2.w3">Artur-N-G5044-P600044.tok3 </event>
 <event start="Artur-N-G5044-P600044.t2.w3" end="Artur-N-G5044-P600044.t2.w4">Artur-N-G5044-P600044.tok4 </event>
@@ -1383,6 +1387,8 @@
 <event start="Artur-N-G5044-P600044.t22.w4" end="Artur-N-G5044-P600044.t22.w5">Artur-N-G5044-P600044.tok114 </event>
 <event start="Artur-N-G5044-P600044.t22.w5" end="Artur-N-G5044-P600044.t22.w6">Artur-N-G5044-P600044.tok115 </event>
 <event start="Artur-N-G5044-P600044.t22.w6" end="T2">Artur-N-G5044-P600044.tok116 </event>
+<event start="T2" end="T1">Artur-N-G5044-P600044.s5.element1</event>
+<event start="T1" end="Artur-N-G5044-P600044.t23">Artur-N-G5044-P600044.s5.element2</event>
 <event start="Artur-N-G5044-P600044.t24.w0" end="Artur-N-G5044-P600044.t24.w1">Artur-N-G5044-P600044.tok118 </event>
 <event start="Artur-N-G5044-P600044.t24.w1" end="Artur-N-G5044-P600044.t24.w2">Artur-N-G5044-P600044.tok120 </event>
 <event start="Artur-N-G5044-P600044.t24.w2" end="Artur-N-G5044-P600044.t24.w3">Artur-N-G5044-P600044.tok121 </event>
