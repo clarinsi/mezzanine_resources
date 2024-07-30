@@ -1,0 +1,81 @@
+# newdoc id = Gos026
+# sent_id = Gos026.s25
+# speaker_id = Am-nast-05525
+# sound_url = https://nl.ijs.si/project/gos20/Gos026/Gos026.s25.mp3
+# text = aktualno na Aktualu .
+# split = test
+1	aktualno	aktualen	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	pronunciation=aktualno|Gos2.1_token_id=Gos026.tok470
+2	na	na	ADP	Sl	Case=Loc	3	case	_	pronunciation=na|Gos2.1_token_id=Gos026.tok471
+3	Aktualu	Aktual	PROPN	Npmsl	Case=Loc|Gender=Masc|Number=Sing	1	nmod	_	pronunciation=Aktualu|Gos2.1_token_id=Gos026.tok472
+4	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos026.s26
+# speaker_id = Bf-novi-05533
+# sound_url = https://nl.ijs.si/project/gos20/Gos026/Gos026.s26.mp3
+# text = nič osem nič trinajst nič ena je naša brezplačna telefonska številka , kaj pravite ?
+# split = test
+1	nič	nič	DET	Pz-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Neg	0	root	_	pronunciation=nič|Gos2.1_token_id=Gos026.tok473
+2	osem	osem	NUM	Mlc-pn	Case=Nom|Number=Plur|NumForm=Word|NumType=Card	1	flat	_	pronunciation=osem|Gos2.1_token_id=Gos026.tok474
+3	nič	nič	DET	Pz-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Neg	1	flat	_	pronunciation=nič|Gos2.1_token_id=Gos026.tok475
+4	trinajst	trinajst	NUM	Mlc-pn	Case=Nom|Number=Plur|NumForm=Word|NumType=Card	1	flat	_	pronunciation=trinajst|Gos2.1_token_id=Gos026.tok476
+5	nič	nič	DET	Pz-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Neg	1	flat	_	pronunciation=nič|Gos2.1_token_id=Gos026.tok477
+6	ena	en	NUM	Mlpfsn	Case=Nom|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	1	flat	_	pronunciation=ena|Gos2.1_token_id=Gos026.tok478
+7	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	cop	_	pronunciation=je|Gos2.1_token_id=Gos026.tok479
+8	naša	naš	DET	Ps1fsnp	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	11	det	_	pronunciation=naša|Gos2.1_token_id=Gos026.tok480
+9	brezplačna	brezplačen	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	pronunciation=brezplačna|Gos2.1_token_id=Gos026.tok481
+10	telefonska	telefonski	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	pronunciation=telefonska|Gos2.1_token_id=Gos026.tok482
+11	številka	številka	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	pronunciation=številka|Gos2.1_token_id=Gos026.tok483
+12	,	,	PUNCT	Z	_	14	punct	_	_
+13	kaj	kaj	PRON	Pq-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	14	obj	_	pronunciation=kaj|Gos2.1_token_id=Gos026.tok484
+14	pravite	praviti	VERB	Vmbr2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	1	parataxis	_	pronunciation=pravite|Gos2.1_token_id=Gos026.tok485
+15	?	?	PUNCT	Z	_	14	punct	_	_
+
+
+# sent_id = Gos026.s27
+# speaker_id = Bf-novi-05533
+# sound_url = https://nl.ijs.si/project/gos20/Gos026/Gos026.s27.mp3
+# text = se vam zdi dodatni evro za rtv naročnino odveč ?
+# split = test
+1	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	3	expl	_	pronunciation=se|Gos2.1_token_id=Gos026.tok487
+2	vam	ti	PRON	Pp2-pd	Case=Dat|Number=Plur|Person=2|PronType=Prs	3	obj	_	pronunciation=vm|Gos2.1_token_id=Gos026.tok488
+3	zdi	zdeti	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=zdi|Gos2.1_token_id=Gos026.tok489
+4	dodatni	dodaten	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	pronunciation=dodatni|Gos2.1_token_id=Gos026.tok490
+5	evro	evro	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	pronunciation=evro|Gos2.1_token_id=Gos026.tok491
+6	za	za	ADP	Sa	Case=Acc	8	case	_	pronunciation=za|Gos2.1_token_id=Gos026.tok492
+7	rtv	RTV	PROPN	Npfsn	Case=Nom|Gender=Fem|Number=Sing	8	nmod	_	pronunciation=erteve|Gos2.1_token_id=Gos026.tok493
+8	naročnino	naročnina	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	5	nmod	_	pronunciation=naročnino|Gos2.1_token_id=Gos026.tok494
+9	odveč	odveč	ADV	Rgp	Degree=Pos	3	xcomp	_	pronunciation=odveč|Gos2.1_token_id=Gos026.tok495
+10	?	?	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos026.s28
+# speaker_id = Bf-novi-05533
+# sound_url = https://nl.ijs.si/project/gos20/Gos026/Gos026.s28.mp3
+# text = sprašujemo vas in vprašali smo tudi mimoidoče .
+# split = test
+1	sprašujemo	spraševati	VERB	Vmpr1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=sprašujemo|Gos2.1_token_id=Gos026.tok497
+2	vas	ti	PRON	Pp2-pa	Case=Acc|Number=Plur|Person=2|PronType=Prs	1	iobj	_	pronunciation=vas|Gos2.1_token_id=Gos026.tok498
+3	in	in	CCONJ	Cc	_	4	cc	_	pronunciation=in|Gos2.1_token_id=Gos026.tok499
+4	vprašali	vprašati	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	1	conj	_	pronunciation=vprašali|Gos2.1_token_id=Gos026.tok500
+5	smo	biti	AUX	Va-r1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	pronunciation=smo|Gos2.1_token_id=Gos026.tok501
+6	tudi	tudi	PART	Q	_	7	advmod	_	pronunciation=tudi|Gos2.1_token_id=Gos026.tok502
+7	mimoidoče	mimoidoč	ADJ	Agpmpa	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	4	iobj	_	pronunciation=mimoidoče|Gos2.1_token_id=Gos026.tok503
+8	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos026.s29
+# speaker_id = Hm-anke-05569
+# sound_url = https://nl.ijs.si/project/gos20/Gos026/Gos026.s29.mp3
+# text = ja , se mi zdi v redu .
+# split = test
+1	ja	ja	PART	Q	_	5	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos026.tok504
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	5	expl	_	pronunciation=se|Gos2.1_token_id=Gos026.tok505
+4	mi	jaz	PRON	Pp1-sd--y	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	5	obj	_	pronunciation=mi|Gos2.1_token_id=Gos026.tok506
+5	zdi	zdeti	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=zdi|Gos2.1_token_id=Gos026.tok507
+6	v	v	ADP	Sl	Case=Loc	7	case	_	pronunciation=v|Gos2.1_token_id=Gos026.tok508
+7	redu	red	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	5	obl	_	pronunciation=redu|Gos2.1_token_id=Gos026.tok509
+8	.	.	PUNCT	Z	_	5	punct	_	_
+
+

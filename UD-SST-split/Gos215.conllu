@@ -1,0 +1,48 @@
+# newdoc id = Gos215
+# sent_id = Gos215.s17
+# speaker_id = Bf-stra-02273
+# sound_url = https://nl.ijs.si/project/gos20/Gos215/Gos215.s17.mp3
+# text = pa .
+# split = train
+1	pa	pa	CCONJ	Cc	_	0	root	_	pronunciation=pa|Gos2.1_token_id=Gos215.tok109
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos215.s18
+# speaker_id = Am-prod-02272
+# sound_url = https://nl.ijs.si/project/gos20/Gos215/Gos215.s18.mp3
+# text = ja , ja .
+# split = train
+1	ja	ja	PART	Q	_	0	root	_	pronunciation=ja|Gos2.1_token_id=Gos215.tok110
+2	,	,	PUNCT	Z	_	3	punct	_	_
+3	ja	ja	PART	Q	_	1	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos215.tok112
+4	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos215.s19
+# speaker_id = Bf-stra-02273
+# sound_url = https://nl.ijs.si/project/gos20/Gos215/Gos215.s19.mp3
+# text = aha , eee , pa še eno vprašanje , zdaj sem jaz videla , da imate tudi spletno stran .
+# split = train
+1	aha	aha	INTJ	I	_	8	discourse	_	pronunciation=aha|Gos2.1_token_id=Gos215.tok113
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	eee	eee	INTJ	I	_	8	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos215.tok114
+4	,	,	PUNCT	Z	_	3	punct	_	_
+5	pa	pa	CCONJ	Cc	_	8	cc	_	pronunciation=pa|Gos2.1_token_id=Gos215.tok115
+6	še	še	PART	Q	_	7	advmod	_	pronunciation=še|Gos2.1_token_id=Gos215.tok116
+7	eno	en	NUM	Mlpnsn	Case=Nom|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card	8	nummod	_	pronunciation=eno|Gos2.1_token_id=Gos215.tok117
+8	vprašanje	vprašanje	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	0	root	_	pronunciation=vprašanje|Gos2.1_token_id=Gos215.tok118
+9	,	,	PUNCT	Z	_	13	punct	_	_
+10	zdaj	zdaj	ADV	Rgp	Degree=Pos	13	advmod	_	pronunciation=ze|Gos2.1_token_id=Gos215.tok119
+11	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	13	aux	_	pronunciation=sn|Gos2.1_token_id=Gos215.tok120
+12	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	pronunciation=jaz|Gos2.1_token_id=Gos215.tok121
+13	videla	videti	VERB	Vmbp-sf	Gender=Fem|Number=Sing|VerbForm=Part	8	parataxis	_	pronunciation=vidla|Gos2.1_token_id=Gos215.tok122
+14	,	,	PUNCT	Z	_	16	punct	_	_
+15	da	da	SCONJ	Cs	_	16	mark	_	pronunciation=da|Gos2.1_token_id=Gos215.tok123
+16	imate	imeti	VERB	Vmpr2p-n	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	13	ccomp	_	pronunciation=mate|Gos2.1_token_id=Gos215.tok124
+17	tudi	tudi	PART	Q	_	19	advmod	_	pronunciation=tudi|Gos2.1_token_id=Gos215.tok125
+18	spletno	spleten	ADJ	Agpfsa	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	pronunciation=spletno|Gos2.1_token_id=Gos215.tok126
+19	stran	stran	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	16	obj	_	pronunciation=stran|Gos2.1_token_id=Gos215.tok127
+20	.	.	PUNCT	Z	_	8	punct	_	_
+
+

@@ -1,0 +1,166 @@
+# newdoc id = Gos149
+# sent_id = Gos149.s23
+# speaker_id = Mf-inte-01007
+# sound_url = https://nl.ijs.si/project/gos20/Gos149/Gos149.s23.mp3
+# text = jah , izjemni nastopi , že dve sezoni je v samem vrhu .
+# split = train
+1	jah	jah	INTJ	I	_	4	discourse	_	pronunciation=jah|Gos2.1_token_id=Gos149.tok456
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	izjemni	izjemen	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	pronunciation=izjemni|Gos2.1_token_id=Gos149.tok457
+4	nastopi	nastop	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	0	root	_	pronunciation=nastopi|Gos2.1_token_id=Gos149.tok458
+5	,	,	PUNCT	Z	_	9	punct	_	_
+6	že	že	PART	Q	_	7	advmod	_	pronunciation=že|Gos2.1_token_id=Gos149.tok459
+7	dve	dva	NUM	Mlcfda	Case=Acc|Gender=Fem|Number=Dual|NumForm=Word|NumType=Card	8	nummod	_	pronunciation=dve|Gos2.1_token_id=Gos149.tok460
+8	sezoni	sezona	NOUN	Ncfda	Case=Acc|Gender=Fem|Number=Dual	9	obl	_	pronunciation=sezoni|Gos2.1_token_id=Gos149.tok461
+9	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	parataxis	_	pronunciation=je|Gos2.1_token_id=Gos149.tok462
+10	v	v	ADP	Sl	Case=Loc	12	case	_	pronunciation=v|Gos2.1_token_id=Gos149.tok463
+11	samem	sam	ADJ	Agpmsl	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	pronunciation=samem|Gos2.1_token_id=Gos149.tok464
+12	vrhu	vrh	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	9	obl	_	pronunciation=vrhu|Gos2.1_token_id=Gos149.tok465
+13	.	.	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos149.s24
+# speaker_id = Mf-inte-01007
+# sound_url = https://nl.ijs.si/project/gos20/Gos149/Gos149.s24.mp3
+# text = eee , jaz mislim , da ni , eee , da je zelo dobra smučarka in vsestranska .
+# split = train
+1	eee	eee	INTJ	I	_	4	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos149.tok466
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	pronunciation=jz|Gos2.1_token_id=Gos149.tok467
+4	mislim	misliti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=mislim|Gos2.1_token_id=Gos149.tok468
+5	,	,	PUNCT	Z	_	7	punct	_	_
+6	da	da	SCONJ	Cs	_	7	mark	_	pronunciation=da|Gos2.1_token_id=Gos149.tok469
+7	ni	biti	VERB	Va-r3s-y	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	15	reparandum	_	pronunciation=ni|Gos2.1_token_id=Gos149.tok470
+8	,	,	PUNCT	Z	_	9	punct	_	_
+9	eee	eee	INTJ	I	_	15	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos149.tok471
+10	,	,	PUNCT	Z	_	15	punct	_	_
+11	da	da	SCONJ	Cs	_	15	mark	_	pronunciation=da|Gos2.1_token_id=Gos149.tok472
+12	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	15	cop	_	pronunciation=je|Gos2.1_token_id=Gos149.tok473
+13	zelo	zelo	ADV	Rgp	Degree=Pos	14	advmod	_	pronunciation=zlo|Gos2.1_token_id=Gos149.tok474
+14	dobra	dober	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	pronunciation=dobra|Gos2.1_token_id=Gos149.tok475
+15	smučarka	smučarka	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	4	ccomp	_	pronunciation=smučarka|Gos2.1_token_id=Gos149.tok476
+16	in	in	CCONJ	Cc	_	17	cc	_	pronunciation=in|Gos2.1_token_id=Gos149.tok477
+17	vsestranska	vsestranski	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	15	conj	_	pronunciation=vsestranska|Gos2.1_token_id=Gos149.tok478
+18	.	.	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos149.s25
+# speaker_id = Mf-inte-01007
+# sound_url = https://nl.ijs.si/project/gos20/Gos149/Gos149.s25.mp3
+# text = jasno , dodan ima še slalom .
+# split = train
+1	jasno	jasno	ADV	Rgp	Degree=Pos	4	discourse	_	pronunciation=jasno|Gos2.1_token_id=Gos149.tok479
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	dodan	dodan	ADJ	Appmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part	4	xcomp	_	pronunciation=dodan|Gos2.1_token_id=Gos149.tok480
+4	ima	imeti	VERB	Vmpr3s-n	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=ma|Gos2.1_token_id=Gos149.tok481
+5	še	še	PART	Q	_	6	advmod	_	pronunciation=še|Gos2.1_token_id=Gos149.tok482
+6	slalom	slalom	NOUN	Ncmsan	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	obj	_	pronunciation=slalom|Gos2.1_token_id=Gos149.tok483
+7	.	.	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos149.s26
+# speaker_id = Mf-inte-01007
+# sound_url = https://nl.ijs.si/project/gos20/Gos149/Gos149.s26.mp3
+# text = eem , dobro tekmuje tudi v slalomu , kar ji pač s tem omogoča , da osvaja točke še v dveh drugih disciplinah , eee , na najvišjem nivoju .
+# split = train
+1	eem	eem	INTJ	I	_	4	discourse	_	pronunciation=eem|Gos2.1_token_id=Gos149.tok484
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	dobro	dobro	ADV	Rgp	Degree=Pos	4	advmod	_	pronunciation=dobro|Gos2.1_token_id=Gos149.tok485
+4	tekmuje	tekmovati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=tekmuje|Gos2.1_token_id=Gos149.tok486
+5	tudi	tudi	PART	Q	_	7	advmod	_	pronunciation=tud|Gos2.1_token_id=Gos149.tok487
+6	v	v	ADP	Sl	Case=Loc	7	case	_	pronunciation=v|Gos2.1_token_id=Gos149.tok488
+7	slalomu	slalom	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	4	obl	_	pronunciation=slalomu|Gos2.1_token_id=Gos149.tok489
+8	,	,	PUNCT	Z	_	14	punct	_	_
+9	kar	kar	PRON	Pr-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	14	nsubj	_	pronunciation=kar|Gos2.1_token_id=Gos149.tok490
+10	ji	on	PRON	Pp3fsd--y	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Variant=Short	14	iobj	_	pronunciation=ji|Gos2.1_token_id=Gos149.tok491
+11	pač	pač	PART	Q	_	14	advmod	_	pronunciation=pač|Gos2.1_token_id=Gos149.tok492
+12	s	z	ADP	Si	Case=Ins	13	case	_	pronunciation=s|Gos2.1_token_id=Gos149.tok493
+13	tem	ta	DET	Pd-nsi	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	14	obl	_	pronunciation=tem|Gos2.1_token_id=Gos149.tok494
+14	omogoča	omogočati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	pronunciation=omogoča|Gos2.1_token_id=Gos149.tok495
+15	,	,	PUNCT	Z	_	17	punct	_	_
+16	da	da	SCONJ	Cs	_	17	mark	_	pronunciation=da|Gos2.1_token_id=Gos149.tok496
+17	osvaja	osvajati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	ccomp	_	pronunciation=osvaja|Gos2.1_token_id=Gos149.tok497
+18	točke	točka	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	17	obj	_	pronunciation=točke|Gos2.1_token_id=Gos149.tok498
+19	še	še	PART	Q	_	23	advmod	_	pronunciation=še|Gos2.1_token_id=Gos149.tok499
+20	v	v	ADP	Sl	Case=Loc	23	case	_	pronunciation=v|Gos2.1_token_id=Gos149.tok500
+21	dveh	dva	NUM	Mlcfdl	Case=Loc|Gender=Fem|Number=Dual|NumForm=Word|NumType=Card	23	nummod	_	pronunciation=dveh|Gos2.1_token_id=Gos149.tok501
+22	drugih	drug	ADJ	Mlpfdl	Case=Loc|Gender=Fem|Number=Dual	23	amod	_	pronunciation=drugih|Gos2.1_token_id=Gos149.tok502
+23	disciplinah	disciplina	NOUN	Ncfdl	Case=Loc|Gender=Fem|Number=Dual	17	obl	_	pronunciation=disiplinah|Gos2.1_token_id=Gos149.tok503
+24	,	,	PUNCT	Z	_	25	punct	_	_
+25	eee	eee	INTJ	I	_	17	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos149.tok504
+26	,	,	PUNCT	Z	_	25	punct	_	_
+27	na	na	ADP	Sl	Case=Loc	29	case	_	pronunciation=na|Gos2.1_token_id=Gos149.tok505
+28	najvišjem	visok	ADJ	Agsmsl	Case=Loc|Degree=Sup|Gender=Masc|Number=Sing	29	amod	_	pronunciation=najvišjem|Gos2.1_token_id=Gos149.tok506
+29	nivoju	nivo	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	23	nmod	_	pronunciation=nivoju|Gos2.1_token_id=Gos149.tok507
+30	.	.	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos149.s27
+# speaker_id = Mf-inte-01007
+# sound_url = https://nl.ijs.si/project/gos20/Gos149/Gos149.s27.mp3
+# text = to so pač , eee , kombinacija in slalom in , eee , če računamo , da , eem , dodaš še eno disciplino , lahko osvojiš toliko točk , kot jih je ona , je pa zares , eee , vsestranska , v formi od štarta do cilja , od začetka sezone do konca sezone in imam same pohvale zanjo .
+# split = train
+1	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	pronunciation=to|Gos2.1_token_id=Gos149.tok508
+2	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	_	pronunciation=so|Gos2.1_token_id=Gos149.tok509
+3	pač	pač	PART	Q	_	7	advmod	_	pronunciation=pač|Gos2.1_token_id=Gos149.tok510
+4	,	,	PUNCT	Z	_	5	punct	_	_
+5	eee	eee	INTJ	I	_	7	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos149.tok511
+6	,	,	PUNCT	Z	_	5	punct	_	_
+7	kombinacija	kombinacija	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	pronunciation=kombinacija|Gos2.1_token_id=Gos149.tok512
+8	in	in	CCONJ	Cc	_	9	cc	_	pronunciation=in|Gos2.1_token_id=Gos149.tok513
+9	slalom	slalom	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	7	conj	_	pronunciation=slalom|Gos2.1_token_id=Gos149.tok514
+10	in	in	CCONJ	Cc	_	27	cc	_	pronunciation=in|Gos2.1_token_id=Gos149.tok515
+11	,	,	PUNCT	Z	_	12	punct	_	_
+12	eee	eee	INTJ	I	_	15	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos149.tok516
+13	,	,	PUNCT	Z	_	12	punct	_	_
+14	če	če	SCONJ	Cs	_	15	mark	_	pronunciation=če|Gos2.1_token_id=Gos149.tok517
+15	računamo	računati	VERB	Vmpr1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	27	advcl	_	pronunciation=računamo|Gos2.1_token_id=Gos149.tok518
+16	,	,	PUNCT	Z	_	21	punct	_	_
+17	da	da	SCONJ	Cs	_	21	mark	_	pronunciation=da|Gos2.1_token_id=Gos149.tok519
+18	,	,	PUNCT	Z	_	19	punct	_	_
+19	eem	eem	INTJ	I	_	21	discourse:filler	_	pronunciation=eem|Gos2.1_token_id=Gos149.tok520
+20	,	,	PUNCT	Z	_	19	punct	_	_
+21	dodaš	dodati	VERB	Vmer2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	15	ccomp	_	pronunciation=dodaš|Gos2.1_token_id=Gos149.tok521
+22	še	še	PART	Q	_	23	advmod	_	pronunciation=še|Gos2.1_token_id=Gos149.tok522
+23	eno	en	NUM	Mlpfsa	Case=Acc|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	24	nummod	_	pronunciation=eno|Gos2.1_token_id=Gos149.tok523
+24	disciplino	disciplina	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	21	obj	_	pronunciation=disciplino|Gos2.1_token_id=Gos149.tok524
+25	,	,	PUNCT	Z	_	21	punct	_	_
+26	lahko	lahko	ADV	Rgp	Degree=Pos	27	advmod	_	pronunciation=lahko|Gos2.1_token_id=Gos149.tok525
+27	osvojiš	osvojiti	VERB	Vmer2s	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	conj	_	pronunciation=osvojiš|Gos2.1_token_id=Gos149.tok526
+28	toliko	toliko	DET	Rgp	PronType=Dem	29	det	_	pronunciation=tolko|Gos2.1_token_id=Gos149.tok527
+29	točk	točka	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	27	obl	_	pronunciation=točk|Gos2.1_token_id=Gos149.tok528
+30	,	,	PUNCT	Z	_	33	punct	_	_
+31	kot	kot	SCONJ	Cs	_	33	mark	_	pronunciation=kot|Gos2.1_token_id=Gos149.tok529
+32	jih	on	PRON	Pp3fpa--y	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Variant=Short	33	obj	_	pronunciation=jih|Gos2.1_token_id=Gos149.tok530
+33	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	29	advcl	_	pronunciation=je|Gos2.1_token_id=Gos149.tok531
+34	ona	on	PRON	Pp3fsn	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	33	nsubj	_	pronunciation=ona|Gos2.1_token_id=Gos149.tok532
+35	,	,	PUNCT	Z	_	33	punct	_	_
+36	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	42	cop	_	pronunciation=je|Gos2.1_token_id=Gos149.tok533
+37	pa	pa	CCONJ	Cc	_	42	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos149.tok534
+38	zares	zares	ADV	Rgp	Degree=Pos	42	advmod	_	pronunciation=zares|Gos2.1_token_id=Gos149.tok535
+39	,	,	PUNCT	Z	_	40	punct	_	_
+40	eee	eee	INTJ	I	_	42	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos149.tok536
+41	,	,	PUNCT	Z	_	40	punct	_	_
+42	vsestranska	vsestranski	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	parataxis	_	pronunciation=vsestranska|Gos2.1_token_id=Gos149.tok537
+43	,	,	PUNCT	Z	_	45	punct	_	_
+44	v	v	ADP	Sl	Case=Loc	45	case	_	pronunciation=v|Gos2.1_token_id=Gos149.tok538
+45	formi	forma	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	42	conj	_	pronunciation=formi|Gos2.1_token_id=Gos149.tok539
+46	od	od	ADP	Sg	Case=Gen	47	case	_	pronunciation=od|Gos2.1_token_id=Gos149.tok540
+47	štarta	štart	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	45	nmod	_	pronunciation=štarta|Gos2.1_token_id=Gos149.tok541
+48	do	do	ADP	Sg	Case=Gen	49	case	_	pronunciation=do|Gos2.1_token_id=Gos149.tok542
+49	cilja	cilj	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	45	nmod	_	pronunciation=cilja|Gos2.1_token_id=Gos149.tok543
+50	,	,	PUNCT	Z	_	52	punct	_	_
+51	od	od	ADP	Sg	Case=Gen	52	case	_	pronunciation=od|Gos2.1_token_id=Gos149.tok544
+52	začetka	začetek	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	45	nmod	_	pronunciation=začetka|Gos2.1_token_id=Gos149.tok545
+53	sezone	sezona	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	52	nmod	_	pronunciation=sezone|Gos2.1_token_id=Gos149.tok546
+54	do	do	ADP	Sg	Case=Gen	55	case	_	pronunciation=do|Gos2.1_token_id=Gos149.tok547
+55	konca	konec	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	45	nmod	_	pronunciation=konca|Gos2.1_token_id=Gos149.tok548
+56	sezone	sezona	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	55	nmod	_	pronunciation=sezone|Gos2.1_token_id=Gos149.tok549
+57	in	in	CCONJ	Cc	_	58	cc	_	pronunciation=in|Gos2.1_token_id=Gos149.tok550
+58	imam	imeti	VERB	Vmpr1s-n	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	42	conj	_	pronunciation=mam|Gos2.1_token_id=Gos149.tok551
+59	same	sam	ADJ	Agpfpa	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	60	amod	_	pronunciation=same|Gos2.1_token_id=Gos149.tok552
+60	pohvale	pohvala	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	58	obj	_	pronunciation=pohvale|Gos2.1_token_id=Gos149.tok553
+61	zanjo	zame	PRON	Pp3fsa--b	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Variant=Bound	58	obl	_	pronunciation=zanjo|Gos2.1_token_id=Gos149.tok554
+62	.	.	PUNCT	Z	_	7	punct	_	_
+
+

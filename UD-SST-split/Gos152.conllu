@@ -1,0 +1,165 @@
+# newdoc id = Gos152
+# sent_id = Gos152.s132
+# speaker_id = Tf-mode-01013
+# sound_url = https://nl.ijs.si/project/gos20/Gos152/Gos152.s132.mp3
+# text = ja , eee , ker svet ni več tako zelo prijazen , vsaj kar se tega tiče .
+# split = train
+1	ja	ja	PART	Q	_	11	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos152.tok953
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	eee	eee	INTJ	I	_	11	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos152.tok954
+4	,	,	PUNCT	Z	_	3	punct	_	_
+5	ker	ker	SCONJ	Cs	_	11	mark	_	pronunciation=ker|Gos2.1_token_id=Gos152.tok955
+6	svet	svet	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	pronunciation=svet|Gos2.1_token_id=Gos152.tok956
+7	ni	biti	AUX	Va-r3s-y	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	11	cop	_	pronunciation=ni|Gos2.1_token_id=Gos152.tok957
+8	več	več	PART	Q	_	11	advmod	_	pronunciation=več|Gos2.1_token_id=Gos152.tok958
+9	tako	tako	ADV	Rgp	Degree=Pos	10	advmod	_	pronunciation=tako|Gos2.1_token_id=Gos152.tok959
+10	zelo	zelo	ADV	Rgp	Degree=Pos	11	advmod	_	pronunciation=zelo|Gos2.1_token_id=Gos152.tok960
+11	prijazen	prijazen	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	pronunciation=prijazen|Gos2.1_token_id=Gos152.tok961
+12	,	,	PUNCT	Z	_	17	punct	_	_
+13	vsaj	vsaj	PART	Q	_	14	advmod	_	pronunciation=vsaj|Gos2.1_token_id=Gos152.tok962
+14	kar	kar	PRON	Pr-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	17	nsubj	_	pronunciation=kar|Gos2.1_token_id=Gos152.tok963
+15	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	17	expl	_	pronunciation=se|Gos2.1_token_id=Gos152.tok964
+16	tega	ta	DET	Pd-nsg	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	17	obj	_	pronunciation=tega|Gos2.1_token_id=Gos152.tok965
+17	tiče	tikati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	parataxis	_	pronunciation=tiče|Gos2.1_token_id=Gos152.tok966
+18	.	.	PUNCT	Z	_	11	punct	_	_
+
+
+# sent_id = Gos152.s133
+# speaker_id = Tf-mode-01013
+# sound_url = https://nl.ijs.si/project/gos20/Gos152/Gos152.s133.mp3
+# text = no , sicer pa to študentke in študentje gotovo veste same .
+# split = train
+1	no	no	PART	Q	_	10	discourse	_	pronunciation=no|Gos2.1_token_id=Gos152.tok967
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	sicer	sicer	CCONJ	Cc	_	10	cc	_	pronunciation=sicer|Gos2.1_token_id=Gos152.tok968
+4	pa	pa	CCONJ	Cc	_	10	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos152.tok969
+5	to	ta	DET	Pd-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	10	obj	_	pronunciation=to|Gos2.1_token_id=Gos152.tok970
+6	študentke	študentka	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	10	nsubj	_	pronunciation=študentke|Gos2.1_token_id=Gos152.tok971
+7	in	in	CCONJ	Cc	_	8	cc	_	pronunciation=in|Gos2.1_token_id=Gos152.tok972
+8	študentje	študent	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	6	conj	_	pronunciation=študentje|Gos2.1_token_id=Gos152.tok973
+9	gotovo	gotovo	ADV	Rgp	Degree=Pos	10	advmod	_	pronunciation=gotovo|Gos2.1_token_id=Gos152.tok974
+10	veste	vedeti	VERB	Vmpr2p	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=veste|Gos2.1_token_id=Gos152.tok975
+11	same	sam	ADJ	Agpfpn	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	10	obl	_	pronunciation=same|Gos2.1_token_id=Gos152.tok976
+12	.	.	PUNCT	Z	_	10	punct	_	_
+
+
+# sent_id = Gos152.s134
+# speaker_id = Tf-mode-01013
+# sound_url = https://nl.ijs.si/project/gos20/Gos152/Gos152.s134.mp3
+# text = eee , sami , same .
+# split = train
+1	eee	eee	INTJ	I	_	3	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos152.tok977
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	sami	sam	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	pronunciation=sami|Gos2.1_token_id=Gos152.tok978
+4	,	,	PUNCT	Z	_	5	punct	_	_
+5	same	sam	ADJ	Agpfpn	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	3	conj	_	pronunciation=same|Gos2.1_token_id=Gos152.tok979
+6	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos152.s135
+# speaker_id = Tf-mode-01013
+# sound_url = https://nl.ijs.si/project/gos20/Gos152/Gos152.s135.mp3
+# text = eee , sicer pa , ja , Seksoslovje mogoče je zanimivo , no .
+# split = train
+1	eee	eee	INTJ	I	_	11	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos152.tok980
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	sicer	sicer	CCONJ	Cc	_	11	cc	_	pronunciation=sicer|Gos2.1_token_id=Gos152.tok981
+4	pa	pa	CCONJ	Cc	_	11	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos152.tok982
+5	,	,	PUNCT	Z	_	6	punct	_	_
+6	ja	ja	PART	Q	_	11	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos152.tok983
+7	,	,	PUNCT	Z	_	6	punct	_	_
+8	Seksoslovje	seksoslovje	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	pronunciation=Seksoslovje|Gos2.1_token_id=Gos152.tok984
+9	mogoče	mogoče	ADV	Rgp	Degree=Pos	11	advmod	_	pronunciation=mogoče|Gos2.1_token_id=Gos152.tok985
+10	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	cop	_	pronunciation=je|Gos2.1_token_id=Gos152.tok986
+11	zanimivo	zanimiv	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	pronunciation=zanimivo|Gos2.1_token_id=Gos152.tok987
+12	,	,	PUNCT	Z	_	13	punct	_	_
+13	no	no	PART	Q	_	11	discourse	_	pronunciation=no|Gos2.1_token_id=Gos152.tok988
+14	.	.	PUNCT	Z	_	11	punct	_	_
+
+
+# sent_id = Gos152.s136
+# speaker_id = Tf-mode-01013
+# sound_url = https://nl.ijs.si/project/gos20/Gos152/Gos152.s136.mp3
+# text = eee , zanimivo .
+# split = train
+1	eee	eee	INTJ	I	_	3	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos152.tok989
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	zanimivo	zanimivo	ADV	Rgp	Degree=Pos	0	root	_	pronunciation=zanimivo|Gos2.1_token_id=Gos152.tok990
+4	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos152.s137
+# speaker_id = Zf-mode-01014
+# sound_url = https://nl.ijs.si/project/gos20/Gos152/Gos152.s137.mp3
+# text = stoprocentno , sploh pa , eee , tale [name:personal] bo zna popestriti , kar se da .
+# split = train
+1	stoprocentno	stoprocentno	ADV	Rgp	Degree=Pos	11	discourse	_	pronunciation=stoprocentno|Gos2.1_token_id=Gos152.tok991
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	sploh	sploh	PART	Q	_	4	advmod	_	pronunciation=sploh|Gos2.1_token_id=Gos152.tok992
+4	pa	pa	CCONJ	Cc	_	11	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos152.tok993
+5	,	,	PUNCT	Z	_	6	punct	_	_
+6	eee	eee	INTJ	I	_	11	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos152.tok994
+7	,	,	PUNCT	Z	_	6	punct	_	_
+8	tale	tale	DET	Pd-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	pronunciation=tale|Gos2.1_token_id=Gos152.tok995
+9	[name:personal]	[name:personal]	PROPN	X	_	11	nsubj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos152.s137.element1
+10	bo	biti	AUX	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	11	reparandum	_	pronunciation=bo|Gos2.1_token_id=Gos152.tok996
+11	zna	znati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=zna|Gos2.1_token_id=Gos152.tok997
+12	popestriti	popestriti	VERB	Vmen	Aspect=Perf|VerbForm=Inf	11	xcomp	_	pronunciation=popestrit|Gos2.1_token_id=Gos152.tok998
+13	,	,	PUNCT	Z	_	14	punct	_	_
+14	kar	kar	ADV	Rgp	Degree=Pos	12	advmod	_	pronunciation=kar|Gos2.1_token_id=Gos152.tok999
+15	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	14	fixed	_	pronunciation=se|Gos2.1_token_id=Gos152.tok1000
+16	da	dati	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	fixed	_	pronunciation=da|Gos2.1_token_id=Gos152.tok1001
+17	.	.	PUNCT	Z	_	11	punct	_	_
+
+
+# sent_id = Gos152.s138
+# speaker_id = Tf-mode-01013
+# sound_url = https://nl.ijs.si/project/gos20/Gos152/Gos152.s138.mp3
+# text = ja , mogoče .
+# split = train
+1	ja	ja	PART	Q	_	3	discourse	_	pronunciation=mja|Gos2.1_token_id=Gos152.tok1002
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	mogoče	mogoče	ADV	Rgp	Degree=Pos	0	root	_	pronunciation=mogoče|Gos2.1_token_id=Gos152.tok1003
+4	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos152.s139
+# speaker_id = Tf-mode-01013
+# sound_url = https://nl.ijs.si/project/gos20/Gos152/Gos152.s139.mp3
+# text = mogoče , ja , ja , ja .
+# split = train
+1	mogoče	mogoče	ADV	Rgp	Degree=Pos	0	root	_	pronunciation=mogoče|Gos2.1_token_id=Gos152.tok1004
+2	,	,	PUNCT	Z	_	3	punct	_	_
+3	ja	ja	PART	Q	_	1	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos152.tok1006
+4	,	,	PUNCT	Z	_	5	punct	_	_
+5	ja	ja	PART	Q	_	1	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos152.tok1007
+6	,	,	PUNCT	Z	_	7	punct	_	_
+7	ja	ja	PART	Q	_	1	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos152.tok1009
+8	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos152.s140
+# speaker_id = Zf-mode-01014
+# sound_url = https://nl.ijs.si/project/gos20/Gos152/Gos152.s140.mp3
+# text = verjetno ima kakšne take sočne za s sabo .
+# split = train
+1	verjetno	verjetno	ADV	Rgp	Degree=Pos	2	advmod	_	pronunciation=verjetno|Gos2.1_token_id=Gos152.tok1010
+2	ima	imeti	VERB	Vmpr3s-n	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=ma|Gos2.1_token_id=Gos152.tok1011
+3	kakšne	kakšen	DET	Pq-fpa	Case=Acc|Gender=Fem|Number=Plur|PronType=Int	5	det	_	pronunciation=kakšne|Gos2.1_token_id=Gos152.tok1012
+4	take	tak	DET	Pd-fpa	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	5	det	_	pronunciation=take|Gos2.1_token_id=Gos152.tok1013
+5	sočne	sočen	ADJ	Agpfpa	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	2	obj	_	pronunciation=sočne|Gos2.1_token_id=Gos152.tok1014
+6	za	za	ADP	Sa	Case=Acc	8	case	_	pronunciation=za|Gos2.1_token_id=Gos152.tok1015
+7	s	z	ADP	Si	Case=Ins	8	case	_	pronunciation=s|Gos2.1_token_id=Gos152.tok1016
+8	sabo	se	PRON	Px---i	Case=Ins|PronType=Prs|Reflex=Yes	2	obl	_	pronunciation=sabo|Gos2.1_token_id=Gos152.tok1017
+9	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos152.s141
+# speaker_id = Tf-mode-01013
+# sound_url = https://nl.ijs.si/project/gos20/Gos152/Gos152.s141.mp3
+# text = aja .
+# split = train
+1	aja	aja	INTJ	I	_	0	root	_	pronunciation=aja|Gos2.1_token_id=Gos152.tok1018
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+

@@ -1,0 +1,70 @@
+# newdoc id = Gos034
+# sent_id = Gos034.s10
+# speaker_id = Af-mode-05513
+# sound_url = https://nl.ijs.si/project/gos20/Gos034/Gos034.s10.mp3
+# text = mhm .
+# split = train
+1	mhm	mhm	INTJ	I	_	0	root	_	pronunciation=mhm|Gos2.1_token_id=Gos034.tok122
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos034.s11
+# speaker_id = Bm-gost-05514
+# sound_url = https://nl.ijs.si/project/gos20/Gos034/Gos034.s11.mp3
+# text = ampak ste bili zelo prijazni , tako da sva merila na celoto .
+# split = train
+1	ampak	ampak	CCONJ	Cc	_	5	cc	_	pronunciation=ampak|Gos2.1_token_id=Gos034.tok123
+2	ste	biti	AUX	Va-r2p-n	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	pronunciation=ste|Gos2.1_token_id=Gos034.tok124
+3	bili	biti	AUX	Va-p-pm	Gender=Masc|Number=Plur|VerbForm=Part	5	cop	_	pronunciation=bli|Gos2.1_token_id=Gos034.tok125
+4	zelo	zelo	ADV	Rgp	Degree=Pos	5	advmod	_	pronunciation=zlo|Gos2.1_token_id=Gos034.tok126
+5	prijazni	prijazen	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	pronunciation=prijazni|Gos2.1_token_id=Gos034.tok127
+6	,	,	PUNCT	Z	_	10	punct	_	_
+7	tako	tako	CCONJ	Cc	_	10	cc	_	pronunciation=tko|Gos2.1_token_id=Gos034.tok128
+8	da	da	SCONJ	Cs	_	7	fixed	_	pronunciation=da|Gos2.1_token_id=Gos034.tok129
+9	sva	biti	AUX	Va-r1d-n	Mood=Ind|Number=Dual|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	aux	_	pronunciation=sva|Gos2.1_token_id=Gos034.tok130
+10	merila	meriti	VERB	Vmpp-dm	Aspect=Imp|Gender=Masc|Number=Dual|VerbForm=Part	5	conj	_	pronunciation=merla|Gos2.1_token_id=Gos034.tok131
+11	na	na	ADP	Sa	Case=Acc	12	case	_	pronunciation=na|Gos2.1_token_id=Gos034.tok132
+12	celoto	celota	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	10	obl	_	pronunciation=celoto|Gos2.1_token_id=Gos034.tok133
+13	.	.	PUNCT	Z	_	5	punct	_	_
+
+
+# sent_id = Gos034.s12
+# speaker_id = Bm-gost-05514
+# sound_url = https://nl.ijs.si/project/gos20/Gos034/Gos034.s12.mp3
+# text = smo pred uradno predstavitvijo , pač , eee , leta dva tisoč , mmm , devet v Anton Podbevšek teatru in ta uradna predstavitev je čez pravzaprav dva dni , v sredo .
+# split = train
+1	smo	biti	VERB	Va-r1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=smo|Gos2.1_token_id=Gos034.tok134
+2	pred	pred	ADP	Si	Case=Ins	4	case	_	pronunciation=pred|Gos2.1_token_id=Gos034.tok135
+3	uradno	uraden	ADJ	Agpfsi	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	pronunciation=uradno|Gos2.1_token_id=Gos034.tok136
+4	predstavitvijo	predstavitev	NOUN	Ncfsi	Case=Ins|Gender=Fem|Number=Sing	1	obl	_	pronunciation=predstavitvijo|Gos2.1_token_id=Gos034.tok137
+5	,	,	PUNCT	Z	_	6	punct	_	_
+6	pač	pač	PART	Q	_	1	discourse	_	pronunciation=pač|Gos2.1_token_id=Gos034.tok138
+7	,	,	PUNCT	Z	_	6	punct	_	_
+8	eee	eee	INTJ	I	_	1	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos034.tok139
+9	,	,	PUNCT	Z	_	8	punct	_	_
+10	leta	leto	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	1	obl	_	pronunciation=leta|Gos2.1_token_id=Gos034.tok140
+11	dva	dva	NUM	Mlcmdn	Case=Nom|Gender=Masc|Number=Dual|NumForm=Word|NumType=Card	10	nummod	_	pronunciation=dva|Gos2.1_token_id=Gos034.tok141
+12	tisoč	tisoč	NUM	Mlc-pn	Case=Nom|Number=Plur|NumForm=Word|NumType=Card	11	flat	_	pronunciation=tisoč|Gos2.1_token_id=Gos034.tok142
+13	,	,	PUNCT	Z	_	14	punct	_	_
+14	mmm	mmm	INTJ	I	_	1	discourse:filler	_	pronunciation=mmm|Gos2.1_token_id=Gos034.tok143
+15	,	,	PUNCT	Z	_	14	punct	_	_
+16	devet	devet	NUM	Mlc-pn	Case=Nom|Number=Plur|NumForm=Word|NumType=Card	11	flat	_	pronunciation=devet|Gos2.1_token_id=Gos034.tok144
+17	v	v	ADP	Sa	Case=Acc	20	case	_	pronunciation=v|Gos2.1_token_id=Gos034.tok145
+18	Anton	Anton	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	20	nmod	_	pronunciation=Anton|Gos2.1_token_id=Gos034.tok146
+19	Podbevšek	Podbevšek	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	18	flat:name	_	pronunciation=Podbevšek|Gos2.1_token_id=Gos034.tok147
+20	teatru	teater	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	1	obl	_	pronunciation=teatru|Gos2.1_token_id=Gos034.tok148
+21	in	in	CCONJ	Cc	_	25	cc	_	pronunciation=in|Gos2.1_token_id=Gos034.tok149
+22	ta	ta	DET	Pd-fsn	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	24	det	_	pronunciation=ta|Gos2.1_token_id=Gos034.tok150
+23	uradna	uraden	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	24	amod	_	pronunciation=uradna|Gos2.1_token_id=Gos034.tok151
+24	predstavitev	predstavitev	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	25	nsubj	_	pronunciation=predstavitev|Gos2.1_token_id=Gos034.tok152
+25	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	conj	_	pronunciation=je|Gos2.1_token_id=Gos034.tok153
+26	čez	čez	ADP	Sa	Case=Acc	29	case	_	pronunciation=čez|Gos2.1_token_id=Gos034.tok154
+27	pravzaprav	pravzaprav	PART	Q	_	25	advmod	_	pronunciation=pravzaprav|Gos2.1_token_id=Gos034.tok155
+28	dva	dva	NUM	Mlcmda	Case=Acc|Gender=Masc|Number=Dual|NumForm=Word|NumType=Card	29	nummod	_	pronunciation=dva|Gos2.1_token_id=Gos034.tok156
+29	dni	dan	NOUN	Ncmda	Case=Acc|Gender=Masc|Number=Dual	25	obl	_	pronunciation=dni|Gos2.1_token_id=Gos034.tok157
+30	,	,	PUNCT	Z	_	32	punct	_	_
+31	v	v	ADP	Sa	Case=Acc	32	case	_	pronunciation=v|Gos2.1_token_id=Gos034.tok158
+32	sredo	sreda	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	29	appos	_	pronunciation=sredo|Gos2.1_token_id=Gos034.tok159
+33	.	.	PUNCT	Z	_	1	punct	_	_
+
+

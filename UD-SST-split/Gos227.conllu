@@ -1,0 +1,160 @@
+# newdoc id = Gos227
+# sent_id = Gos227.s65
+# speaker_id = Af-soro-05615
+# sound_url = https://nl.ijs.si/project/gos20/Gos227/Gos227.s65.mp3
+# text = panika .
+# split = test
+1	panika	panika	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	pronunciation=panika|Gos2.1_token_id=Gos227.tok372
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos227.s66
+# speaker_id = Bf-soro-05616
+# sound_url = https://nl.ijs.si/project/gos20/Gos227/Gos227.s66.mp3
+# text = eno hišo in eno vilo in ne vem
+# split = test
+1	eno	en	NUM	Mlpfsa	Case=Acc|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	2	nummod	_	pronunciation=ano|Gos2.1_token_id=Gos227.tok373
+2	hišo	hiša	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	0	root	_	pronunciation=hišo|Gos2.1_token_id=Gos227.tok374
+3	in	in	CCONJ	Cc	_	5	cc	_	pronunciation=in|Gos2.1_token_id=Gos227.tok375
+4	eno	en	NUM	Mlpfsa	Case=Acc|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	5	nummod	_	pronunciation=ano|Gos2.1_token_id=Gos227.tok376
+5	vilo	vila	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	2	conj	_	pronunciation=vilo|Gos2.1_token_id=Gos227.tok377
+6	in	in	CCONJ	Cc	_	8	cc	_	pronunciation=in|Gos2.1_token_id=Gos227.tok378
+7	ne	ne	PART	Q	Polarity=Neg	8	advmod	_	pronunciation=n|Gos2.1_token_id=Gos227.tok379
+8	vem	vedeti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	pronunciation=vem|Gos2.1_token_id=Gos227.tok380
+
+
+# sent_id = Gos227.s67
+# speaker_id = Af-soro-05615
+# sound_url = https://nl.ijs.si/project/gos20/Gos227/Gos227.s67.mp3
+# text = ja , ja .
+# split = test
+1	ja	ja	PART	Q	_	0	root	_	pronunciation=ja|Gos2.1_token_id=Gos227.tok381
+2	,	,	PUNCT	Z	_	3	punct	_	_
+3	ja	ja	PART	Q	_	1	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos227.tok382
+4	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos227.s68
+# speaker_id = Ff-soro-05614
+# sound_url = https://nl.ijs.si/project/gos20/Gos227/Gos227.s68.mp3
+# text = o , tako obleko bi jaz imela .
+# split = test
+1	o	o	INTJ	I	_	7	discourse	_	pronunciation=o|Gos2.1_token_id=Gos227.tok383
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	tako	tak	DET	Pd-fsa	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	pronunciation=tako|Gos2.1_token_id=Gos227.tok384
+4	obleko	obleka	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	pronunciation=obljeko|Gos2.1_token_id=Gos227.tok385
+5	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	7	aux	_	pronunciation=bi|Gos2.1_token_id=Gos227.tok386
+6	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	pronunciation=jz|Gos2.1_token_id=Gos227.tok387
+7	imela	imeti	VERB	Vmpp-sf	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=mejla|Gos2.1_token_id=Gos227.tok388
+8	.	.	PUNCT	Z	_	7	punct	_	_
+
+
+# sent_id = Gos227.s69
+# speaker_id = Ff-soro-05614
+# sound_url = https://nl.ijs.si/project/gos20/Gos227/Gos227.s69.mp3
+# text = tako bi jaz imela .
+# split = test
+1	tako	tak	DET	Pd-fsa	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	4	obj	_	pronunciation=tako|Gos2.1_token_id=Gos227.tok389
+2	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	4	aux	_	pronunciation=bi|Gos2.1_token_id=Gos227.tok390
+3	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	pronunciation=jz|Gos2.1_token_id=Gos227.tok391
+4	imela	imeti	VERB	Vmpp-sf	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=mela|Gos2.1_token_id=Gos227.tok392
+5	.	.	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos227.s70
+# speaker_id = Af-soro-05615
+# sound_url = https://nl.ijs.si/project/gos20/Gos227/Gos227.s70.mp3
+# text = ne kaži , nimam pojma .
+# split = test
+1	ne	ne	PART	Q	Polarity=Neg	2	discourse	_	pronunciation=ne|Gos2.1_token_id=Gos227.tok393
+2	kaži	kazati	VERB	Vmpm2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	pronunciation=kaži|Gos2.1_token_id=Gos227.tok394
+3	,	,	PUNCT	Z	_	4	punct	_	_
+4	nimam	imeti	VERB	Vmpr1s-y	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	2	parataxis	_	pronunciation=nimam|Gos2.1_token_id=Gos227.tok395
+5	pojma	pojem	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	4	obj	_	pronunciation=pojma|Gos2.1_token_id=Gos227.tok396
+6	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos227.s71
+# speaker_id = Ef-soro-05613
+# sound_url = https://nl.ijs.si/project/gos20/Gos227/Gos227.s71.mp3
+# text = [name:personal] .
+# split = test
+1	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos227.s71.element1
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos227.s72
+# speaker_id = Bf-soro-05616
+# sound_url = https://nl.ijs.si/project/gos20/Gos227/Gos227.s72.mp3
+# text = [name:personal] je in [name:personal] , [name:personal] mi je prinesla .
+# split = test
+1	[name:personal]	[name:personal]	PROPN	X	_	2	nsubj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos227.s72.element1
+2	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=je|Gos2.1_token_id=Gos227.tok397
+3	in	in	CCONJ	Cc	_	4	cc	_	pronunciation=in|Gos2.1_token_id=Gos227.tok398
+4	[name:personal]	[name:personal]	PROPN	X	_	2	conj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos227.s72.element2
+5	,	,	PUNCT	Z	_	9	punct	_	_
+6	[name:personal]	[name:personal]	PROPN	X	_	9	nsubj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos227.s72.element3
+7	mi	jaz	PRON	Pp1-sd--y	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	9	iobj	_	pronunciation=mi|Gos2.1_token_id=Gos227.tok400
+8	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	aux	_	pronunciation=je|Gos2.1_token_id=Gos227.tok401
+9	prinesla	prinesti	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	2	parataxis	_	pronunciation=prnesla|Gos2.1_token_id=Gos227.tok402
+10	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos227.s73
+# speaker_id = Af-soro-05615
+# sound_url = https://nl.ijs.si/project/gos20/Gos227/Gos227.s73.mp3
+# text = aja , zakaj imaš ti njihove slike ?
+# split = test
+1	aja	aja	INTJ	I	_	4	discourse	_	pronunciation=aja|Gos2.1_token_id=Gos227.tok403
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	zakaj	zakaj	ADV	Rgp	Degree=Pos	4	advmod	_	pronunciation=zakaj|Gos2.1_token_id=Gos227.tok404
+4	imaš	imeti	VERB	Vmpr2s-n	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=maš|Gos2.1_token_id=Gos227.tok405
+5	ti	ti	PRON	Pp2-sn	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	pronunciation=ti|Gos2.1_token_id=Gos227.tok406
+6	njihove	njihov	DET	Ps3fpap	Case=Acc|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	7	det	_	pronunciation=njihove|Gos2.1_token_id=Gos227.tok407
+7	slike	slika	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	4	obj	_	pronunciation=slike|Gos2.1_token_id=Gos227.tok408
+8	?	?	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos227.s74
+# speaker_id = Ff-soro-05614
+# sound_url = https://nl.ijs.si/project/gos20/Gos227/Gos227.s74.mp3
+# text = samo bi imela , bi imela , eee , vrvico , tako .
+# split = test
+1	samo	samo	PART	Q	_	6	cc	_	pronunciation=sam|Gos2.1_token_id=Gos227.tok410
+2	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	3	aux	_	pronunciation=bi|Gos2.1_token_id=Gos227.tok411
+3	imela	imeti	VERB	Vmpp-sf	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	6	reparandum	_	pronunciation=mela|Gos2.1_token_id=Gos227.tok412
+4	,	,	PUNCT	Z	_	3	punct	_	_
+5	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	6	aux	_	pronunciation=bi|Gos2.1_token_id=Gos227.tok413
+6	imela	imeti	VERB	Vmpp-sf	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=mela|Gos2.1_token_id=Gos227.tok414
+7	,	,	PUNCT	Z	_	8	punct	_	_
+8	eee	eee	INTJ	I	_	6	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos227.tok415
+9	,	,	PUNCT	Z	_	8	punct	_	_
+10	vrvico	vrvica	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	pronunciation=vrvico|Gos2.1_token_id=Gos227.tok416
+11	,	,	PUNCT	Z	_	12	punct	_	_
+12	tako	tako	ADV	Rgp	Degree=Pos	6	advmod	_	pronunciation=tku|Gos2.1_token_id=Gos227.tok417
+13	.	.	PUNCT	Z	_	6	punct	_	_
+
+
+# sent_id = Gos227.s75
+# speaker_id = Af-soro-05615
+# sound_url = https://nl.ijs.si/project/gos20/Gos227/Gos227.s75.mp3
+# text = bi imela štrik .
+# split = test
+1	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	2	aux	_	pronunciation=bi|Gos2.1_token_id=Gos227.tok418
+2	imela	imeti	VERB	Vmpp-sf	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=mela|Gos2.1_token_id=Gos227.tok419
+3	štrik	štrik	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	pronunciation=štrik|Gos2.1_token_id=Gos227.tok420
+4	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos227.s76
+# speaker_id = Ff-soro-05614
+# sound_url = https://nl.ijs.si/project/gos20/Gos227/Gos227.s76.mp3
+# text = štrik še , ja .
+# split = test
+1	štrik	štrik	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	root	_	pronunciation=štrik|Gos2.1_token_id=Gos227.tok421
+2	še	še	PART	Q	_	1	advmod	_	pronunciation=še|Gos2.1_token_id=Gos227.tok422
+3	,	,	PUNCT	Z	_	4	punct	_	_
+4	ja	ja	PART	Q	_	1	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos227.tok423
+5	.	.	PUNCT	Z	_	1	punct	_	_
+
+

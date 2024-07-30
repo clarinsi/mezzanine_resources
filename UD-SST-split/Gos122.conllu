@@ -1,0 +1,86 @@
+# newdoc id = Gos122
+# sent_id = Gos122.s40
+# speaker_id = Am-mode-07003
+# sound_url = https://nl.ijs.si/project/gos20/Gos122/Gos122.s40.mp3
+# text = gre za zdravljenje ali za preventivne ukrepe .
+# split = train
+1	gre	iti	VERB	Vmbr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=gre|Gos2.1_token_id=Gos122.tok576
+2	za	za	ADP	Sa	Case=Acc	3	case	_	pronunciation=za|Gos2.1_token_id=Gos122.tok577
+3	zdravljenje	zdravljenje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	pronunciation=zdravljenje|Gos2.1_token_id=Gos122.tok578
+4	ali	ali	CCONJ	Cc	_	7	cc	_	pronunciation=ali|Gos2.1_token_id=Gos122.tok579
+5	za	za	ADP	Sa	Case=Acc	7	case	_	pronunciation=za|Gos2.1_token_id=Gos122.tok580
+6	preventivne	preventiven	ADJ	Agpmpa	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	pronunciation=preventivne|Gos2.1_token_id=Gos122.tok581
+7	ukrepe	ukrep	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	3	conj	_	pronunciation=ukrepe|Gos2.1_token_id=Gos122.tok582
+8	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos122.s41
+# speaker_id = Cm-gost-00015
+# sound_url = https://nl.ijs.si/project/gos20/Gos122/Gos122.s41.mp3
+# text = ja , predvsem gre v prvi vrsti za preventivne ukrepe , mislim , da je lahko zelo preprost primer .
+# split = train
+1	ja	ja	PART	Q	_	4	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos122.tok584
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	predvsem	predvsem	PART	Q	_	4	advmod	_	pronunciation=predvsem|Gos2.1_token_id=Gos122.tok585
+4	gre	iti	VERB	Vmbr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=gre|Gos2.1_token_id=Gos122.tok586
+5	v	v	ADP	Sl	Case=Loc	7	case	_	pronunciation=v|Gos2.1_token_id=Gos122.tok587
+6	prvi	prvi	ADJ	Mlofsl	Case=Loc|Gender=Fem|Number=Sing|NumType=Ord	7	amod	_	pronunciation=prvi|Gos2.1_token_id=Gos122.tok588
+7	vrsti	vrsta	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	4	obl	_	pronunciation=vrsti|Gos2.1_token_id=Gos122.tok589
+8	za	za	ADP	Sa	Case=Acc	10	case	_	pronunciation=za|Gos2.1_token_id=Gos122.tok590
+9	preventivne	preventiven	ADJ	Agpmpa	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	10	amod	_	pronunciation=preventivne|Gos2.1_token_id=Gos122.tok591
+10	ukrepe	ukrep	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	4	obl	_	pronunciation=ukrepe|Gos2.1_token_id=Gos122.tok592
+11	,	,	PUNCT	Z	_	12	punct	_	_
+12	mislim	misliti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	parataxis	_	pronunciation=mislim|Gos2.1_token_id=Gos122.tok593
+13	,	,	PUNCT	Z	_	19	punct	_	_
+14	da	da	SCONJ	Cs	_	19	mark	_	pronunciation=da|Gos2.1_token_id=Gos122.tok594
+15	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	19	cop	_	pronunciation=je|Gos2.1_token_id=Gos122.tok595
+16	lahko	lahko	ADV	Rgp	Degree=Pos	19	advmod	_	pronunciation=lahko|Gos2.1_token_id=Gos122.tok596
+17	zelo	zelo	ADV	Rgp	Degree=Pos	18	advmod	_	pronunciation=zlo|Gos2.1_token_id=Gos122.tok597
+18	preprost	preprost	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	pronunciation=preprost|Gos2.1_token_id=Gos122.tok598
+19	primer	primer	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	12	ccomp	_	pronunciation=primer|Gos2.1_token_id=Gos122.tok599
+20	.	.	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos122.s42
+# speaker_id = Cm-gost-00015
+# sound_url = https://nl.ijs.si/project/gos20/Gos122/Gos122.s42.mp3
+# text = če , eee , nam nemški avtomobilski proizvajalec zmanjša proizvodnjo za četrtino in če so na tega proizvajalca vezani naši proizvajalci , potem , eee , nobeno zniževanje stroškov pravzaprav tukaj kaj dosti ne pomaga .
+# split = train
+1	če	če	SCONJ	Cs	_	9	mark	_	pronunciation=če|Gos2.1_token_id=Gos122.tok600
+2	,	,	PUNCT	Z	_	3	punct	_	_
+3	eee	eee	INTJ	I	_	9	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos122.tok601
+4	,	,	PUNCT	Z	_	3	punct	_	_
+5	nam	jaz	PRON	Pp1-pd	Case=Dat|Number=Plur|Person=1|PronType=Prs	9	iobj	_	pronunciation=nam|Gos2.1_token_id=Gos122.tok602
+6	nemški	nemški	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	pronunciation=nemški|Gos2.1_token_id=Gos122.tok603
+7	avtomobilski	avtomobilski	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	pronunciation=avtomobilski|Gos2.1_token_id=Gos122.tok604
+8	proizvajalec	proizvajalec	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	pronunciation=proizvajalec|Gos2.1_token_id=Gos122.tok605
+9	zmanjša	zmanjšati	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	35	advcl	_	pronunciation=zmajnša|Gos2.1_token_id=Gos122.tok606
+10	proizvodnjo	proizvodnja	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	pronunciation=proizvodnjo|Gos2.1_token_id=Gos122.tok607
+11	za	za	ADP	Sa	Case=Acc	12	case	_	pronunciation=za|Gos2.1_token_id=Gos122.tok608
+12	četrtino	četrtina	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	pronunciation=četrtino|Gos2.1_token_id=Gos122.tok609
+13	in	in	CCONJ	Cc	_	19	cc	_	pronunciation=in|Gos2.1_token_id=Gos122.tok610
+14	če	če	SCONJ	Cs	_	19	mark	_	pronunciation=če|Gos2.1_token_id=Gos122.tok611
+15	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	19	cop	_	pronunciation=so|Gos2.1_token_id=Gos122.tok612
+16	na	na	ADP	Sa	Case=Acc	18	case	_	pronunciation=na|Gos2.1_token_id=Gos122.tok613
+17	tega	ta	DET	Pd-msa	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	18	det	_	pronunciation=tega|Gos2.1_token_id=Gos122.tok614
+18	proizvajalca	proizvajalec	NOUN	Ncmsay	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	19	obl	_	pronunciation=proizvajalca|Gos2.1_token_id=Gos122.tok615
+19	vezani	vezan	ADJ	Appmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part	9	conj	_	pronunciation=vezani|Gos2.1_token_id=Gos122.tok616
+20	naši	naš	DET	Ps1mpnp	Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	21	det	_	pronunciation=naši|Gos2.1_token_id=Gos122.tok617
+21	proizvajalci	proizvajalec	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	19	nsubj	_	pronunciation=proizvajalci|Gos2.1_token_id=Gos122.tok618
+22	,	,	PUNCT	Z	_	9	punct	_	_
+23	potem	potem	ADV	Rgp	Degree=Pos	35	advmod	_	pronunciation=potem|Gos2.1_token_id=Gos122.tok619
+24	,	,	PUNCT	Z	_	25	punct	_	_
+25	eee	eee	INTJ	I	_	35	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos122.tok620
+26	,	,	PUNCT	Z	_	25	punct	_	_
+27	nobeno	noben	DET	Pz-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Neg	28	det	_	pronunciation=nobeno|Gos2.1_token_id=Gos122.tok621
+28	zniževanje	zniževanje	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	35	nsubj	_	pronunciation=zniževanje|Gos2.1_token_id=Gos122.tok622
+29	stroškov	strošek	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	28	nmod	_	pronunciation=stroškov|Gos2.1_token_id=Gos122.tok623
+30	pravzaprav	pravzaprav	PART	Q	_	35	advmod	_	pronunciation=provzaprov|Gos2.1_token_id=Gos122.tok624
+31	tukaj	tukaj	ADV	Rgp	Degree=Pos	35	advmod	_	pronunciation=tukaj|Gos2.1_token_id=Gos122.tok625
+32	kaj	kaj	ADV	Rgp	Degree=Pos	33	advmod	_	pronunciation=kej|Gos2.1_token_id=Gos122.tok626
+33	dosti	dosti	DET	Rgp	PronType=Ind	35	advmod	_	pronunciation=dost|Gos2.1_token_id=Gos122.tok627
+34	ne	ne	PART	Q	Polarity=Neg	35	advmod	_	pronunciation=ne|Gos2.1_token_id=Gos122.tok628
+35	pomaga	pomagati	VERB	Vmbr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=pomaga|Gos2.1_token_id=Gos122.tok629
+36	.	.	PUNCT	Z	_	35	punct	_	_
+
+

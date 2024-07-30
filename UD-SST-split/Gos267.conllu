@@ -1,0 +1,112 @@
+# newdoc id = Gos267
+# sent_id = Gos267.s14
+# speaker_id = Mf-prij-01077
+# sound_url = https://nl.ijs.si/project/gos20/Gos267/Gos267.s14.mp3
+# text = eee .
+# split = train
+1	eee	eee	INTJ	I	_	0	root	_	pronunciation=eee|Gos2.1_token_id=Gos267.tok83
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos267.s15
+# speaker_id = Dm-prij-01078
+# sound_url = https://nl.ijs.si/project/gos20/Gos267/Gos267.s15.mp3
+# text = fajn , ja .
+# split = train
+1	fajn	fajn	ADV	Rgp	Degree=Pos	0	root	_	pronunciation=fajn|Gos2.1_token_id=Gos267.tok84
+2	,	,	PUNCT	Z	_	3	punct	_	_
+3	ja	ja	PART	Q	_	1	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos267.tok85
+4	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos267.s16
+# speaker_id = Mf-prij-01077
+# sound_url = https://nl.ijs.si/project/gos20/Gos267/Gos267.s16.mp3
+# text = kako se spopadamo s stresom .
+# split = train
+1	kako	kako	ADV	Rgp	Degree=Pos	3	advmod	_	pronunciation=kk|Gos2.1_token_id=Gos267.tok86
+2	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	3	expl	_	pronunciation=se|Gos2.1_token_id=Gos267.tok87
+3	spopadamo	spopadati	VERB	Vmpr1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=spopadamo|Gos2.1_token_id=Gos267.tok88
+4	s	z	ADP	Si	Case=Ins	5	case	_	pronunciation=s|Gos2.1_token_id=Gos267.tok89
+5	stresom	stres	NOUN	Ncmsi	Case=Ins|Gender=Masc|Number=Sing	3	obl	_	pronunciation=stresom|Gos2.1_token_id=Gos267.tok90
+6	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos267.s17
+# speaker_id = Dm-prij-01078
+# sound_url = https://nl.ijs.si/project/gos20/Gos267/Gos267.s17.mp3
+# text = kar povej .
+# split = train
+1	kar	kar	ADV	Rgp	Degree=Pos	2	advmod	_	pronunciation=kr|Gos2.1_token_id=Gos267.tok91
+2	povej	povedati	VERB	Vmem2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	pronunciation=povej|Gos2.1_token_id=Gos267.tok92
+3	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos267.s19
+# speaker_id = Mf-prij-01077
+# sound_url = https://nl.ijs.si/project/gos20/Gos267/Gos267.s19.mp3
+# text = ker vemo , da smo skoraj vsi , no , pod , eee , pod stresom , eni bolj , drugi manj .
+# split = train
+1	ker	ker	SCONJ	Cs	_	2	mark	_	pronunciation=ko|Gos2.1_token_id=Gos267.tok93
+2	vemo	vedeti	VERB	Vmpr1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=vemo|Gos2.1_token_id=Gos267.tok94
+3	,	,	PUNCT	Z	_	5	punct	_	_
+4	da	da	SCONJ	Cs	_	5	mark	_	pronunciation=da|Gos2.1_token_id=Gos267.tok95
+5	smo	biti	VERB	Va-r1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	ccomp	_	pronunciation=smo|Gos2.1_token_id=Gos267.tok96
+6	skoraj	skoraj	PART	Q	_	7	advmod	_	pronunciation=skoraj|Gos2.1_token_id=Gos267.tok97
+7	vsi	ves	DET	Pg-mpn	Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	5	nsubj	_	pronunciation=vsi|Gos2.1_token_id=Gos267.tok98
+8	,	,	PUNCT	Z	_	9	punct	_	_
+9	no	no	PART	Q	_	5	discourse	_	pronunciation=no|Gos2.1_token_id=Gos267.tok99
+10	,	,	PUNCT	Z	_	9	punct	_	_
+11	pod	pod	ADP	Si	Case=Ins	15	reparandum	_	pronunciation=pod|Gos2.1_token_id=Gos267.tok100
+12	,	,	PUNCT	Z	_	11	punct	_	_
+13	eee	eee	INTJ	I	_	5	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos267.tok101
+14	,	,	PUNCT	Z	_	13	punct	_	_
+15	pod	pod	ADP	Si	Case=Ins	16	case	_	pronunciation=pod|Gos2.1_token_id=Gos267.tok102
+16	stresom	stres	NOUN	Ncmsi	Case=Ins|Gender=Masc|Number=Sing	5	obl	_	pronunciation=stresom|Gos2.1_token_id=Gos267.tok103
+17	,	,	PUNCT	Z	_	18	punct	_	_
+18	eni	en	NUM	Mlpmpn	Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	5	parataxis	_	pronunciation=eni|Gos2.1_token_id=Gos267.tok104
+19	bolj	bolj	ADV	Rgc	Degree=Cmp	18	orphan	_	pronunciation=bolj|Gos2.1_token_id=Gos267.tok105
+20	,	,	PUNCT	Z	_	21	punct	_	_
+21	drugi	drug	ADJ	Mlpmpn	Case=Nom|Gender=Masc|Number=Plur	18	parataxis	_	pronunciation=drugi|Gos2.1_token_id=Gos267.tok106
+22	manj	manj	DET	Rgc	PronType=Ind	21	orphan	_	pronunciation=majn|Gos2.1_token_id=Gos267.tok107
+23	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos267.s20
+# speaker_id = Mf-prij-01077
+# sound_url = https://nl.ijs.si/project/gos20/Gos267/Gos267.s20.mp3
+# text = eee , in daje kar nekod odgovore , eee , na kakšen način se je treba pač s tem stresom spopasti .
+# split = train
+1	eee	eee	INTJ	I	_	4	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos267.tok108
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	in	in	CCONJ	Cc	_	4	cc	_	pronunciation=in|Gos2.1_token_id=Gos267.tok109
+4	daje	dajati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=daje|Gos2.1_token_id=Gos267.tok110
+5	kar	kar	ADV	Rgp	Degree=Pos	6	advmod	_	pronunciation=kr|Gos2.1_token_id=Gos267.tok111
+6	nekod	nekod	ADV	Rgp	Degree=Pos	4	advmod	_	pronunciation=nekot|Gos2.1_token_id=Gos267.tok112
+7	odgovore	odgovor	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	4	obj	_	pronunciation=odgovore|Gos2.1_token_id=Gos267.tok113
+8	,	,	PUNCT	Z	_	9	punct	_	_
+9	eee	eee	INTJ	I	_	15	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos267.tok114
+10	,	,	PUNCT	Z	_	15	punct	_	_
+11	na	na	ADP	Sa	Case=Acc	13	case	_	pronunciation=na|Gos2.1_token_id=Gos267.tok115
+12	kakšen	kakšen	DET	Pq-msa	Case=Acc|Gender=Masc|Number=Sing|PronType=Int	13	det	_	pronunciation=kak|Gos2.1_token_id=Gos267.tok116
+13	način	način	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	obl	_	pronunciation=način|Gos2.1_token_id=Gos267.tok117
+14	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	21	expl	_	pronunciation=se|Gos2.1_token_id=Gos267.tok118
+15	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	acl	_	pronunciation=je|Gos2.1_token_id=Gos267.tok119
+16	treba	treba	ADV	Rgp	Degree=Pos	15	advmod	_	pronunciation=treba|Gos2.1_token_id=Gos267.tok120
+17	pač	pač	PART	Q	_	15	advmod	_	pronunciation=pač|Gos2.1_token_id=Gos267.tok121
+18	s	z	ADP	Si	Case=Ins	20	case	_	pronunciation=s|Gos2.1_token_id=Gos267.tok122
+19	tem	ta	DET	Pd-msi	Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	20	det	_	pronunciation=tem|Gos2.1_token_id=Gos267.tok123
+20	stresom	stres	NOUN	Ncmsi	Case=Ins|Gender=Masc|Number=Sing	21	obl	_	pronunciation=stresom|Gos2.1_token_id=Gos267.tok124
+21	spopasti	spopasti	VERB	Vmen	Aspect=Perf|VerbForm=Inf	15	csubj	_	pronunciation=spopast|Gos2.1_token_id=Gos267.tok125
+22	.	.	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos267.s21
+# speaker_id = Mf-prij-01077
+# sound_url = https://nl.ijs.si/project/gos20/Gos267/Gos267.s21.mp3
+# text = eee .
+# split = train
+1	eee	eee	INTJ	I	_	0	root	_	pronunciation=eee|Gos2.1_token_id=Gos267.tok126
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+

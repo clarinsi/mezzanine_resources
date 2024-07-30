@@ -1,0 +1,279 @@
+# newdoc id = Gos287
+# sent_id = Gos287.s43
+# speaker_id = Bm-prij-01072
+# sound_url = https://nl.ijs.si/project/gos20/Gos287/Gos287.s43.mp3
+# text = jaz še pridem na vrsto , ja .
+# split = train
+1	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	pronunciation=jaz|Gos2.1_token_id=Gos287.tok167
+2	še	še	PART	Q	_	3	advmod	_	pronunciation=še|Gos2.1_token_id=Gos287.tok168
+3	pridem	priti	VERB	Vmer1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=priem|Gos2.1_token_id=Gos287.tok169
+4	na	na	ADP	Sa	Case=Acc	5	case	_	pronunciation=na|Gos2.1_token_id=Gos287.tok170
+5	vrsto	vrsta	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	pronunciation=vrsto|Gos2.1_token_id=Gos287.tok171
+6	,	,	PUNCT	Z	_	7	punct	_	_
+7	ja	ja	PART	Q	_	3	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos287.tok172
+8	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos287.s44
+# speaker_id = Bf-prij-01071
+# sound_url = https://nl.ijs.si/project/gos20/Gos287/Gos287.s44.mp3
+# text = jaz , [name:personal] pa , pa [name:personal] pa [name:personal] smo šle .
+# split = train
+1	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	pronunciation=jZ|Gos2.1_token_id=Gos287.tok173
+2	,	,	PUNCT	Z	_	3	punct	_	_
+3	[name:personal]	[name:personal]	PROPN	X	_	1	conj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos287.s44.element1
+4	pa	pa	CCONJ	Cc	_	6	reparandum	_	pronunciation=pa|Gos2.1_token_id=Gos287.tok174
+5	,	,	PUNCT	Z	_	4	punct	_	_
+6	pa	pa	CCONJ	Cc	_	7	cc	_	pronunciation=pa|Gos2.1_token_id=Gos287.tok175
+7	[name:personal]	[name:personal]	PROPN	X	_	1	conj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos287.s44.element2
+8	pa	pa	CCONJ	Cc	_	9	cc	_	pronunciation=pa|Gos2.1_token_id=Gos287.tok176
+9	[name:personal]	[name:personal]	PROPN	X	_	1	conj	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos287.s44.element3
+10	smo	biti	AUX	Va-r1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	aux	_	pronunciation=smo|Gos2.1_token_id=Gos287.tok177
+11	šle	iti	VERB	Vmbp-pf	Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	pronunciation=šle|Gos2.1_token_id=Gos287.tok178
+12	.	.	PUNCT	Z	_	11	punct	_	_
+
+
+# sent_id = Gos287.s45
+# speaker_id = Bm-prij-01072
+# sound_url = https://nl.ijs.si/project/gos20/Gos287/Gos287.s45.mp3
+# text = ha .
+# split = train
+1	ha	ha	INTJ	I	_	0	root	_	pronunciation=ha|Gos2.1_token_id=Gos287.tok179
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos287.s46
+# speaker_id = Bf-prij-01071
+# sound_url = https://nl.ijs.si/project/gos20/Gos287/Gos287.s46.mp3
+# text = pa veš , tako bilo čisto spontano , veš , ker smo se tam srečale pri [name:surname] pa smo šle .
+# split = train
+1	pa	pa	CCONJ	Cc	_	5	cc	_	pronunciation=pa|Gos2.1_token_id=Gos287.tok180
+2	veš	vedeti	VERB	Vmpr2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	parataxis:discourse	_	pronunciation=vš|Gos2.1_token_id=Gos287.tok181
+3	,	,	PUNCT	Z	_	2	punct	_	_
+4	tako	tako	ADV	Rgp	Degree=Pos	5	advmod	_	pronunciation=tk|Gos2.1_token_id=Gos287.tok182
+5	bilo	biti	VERB	Va-p-sn	Gender=Neut|Number=Sing|VerbForm=Part	0	root	_	pronunciation=blo|Gos2.1_token_id=Gos287.tok183
+6	čisto	čisto	ADV	Rgp	Degree=Pos	7	advmod	_	pronunciation=čisto|Gos2.1_token_id=Gos287.tok184
+7	spontano	spontano	ADV	Rgp	Degree=Pos	5	advmod	_	pronunciation=spontano|Gos2.1_token_id=Gos287.tok185
+8	,	,	PUNCT	Z	_	9	punct	_	_
+9	veš	vedeti	VERB	Vmpr2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	parataxis:discourse	_	pronunciation=veš|Gos2.1_token_id=Gos287.tok186
+10	,	,	PUNCT	Z	_	15	punct	_	_
+11	ker	ker	SCONJ	Cs	_	15	mark	_	pronunciation=ker|Gos2.1_token_id=Gos287.tok187
+12	smo	biti	AUX	Va-r1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	15	aux	_	pronunciation=smo|Gos2.1_token_id=Gos287.tok188
+13	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	15	expl	_	pronunciation=se|Gos2.1_token_id=Gos287.tok189
+14	tam	tam	ADV	Rgp	Degree=Pos	15	advmod	_	pronunciation=tam|Gos2.1_token_id=Gos287.tok190
+15	srečale	srečati	VERB	Vmep-pf	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part	5	advcl	_	pronunciation=srečale|Gos2.1_token_id=Gos287.tok191
+16	pri	pri	ADP	Sl	Case=Loc	17	case	_	pronunciation=pri|Gos2.1_token_id=Gos287.tok192
+17	[name:surname]	[name:surname]	PROPN	X	_	15	obl	_	pronunciation=[name:surname]|Gos2.1_token_id=Gos287.s46.element1
+18	pa	pa	CCONJ	Cc	_	20	cc	_	pronunciation=pa|Gos2.1_token_id=Gos287.tok193
+19	smo	biti	AUX	Va-r1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	20	aux	_	pronunciation=smo|Gos2.1_token_id=Gos287.tok194
+20	šle	iti	VERB	Vmbp-pf	Gender=Fem|Number=Plur|VerbForm=Part	15	conj	_	pronunciation=šle|Gos2.1_token_id=Gos287.tok195
+21	.	.	PUNCT	Z	_	5	punct	_	_
+
+
+# sent_id = Gos287.s47
+# speaker_id = Bm-prij-01072
+# sound_url = https://nl.ijs.si/project/gos20/Gos287/Gos287.s47.mp3
+# text = aha .
+# split = train
+1	aha	aha	INTJ	I	_	0	root	_	pronunciation=aha|Gos2.1_token_id=Gos287.tok196
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos287.s48
+# speaker_id = Bf-prij-01071
+# sound_url = https://nl.ijs.si/project/gos20/Gos287/Gos287.s48.mp3
+# text = pol sem pa jaz lačna postala pa sem rekla , če gremo na pico .
+# split = train
+1	pol	pol	DET	Rgp	Degree=Pos	6	advmod	_	pronunciation=po|Gos2.1_token_id=Gos287.tok197
+2	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	pronunciation=sn|Gos2.1_token_id=Gos287.tok198
+3	pa	pa	CCONJ	Cc	_	6	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos287.tok199
+4	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	pronunciation=jaz|Gos2.1_token_id=Gos287.tok200
+5	lačna	lačen	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	xcomp	_	pronunciation=lačna|Gos2.1_token_id=Gos287.tok201
+6	postala	postati	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=postala|Gos2.1_token_id=Gos287.tok202
+7	pa	pa	CCONJ	Cc	_	9	cc	_	pronunciation=pa|Gos2.1_token_id=Gos287.tok203
+8	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	aux	_	pronunciation=sn|Gos2.1_token_id=Gos287.tok204
+9	rekla	reči	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	6	conj	_	pronunciation=rekla|Gos2.1_token_id=Gos287.tok205
+10	,	,	PUNCT	Z	_	12	punct	_	_
+11	če	če	SCONJ	Cs	_	12	mark	_	pronunciation=če|Gos2.1_token_id=Gos287.tok206
+12	gremo	iti	VERB	Vmbr1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	ccomp	_	pronunciation=gremo|Gos2.1_token_id=Gos287.tok207
+13	na	na	ADP	Sa	Case=Acc	14	case	_	pronunciation=na|Gos2.1_token_id=Gos287.tok208
+14	pico	pica	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	12	obl	_	pronunciation=pico|Gos2.1_token_id=Gos287.tok209
+15	.	.	PUNCT	Z	_	6	punct	_	_
+
+
+# sent_id = Gos287.s49
+# speaker_id = Bm-prij-01072
+# sound_url = https://nl.ijs.si/project/gos20/Gos287/Gos287.s49.mp3
+# text = a , fajn .
+# split = train
+1	a	a	INTJ	I	_	3	discourse	_	pronunciation=a|Gos2.1_token_id=Gos287.tok210
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	fajn	fajn	ADV	Rgp	Degree=Pos	0	root	_	pronunciation=fajn|Gos2.1_token_id=Gos287.tok211
+4	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos287.s50
+# speaker_id = Bf-prij-01071
+# sound_url = https://nl.ijs.si/project/gos20/Gos287/Gos287.s50.mp3
+# text = mmm .
+# split = train
+1	mmm	mmm	INTJ	I	_	0	root	_	pronunciation=mmm|Gos2.1_token_id=Gos287.tok212
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos287.s51
+# speaker_id = Bm-prij-01072
+# sound_url = https://nl.ijs.si/project/gos20/Gos287/Gos287.s51.mp3
+# text = kaj si jedla ?
+# split = train
+1	kaj	kaj	PRON	Pq-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	3	obj	_	pronunciation=kaj|Gos2.1_token_id=Gos287.tok213
+2	si	biti	AUX	Va-r2s-n	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	pronunciation=si|Gos2.1_token_id=Gos287.tok214
+3	jedla	jesti	VERB	Vmpp-sf	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=jedla|Gos2.1_token_id=Gos287.tok215
+4	?	?	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos287.s52
+# speaker_id = Bf-prij-01071
+# sound_url = https://nl.ijs.si/project/gos20/Gos287/Gos287.s52.mp3
+# text = sirovo .
+# split = train
+1	sirovo	sirov	ADJ	Aspfsa	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	0	root	_	pronunciation=sirovo|Gos2.1_token_id=Gos287.tok217
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos287.s53
+# speaker_id = Bf-prij-01071
+# sound_url = https://nl.ijs.si/project/gos20/Gos287/Gos287.s53.mp3
+# text = četrt sirove pa četrt neke take , neke z mesom , no .
+# split = train
+1	četrt	četrt	DET	Rgp	PronType=Ind	2	advmod	_	pronunciation=četrt|Gos2.1_token_id=Gos287.tok218
+2	sirove	sirov	ADJ	Aspfsg	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	0	root	_	pronunciation=sirove|Gos2.1_token_id=Gos287.tok219
+3	pa	pa	CCONJ	Cc	_	8	cc	_	pronunciation=pa|Gos2.1_token_id=Gos287.tok220
+4	četrt	četrt	DET	Rgp	PronType=Ind	8	advmod	_	pronunciation=četrt|Gos2.1_token_id=Gos287.tok221
+5	neke	nek	DET	Pi-fsg	Case=Gen|Gender=Fem|Number=Sing|PronType=Ind	6	det	_	pronunciation=neke|Gos2.1_token_id=Gos287.tok222
+6	take	tak	DET	Pd-fsg	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	8	reparandum	_	pronunciation=take|Gos2.1_token_id=Gos287.tok223
+7	,	,	PUNCT	Z	_	6	punct	_	_
+8	neke	nek	DET	Pi-fsg	Case=Gen|Gender=Fem|Number=Sing|PronType=Ind	2	conj	_	pronunciation=neke|Gos2.1_token_id=Gos287.tok224
+9	z	z	ADP	Si	Case=Ins	10	case	_	pronunciation=z|Gos2.1_token_id=Gos287.tok225
+10	mesom	meso	NOUN	Ncnsi	Case=Ins|Gender=Neut|Number=Sing	8	nmod	_	pronunciation=mesom|Gos2.1_token_id=Gos287.tok226
+11	,	,	PUNCT	Z	_	12	punct	_	_
+12	no	no	PART	Q	_	2	discourse	_	pronunciation=no|Gos2.1_token_id=Gos287.tok227
+13	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos287.s54
+# speaker_id = Bm-prij-01072
+# sound_url = https://nl.ijs.si/project/gos20/Gos287/Gos287.s54.mp3
+# text = sirovo .
+# split = train
+1	sirovo	sirov	ADJ	Aspfsa	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	0	root	_	pronunciation=sirovo|Gos2.1_token_id=Gos287.tok228
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos287.s55
+# speaker_id = Bf-prij-01071
+# sound_url = https://nl.ijs.si/project/gos20/Gos287/Gos287.s55.mp3
+# text = sirova je bila ful boljša .
+# split = train
+1	sirova	sirov	ADJ	Aspfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	nsubj	_	pronunciation=sirova|Gos2.1_token_id=Gos287.tok229
+2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	pronunciation=je|Gos2.1_token_id=Gos287.tok230
+3	bila	biti	AUX	Va-p-sf	Gender=Fem|Number=Sing|VerbForm=Part	5	cop	_	pronunciation=bla|Gos2.1_token_id=Gos287.tok231
+4	ful	ful	ADV	Rgp	Degree=Pos	5	advmod	_	pronunciation=ful|Gos2.1_token_id=Gos287.tok232
+5	boljša	dober	ADJ	Agcfsn	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	0	root	_	pronunciation=boljša|Gos2.1_token_id=Gos287.tok233
+6	.	.	PUNCT	Z	_	5	punct	_	_
+
+
+# sent_id = Gos287.s56
+# speaker_id = Bm-prij-01072
+# sound_url = https://nl.ijs.si/project/gos20/Gos287/Gos287.s56.mp3
+# text = aja .
+# split = train
+1	aja	aja	INTJ	I	_	0	root	_	pronunciation=aja|Gos2.1_token_id=Gos287.tok234
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos287.s57
+# speaker_id = Bf-prij-01071
+# sound_url = https://nl.ijs.si/project/gos20/Gos287/Gos287.s57.mp3
+# text = res dobra je bila .
+# split = train
+1	res	res	ADV	Rgp	Degree=Pos	2	advmod	_	pronunciation=res|Gos2.1_token_id=Gos287.tok235
+2	dobra	dober	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	pronunciation=dobra|Gos2.1_token_id=Gos287.tok236
+3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	aux	_	pronunciation=je|Gos2.1_token_id=Gos287.tok237
+4	bila	biti	AUX	Va-p-sf	Gender=Fem|Number=Sing|VerbForm=Part	2	cop	_	pronunciation=bla|Gos2.1_token_id=Gos287.tok238
+5	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos287.s58
+# speaker_id = Bm-prij-01072
+# sound_url = https://nl.ijs.si/project/gos20/Gos287/Gos287.s58.mp3
+# text = ja , ja .
+# split = train
+1	ja	ja	PART	Q	_	0	root	_	pronunciation=ja|Gos2.1_token_id=Gos287.tok239
+2	,	,	PUNCT	Z	_	3	punct	_	_
+3	ja	ja	PART	Q	_	1	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos287.tok240
+4	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos287.s59
+# speaker_id = Bf-prij-01071
+# sound_url = https://nl.ijs.si/project/gos20/Gos287/Gos287.s59.mp3
+# text = z [name:personal] sva zamenjali četrt .
+# split = train
+1	z	z	ADP	Si	Case=Ins	2	case	_	pronunciation=z|Gos2.1_token_id=Gos287.tok241
+2	[name:personal]	[name:personal]	PROPN	X	_	4	obl	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos287.s59.element1
+3	sva	biti	AUX	Va-r1d-n	Mood=Ind|Number=Dual|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	pronunciation=sma|Gos2.1_token_id=Gos287.tok242
+4	zamenjali	zamenjati	VERB	Vmep-df	Aspect=Perf|Gender=Fem|Number=Dual|VerbForm=Part	0	root	_	pronunciation=zamenjali|Gos2.1_token_id=Gos287.tok243
+5	četrt	četrt	DET	Rgp	PronType=Ind	4	advmod	_	pronunciation=četrt|Gos2.1_token_id=Gos287.tok244
+6	.	.	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos287.s60
+# speaker_id = Bm-prij-01072
+# sound_url = https://nl.ijs.si/project/gos20/Gos287/Gos287.s60.mp3
+# text = aja .
+# split = train
+1	aja	aja	INTJ	I	_	0	root	_	pronunciation=aja|Gos2.1_token_id=Gos287.tok245
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos287.s61
+# speaker_id = Bf-prij-01071
+# sound_url = https://nl.ijs.si/project/gos20/Gos287/Gos287.s61.mp3
+# text = ja .
+# split = train
+1	ja	ja	PART	Q	_	0	root	_	pronunciation=ja|Gos2.1_token_id=Gos287.tok246
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos287.s62
+# speaker_id = Bm-prij-01072
+# sound_url = https://nl.ijs.si/project/gos20/Gos287/Gos287.s62.mp3
+# text = v redu , to .
+# split = train
+1	v	v	ADP	Sl	Case=Loc	2	case	_	pronunciation=v|Gos2.1_token_id=Gos287.tok247
+2	redu	red	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	4	orphan	_	pronunciation=redi|Gos2.1_token_id=Gos287.tok248
+3	,	,	PUNCT	Z	_	4	punct	_	_
+4	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	pronunciation=to|Gos2.1_token_id=Gos287.tok249
+5	.	.	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos287.s63
+# speaker_id = Bm-prij-01072
+# sound_url = https://nl.ijs.si/project/gos20/Gos287/Gos287.s63.mp3
+# text = še kaj drugega , tako , kaj si delala po šihtu ?
+# split = train
+1	še	še	PART	Q	_	2	advmod	_	pronunciation=še|Gos2.1_token_id=Gos287.tok250
+2	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	pronunciation=kaj|Gos2.1_token_id=Gos287.tok251
+3	drugega	drug	ADJ	Mlpnsg	Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	pronunciation=drugega|Gos2.1_token_id=Gos287.tok252
+4	,	,	PUNCT	Z	_	5	punct	_	_
+5	tako	tako	CCONJ	Cc	_	2	orphan	_	pronunciation=tak|Gos2.1_token_id=Gos287.tok253
+6	,	,	PUNCT	Z	_	5	punct	_	_
+7	kaj	kaj	PRON	Pq-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	9	obj	_	pronunciation=kaj|Gos2.1_token_id=Gos287.tok254
+8	si	biti	AUX	Va-r2s-n	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	aux	_	pronunciation=s|Gos2.1_token_id=Gos287.tok255
+9	delala	delati	VERB	Vmpp-sf	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	2	parataxis	_	pronunciation=delala|Gos2.1_token_id=Gos287.tok256
+10	po	po	ADP	Sl	Case=Loc	11	case	_	pronunciation=po|Gos2.1_token_id=Gos287.tok257
+11	šihtu	šiht	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	9	obl	_	pronunciation=šihti|Gos2.1_token_id=Gos287.tok258
+12	?	?	PUNCT	Z	_	2	punct	_	_
+
+

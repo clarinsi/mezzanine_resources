@@ -1,0 +1,277 @@
+# newdoc id = Gos003
+# sent_id = Gos003.s201
+# speaker_id = Um-pred-01619
+# sound_url = https://nl.ijs.si/project/gos20/Gos003/Gos003.s201.mp3
+# text = tako , polovičke so tukaj in zaradi tega moraš eno polovičko , potem pa še eno polovičko dol , tako , dobro .
+# split = train
+1	tako	tako	ADV	Rgp	Degree=Pos	4	discourse	_	pronunciation=tako|Gos2.1_token_id=Gos003.tok2695
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	polovičke	polovička	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	pronunciation=polovičke|Gos2.1_token_id=Gos003.tok2696
+4	so	biti	VERB	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=so|Gos2.1_token_id=Gos003.tok2697
+5	tukaj	tukaj	ADV	Rgp	Degree=Pos	4	advmod	_	pronunciation=tukaj|Gos2.1_token_id=Gos003.tok2698
+6	in	in	CCONJ	Cc	_	9	cc	_	pronunciation=in|Gos2.1_token_id=Gos003.tok2699
+7	zaradi	zaradi	ADP	Sg	Case=Gen	8	case	_	pronunciation=zarad|Gos2.1_token_id=Gos003.tok2700
+8	tega	ta	DET	Pd-nsg	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	9	obl	_	pronunciation=tega|Gos2.1_token_id=Gos003.tok2701
+9	moraš	morati	VERB	Vmpr2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	conj	_	pronunciation=moraš|Gos2.1_token_id=Gos003.tok2702
+10	eno	en	NUM	Mlpfsa	Case=Acc|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	11	nummod	_	pronunciation=eno|Gos2.1_token_id=Gos003.tok2703
+11	polovičko	polovička	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	pronunciation=polovičko|Gos2.1_token_id=Gos003.tok2704
+12	,	,	PUNCT	Z	_	17	punct	_	_
+13	potem	potem	ADV	Rgp	Degree=Pos	17	orphan	_	pronunciation=potem|Gos2.1_token_id=Gos003.tok2705
+14	pa	pa	CCONJ	Cc	_	17	orphan	_	pronunciation=pa|Gos2.1_token_id=Gos003.tok2706
+15	še	še	PART	Q	_	16	advmod	_	pronunciation=še|Gos2.1_token_id=Gos003.tok2707
+16	eno	en	NUM	Mlpfsa	Case=Acc|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	17	nummod	_	pronunciation=eno|Gos2.1_token_id=Gos003.tok2708
+17	polovičko	polovička	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	9	parataxis	_	pronunciation=polovičko|Gos2.1_token_id=Gos003.tok2709
+18	dol	dol	ADV	Rgp	Degree=Pos	9	advmod	_	pronunciation=dol|Gos2.1_token_id=Gos003.tok2710
+19	,	,	PUNCT	Z	_	20	punct	_	_
+20	tako	tako	ADV	Rgp	Degree=Pos	9	discourse	_	pronunciation=tako|Gos2.1_token_id=Gos003.tok2711
+21	,	,	PUNCT	Z	_	22	punct	_	_
+22	dobro	dobro	ADV	Rgp	Degree=Pos	4	discourse	_	pronunciation=dobr|Gos2.1_token_id=Gos003.tok2712
+23	.	.	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos003.s202
+# speaker_id = Um-pred-01619
+# sound_url = https://nl.ijs.si/project/gos20/Gos003/Gos003.s202.mp3
+# text = eem , zdaj , še ena zanimiv podatek se da iz tega grafa razbrati .
+# split = train
+1	eem	eem	INTJ	I	_	10	discourse:filler	_	pronunciation=eem|Gos2.1_token_id=Gos003.tok2713
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	zdaj	zdaj	ADV	Rgp	Degree=Pos	10	discourse	_	pronunciation=zdej|Gos2.1_token_id=Gos003.tok2714
+4	,	,	PUNCT	Z	_	3	punct	_	_
+5	še	še	PART	Q	_	6	advmod	_	pronunciation=še|Gos2.1_token_id=Gos003.tok2715
+6	ena	en	NUM	Mlpfsn	Case=Nom|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	8	nummod	_	pronunciation=ena|Gos2.1_token_id=Gos003.tok2716
+7	zanimiv	zanimiv	ADJ	Agpmsan	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	pronunciation=zanimiv|Gos2.1_token_id=Gos003.tok2717
+8	podatek	podatek	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	obj	_	pronunciation=podatek|Gos2.1_token_id=Gos003.tok2718
+9	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	10	expl	_	pronunciation=se|Gos2.1_token_id=Gos003.tok2719
+10	da	dati	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=da|Gos2.1_token_id=Gos003.tok2720
+11	iz	iz	ADP	Sg	Case=Gen	13	case	_	pronunciation=iz|Gos2.1_token_id=Gos003.tok2721
+12	tega	ta	DET	Pd-msg	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	13	det	_	pronunciation=tega|Gos2.1_token_id=Gos003.tok2722
+13	grafa	graf	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	14	obl	_	pronunciation=grafa|Gos2.1_token_id=Gos003.tok2723
+14	razbrati	razbrati	VERB	Vmen	Aspect=Perf|VerbForm=Inf	10	xcomp	_	pronunciation=razbret|Gos2.1_token_id=Gos003.tok2724
+15	.	.	PUNCT	Z	_	10	punct	_	_
+
+
+# sent_id = Gos003.s203
+# speaker_id = Um-pred-01619
+# sound_url = https://nl.ijs.si/project/gos20/Gos003/Gos003.s203.mp3
+# text = in sicer , to je ta točka , ki nam prikazuje dejansko , translacijska temperatura je itak tristo kelvinov , povsod fiksirana , tukaj je pa še rotacijska temperatura tristo kelvinov .
+# split = train
+1	in	in	CCONJ	Cc	_	7	cc	_	pronunciation=in|Gos2.1_token_id=Gos003.tok2725
+2	sicer	sicer	CCONJ	Cc	_	1	fixed	_	pronunciation=sicer|Gos2.1_token_id=Gos003.tok2726
+3	,	,	PUNCT	Z	_	1	punct	_	_
+4	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	pronunciation=to|Gos2.1_token_id=Gos003.tok2727
+5	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	_	pronunciation=je|Gos2.1_token_id=Gos003.tok2728
+6	ta	ta	DET	Pd-fsn	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	pronunciation=ta|Gos2.1_token_id=Gos003.tok2729
+7	točka	točka	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	pronunciation=točka|Gos2.1_token_id=Gos003.tok2730
+8	,	,	PUNCT	Z	_	11	punct	_	_
+9	ki	ki	SCONJ	Cs	_	11	mark	_	pronunciation=k|Gos2.1_token_id=Gos003.tok2731
+10	nam	jaz	PRON	Pp1-pd	Case=Dat|Number=Plur|Person=1|PronType=Prs	11	iobj	_	pronunciation=nam|Gos2.1_token_id=Gos003.tok2732
+11	prikazuje	prikazovati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl	_	pronunciation=prkazuje|Gos2.1_token_id=Gos003.tok2733
+12	dejansko	dejansko	ADV	Rgp	Degree=Pos	11	advmod	_	pronunciation=dejansko|Gos2.1_token_id=Gos003.tok2734
+13	,	,	PUNCT	Z	_	11	punct	_	_
+14	translacijska	translacijski	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	pronunciation=translacijska|Gos2.1_token_id=Gos003.tok2735
+15	temperatura	temperatura	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	22	nsubj	_	pronunciation=temperatura|Gos2.1_token_id=Gos003.tok2736
+16	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	22	cop	_	pronunciation=je|Gos2.1_token_id=Gos003.tok2737
+17	itak	itak	PART	Q	_	22	advmod	_	pronunciation=itak|Gos2.1_token_id=Gos003.tok2738
+18	tristo	tristo	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	19	nummod	_	pronunciation=tristo|Gos2.1_token_id=Gos003.tok2739
+19	kelvinov	kelvin	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	22	obl	_	pronunciation=kelvinov|Gos2.1_token_id=Gos003.tok2740
+20	,	,	PUNCT	Z	_	22	punct	_	_
+21	povsod	povsod	ADV	Rgp	Degree=Pos	22	advmod	_	pronunciation=povsod|Gos2.1_token_id=Gos003.tok2741
+22	fiksirana	fiksiran	ADJ	Appfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part	11	parataxis:restart	_	pronunciation=fiksirana|Gos2.1_token_id=Gos003.tok2742
+23	,	,	PUNCT	Z	_	31	punct	_	_
+24	tukaj	tukaj	ADV	Rgp	Degree=Pos	31	advmod	_	pronunciation=tukaj|Gos2.1_token_id=Gos003.tok2743
+25	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	31	cop	_	pronunciation=je|Gos2.1_token_id=Gos003.tok2744
+26	pa	pa	CCONJ	Cc	_	31	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos003.tok2745
+27	še	še	PART	Q	_	29	advmod	_	pronunciation=še|Gos2.1_token_id=Gos003.tok2746
+28	rotacijska	rotacijski	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	29	amod	_	pronunciation=rotacijska|Gos2.1_token_id=Gos003.tok2747
+29	temperatura	temperatura	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	31	nsubj	_	pronunciation=temparatura|Gos2.1_token_id=Gos003.tok2748
+30	tristo	tristo	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	31	nummod	_	pronunciation=tristo|Gos2.1_token_id=Gos003.tok2749
+31	kelvinov	kelvin	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	22	parataxis	_	pronunciation=kelvinov|Gos2.1_token_id=Gos003.tok2750
+32	.	.	PUNCT	Z	_	7	punct	_	_
+
+
+# sent_id = Gos003.s204
+# speaker_id = Um-pred-01619
+# sound_url = https://nl.ijs.si/project/gos20/Gos003/Gos003.s204.mp3
+# text = se pravi , imamo v resnici ravnotežno situacijo , to je tako , kot da nimamo nobenega mikrovalovnega gretja .
+# split = train
+1	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	4	cc	_	pronunciation=se|Gos2.1_token_id=Gos003.tok2751
+2	pravi	praviti	VERB	Vmbr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	fixed	_	pronunciation=prav|Gos2.1_token_id=Gos003.tok2752
+3	,	,	PUNCT	Z	_	1	punct	_	_
+4	imamo	imeti	VERB	Vmpr1p-n	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=mamo|Gos2.1_token_id=Gos003.tok2753
+5	v	v	ADP	Sl	Case=Loc	6	case	_	pronunciation=v|Gos2.1_token_id=Gos003.tok2754
+6	resnici	resnica	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	4	obl	_	pronunciation=resnic|Gos2.1_token_id=Gos003.tok2755
+7	ravnotežno	ravnotežen	ADJ	Agpfsa	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	pronunciation=ravnotežno|Gos2.1_token_id=Gos003.tok2756
+8	situacijo	situacija	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	pronunciation=situacijo|Gos2.1_token_id=Gos003.tok2757
+9	,	,	PUNCT	Z	_	11	punct	_	_
+10	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	11	nsubj	_	pronunciation=to|Gos2.1_token_id=Gos003.tok2758
+11	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	parataxis	_	pronunciation=je|Gos2.1_token_id=Gos003.tok2759
+12	tako	tako	ADV	Rgp	Degree=Pos	11	advmod	_	pronunciation=tko|Gos2.1_token_id=Gos003.tok2760
+13	,	,	PUNCT	Z	_	16	punct	_	_
+14	kot	kot	SCONJ	Cs	_	16	mark	_	pronunciation=kot|Gos2.1_token_id=Gos003.tok2761
+15	da	da	SCONJ	Cs	_	14	fixed	_	pronunciation=da|Gos2.1_token_id=Gos003.tok2762
+16	nimamo	imeti	VERB	Vmpr1p-y	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	12	advcl	_	pronunciation=nimamo|Gos2.1_token_id=Gos003.tok2763
+17	nobenega	noben	DET	Pz-nsg	Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	19	det	_	pronunciation=nobenga|Gos2.1_token_id=Gos003.tok2764
+18	mikrovalovnega	mikrovaloven	ADJ	Agpnsg	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	pronunciation=mikrovalovnega|Gos2.1_token_id=Gos003.tok2765
+19	gretja	gretje	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	16	obj	_	pronunciation=gretja|Gos2.1_token_id=Gos003.tok2766
+20	.	.	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos003.s205
+# speaker_id = Um-pred-01619
+# sound_url = https://nl.ijs.si/project/gos20/Gos003/Gos003.s205.mp3
+# text = in takrat je ta bariera visoka enaintrideset kilokalorij na mol , kar se dobro ujema z eksperimentom , ki je trideset .
+# split = train
+1	in	in	CCONJ	Cc	_	6	cc	_	pronunciation=in|Gos2.1_token_id=Gos003.tok2767
+2	takrat	takrat	ADV	Rgp	Degree=Pos	6	advmod	_	pronunciation=takrat|Gos2.1_token_id=Gos003.tok2768
+3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	cop	_	pronunciation=je|Gos2.1_token_id=Gos003.tok2769
+4	ta	ta	DET	Pd-fsn	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	pronunciation=ta|Gos2.1_token_id=Gos003.tok2770
+5	bariera	bariera	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	pronunciation=bariera|Gos2.1_token_id=Gos003.tok2771
+6	visoka	visok	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	pronunciation=visoka|Gos2.1_token_id=Gos003.tok2772
+7	enaintrideset	enaintrideset	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	pronunciation=enaintrideset|Gos2.1_token_id=Gos003.tok2773
+8	kilokalorij	kilokalorija	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	6	obl	_	pronunciation=kilokalorij|Gos2.1_token_id=Gos003.tok2774
+9	na	na	ADP	Sa	Case=Acc	10	case	_	pronunciation=na|Gos2.1_token_id=Gos003.tok2775
+10	mol	mol	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	nmod	_	pronunciation=mol|Gos2.1_token_id=Gos003.tok2776
+11	,	,	PUNCT	Z	_	15	punct	_	_
+12	kar	kar	PRON	Pr-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	15	nsubj	_	pronunciation=kar|Gos2.1_token_id=Gos003.tok2777
+13	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	15	expl	_	pronunciation=se|Gos2.1_token_id=Gos003.tok2778
+14	dobro	dobro	ADV	Rgp	Degree=Pos	15	advmod	_	pronunciation=dobr|Gos2.1_token_id=Gos003.tok2779
+15	ujema	ujemati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	parataxis	_	pronunciation=ujema|Gos2.1_token_id=Gos003.tok2780
+16	z	z	ADP	Si	Case=Ins	17	case	_	pronunciation=z|Gos2.1_token_id=Gos003.tok2781
+17	eksperimentom	eksperiment	NOUN	Ncmsi	Case=Ins|Gender=Masc|Number=Sing	15	obl	_	pronunciation=eksperimentom|Gos2.1_token_id=Gos003.tok2782
+18	,	,	PUNCT	Z	_	21	punct	_	_
+19	ki	ki	SCONJ	Cs	_	21	mark	_	pronunciation=k|Gos2.1_token_id=Gos003.tok2783
+20	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	21	cop	_	pronunciation=je|Gos2.1_token_id=Gos003.tok2784
+21	trideset	trideset	NUM	Mlc-pn	Case=Nom|Number=Plur|NumForm=Word|NumType=Card	17	acl	_	pronunciation=trideset|Gos2.1_token_id=Gos003.tok2785
+22	.	.	PUNCT	Z	_	6	punct	_	_
+
+
+# sent_id = Gos003.s207
+# speaker_id = Um-pred-01619
+# sound_url = https://nl.ijs.si/project/gos20/Gos003/Gos003.s207.mp3
+# text = zdaj , katalitični efekt pri dani rotacijski temperaturi smo definirali kot razliko v aktivacijski prosti energiji glede na to ravnotežno situacijo , kadar je rotacijska temperatura enaka translacijski temperaturi , v našem primeru je to tristo kelvinov .
+# split = train
+1	zdaj	zdaj	ADV	Rgp	Degree=Pos	10	discourse	_	pronunciation=zdej|Gos2.1_token_id=Gos003.tok2786
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	katalitični	katalitičen	ADJ	Agpmsay	Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	pronunciation=katalitični|Gos2.1_token_id=Gos003.tok2787
+4	efekt	efekt	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	pronunciation=efekt|Gos2.1_token_id=Gos003.tok2788
+5	pri	pri	ADP	Sl	Case=Loc	8	case	_	pronunciation=pri|Gos2.1_token_id=Gos003.tok2789
+6	dani	dan	ADJ	Appfsl	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part	8	amod	_	pronunciation=dani|Gos2.1_token_id=Gos003.tok2790
+7	rotacijski	rotacijski	ADJ	Agpfsl	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	pronunciation=rotacijski|Gos2.1_token_id=Gos003.tok2791
+8	temperaturi	temperatura	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	4	nmod	_	pronunciation=temperaturi|Gos2.1_token_id=Gos003.tok2792
+9	smo	biti	AUX	Va-r1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	aux	_	pronunciation=smo|Gos2.1_token_id=Gos003.tok2793
+10	definirali	definirati	VERB	Vmbp-pm	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	pronunciation=definiral|Gos2.1_token_id=Gos003.tok2794
+11	kot	kot	SCONJ	Cs	_	12	case	_	pronunciation=kot|Gos2.1_token_id=Gos003.tok2795
+12	razliko	razlika	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	10	obl	_	pronunciation=razliko|Gos2.1_token_id=Gos003.tok2796
+13	v	v	ADP	Sl	Case=Loc	16	case	_	pronunciation=v|Gos2.1_token_id=Gos003.tok2797
+14	aktivacijski	aktivacijski	ADJ	Agpfsl	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	pronunciation=aktivacijski|Gos2.1_token_id=Gos003.tok2798
+15	prosti	prost	ADJ	Agpfsl	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	pronunciation=prosti|Gos2.1_token_id=Gos003.tok2799
+16	energiji	energija	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	12	nmod	_	pronunciation=energiji|Gos2.1_token_id=Gos003.tok2800
+17	glede	glede	ADV	Rgp	Degree=Pos	21	advmod	_	pronunciation=glede|Gos2.1_token_id=Gos003.tok2801
+18	na	na	ADP	Sa	Case=Acc	21	case	_	pronunciation=na|Gos2.1_token_id=Gos003.tok2802
+19	to	ta	DET	Pd-fsa	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	21	det	_	pronunciation=to|Gos2.1_token_id=Gos003.tok2803
+20	ravnotežno	ravnotežen	ADJ	Agpfsa	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	pronunciation=ravnotežno|Gos2.1_token_id=Gos003.tok2804
+21	situacijo	situacija	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	10	obl	_	pronunciation=situacijo|Gos2.1_token_id=Gos003.tok2805
+22	,	,	PUNCT	Z	_	27	punct	_	_
+23	kadar	kadar	SCONJ	Cs	_	27	mark	_	pronunciation=kadar|Gos2.1_token_id=Gos003.tok2806
+24	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	27	cop	_	pronunciation=je|Gos2.1_token_id=Gos003.tok2807
+25	rotacijska	rotacijski	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	26	amod	_	pronunciation=rotacijska|Gos2.1_token_id=Gos003.tok2808
+26	temperatura	temperatura	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	27	nsubj	_	pronunciation=temperatura|Gos2.1_token_id=Gos003.tok2809
+27	enaka	enak	DET	Pi-fsn	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	21	acl	_	pronunciation=enaka|Gos2.1_token_id=Gos003.tok2810
+28	translacijski	translacijski	ADJ	Agpfsd	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	29	amod	_	pronunciation=translacijski|Gos2.1_token_id=Gos003.tok2811
+29	temperaturi	temperatura	NOUN	Ncfsd	Case=Dat|Gender=Fem|Number=Sing	27	obj	_	pronunciation=temperaturi|Gos2.1_token_id=Gos003.tok2812
+30	,	,	PUNCT	Z	_	27	punct	_	_
+31	v	v	ADP	Sl	Case=Loc	33	case	_	pronunciation=v|Gos2.1_token_id=Gos003.tok2813
+32	našem	naš	DET	Ps1mslp	Case=Loc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	33	det	_	pronunciation=našem|Gos2.1_token_id=Gos003.tok2814
+33	primeru	primer	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	37	obl	_	pronunciation=primeru|Gos2.1_token_id=Gos003.tok2815
+34	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	37	cop	_	pronunciation=je|Gos2.1_token_id=Gos003.tok2816
+35	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	37	nsubj	_	pronunciation=to|Gos2.1_token_id=Gos003.tok2817
+36	tristo	tristo	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	37	nummod	_	pronunciation=tristo|Gos2.1_token_id=Gos003.tok2818
+37	kelvinov	kelvin	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	27	parataxis	_	pronunciation=kelvinov|Gos2.1_token_id=Gos003.tok2819
+38	.	.	PUNCT	Z	_	10	punct	_	_
+
+
+# sent_id = Gos003.s208
+# speaker_id = Um-pred-01619
+# sound_url = https://nl.ijs.si/project/gos20/Gos003/Gos003.s208.mp3
+# text = in v tem primeru povišana trans- , eee , rotacijska temperatura prevzame vlogo katalizatorja .
+# split = train
+1	in	in	CCONJ	Cc	_	12	cc	_	pronunciation=in|Gos2.1_token_id=Gos003.tok2820
+2	v	v	ADP	Sl	Case=Loc	4	case	_	pronunciation=v|Gos2.1_token_id=Gos003.tok2821
+3	tem	ta	DET	Pd-msl	Case=Loc|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	pronunciation=tem|Gos2.1_token_id=Gos003.tok2822
+4	primeru	primer	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	12	obl	_	pronunciation=primeru|Gos2.1_token_id=Gos003.tok2823
+5	povišana	povišan	ADJ	Appfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part	11	amod	_	pronunciation=povišana|Gos2.1_token_id=Gos003.tok2824
+6	trans-	trans-	X	Xt	_	10	reparandum	_	pronunciation=trans…|Gos2.1_token_id=Gos003.tok2825
+7	,	,	PUNCT	Z	_	6	punct	_	_
+8	eee	eee	INTJ	I	_	12	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos003.tok2826
+9	,	,	PUNCT	Z	_	8	punct	_	_
+10	rotacijska	rotacijski	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	pronunciation=rotacijska|Gos2.1_token_id=Gos003.tok2827
+11	temperatura	temperatura	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	pronunciation=temperatura|Gos2.1_token_id=Gos003.tok2828
+12	prevzame	prevzeti	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=prevzame|Gos2.1_token_id=Gos003.tok2829
+13	vlogo	vloga	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	12	obj	_	pronunciation=vlogo|Gos2.1_token_id=Gos003.tok2830
+14	katalizatorja	katalizator	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	pronunciation=katalizatorja|Gos2.1_token_id=Gos003.tok2831
+15	.	.	PUNCT	Z	_	12	punct	_	_
+
+
+# sent_id = Gos003.s210
+# speaker_id = Um-pred-01619
+# sound_url = https://nl.ijs.si/project/gos20/Gos003/Gos003.s210.mp3
+# text = slika tudi jasno kaže , da je ta upad aktivacijske bariere najbolj izrazit , kadar razlika med rotacijsko temperaturo in translacijsko temperaturo ni tako zelo velika .
+# split = train
+1	slika	slika	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	pronunciation=slika|Gos2.1_token_id=Gos003.tok2832
+2	tudi	tudi	PART	Q	_	4	advmod	_	pronunciation=tud|Gos2.1_token_id=Gos003.tok2833
+3	jasno	jasno	ADV	Rgp	Degree=Pos	4	advmod	_	pronunciation=jasno|Gos2.1_token_id=Gos003.tok2834
+4	kaže	kazati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=kaže|Gos2.1_token_id=Gos003.tok2835
+5	,	,	PUNCT	Z	_	13	punct	_	_
+6	da	da	SCONJ	Cs	_	13	mark	_	pronunciation=da|Gos2.1_token_id=Gos003.tok2836
+7	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	13	cop	_	pronunciation=je|Gos2.1_token_id=Gos003.tok2837
+8	ta	ta	DET	Pd-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	pronunciation=ta|Gos2.1_token_id=Gos003.tok2838
+9	upad	upad	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	pronunciation=vpad|Gos2.1_token_id=Gos003.tok2839
+10	aktivacijske	aktivacijski	ADJ	Agpfsg	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	pronunciation=aktivacijske|Gos2.1_token_id=Gos003.tok2840
+11	bariere	bariera	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	pronunciation=bariere|Gos2.1_token_id=Gos003.tok2841
+12	najbolj	najbolj	ADV	Rgs	Degree=Sup	13	advmod	_	pronunciation=najbl|Gos2.1_token_id=Gos003.tok2842
+13	izrazit	izrazit	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	4	ccomp	_	pronunciation=izrazit|Gos2.1_token_id=Gos003.tok2843
+14	,	,	PUNCT	Z	_	26	punct	_	_
+15	kadar	kadar	SCONJ	Cs	_	26	mark	_	pronunciation=kedr|Gos2.1_token_id=Gos003.tok2844
+16	razlika	razlika	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	26	nsubj	_	pronunciation=razlika|Gos2.1_token_id=Gos003.tok2845
+17	med	med	ADP	Si	Case=Ins	19	case	_	pronunciation=med|Gos2.1_token_id=Gos003.tok2846
+18	rotacijsko	rotacijski	ADJ	Agpfsi	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	pronunciation=rotacijsko|Gos2.1_token_id=Gos003.tok2847
+19	temperaturo	temperatura	NOUN	Ncfsi	Case=Ins|Gender=Fem|Number=Sing	16	nmod	_	pronunciation=temperaturo|Gos2.1_token_id=Gos003.tok2848
+20	in	in	CCONJ	Cc	_	22	cc	_	pronunciation=in|Gos2.1_token_id=Gos003.tok2849
+21	translacijsko	translacijski	ADJ	Agpfsi	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	pronunciation=translacijsko|Gos2.1_token_id=Gos003.tok2850
+22	temperaturo	temperatura	NOUN	Ncfsi	Case=Ins|Gender=Fem|Number=Sing	19	conj	_	pronunciation=temperaturo|Gos2.1_token_id=Gos003.tok2851
+23	ni	biti	AUX	Va-r3s-y	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	26	cop	_	pronunciation=ni|Gos2.1_token_id=Gos003.tok2852
+24	tako	tako	ADV	Rgp	Degree=Pos	26	advmod	_	pronunciation=tko|Gos2.1_token_id=Gos003.tok2853
+25	zelo	zelo	ADV	Rgp	Degree=Pos	26	advmod	_	pronunciation=zlo|Gos2.1_token_id=Gos003.tok2854
+26	velika	velik	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	13	advcl	_	pronunciation=velika|Gos2.1_token_id=Gos003.tok2855
+27	.	.	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos003.s211
+# speaker_id = Um-pred-01619
+# sound_url = https://nl.ijs.si/project/gos20/Gos003/Gos003.s211.mp3
+# text = medtem ko pa ta razlika začne naraščati , pa ta upad ni več tako izrazit , neke sorte plato dobimo .
+# split = train
+1	medtem	medtem	ADV	Rgp	Degree=Pos	6	mark	_	pronunciation=medtem|Gos2.1_token_id=Gos003.tok2856
+2	ko	ko	SCONJ	Cs	_	1	fixed	_	pronunciation=ko|Gos2.1_token_id=Gos003.tok2857
+3	pa	pa	CCONJ	Cc	_	6	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos003.tok2858
+4	ta	ta	DET	Pd-fsn	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	pronunciation=ta|Gos2.1_token_id=Gos003.tok2859
+5	razlika	razlika	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	pronunciation=razlika|Gos2.1_token_id=Gos003.tok2860
+6	začne	začeti	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advcl	_	pronunciation=začne|Gos2.1_token_id=Gos003.tok2861
+7	naraščati	naraščati	VERB	Vmpn	Aspect=Imp|VerbForm=Inf	6	xcomp	_	pronunciation=naraščat|Gos2.1_token_id=Gos003.tok2862
+8	,	,	PUNCT	Z	_	6	punct	_	_
+9	pa	pa	CCONJ	Cc	_	15	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos003.tok2863
+10	ta	ta	DET	Pd-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	11	det	_	pronunciation=ta|Gos2.1_token_id=Gos003.tok2864
+11	upad	upad	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	pronunciation=vpad|Gos2.1_token_id=Gos003.tok2865
+12	ni	biti	AUX	Va-r3s-y	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	15	cop	_	pronunciation=ni|Gos2.1_token_id=Gos003.tok2866
+13	več	več	PART	Q	_	15	advmod	_	pronunciation=več|Gos2.1_token_id=Gos003.tok2867
+14	tako	tako	ADV	Rgp	Degree=Pos	15	advmod	_	pronunciation=tko|Gos2.1_token_id=Gos003.tok2868
+15	izrazit	izrazit	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	pronunciation=izrazit|Gos2.1_token_id=Gos003.tok2869
+16	,	,	PUNCT	Z	_	20	punct	_	_
+17	neke	nek	DET	Pi-fsg	Case=Gen|Gender=Fem|Number=Sing|PronType=Ind	18	det	_	pronunciation=neke|Gos2.1_token_id=Gos003.tok2870
+18	sorte	sorta	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	pronunciation=sorte|Gos2.1_token_id=Gos003.tok2871
+19	plato	plata	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	20	obj	_	pronunciation=plato|Gos2.1_token_id=Gos003.tok2872
+20	dobimo	dobiti	VERB	Vmer1p	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	15	parataxis	_	pronunciation=dobimo|Gos2.1_token_id=Gos003.tok2873
+21	.	.	PUNCT	Z	_	15	punct	_	_
+
+

@@ -1,0 +1,103 @@
+# newdoc id = Gos114
+# sent_id = Gos114.s41
+# speaker_id = Ef-mode-01604
+# sound_url = https://nl.ijs.si/project/gos20/Gos114/Gos114.s41.mp3
+# text = mhm .
+# split = train
+1	mhm	mhm	INTJ	I	_	0	root	_	pronunciation=mhm|Gos2.1_token_id=Gos114.tok512
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos114.s42
+# speaker_id = Ef-mode-01604
+# sound_url = https://nl.ijs.si/project/gos20/Gos114/Gos114.s42.mp3
+# text = to sicer mi , ki nismo pravniki , majčkeno težko zdaj razumemo , verjetno tudi velik del naših gledalcev , o čemer ste se zdaj pogovarjali , verjetno bo tole vprašanje stroka še morala reševati .
+# split = train
+1	to	ta	DET	Pd-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	12	obj	_	pronunciation=to|Gos2.1_token_id=Gos114.tok513
+2	sicer	sicer	PART	Q	_	12	advmod	_	pronunciation=sicer|Gos2.1_token_id=Gos114.tok514
+3	mi	jaz	PRON	Pp1mpn	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	pronunciation=mi|Gos2.1_token_id=Gos114.tok515
+4	,	,	PUNCT	Z	_	7	punct	_	_
+5	ki	ki	SCONJ	Cs	_	7	mark	_	pronunciation=ki|Gos2.1_token_id=Gos114.tok516
+6	nismo	biti	AUX	Va-r1p-y	Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	7	cop	_	pronunciation=nismo|Gos2.1_token_id=Gos114.tok517
+7	pravniki	pravnik	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	3	acl	_	pronunciation=pravniki|Gos2.1_token_id=Gos114.tok518
+8	,	,	PUNCT	Z	_	7	punct	_	_
+9	majčkeno	majčkeno	ADV	Rgp	Degree=Pos	10	advmod	_	pronunciation=majčken|Gos2.1_token_id=Gos114.tok519
+10	težko	težko	ADV	Rgp	Degree=Pos	12	advmod	_	pronunciation=težko|Gos2.1_token_id=Gos114.tok520
+11	zdaj	zdaj	ADV	Rgp	Degree=Pos	12	advmod	_	pronunciation=zdej|Gos2.1_token_id=Gos114.tok521
+12	razumemo	razumeti	VERB	Vmbr1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=razumemo|Gos2.1_token_id=Gos114.tok522
+13	,	,	PUNCT	Z	_	17	punct	_	_
+14	verjetno	verjetno	ADV	Rgp	Degree=Pos	17	advmod	_	pronunciation=verjetno|Gos2.1_token_id=Gos114.tok523
+15	tudi	tudi	PART	Q	_	17	advmod	_	pronunciation=tudi|Gos2.1_token_id=Gos114.tok524
+16	velik	velik	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	pronunciation=velik|Gos2.1_token_id=Gos114.tok525
+17	del	del	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	12	parataxis	_	pronunciation=del|Gos2.1_token_id=Gos114.tok526
+18	naših	naš	DET	Ps1mpgp	Case=Gen|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	19	det	_	pronunciation=naših|Gos2.1_token_id=Gos114.tok527
+19	gledalcev	gledalec	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	17	nmod	_	pronunciation=gledalcev|Gos2.1_token_id=Gos114.tok528
+20	,	,	PUNCT	Z	_	26	punct	_	_
+21	o	o	ADP	Sl	Case=Loc	22	case	_	pronunciation=o|Gos2.1_token_id=Gos114.tok529
+22	čemer	kar	PRON	Pr-nsl	Case=Loc|Gender=Neut|Number=Sing|PronType=Rel	26	obl	_	pronunciation=čemer|Gos2.1_token_id=Gos114.tok530
+23	ste	biti	AUX	Va-r2p-n	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	26	aux	_	pronunciation=ste|Gos2.1_token_id=Gos114.tok531
+24	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	26	expl	_	pronunciation=se|Gos2.1_token_id=Gos114.tok532
+25	zdaj	zdaj	ADV	Rgp	Degree=Pos	26	advmod	_	pronunciation=zdaj|Gos2.1_token_id=Gos114.tok533
+26	pogovarjali	pogovarjati	VERB	Vmpp-pm	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	1	acl	_	pronunciation=pogovarjali|Gos2.1_token_id=Gos114.tok534
+27	,	,	PUNCT	Z	_	34	punct	_	_
+28	verjetno	verjetno	ADV	Rgp	Degree=Pos	34	advmod	_	pronunciation=verjetno|Gos2.1_token_id=Gos114.tok535
+29	bo	biti	AUX	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	34	aux	_	pronunciation=bo|Gos2.1_token_id=Gos114.tok536
+30	tole	tale	DET	Pd-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	31	det	_	pronunciation=tole|Gos2.1_token_id=Gos114.tok537
+31	vprašanje	vprašanje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	34	obj	_	pronunciation=vprašanje|Gos2.1_token_id=Gos114.tok538
+32	stroka	stroka	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	34	nsubj	_	pronunciation=stroka|Gos2.1_token_id=Gos114.tok539
+33	še	še	PART	Q	_	34	advmod	_	pronunciation=še|Gos2.1_token_id=Gos114.tok540
+34	morala	morati	VERB	Vmpp-sf	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	12	parataxis	_	pronunciation=morala|Gos2.1_token_id=Gos114.tok541
+35	reševati	reševati	VERB	Vmpn	Aspect=Imp|VerbForm=Inf	34	xcomp	_	pronunciation=reševat|Gos2.1_token_id=Gos114.tok542
+36	.	.	PUNCT	Z	_	12	punct	_	_
+
+
+# sent_id = Gos114.s43
+# speaker_id = Ef-mode-01604
+# sound_url = https://nl.ijs.si/project/gos20/Gos114/Gos114.s43.mp3
+# text = ampak brez dvoma pa je , da so sicer očitki , usmerjeni zoper ta kazenski zakonik , bili , da je šel preveč rigorozno za visokimi kaznimi .
+# split = train
+1	ampak	ampak	CCONJ	Cc	_	5	cc	_	pronunciation=ampak|Gos2.1_token_id=Gos114.tok543
+2	brez	brez	ADP	Sg	Case=Gen	3	case	_	pronunciation=brez|Gos2.1_token_id=Gos114.tok544
+3	dvoma	dvom	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	5	obl	_	pronunciation=dvoma|Gos2.1_token_id=Gos114.tok545
+4	pa	pa	CCONJ	Cc	_	5	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos114.tok546
+5	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=je|Gos2.1_token_id=Gos114.tok547
+6	,	,	PUNCT	Z	_	10	punct	_	_
+7	da	da	SCONJ	Cs	_	10	mark	_	pronunciation=da|Gos2.1_token_id=Gos114.tok548
+8	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	aux	_	pronunciation=so|Gos2.1_token_id=Gos114.tok549
+9	sicer	sicer	PART	Q	_	10	advmod	_	pronunciation=sicer|Gos2.1_token_id=Gos114.tok550
+10	očitki	očitek	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	5	csubj	_	pronunciation=očitki|Gos2.1_token_id=Gos114.tok551
+11	,	,	PUNCT	Z	_	12	punct	_	_
+12	usmerjeni	usmerjen	ADJ	Appmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part	10	acl	_	pronunciation=usmerjeni|Gos2.1_token_id=Gos114.tok552
+13	zoper	zoper	ADP	Sa	Case=Acc	16	case	_	pronunciation=zoper|Gos2.1_token_id=Gos114.tok553
+14	ta	ta	DET	Pd-msa	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	16	det	_	pronunciation=ta|Gos2.1_token_id=Gos114.tok554
+15	kazenski	kazenski	ADJ	Agpmsay	Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	pronunciation=kazenski|Gos2.1_token_id=Gos114.tok555
+16	zakonik	zakonik	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	nmod	_	pronunciation=zakonik|Gos2.1_token_id=Gos114.tok556
+17	,	,	PUNCT	Z	_	12	punct	_	_
+18	bili	biti	AUX	Va-p-pm	Gender=Masc|Number=Plur|VerbForm=Part	10	cop	_	pronunciation=bili|Gos2.1_token_id=Gos114.tok557
+19	,	,	PUNCT	Z	_	22	punct	_	_
+20	da	da	SCONJ	Cs	_	22	mark	_	pronunciation=da|Gos2.1_token_id=Gos114.tok558
+21	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	22	aux	_	pronunciation=je|Gos2.1_token_id=Gos114.tok559
+22	šel	iti	VERB	Vmbp-sm	Gender=Masc|Number=Sing|VerbForm=Part	10	csubj	_	pronunciation=šel|Gos2.1_token_id=Gos114.tok560
+23	preveč	preveč	DET	Rgp	PronType=Ind	24	advmod	_	pronunciation=preveč|Gos2.1_token_id=Gos114.tok561
+24	rigorozno	rigorozno	ADV	Rgp	Degree=Pos	22	advmod	_	pronunciation=rigorozno|Gos2.1_token_id=Gos114.tok562
+25	za	za	ADP	Si	Case=Ins	27	case	_	pronunciation=za|Gos2.1_token_id=Gos114.tok563
+26	visokimi	visok	ADJ	Agpfpi	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur	27	amod	_	pronunciation=visokimi|Gos2.1_token_id=Gos114.tok564
+27	kaznimi	kazen	NOUN	Ncfpi	Case=Ins|Gender=Fem|Number=Plur	22	obl	_	pronunciation=kaznimi|Gos2.1_token_id=Gos114.tok565
+28	.	.	PUNCT	Z	_	5	punct	_	_
+
+
+# sent_id = Gos114.s44
+# speaker_id = Ef-mode-01604
+# sound_url = https://nl.ijs.si/project/gos20/Gos114/Gos114.s44.mp3
+# text = kakšen je vaš generalni odgovor na to ?
+# split = train
+1	kakšen	kakšen	DET	Pq-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	0	root	_	pronunciation=kašn|Gos2.1_token_id=Gos114.tok566
+2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	cop	_	pronunciation=je|Gos2.1_token_id=Gos114.tok567
+3	vaš	vaš	DET	Ps2msnp	Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	5	det	_	pronunciation=vaš|Gos2.1_token_id=Gos114.tok568
+4	generalni	generalen	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	pronunciation=generalni|Gos2.1_token_id=Gos114.tok569
+5	odgovor	odgovor	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	pronunciation=odgovor|Gos2.1_token_id=Gos114.tok570
+6	na	na	ADP	Sa	Case=Acc	7	case	_	pronunciation=na|Gos2.1_token_id=Gos114.tok571
+7	to	ta	DET	Pd-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	nmod	_	pronunciation=to|Gos2.1_token_id=Gos114.tok572
+8	?	?	PUNCT	Z	_	1	punct	_	_
+
+

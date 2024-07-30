@@ -1,0 +1,191 @@
+# newdoc id = Gos021
+# sent_id = Gos021.s146
+# speaker_id = Sf-prof-01049
+# sound_url = https://nl.ijs.si/project/gos20/Gos021/Gos021.s146.mp3
+# text = polovico , več ne rabimo , da vidimo preskok .
+# split = test
+1	polovico	polovica	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	0	root	_	pronunciation=polovico|Gos2.1_token_id=Gos021.tok847
+2	,	,	PUNCT	Z	_	5	punct	_	_
+3	več	več	DET	Rgc	PronType=Ind	5	advmod	_	pronunciation=več|Gos2.1_token_id=Gos021.tok848
+4	ne	ne	PART	Q	Polarity=Neg	5	advmod	_	pronunciation=ne|Gos2.1_token_id=Gos021.tok849
+5	rabimo	rabiti	VERB	Vmpr1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	parataxis	_	pronunciation=rabimo|Gos2.1_token_id=Gos021.tok850
+6	,	,	PUNCT	Z	_	8	punct	_	_
+7	da	da	SCONJ	Cs	_	8	mark	_	pronunciation=da|Gos2.1_token_id=Gos021.tok851
+8	vidimo	videti	VERB	Vmbr1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	_	pronunciation=vidimo|Gos2.1_token_id=Gos021.tok852
+9	preskok	preskok	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obj	_	pronunciation=preskok|Gos2.1_token_id=Gos021.tok853
+10	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos021.s147
+# speaker_id = Sf-prof-01049
+# sound_url = https://nl.ijs.si/project/gos20/Gos021/Gos021.s147.mp3
+# text = se vidi preskok ?
+# split = test
+1	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	2	expl	_	pronunciation=se|Gos2.1_token_id=Gos021.tok854
+2	vidi	videti	VERB	Vmbr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=vidi|Gos2.1_token_id=Gos021.tok855
+3	preskok	preskok	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	pronunciation=preskok|Gos2.1_token_id=Gos021.tok856
+4	?	?	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos021.s148
+# speaker_id = Af-ucen-01051
+# sound_url = https://nl.ijs.si/project/gos20/Gos021/Gos021.s148.mp3
+# text = ja .
+# split = test
+1	ja	ja	PART	Q	_	0	root	_	pronunciation=ja|Gos2.1_token_id=Gos021.tok858
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos021.s149
+# speaker_id = Sf-prof-01049
+# sound_url = https://nl.ijs.si/project/gos20/Gos021/Gos021.s149.mp3
+# text = prej je bil moder , polovica je še vedno moder , ostala polovica pa je že
+# split = test
+1	prej	prej	ADV	Rgc	Degree=Cmp	4	advmod	_	pronunciation=prej|Gos2.1_token_id=Gos021.tok859
+2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	pronunciation=je|Gos2.1_token_id=Gos021.tok860
+3	bil	biti	AUX	Va-p-sm	Gender=Masc|Number=Sing|VerbForm=Part	4	cop	_	pronunciation=bil|Gos2.1_token_id=Gos021.tok861
+4	moder	moder	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	pronunciation=moder|Gos2.1_token_id=Gos021.tok862
+5	,	,	PUNCT	Z	_	10	punct	_	_
+6	polovica	polovica	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	pronunciation=polovica|Gos2.1_token_id=Gos021.tok863
+7	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	cop	_	pronunciation=je|Gos2.1_token_id=Gos021.tok864
+8	še	še	PART	Q	_	10	advmod	_	pronunciation=še|Gos2.1_token_id=Gos021.tok865
+9	vedno	vedno	ADV	Rgp	Degree=Pos	10	advmod	_	pronunciation=vedno|Gos2.1_token_id=Gos021.tok866
+10	moder	moder	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	4	parataxis	_	pronunciation=moder|Gos2.1_token_id=Gos021.tok867
+11	,	,	PUNCT	Z	_	15	punct	_	_
+12	ostala	ostal	ADJ	Appfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part	13	amod	_	pronunciation=ostala|Gos2.1_token_id=Gos021.tok868
+13	polovica	polovica	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	pronunciation=polovica|Gos2.1_token_id=Gos021.tok869
+14	pa	pa	CCONJ	Cc	_	15	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos021.tok870
+15	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	parataxis	_	pronunciation=je|Gos2.1_token_id=Gos021.tok871
+16	že	že	PART	Q	_	15	advmod	_	pronunciation=že|Gos2.1_token_id=Gos021.tok872
+
+
+# sent_id = Gos021.s150
+# speaker_id = Pn-vsiucenci-10000
+# sound_url = https://nl.ijs.si/project/gos20/Gos021/Gos021.s150.mp3
+# text = rdeča .
+# split = test
+1	rdeča	rdeč	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	pronunciation=rdeča|Gos2.1_token_id=Gos021.tok873
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos021.s151
+# speaker_id = Sf-prof-01049
+# sound_url = https://nl.ijs.si/project/gos20/Gos021/Gos021.s151.mp3
+# text = rdeča .
+# split = test
+1	rdeča	rdeč	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	pronunciation=rdeča|Gos2.1_token_id=Gos021.tok874
+2	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos021.s152
+# speaker_id = Sf-prof-01049
+# sound_url = https://nl.ijs.si/project/gos20/Gos021/Gos021.s152.mp3
+# text = in zdaj moramo vpisati preskok v kolono naslednj- , v tretjo kolono , kako bomo to napisali , [name:personal] ?
+# split = test
+1	in	in	CCONJ	Cc	_	3	cc	_	pronunciation=in|Gos2.1_token_id=Gos021.tok875
+2	zdaj	zdaj	ADV	Rgp	Degree=Pos	3	advmod	_	pronunciation=zdej|Gos2.1_token_id=Gos021.tok876
+3	moramo	morati	VERB	Vmpr1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=moramo|Gos2.1_token_id=Gos021.tok877
+4	vpisati	vpisati	VERB	Vmen	Aspect=Perf|VerbForm=Inf	3	xcomp	_	pronunciation=fpisat|Gos2.1_token_id=Gos021.tok878
+5	preskok	preskok	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	pronunciation=preskok|Gos2.1_token_id=Gos021.tok879
+6	v	v	ADP	Sa	Case=Acc	7	case	_	pronunciation=v|Gos2.1_token_id=Gos021.tok880
+7	kolono	kolona	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	12	reparandum	_	pronunciation=kolono|Gos2.1_token_id=Gos021.tok881
+8	naslednj-	naslednj-	X	Xt	_	7	orphan	_	pronunciation=naslednj…|Gos2.1_token_id=Gos021.tok882
+9	,	,	PUNCT	Z	_	7	punct	_	_
+10	v	v	ADP	Sa	Case=Acc	12	case	_	pronunciation=v|Gos2.1_token_id=Gos021.tok883
+11	tretjo	tretji	ADJ	Mlofsa	Case=Acc|Gender=Fem|Number=Sing|NumType=Ord	12	amod	_	pronunciation=tretjo|Gos2.1_token_id=Gos021.tok884
+12	kolono	kolona	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	pronunciation=kolono|Gos2.1_token_id=Gos021.tok885
+13	,	,	PUNCT	Z	_	17	punct	_	_
+14	kako	kako	ADV	Rgp	Degree=Pos	17	advmod	_	pronunciation=kako|Gos2.1_token_id=Gos021.tok886
+15	bomo	biti	AUX	Va-f1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin	17	aux	_	pronunciation=bomo|Gos2.1_token_id=Gos021.tok887
+16	to	ta	DET	Pd-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	17	obj	_	pronunciation=to|Gos2.1_token_id=Gos021.tok888
+17	napisali	napisati	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	3	parataxis	_	pronunciation=napisali|Gos2.1_token_id=Gos021.tok889
+18	,	,	PUNCT	Z	_	19	punct	_	_
+19	[name:personal]	[name:personal]	PROPN	X	_	17	vocative	_	pronunciation=[name:personal]|Gos2.1_token_id=Gos021.s152.element1
+20	?	?	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos021.s153
+# speaker_id = Bm-ucen-01052
+# sound_url = https://nl.ijs.si/project/gos20/Gos021/Gos021.s153.mp3
+# text = ja , iz modre v rdečo .
+# split = test
+1	ja	ja	PART	Q	_	4	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos021.tok890
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	iz	iz	ADP	Sg	Case=Gen	4	case	_	pronunciation=iz|Gos2.1_token_id=Gos021.tok892
+4	modre	moder	ADJ	Agpfsg	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	pronunciation=modre|Gos2.1_token_id=Gos021.tok893
+5	v	v	ADP	Sa	Case=Acc	6	case	_	pronunciation=v|Gos2.1_token_id=Gos021.tok894
+6	rdečo	rdeč	ADJ	Agpfsa	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	orphan	_	pronunciation=rdečo|Gos2.1_token_id=Gos021.tok895
+7	.	.	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos021.s154
+# speaker_id = Sf-prof-01049
+# sound_url = https://nl.ijs.si/project/gos20/Gos021/Gos021.s154.mp3
+# text = preskok barve , torej moder , rdeč .
+# split = test
+1	preskok	preskok	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	root	_	pronunciation=preskok|Gos2.1_token_id=Gos021.tok896
+2	barve	barva	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	pronunciation=barve|Gos2.1_token_id=Gos021.tok897
+3	,	,	PUNCT	Z	_	5	punct	_	_
+4	torej	torej	CCONJ	Cc	_	5	cc	_	pronunciation=torej|Gos2.1_token_id=Gos021.tok899
+5	moder	moder	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	1	conj	_	pronunciation=moder|Gos2.1_token_id=Gos021.tok900
+6	,	,	PUNCT	Z	_	7	punct	_	_
+7	rdeč	rdeč	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	conj	_	pronunciation=rdeč|Gos2.1_token_id=Gos021.tok901
+8	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos021.s156
+# speaker_id = Sf-prof-01049
+# sound_url = https://nl.ijs.si/project/gos20/Gos021/Gos021.s156.mp3
+# text = tako , zdaj bomo pa polovico naše vodne raztopine prelili v drugo epruvetko .
+# split = test
+1	tako	tako	ADV	Rgp	Degree=Pos	10	discourse	_	pronunciation=tako|Gos2.1_token_id=Gos021.tok902
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	zdaj	zdaj	ADV	Rgp	Degree=Pos	10	advmod	_	pronunciation=zdaj|Gos2.1_token_id=Gos021.tok903
+4	bomo	biti	AUX	Va-f1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin	10	aux	_	pronunciation=bomo|Gos2.1_token_id=Gos021.tok904
+5	pa	pa	CCONJ	Cc	_	10	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos021.tok905
+6	polovico	polovica	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	pronunciation=polovico|Gos2.1_token_id=Gos021.tok906
+7	naše	naš	DET	Ps1fsgp	Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	9	det	_	pronunciation=naše|Gos2.1_token_id=Gos021.tok907
+8	vodne	voden	ADJ	Agpfsg	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	pronunciation=vodne|Gos2.1_token_id=Gos021.tok908
+9	raztopine	raztopina	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	pronunciation=raztopine|Gos2.1_token_id=Gos021.tok909
+10	prelili	preliti	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	pronunciation=prelili|Gos2.1_token_id=Gos021.tok910
+11	v	v	ADP	Sa	Case=Acc	13	case	_	pronunciation=v|Gos2.1_token_id=Gos021.tok911
+12	drugo	drug	ADJ	Mlpfsa	Case=Acc|Gender=Fem|Number=Sing	13	amod	_	pronunciation=drugo|Gos2.1_token_id=Gos021.tok912
+13	epruvetko	epruvetka	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	10	obl	_	pronunciation=epruvetko|Gos2.1_token_id=Gos021.tok913
+14	.	.	PUNCT	Z	_	10	punct	_	_
+
+
+# sent_id = Gos021.s157
+# speaker_id = Sf-prof-01049
+# sound_url = https://nl.ijs.si/project/gos20/Gos021/Gos021.s157.mp3
+# text = tako boste tudi vi počeli potem , jaz si zdaj pomagam tukaj z lijem , vi ne boste rabili lija , ker nimate takšnih jedkih preiskovanih snovi .
+# split = test
+1	tako	tako	ADV	Rgp	Degree=Pos	5	advmod	_	pronunciation=tako|Gos2.1_token_id=Gos021.tok914
+2	boste	biti	AUX	Va-f2p-n	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Fut|VerbForm=Fin	5	aux	_	pronunciation=boste|Gos2.1_token_id=Gos021.tok915
+3	tudi	tudi	PART	Q	_	4	advmod	_	pronunciation=tudi|Gos2.1_token_id=Gos021.tok916
+4	vi	ti	PRON	Pp2mpn	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	pronunciation=vi|Gos2.1_token_id=Gos021.tok917
+5	počeli	početi	VERB	Vmbp-pm	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	pronunciation=počeli|Gos2.1_token_id=Gos021.tok918
+6	potem	potem	ADV	Rgp	Degree=Pos	5	advmod	_	pronunciation=potem|Gos2.1_token_id=Gos021.tok919
+7	,	,	PUNCT	Z	_	11	punct	_	_
+8	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	pronunciation=jz|Gos2.1_token_id=Gos021.tok920
+9	si	se	PRON	Px---d--y	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	11	obj	_	pronunciation=si|Gos2.1_token_id=Gos021.tok921
+10	zdaj	zdaj	ADV	Rgp	Degree=Pos	11	advmod	_	pronunciation=zdej|Gos2.1_token_id=Gos021.tok922
+11	pomagam	pomagati	VERB	Vmbr1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	parataxis	_	pronunciation=pomagam|Gos2.1_token_id=Gos021.tok923
+12	tukaj	tukaj	ADV	Rgp	Degree=Pos	11	advmod	_	pronunciation=tukaj|Gos2.1_token_id=Gos021.tok924
+13	z	z	ADP	Si	Case=Ins	14	case	_	pronunciation=z|Gos2.1_token_id=Gos021.tok925
+14	lijem	lij	NOUN	Ncmsi	Case=Ins|Gender=Masc|Number=Sing	11	obl	_	pronunciation=lijem|Gos2.1_token_id=Gos021.tok926
+15	,	,	PUNCT	Z	_	19	punct	_	_
+16	vi	ti	PRON	Pp2mpn	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	19	nsubj	_	pronunciation=vi|Gos2.1_token_id=Gos021.tok927
+17	ne	ne	PART	Q	Polarity=Neg	19	advmod	_	pronunciation=ne|Gos2.1_token_id=Gos021.tok928
+18	boste	biti	AUX	Va-f2p-n	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Fut|VerbForm=Fin	19	aux	_	pronunciation=boste|Gos2.1_token_id=Gos021.tok929
+19	rabili	rabiti	VERB	Vmpp-pm	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	11	parataxis	_	pronunciation=rabli|Gos2.1_token_id=Gos021.tok930
+20	lija	lij	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	19	obj	_	pronunciation=lija|Gos2.1_token_id=Gos021.tok931
+21	,	,	PUNCT	Z	_	23	punct	_	_
+22	ker	ker	SCONJ	Cs	_	23	mark	_	pronunciation=ker|Gos2.1_token_id=Gos021.tok932
+23	nimate	imeti	VERB	Vmpr2p-y	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin	19	advcl	_	pronunciation=nimate|Gos2.1_token_id=Gos021.tok933
+24	takšnih	takšen	DET	Pd-fpg	Case=Gen|Gender=Fem|Number=Plur|PronType=Dem	27	det	_	pronunciation=takšnih|Gos2.1_token_id=Gos021.tok934
+25	jedkih	jedek	ADJ	Agpfpg	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	27	amod	_	pronunciation=jedkih|Gos2.1_token_id=Gos021.tok935
+26	preiskovanih	preiskovan	ADJ	Appfpg	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part	27	amod	_	pronunciation=preiskovanih|Gos2.1_token_id=Gos021.tok936
+27	snovi	snov	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	23	obj	_	pronunciation=snovi|Gos2.1_token_id=Gos021.tok937
+28	.	.	PUNCT	Z	_	5	punct	_	_
+
+

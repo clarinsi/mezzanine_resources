@@ -1,0 +1,44 @@
+# newdoc id = Gos075
+# sent_id = Gos075.s20
+# speaker_id = Nf-novi-03502
+# sound_url = https://nl.ijs.si/project/gos20/Gos075/Gos075.s20.mp3
+# text = torej , volilni molk , tega v Združenih državah ne poznajo .
+# split = train
+1	torej	torej	CCONJ	Cc	_	11	discourse	_	pronunciation=torej|Gos2.1_token_id=Gos075.tok247
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	volilni	volilen	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	pronunciation=volilni|Gos2.1_token_id=Gos075.tok248
+4	molk	molk	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	11	dislocated	_	pronunciation=molk|Gos2.1_token_id=Gos075.tok249
+5	,	,	PUNCT	Z	_	4	punct	_	_
+6	tega	ta	DET	Pd-nsg	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	11	obj	_	pronunciation=tega|Gos2.1_token_id=Gos075.tok250
+7	v	v	ADP	Sl	Case=Loc	9	case	_	pronunciation=v|Gos2.1_token_id=Gos075.tok251
+8	Združenih	združen	ADJ	Appfpl	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part	9	amod	_	pronunciation=Združenih|Gos2.1_token_id=Gos075.tok252
+9	državah	država	NOUN	Ncfpl	Case=Loc|Gender=Fem|Number=Plur	11	obl	_	pronunciation=državah|Gos2.1_token_id=Gos075.tok253
+10	ne	ne	PART	Q	Polarity=Neg	11	advmod	_	pronunciation=ne|Gos2.1_token_id=Gos075.tok254
+11	poznajo	poznati	VERB	Vmpr3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=poznajo|Gos2.1_token_id=Gos075.tok255
+12	.	.	PUNCT	Z	_	11	punct	_	_
+
+
+# sent_id = Gos075.s21
+# speaker_id = Nf-novi-03502
+# sound_url = https://nl.ijs.si/project/gos20/Gos075/Gos075.s21.mp3
+# text = kandidata trdo delata , v glavnem se mudita v državah , kjer se napovedujejo tesni izidi .
+# split = train
+1	kandidata	kandidat	NOUN	Ncmdn	Case=Nom|Gender=Masc|Number=Dual	3	nsubj	_	pronunciation=kandidata|Gos2.1_token_id=Gos075.tok256
+2	trdo	trdo	ADV	Rgp	Degree=Pos	3	advmod	_	pronunciation=trdo|Gos2.1_token_id=Gos075.tok257
+3	delata	delati	VERB	Vmpr3d	Aspect=Imp|Mood=Ind|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=delata|Gos2.1_token_id=Gos075.tok258
+4	,	,	PUNCT	Z	_	8	punct	_	_
+5	v	v	ADP	Sl	Case=Loc	6	case	_	pronunciation=v|Gos2.1_token_id=Gos075.tok259
+6	glavnem	glaven	ADJ	Agpnsl	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	8	obl	_	pronunciation=glavnem|Gos2.1_token_id=Gos075.tok260
+7	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	8	expl	_	pronunciation=se|Gos2.1_token_id=Gos075.tok261
+8	mudita	muditi	VERB	Vmpr3d	Aspect=Imp|Mood=Ind|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	pronunciation=mudita|Gos2.1_token_id=Gos075.tok262
+9	v	v	ADP	Sl	Case=Loc	10	case	_	pronunciation=v|Gos2.1_token_id=Gos075.tok263
+10	državah	država	NOUN	Ncfpl	Case=Loc|Gender=Fem|Number=Plur	8	obl	_	pronunciation=državah|Gos2.1_token_id=Gos075.tok264
+11	,	,	PUNCT	Z	_	14	punct	_	_
+12	kjer	kjer	SCONJ	Cs	_	14	mark	_	pronunciation=kjer|Gos2.1_token_id=Gos075.tok265
+13	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	14	expl	_	pronunciation=se|Gos2.1_token_id=Gos075.tok266
+14	napovedujejo	napovedovati	VERB	Vmpr3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	acl	_	pronunciation=napovedujejo|Gos2.1_token_id=Gos075.tok267
+15	tesni	tesen	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	16	amod	_	pronunciation=tesni|Gos2.1_token_id=Gos075.tok268
+16	izidi	izid	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	14	nsubj	_	pronunciation=izidi|Gos2.1_token_id=Gos075.tok269
+17	.	.	PUNCT	Z	_	3	punct	_	_
+
+

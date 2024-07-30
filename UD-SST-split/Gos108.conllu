@@ -1,0 +1,28 @@
+# newdoc id = Gos108
+# sent_id = Gos108.s4
+# speaker_id = Am-anke-00008
+# sound_url = https://nl.ijs.si/project/gos20/Gos108/Gos108.s4.mp3
+# text = tveganja so postala večja .
+# split = train
+1	tveganja	tveganje	NOUN	Ncnpn	Case=Nom|Gender=Neut|Number=Plur	3	nsubj	_	pronunciation=tveganja|Gos2.1_token_id=Gos108.tok61
+2	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	pronunciation=so|Gos2.1_token_id=Gos108.tok62
+3	postala	postati	VERB	Vmep-pn	Aspect=Perf|Gender=Neut|Number=Plur|VerbForm=Part	0	root	_	pronunciation=postala|Gos2.1_token_id=Gos108.tok63
+4	večja	velik	ADJ	Agcnpn	Case=Nom|Degree=Cmp|Gender=Neut|Number=Plur	3	xcomp	_	pronunciation=večja|Gos2.1_token_id=Gos108.tok64
+5	.	.	PUNCT	Z	_	3	punct	_	_
+
+
+# sent_id = Gos108.s5
+# speaker_id = Am-anke-00008
+# sound_url = https://nl.ijs.si/project/gos20/Gos108/Gos108.s5.mp3
+# text = pozornost , eee , in analiza močnejša .
+# split = train
+1	pozornost	pozornost	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	pronunciation=pozornost|Gos2.1_token_id=Gos108.tok65
+2	,	,	PUNCT	Z	_	3	punct	_	_
+3	eee	eee	INTJ	I	_	7	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos108.tok66
+4	,	,	PUNCT	Z	_	3	punct	_	_
+5	in	in	CCONJ	Cc	_	6	cc	_	pronunciation=in|Gos2.1_token_id=Gos108.tok67
+6	analiza	analiza	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	pronunciation=analiza|Gos2.1_token_id=Gos108.tok68
+7	močnejša	močen	ADJ	Agcfsn	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	0	root	_	pronunciation=močnejša|Gos2.1_token_id=Gos108.tok69
+8	.	.	PUNCT	Z	_	7	punct	_	_
+
+

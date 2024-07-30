@@ -1,0 +1,78 @@
+# newdoc id = Gos071
+# sent_id = Gos071.s29
+# speaker_id = Ff-inte-05516
+# sound_url = https://nl.ijs.si/project/gos20/Gos071/Gos071.s29.mp3
+# text = seveda je pohvalno , da imamo , eee , več , eee , ministric v tej vladi , vendar pa jaz sama , eem , ne ocenjujem ljudi na takšnih položajih po spolu , ampak po tem , eee , kako učinkoviti so , eee , ali dovolj dobro poznajo resor , na katerem so , predvsem pa , ali znajo v nekem trenutku odreagirati , eee , pravilno .
+# split = train
+1	seveda	seveda	PART	Q	_	3	advmod	_	pronunciation=seveda|Gos2.1_token_id=Gos071.tok544
+2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	pronunciation=je|Gos2.1_token_id=Gos071.tok545
+3	pohvalno	pohvalen	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	pronunciation=pohvalno|Gos2.1_token_id=Gos071.tok546
+4	,	,	PUNCT	Z	_	6	punct	_	_
+5	da	da	SCONJ	Cs	_	6	mark	_	pronunciation=da|Gos2.1_token_id=Gos071.tok547
+6	imamo	imeti	VERB	Vmpr1p-n	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	csubj	_	pronunciation=imamo|Gos2.1_token_id=Gos071.tok548
+7	,	,	PUNCT	Z	_	8	punct	_	_
+8	eee	eee	INTJ	I	_	6	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos071.tok549
+9	,	,	PUNCT	Z	_	8	punct	_	_
+10	več	več	DET	Rgc	PronType=Ind	14	advmod	_	pronunciation=več|Gos2.1_token_id=Gos071.tok550
+11	,	,	PUNCT	Z	_	12	punct	_	_
+12	eee	eee	INTJ	I	_	6	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos071.tok551
+13	,	,	PUNCT	Z	_	12	punct	_	_
+14	ministric	ministrica	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	6	obj	_	pronunciation=ministric|Gos2.1_token_id=Gos071.tok552
+15	v	v	ADP	Sl	Case=Loc	17	case	_	pronunciation=v|Gos2.1_token_id=Gos071.tok553
+16	tej	ta	DET	Pd-fsl	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	17	det	_	pronunciation=tej|Gos2.1_token_id=Gos071.tok554
+17	vladi	vlada	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	6	obl	_	pronunciation=vladi|Gos2.1_token_id=Gos071.tok555
+18	,	,	PUNCT	Z	_	6	punct	_	_
+19	vendar	vendar	CCONJ	Cc	_	27	cc	_	pronunciation=vendar|Gos2.1_token_id=Gos071.tok556
+20	pa	pa	CCONJ	Cc	_	27	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos071.tok557
+21	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	27	nsubj	_	pronunciation=js|Gos2.1_token_id=Gos071.tok558
+22	sama	sam	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	pronunciation=sama|Gos2.1_token_id=Gos071.tok559
+23	,	,	PUNCT	Z	_	24	punct	_	_
+24	eem	eem	INTJ	I	_	27	discourse:filler	_	pronunciation=eem|Gos2.1_token_id=Gos071.tok560
+25	,	,	PUNCT	Z	_	24	punct	_	_
+26	ne	ne	PART	Q	Polarity=Neg	27	advmod	_	pronunciation=ne|Gos2.1_token_id=Gos071.tok561
+27	ocenjujem	ocenjevati	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	pronunciation=ocenjujem|Gos2.1_token_id=Gos071.tok562
+28	ljudi	človek	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	27	obj	_	pronunciation=ljudi|Gos2.1_token_id=Gos071.tok563
+29	na	na	ADP	Sl	Case=Loc	31	case	_	pronunciation=na|Gos2.1_token_id=Gos071.tok564
+30	takšnih	takšen	DET	Pd-mpl	Case=Loc|Gender=Masc|Number=Plur|PronType=Dem	31	det	_	pronunciation=takšnih|Gos2.1_token_id=Gos071.tok565
+31	položajih	položaj	NOUN	Ncmpl	Case=Loc|Gender=Masc|Number=Plur	28	nmod	_	pronunciation=položajih|Gos2.1_token_id=Gos071.tok566
+32	po	po	ADP	Sl	Case=Loc	33	case	_	pronunciation=po|Gos2.1_token_id=Gos071.tok567
+33	spolu	spol	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	27	obl	_	pronunciation=spolu|Gos2.1_token_id=Gos071.tok568
+34	,	,	PUNCT	Z	_	37	punct	_	_
+35	ampak	ampak	CCONJ	Cc	_	37	cc	_	pronunciation=ampak|Gos2.1_token_id=Gos071.tok569
+36	po	po	ADP	Sl	Case=Loc	37	case	_	pronunciation=po|Gos2.1_token_id=Gos071.tok570
+37	tem	ta	DET	Pd-nsl	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	27	conj	_	pronunciation=tem|Gos2.1_token_id=Gos071.tok571
+38	,	,	PUNCT	Z	_	42	punct	_	_
+39	eee	eee	INTJ	I	_	42	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos071.tok572
+40	,	,	PUNCT	Z	_	39	punct	_	_
+41	kako	kako	ADV	Rgp	Degree=Pos	42	advmod	_	pronunciation=kako|Gos2.1_token_id=Gos071.tok573
+42	učinkoviti	učinkovit	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	37	acl	_	pronunciation=učinkoviti|Gos2.1_token_id=Gos071.tok574
+43	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	42	cop	_	pronunciation=so|Gos2.1_token_id=Gos071.tok575
+44	,	,	PUNCT	Z	_	50	punct	_	_
+45	eee	eee	INTJ	I	_	50	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos071.tok576
+46	,	,	PUNCT	Z	_	45	punct	_	_
+47	ali	ali	ADV	Rgp	Degree=Pos	50	mark	_	pronunciation=ali|Gos2.1_token_id=Gos071.tok577
+48	dovolj	dovolj	DET	Rgp	PronType=Ind	49	advmod	_	pronunciation=dovolj|Gos2.1_token_id=Gos071.tok578
+49	dobro	dobro	ADV	Rgp	Degree=Pos	50	advmod	_	pronunciation=dobro|Gos2.1_token_id=Gos071.tok579
+50	poznajo	poznati	VERB	Vmpr3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	42	parataxis	_	pronunciation=poznajo|Gos2.1_token_id=Gos071.tok580
+51	resor	resor	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	50	obj	_	pronunciation=resor|Gos2.1_token_id=Gos071.tok581
+52	,	,	PUNCT	Z	_	55	punct	_	_
+53	na	na	ADP	Sl	Case=Loc	54	case	_	pronunciation=na|Gos2.1_token_id=Gos071.tok582
+54	katerem	kateri	DET	Pq-msl	Case=Loc|Gender=Masc|Number=Sing|PronType=Int	55	obl	_	pronunciation=katerem|Gos2.1_token_id=Gos071.tok583
+55	so	biti	VERB	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	51	acl	_	pronunciation=so|Gos2.1_token_id=Gos071.tok584
+56	,	,	PUNCT	Z	_	61	punct	_	_
+57	predvsem	predvsem	PART	Q	_	61	advmod	_	pronunciation=predvsem|Gos2.1_token_id=Gos071.tok585
+58	pa	pa	CCONJ	Cc	_	61	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos071.tok586
+59	,	,	PUNCT	Z	_	61	punct	_	_
+60	ali	ali	ADV	Rgp	Degree=Pos	61	mark	_	pronunciation=ali|Gos2.1_token_id=Gos071.tok587
+61	znajo	znati	VERB	Vmpr3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	42	parataxis	_	pronunciation=znajo|Gos2.1_token_id=Gos071.tok588
+62	v	v	ADP	Sl	Case=Loc	64	case	_	pronunciation=v|Gos2.1_token_id=Gos071.tok589
+63	nekem	nek	DET	Pi-msl	Case=Loc|Gender=Masc|Number=Sing|PronType=Ind	64	det	_	pronunciation=nekem|Gos2.1_token_id=Gos071.tok590
+64	trenutku	trenutek	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	61	obl	_	pronunciation=trenutku|Gos2.1_token_id=Gos071.tok591
+65	odreagirati	odreagirati	VERB	Vmen	Aspect=Perf|VerbForm=Inf	61	xcomp	_	pronunciation=odreagirati|Gos2.1_token_id=Gos071.tok592
+66	,	,	PUNCT	Z	_	67	punct	_	_
+67	eee	eee	INTJ	I	_	61	discourse:filler	_	pronunciation=eee|Gos2.1_token_id=Gos071.tok593
+68	,	,	PUNCT	Z	_	67	punct	_	_
+69	pravilno	pravilno	ADV	Rgp	Degree=Pos	65	advmod	_	pronunciation=pravilno|Gos2.1_token_id=Gos071.tok594
+70	.	.	PUNCT	Z	_	3	punct	_	_
+
+

@@ -1,0 +1,129 @@
+# newdoc id = Gos270
+# sent_id = Gos270.s184
+# speaker_id = Bm-prij-02169
+# sound_url = https://nl.ijs.si/project/gos20/Gos270/Gos270.s184.mp3
+# text = kaj ga še kar geekaš ali kaj ?
+# split = train
+1	kaj	kaj	ADV	Rgp	Degree=Pos	5	advmod	_	pronunciation=ka|Gos2.1_token_id=Gos270.tok1580
+2	ga	on	PRON	Pp3msa--y	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	5	expl	_	pronunciation=ga|Gos2.1_token_id=Gos270.tok1581
+3	še	še	PART	Q	_	5	advmod	_	pronunciation=še|Gos2.1_token_id=Gos270.tok1582
+4	kar	kar	ADV	Rgp	Degree=Pos	5	advmod	_	pronunciation=kr|Gos2.1_token_id=Gos270.tok1583
+5	geekaš	geekati	VERB	Vmpr2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=gikaš|Gos2.1_token_id=Gos270.tok1584
+6	ali	ali	CCONJ	Cc	_	7	cc	_	pronunciation=al|Gos2.1_token_id=Gos270.tok1585
+7	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	5	conj	_	pronunciation=ka|Gos2.1_token_id=Gos270.tok1586
+8	?	?	PUNCT	Z	_	5	punct	_	_
+
+
+# sent_id = Gos270.s185
+# speaker_id = Am-prij-02168
+# sound_url = https://nl.ijs.si/project/gos20/Gos270/Gos270.s185.mp3
+# text = ja , glej , kaj pa naj delam .
+# split = train
+1	ja	ja	PART	Q	_	8	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos270.tok1588
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	glej	gledati	VERB	Vmpm2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	8	parataxis:discourse	_	pronunciation=lej|Gos2.1_token_id=Gos270.tok1589
+4	,	,	PUNCT	Z	_	3	punct	_	_
+5	kaj	kaj	PRON	Pq-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	8	obj	_	pronunciation=ka|Gos2.1_token_id=Gos270.tok1590
+6	pa	pa	CCONJ	Cc	_	8	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos270.tok1591
+7	naj	naj	PART	Q	_	8	advmod	_	pronunciation=naj|Gos2.1_token_id=Gos270.tok1592
+8	delam	delati	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=delam|Gos2.1_token_id=Gos270.tok1593
+9	.	.	PUNCT	Z	_	8	punct	_	_
+
+
+# sent_id = Gos270.s186
+# speaker_id = Bm-prij-02169
+# sound_url = https://nl.ijs.si/project/gos20/Gos270/Gos270.s186.mp3
+# text = cel dan , kur- , ja , saj pri meni isto , pizda , veš , pa tule , kurba , ko nimam nič za delati , sem cel dan online , kurba .
+# split = train
+1	cel	cel	ADJ	Agpmsan	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	pronunciation=cel|Gos2.1_token_id=Gos270.tok1594
+2	dan	dan	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	root	_	pronunciation=dan|Gos2.1_token_id=Gos270.tok1595
+3	,	,	PUNCT	Z	_	4	punct	_	_
+4	kur-	kur-	X	Xt	_	2	discourse	_	pronunciation=kur…|Gos2.1_token_id=Gos270.tok1596
+5	,	,	PUNCT	Z	_	6	punct	_	_
+6	ja	ja	PART	Q	_	11	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos270.tok1597
+7	,	,	PUNCT	Z	_	6	punct	_	_
+8	saj	saj	CCONJ	Cc	_	11	cc	_	pronunciation=sej|Gos2.1_token_id=Gos270.tok1598
+9	pri	pri	ADP	Sl	Case=Loc	10	case	_	pronunciation=pri|Gos2.1_token_id=Gos270.tok1599
+10	meni	jaz	PRON	Pp1-sl	Case=Loc|Number=Sing|Person=1|PronType=Prs	11	obl	_	pronunciation=meni|Gos2.1_token_id=Gos270.tok1600
+11	isto	isti	DET	Pi-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	2	parataxis	_	pronunciation=isto|Gos2.1_token_id=Gos270.tok1601
+12	,	,	PUNCT	Z	_	13	punct	_	_
+13	pizda	pizda	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	11	discourse	_	pronunciation=pizda|Gos2.1_token_id=Gos270.tok1602
+14	,	,	PUNCT	Z	_	15	punct	_	_
+15	veš	vedeti	VERB	Vmpr2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	parataxis:discourse	_	pronunciation=veš|Gos2.1_token_id=Gos270.tok1603
+16	,	,	PUNCT	Z	_	15	punct	_	_
+17	pa	pa	CCONJ	Cc	_	28	cc	_	pronunciation=pa|Gos2.1_token_id=Gos270.tok1604
+18	tule	tule	ADV	Rgp	Degree=Pos	28	advmod	_	pronunciation=tule|Gos2.1_token_id=Gos270.tok1605
+19	,	,	PUNCT	Z	_	20	punct	_	_
+20	kurba	kurba	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	28	discourse	_	pronunciation=kurba|Gos2.1_token_id=Gos270.tok1606
+21	,	,	PUNCT	Z	_	23	punct	_	_
+22	ko	ko	SCONJ	Cs	_	23	mark	_	pronunciation=ko|Gos2.1_token_id=Gos270.tok1607
+23	nimam	imeti	VERB	Vmpr1s-y	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	28	advcl	_	pronunciation=niam|Gos2.1_token_id=Gos270.tok1608
+24	nič	nič	DET	Pz-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Neg	26	obj	_	pronunciation=nč|Gos2.1_token_id=Gos270.tok1609
+25	za	za	ADP	Sa	Case=Acc	26	case	_	pronunciation=za|Gos2.1_token_id=Gos270.tok1610
+26	delati	delati	VERB	Vmpn	Aspect=Imp|VerbForm=Inf	23	xcomp	_	pronunciation=delat|Gos2.1_token_id=Gos270.tok1611
+27	,	,	PUNCT	Z	_	23	punct	_	_
+28	sem	biti	VERB	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	conj	_	pronunciation=sn|Gos2.1_token_id=Gos270.tok1612
+29	cel	cel	ADJ	Agpmsan	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	30	amod	_	pronunciation=cel|Gos2.1_token_id=Gos270.tok1613
+30	dan	dan	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	28	obl	_	pronunciation=dan|Gos2.1_token_id=Gos270.tok1614
+31	online	online	ADV	Rgp	Degree=Pos	28	advmod	_	pronunciation=onlajn|Gos2.1_token_id=Gos270.tok1615
+32	,	,	PUNCT	Z	_	33	punct	_	_
+33	kurba	kurba	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	28	discourse	_	pronunciation=kurba|Gos2.1_token_id=Gos270.tok1616
+34	.	.	PUNCT	Z	_	2	punct	_	_
+
+
+# sent_id = Gos270.s187
+# speaker_id = Am-prij-02168
+# sound_url = https://nl.ijs.si/project/gos20/Gos270/Gos270.s187.mp3
+# text = veš , da .
+# split = train
+1	veš	vedeti	VERB	Vmpr2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=veš|Gos2.1_token_id=Gos270.tok1617
+2	,	,	PUNCT	Z	_	3	punct	_	_
+3	da	da	SCONJ	Cs	_	1	ccomp	_	pronunciation=de|Gos2.1_token_id=Gos270.tok1618
+4	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos270.s188
+# speaker_id = Bm-prij-02169
+# sound_url = https://nl.ijs.si/project/gos20/Gos270/Gos270.s188.mp3
+# text = pizda , ej .
+# split = train
+1	pizda	pizda	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	pronunciation=pizda|Gos2.1_token_id=Gos270.tok1619
+2	,	,	PUNCT	Z	_	3	punct	_	_
+3	ej	ej	INTJ	I	_	1	discourse	_	pronunciation=ej|Gos2.1_token_id=Gos270.tok1620
+4	.	.	PUNCT	Z	_	1	punct	_	_
+
+
+# sent_id = Gos270.s189
+# speaker_id = Am-prij-02168
+# sound_url = https://nl.ijs.si/project/gos20/Gos270/Gos270.s189.mp3
+# text = če mi je en napisal bak prej , bak , pa vprašanje .
+# split = train
+1	če	če	SCONJ	Cs	_	5	mark	_	pronunciation=če|Gos2.1_token_id=Gos270.tok1621
+2	mi	jaz	PRON	Pp1-sd--y	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	5	iobj	_	pronunciation=mi|Gos2.1_token_id=Gos270.tok1622
+3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	pronunciation=je|Gos2.1_token_id=Gos270.tok1623
+4	en	en	NUM	Mlpmsn	Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	5	nsubj	_	pronunciation=en|Gos2.1_token_id=Gos270.tok1624
+5	napisal	napisati	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=napisu|Gos2.1_token_id=Gos270.tok1625
+6	bak	bak	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	_	pronunciation=bak|Gos2.1_token_id=Gos270.tok1626
+7	prej	prej	ADV	Rgc	Degree=Cmp	5	advmod	_	pronunciation=prej|Gos2.1_token_id=Gos270.tok1627
+8	,	,	PUNCT	Z	_	9	punct	_	_
+9	bak	bak	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	parataxis	_	pronunciation=bak|Gos2.1_token_id=Gos270.tok1629
+10	,	,	PUNCT	Z	_	12	punct	_	_
+11	pa	pa	CCONJ	Cc	_	12	cc	_	pronunciation=pa|Gos2.1_token_id=Gos270.tok1630
+12	vprašanje	vprašanje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	9	conj	_	pronunciation=vprašanje|Gos2.1_token_id=Gos270.tok1631
+13	.	.	PUNCT	Z	_	5	punct	_	_
+
+
+# sent_id = Gos270.s190
+# speaker_id = Bm-prij-02169
+# sound_url = https://nl.ijs.si/project/gos20/Gos270/Gos270.s190.mp3
+# text = ja , kaj ti je napi- ?
+# split = train
+1	ja	ja	PART	Q	_	5	discourse	_	pronunciation=ja|Gos2.1_token_id=Gos270.tok1633
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	kaj	kaj	PRON	Pq-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	5	obj	_	pronunciation=ka|Gos2.1_token_id=Gos270.tok1634
+4	ti	ti	PRON	Pp2-sd--y	Case=Dat|Number=Sing|Person=2|PronType=Prs|Variant=Short	5	iobj	_	pronunciation=ti|Gos2.1_token_id=Gos270.tok1635
+5	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=je|Gos2.1_token_id=Gos270.tok1636
+6	napi-	napi-	X	Xt	_	5	orphan	_	pronunciation=napi…|Gos2.1_token_id=Gos270.tok1637
+7	?	?	PUNCT	Z	_	5	punct	_	_
+
+

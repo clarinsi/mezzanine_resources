@@ -1,0 +1,53 @@
+# newdoc id = Gos064
+# sent_id = Gos064.s45
+# speaker_id = Em-inte-00505
+# sound_url = https://nl.ijs.si/project/gos20/Gos064/Gos064.s45.mp3
+# text = v Posočju očitno običaj , da najprej naj teče kri , potem bomo pa videli , če bomo kaj naredili , najrajši tudi takrat nič .
+# split = train
+1	v	v	ADP	Sl	Case=Loc	2	case	_	pronunciation=v|Gos2.1_token_id=Gos064.tok734
+2	Posočju	Posočje	PROPN	Npnsl	Case=Loc|Gender=Neut|Number=Sing	4	orphan	_	pronunciation=Posočju|Gos2.1_token_id=Gos064.tok735
+3	očitno	očitno	ADV	Rgp	Degree=Pos	4	orphan	_	pronunciation=očitno|Gos2.1_token_id=Gos064.tok736
+4	običaj	običaj	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	pronunciation=običaj|Gos2.1_token_id=Gos064.tok737
+5	,	,	PUNCT	Z	_	9	punct	_	_
+6	da	da	SCONJ	Cs	_	9	mark	_	pronunciation=da|Gos2.1_token_id=Gos064.tok738
+7	najprej	najprej	ADV	Rgs	Degree=Sup	9	advmod	_	pronunciation=najprej|Gos2.1_token_id=Gos064.tok739
+8	naj	naj	PART	Q	_	9	advmod	_	pronunciation=nej|Gos2.1_token_id=Gos064.tok740
+9	teče	teči	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl	_	pronunciation=teče|Gos2.1_token_id=Gos064.tok741
+10	kri	kri	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	pronunciation=kri|Gos2.1_token_id=Gos064.tok742
+11	,	,	PUNCT	Z	_	15	punct	_	_
+12	potem	potem	ADV	Rgp	Degree=Pos	15	advmod	_	pronunciation=potem|Gos2.1_token_id=Gos064.tok743
+13	bomo	biti	AUX	Va-f1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin	15	aux	_	pronunciation=bomo|Gos2.1_token_id=Gos064.tok744
+14	pa	pa	CCONJ	Cc	_	15	advmod	_	pronunciation=pa|Gos2.1_token_id=Gos064.tok745
+15	videli	videti	VERB	Vmbp-pm	Gender=Masc|Number=Plur|VerbForm=Part	9	parataxis	_	pronunciation=vidl|Gos2.1_token_id=Gos064.tok746
+16	,	,	PUNCT	Z	_	20	punct	_	_
+17	če	če	SCONJ	Cs	_	20	mark	_	pronunciation=če|Gos2.1_token_id=Gos064.tok747
+18	bomo	biti	AUX	Va-f1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin	20	aux	_	pronunciation=bomo|Gos2.1_token_id=Gos064.tok748
+19	kaj	kaj	PRON	Pq-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	20	obj	_	pronunciation=kej|Gos2.1_token_id=Gos064.tok749
+20	naredili	narediti	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	15	ccomp	_	pronunciation=nardil|Gos2.1_token_id=Gos064.tok750
+21	,	,	PUNCT	Z	_	20	punct	_	_
+22	najrajši	najraje	ADV	Rgs	Degree=Sup	25	orphan	_	pronunciation=najrajš|Gos2.1_token_id=Gos064.tok751
+23	tudi	tudi	PART	Q	_	24	advmod	_	pronunciation=tudi|Gos2.1_token_id=Gos064.tok752
+24	takrat	takrat	ADV	Rgp	Degree=Pos	25	orphan	_	pronunciation=takret|Gos2.1_token_id=Gos064.tok753
+25	nič	nič	DET	Pz-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Neg	15	parataxis	_	pronunciation=nič|Gos2.1_token_id=Gos064.tok754
+26	.	.	PUNCT	Z	_	4	punct	_	_
+
+
+# sent_id = Gos064.s46
+# speaker_id = Af-novi-00501
+# sound_url = https://nl.ijs.si/project/gos20/Gos064/Gos064.s46.mp3
+# text = na policijski upravi v Novi Gorici se tudi nihče ni odzval .
+# split = train
+1	na	na	ADP	Sl	Case=Loc	3	case	_	pronunciation=na|Gos2.1_token_id=Gos064.tok755
+2	policijski	policijski	ADJ	Agpfsl	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	pronunciation=policijski|Gos2.1_token_id=Gos064.tok756
+3	upravi	uprava	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	11	obl	_	pronunciation=upravi|Gos2.1_token_id=Gos064.tok757
+4	v	v	ADP	Sl	Case=Loc	6	case	_	pronunciation=v|Gos2.1_token_id=Gos064.tok758
+5	Novi	nov	ADJ	Agpfsl	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	pronunciation=Novi|Gos2.1_token_id=Gos064.tok759
+6	Gorici	Gorica	PROPN	Npfsl	Case=Loc|Gender=Fem|Number=Sing	3	nmod	_	pronunciation=Gorici|Gos2.1_token_id=Gos064.tok760
+7	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	11	expl	_	pronunciation=se|Gos2.1_token_id=Gos064.tok761
+8	tudi	tudi	PART	Q	_	9	advmod	_	pronunciation=tudi|Gos2.1_token_id=Gos064.tok762
+9	nihče	nihče	PRON	Pz-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	11	nsubj	_	pronunciation=nihče|Gos2.1_token_id=Gos064.tok763
+10	ni	biti	AUX	Va-r3s-y	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	11	aux	_	pronunciation=ni|Gos2.1_token_id=Gos064.tok764
+11	odzval	odzvati	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=odzval|Gos2.1_token_id=Gos064.tok765
+12	.	.	PUNCT	Z	_	11	punct	_	_
+
+
