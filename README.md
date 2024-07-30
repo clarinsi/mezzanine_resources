@@ -3,7 +3,7 @@ Repo for tracking resources for the Mezzanine project
 
 # Issues:
 * Prosodic units for overlapping speech in P580009 are missing (there is an entry for Artur-J-Gvecg-P580009.tok315, but only there). Ask Simona.
-* DA-disfl-conll-pros: P580009 verbal disfluency: there is an entry `selfrepairPronunciation selfrepairPronunciation selfrepairLexicogrammar selfrepairPronunciation repetition `. Check where this comes from and how to fix it.
+* DA-disfl-conll-pros: P580009 verbal disfluency: there is an entry `selfrepairPronunciation selfrepairPronunciation selfrepairLexicogrammar selfrepairPronunciation repetition `. Check where this comes from and how to fix it.  -> this can not be found again in Exmaralda or in raw data, might be just a weird rendering glitch.
 # Structure:
 
 ## Iriss-DA-disfl-conll-pros
