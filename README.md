@@ -1,8 +1,21 @@
 # mezzanine_resources
 Repo for tracking resources for the Mezzanine project
 
-# Structure:
 
+## Iriss-disfl-conll-pros
+|              |                                                                        |
+| ------------ | ---------------------------------------------------------------------- |
+| Origin       | Iriss-disfl-anno-phase5-fin-corr + UD-SST-split + iriss-prosodic-units |
+| Description: | Merged data from EXB, CONLL, textgrid (prosodic units)                 |
+| Created:     | 2024-07-30T09:20:18                                                    |
+| By:          | Peter, Nikola                                                          |
+## UD-SST-split
+|              |                                                                      |
+| ------------ | -------------------------------------------------------------------- |
+| Origin       | commit 42738b98a6bcc38458a16a2dcf14d3c134e23539 on  UD_Slovenian-SST |
+| Description: | SST conllu files, grouped on recording level.                        |
+| Created:     | 2024-07-30T09:18:48                                                  |
+| By:          | Peter                                                                |
 
 ## Iriss-disfl-anno-phase5-fin-corr
 |              |                                                                           |
