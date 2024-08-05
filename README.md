@@ -3,6 +3,7 @@ Repo for tracking resources for the Mezzanine project
 
 # Issues:
 * J-P580047: Missing sentence just before 3:20 . This stems from TEI input data, which does not transcribe this sentence. The tokens around do not indicate any missing data.
+* J-P50034: After token Tok889 43s are not transcribed. Tokens after 43 seconds are continued with Tok890.
 * Iriss-N-G5043-P600044: token Artur-N-G5043-P600044.tok179 and Artur-N-G5043-P600044.tok180 are `ni` and `smo`. In original TEI, both have lemmata `biti`, while in the latest conllu, `ni` is `biti` and `smo` is `_`.
 * J-P580041: Token Artur-J-Gvecg-P580041.tok405 is redundant(unclosed parenthesis)
 * ✓ Prosodic units for overlapping speech in P580009 are missing (there is an entry for Artur-J-Gvecg-P580009.tok315, but only there). ~Ask Simona.~ Fixed manually
