@@ -1,0 +1,19 @@
+from pathlib import Path
+import pandas as pd
+# from subprocess import run
+# run(["python", "0_filterer.py"])
+filtered_datar = pd.read_csv("filtered_repetition.csv")
+expected_segments = filtered_datar.segment_path.tolist()
+
+rule GatherSegments:
+    default_target: True
+    input: expected_segments
+rule SegmentOne:
+    input: "iriss_wavs/{file}.wav"
+    output: "segments30s/{file}_{start}_{end}.wav"
+    run:
+        assert float(wildcards.start) < float(wildcards.end), "Nonpositive duration!"
+        from pydub import AudioSegment
+        AudioSegment.from_wav(input[0])[
+            int(1000*float(wildcards.start)):int(1000*float(wildcards.end))
+        ].export(output[0], format="wav", parameters = ["-ac", "1", "-ar", "16000"])

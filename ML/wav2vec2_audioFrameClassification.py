@@ -5,7 +5,7 @@
 #   TODO: check if everything still works when batch_size > 1 or num_labels > 1
 #   TODO: remove unnecessary imports
 #   TODO: check if all "optional" arguments are truly optional and won't cause a crash when missing
-#   TODO: automatically detect and warn if training loss is not decreasing in the first few epochs? 
+#   TODO: automatically detect and warn if training loss is not decreasing in the first few epochs?
 #           (the model sometimes gets stuck at the start due to poor initialization...)
 #
 # mkunes, 2022
@@ -26,7 +26,7 @@
 #       - learning rate and warmup are now configurable
 #   2022-08-11
 #       dataset caching is now enabled by default again. To disable it, use "--dataset_caching 0"
-#       restored support for older versions of 'datasets' which do not have 'disable_caching' (pre-2.0)': 
+#       restored support for older versions of 'datasets' which do not have 'disable_caching' (pre-2.0)':
 #           if 'disable_caching' is not available, caching will remain enabled, but otherwise everything will function as before
 #   2022-07-01
 #       added option to disable dataset caching to avoid cluttering the disk with frequently changing custom datasets:
@@ -82,13 +82,13 @@ import warnings
 try:
     from torch.utils.tensorboard import SummaryWriter
     TENSORBOARD_SUPPORTED = True
-except ImportError: 
+except ImportError:
     TENSORBOARD_SUPPORTED = False
 
 try:
     import wandb
     WANDB_SUPPORTED = True
-except ImportError: 
+except ImportError:
     WANDB_SUPPORTED = False
 
 
@@ -152,7 +152,7 @@ class Wav2Vec2ForAudioFrameClassification_custom(transformers.Wav2Vec2ForAudioFr
             else:
                 loss_fct = CrossEntropyLoss()
                 loss = loss_fct(logits.view(-1, self.num_labels), labels.view(-1))
-            
+
 
         if not return_dict:
             output = (logits,) + outputs[_HIDDEN_STATES_START_POSITION:]
@@ -245,7 +245,7 @@ def main():
 
     if args.finetuning_framework is not None:
         warnings.warn(
-            "Argument '--finetuning_framework' is deprecated and will be removed in a future version. Pytorch is the only finetuning option now and does not need to be specified.", 
+            "Argument '--finetuning_framework' is deprecated and will be removed in a future version. Pytorch is the only finetuning option now and does not need to be specified.",
             DeprecationWarning
         )
 
@@ -313,7 +313,7 @@ def main():
             do_validation = False
         else:
             do_validation = True
-    else: 
+    else:
         do_validation = False
 
     if do_eval:
@@ -365,7 +365,7 @@ def main():
 
         num_padded_labels = round(max_duration * labels_rate)
 
-        # TODO: check if the labels' size roughly matches the *unpadded* audio 
+        # TODO: check if the labels' size roughly matches the *unpadded* audio
         #   (in case the sample rate of the labels is lower than it's supposed to be)
 
         # TODO: check if audio durations <= max_duration
@@ -382,7 +382,7 @@ def main():
             audio_arrays,
             sampling_rate=sampling_rate,
             padding='max_length', # pad to max_length, not just to the longest sequence
-            max_length=int(sampling_rate * max_duration), 
+            max_length=int(sampling_rate * max_duration),
             truncation=False,
         )
 
@@ -395,7 +395,7 @@ def main():
         predictions = np.argmax(logits, axis=-1)
 
         labels = labels.reshape(-1)
-        
+
         predictions = predictions.reshape(-1)
 
         return metric.compute(predictions=predictions, references=labels)
@@ -461,7 +461,7 @@ def main():
         lr_scheduler = get_scheduler(
             name="linear", optimizer=optimizer, num_warmup_steps=lr_num_warmup_steps, num_training_steps=num_training_steps
         )
-        
+
         progress_bar = tqdm(range(num_training_steps))
 
         if model_save_dir is not None:
@@ -476,7 +476,7 @@ def main():
             logfile = open(file_output + ".log.csv", "w")
 
         logfile.write("epoch,train loss,val loss\n")
-        
+
         for epoch in range(num_epochs):
 
             model.train()
@@ -584,7 +584,7 @@ def main():
 
         progress_bar = tqdm(range(len(eval_dataloader)))
 
-        
+
 
         for i, batch in enumerate(eval_dataloader):
 
