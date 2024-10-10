@@ -2,6 +2,15 @@
 Repo for tracking resources for the Mezzanine project
 
 
+## Iriss-DA-disfl-conll-pros
+|              |                                                                                                                |
+| ------------ | -------------------------------------------------------------------------------------------------------------- |
+| Origin       | Iriss-disfl-conll-pros with manually annotated Dialog acts                                                     |
+| Description: | This folder comprises of all current data sources: disfluencies, morpho-syntactic, prosodic units, dialog acts |
+| Created:     | 2024-10-10T11:54:59                                                                                            |
+| By:          | Tjaša Vovko, Peter Rupnik                                                                                      |
+
+
 ## Iriss-disfl-conll-pros
 |              |                                                                        |
 | ------------ | ---------------------------------------------------------------------- |
