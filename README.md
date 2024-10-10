@@ -2,6 +2,14 @@
 Repo for tracking resources for the Mezzanine project
 
 
+## ROG-Artur-train-dev-test-split.csv
+|              |                                             |
+| ------------ | ------------------------------------------- |
+| Origin       | Manual selection                            |
+| Description: | 70-10-20 train dev test split for ROG-Artur |
+| Created:     | 2024-10-01T                                 |
+| By:          | Darinka                                     |
+
 ## Iriss-DA-disfl-conll-pros
 |              |                                                                                                                |
 | ------------ | -------------------------------------------------------------------------------------------------------------- |
