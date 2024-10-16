@@ -1,0 +1,13 @@
+from pathlib import Path
+
+DAfiles = list(Path("../Iriss-DA-disfl-conll-pros").glob("*.xml"))
+exbs = [Path("../ROG", "ROG-Art", "EXB", i.name.replace("Iriss", "Rog-Art")) for i in DAfiles]
+
+rule gather:
+    input: exbs
+rule cp_exbs:
+    input: "../Iriss-DA-disfl-conll-pros/Iriss-{file}.exb.xml"
+    output: "../ROG/ROG-Art/EXB/Rog-Art-{file}.exb.xml"
+    run:
+        from utils import rogify
+        rogify(input[0], output[0])
