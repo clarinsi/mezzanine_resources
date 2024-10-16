@@ -2,12 +2,56 @@ from pathlib import Path
 
 DAfiles = list(Path("../Iriss-DA-disfl-conll-pros").glob("*.xml"))
 exbs = [Path("../ROG", "ROG-Art", "EXB", i.name.replace("Iriss", "Rog-Art")) for i in DAfiles]
+wavs = [Path("../ROG", "ROG-Art", "AVD", i.name.replace("Iriss", "Rog-Art")).with_suffix("").with_suffix(".wav") for i in DAfiles]
+trss = [Path("../ROG/ROG-Art", "TRS", i.name.replace("Iriss", "Rog-Art")) for i in list(Path("../../mezzanine/iriss").glob("*.trs"))]
 
+others = [
+    "../ROG/ROG-Art/ROG-Artur-TrainDevTest-split.tsv",
+    "../ROG/ROG-Art/ROG-Artur-speakers.tsv",
+    "../ROG/ROG-Art/ROG-Artur-speeches.tsv",
+]
+public = False
 rule gather:
-    input: exbs
+    input: exbs + wavs + trss + others
 rule cp_exbs:
     input: "../Iriss-DA-disfl-conll-pros/Iriss-{file}.exb.xml"
     output: "../ROG/ROG-Art/EXB/Rog-Art-{file}.exb.xml"
     run:
         from utils import rogify
-        rogify(input[0], output[0])
+        rogify(input[0], output[0], public=public)
+rule cp_wavs:
+    input: "../../mezzanine/iriss/Iriss-{file}-avd.wav"
+    output: "../ROG/ROG-Art/AVD/Rog-Art-{file}.wav"
+    shell:
+        "cp {input[0]} {output[0]}"
+rule cp_trs:
+    input: "../../mezzanine/iriss/Iriss-{file}-{pogorstd}.trs"
+    output: "../ROG/ROG-Art/TRS/Rog-Art-{file}-{pogorstd}.trs"
+    shell:
+        "cp {input[0]} {output[0]}"
+rule prep_metadata:
+    input:
+        split="../ROG-Artur-train-dev-test-split.csv",
+        speakers="../Gos.TEI/Gos-speakers.tsv",
+        speeches="../Gos.TEI/Gos-speeches.tsv"
+    output:
+        split="../ROG/ROG-Art/ROG-TrainDevTest-split.tsv",
+        speakers="../ROG/ROG-Art/ROG-speakers.tsv",
+        speeches="../ROG/ROG-Art/ROG-speeches.tsv",
+    run:
+        import polars as pl
+        pl.read_csv(input.split).with_columns(
+            pl.col("Recording ID").str.replace("Artur", "Rog-Art").alias("TEXT-ID")
+        ).select(pl.col("TEXT-ID"), pl.col("Split")).write_csv(output.split, separator="\t")
+
+        pl.read_csv(input.speakers, separator="\t", truncate_ragged_lines=True).filter(
+            pl.col("TEXT-ID").str.contains("Artur")
+        ).with_columns(
+            pl.col("TEXT-ID").str.replace("Artur", "Rog-Art")
+        ).write_csv(output.speakers, separator="\t")
+
+        pl.read_csv(input.speeches, separator="\t", truncate_ragged_lines=True).filter(
+            pl.col("TEXT-ID").str.contains("Artur")
+        ).with_columns(
+            pl.col("TEXT-ID").str.replace("Artur", "Rog-Art")
+        ).write_csv(output.speeches, separator="\t")
