@@ -1,18 +1,22 @@
 from pathlib import Path
-
+from utils import get_conll_ids
 DAfiles = list(Path("../Iriss-DA-disfl-conll-pros").glob("*.xml"))
 exbs = [Path("../ROG", "ROG-Art", "EXB", i.name.replace("Iriss", "Rog-Art")) for i in DAfiles]
 wavs = [Path("../ROG", "ROG-Art", "AVD", i.name.replace("Iriss", "Rog-Art")).with_suffix("").with_suffix(".wav") for i in DAfiles]
 trss = [Path("../ROG/ROG-Art", "TRS", i.name.replace("Iriss", "Rog-Art")) for i in list(Path("../../mezzanine/iriss").glob("*.trs"))]
-
+# conll_ids = get_conll_ids()
+conlls = ["../ROG/CONLLU_done"]
 others = [
-    "../ROG/ROG-Art/ROG-Artur-TrainDevTest-split.tsv",
-    "../ROG/ROG-Art/ROG-Artur-speakers.tsv",
-    "../ROG/ROG-Art/ROG-Artur-speeches.tsv",
+    "../ROG/ROG-Art/ROG-Art-TrainDevTest-split.tsv",
+    "../ROG/ROG-Art/ROG-Art-speakers.tsv",
+    "../ROG/ROG-Art/ROG-Art-speeches.tsv",
+    "../ROG/ROG-TrainDevTest-split.tsv",
+    "../ROG/ROG-speakers.tsv",
+    "../ROG/ROG-speeches.tsv",
 ]
 public = False
 rule gather:
-    input: exbs + wavs + trss + others
+    input: exbs + wavs + trss + conlls + others
 rule cp_exbs:
     input: "../Iriss-DA-disfl-conll-pros/Iriss-{file}.exb.xml"
     output: "../ROG/ROG-Art/EXB/Rog-Art-{file}.exb.xml"
@@ -29,15 +33,15 @@ rule cp_trs:
     output: "../ROG/ROG-Art/TRS/Rog-Art-{file}-{pogorstd}.trs"
     shell:
         "cp {input[0]} {output[0]}"
-rule prep_metadata:
+rule prep_artur_metadata:
     input:
         split="../ROG-Artur-train-dev-test-split.csv",
         speakers="../Gos.TEI/Gos-speakers.tsv",
         speeches="../Gos.TEI/Gos-speeches.tsv"
     output:
-        split="../ROG/ROG-Art/ROG-TrainDevTest-split.tsv",
-        speakers="../ROG/ROG-Art/ROG-speakers.tsv",
-        speeches="../ROG/ROG-Art/ROG-speeches.tsv",
+        split="../ROG/ROG-Art/ROG-Art-TrainDevTest-split.tsv",
+        speakers="../ROG/ROG-Art/ROG-Art-speakers.tsv",
+        speeches="../ROG/ROG-Art/ROG-Art-speeches.tsv",
     run:
         import polars as pl
         pl.read_csv(input.split).with_columns(
@@ -55,3 +59,36 @@ rule prep_metadata:
         ).with_columns(
             pl.col("TEXT-ID").str.replace("Artur", "Rog-Art")
         ).write_csv(output.speeches, separator="\t")
+rule do_conll:
+    input:
+        train="../UD_Slovenian-SST/sl_sst-ud-train.conllu",
+        dev="../UD_Slovenian-SST/sl_sst-ud-dev.conllu",
+        test="../UD_Slovenian-SST/sl_sst-ud-test.conllu",
+    output: temp("../ROG/CONLLU_done")
+    run:
+        from pathlib import Path
+        from utils import do_conllus
+        do_conllus()
+        Path(output[0]).write_text("")
+
+rule prep_conll_metadata:
+    input:
+        speakers="../Gos.TEI/Gos-speakers.tsv",
+        speeches="../Gos.TEI/Gos-speeches.tsv"
+    output:
+        split="../ROG/ROG-TrainDevTest-split.tsv",
+        speakers="../ROG/ROG-speakers.tsv",
+        speeches="../ROG/ROG-speeches.tsv",
+    run:
+        import polars as pl
+        pl.read_csv(input.speakers, separator="\t", truncate_ragged_lines=True).filter(
+            pl.col("TEXT-ID").is_in(conll_ids)
+        ).write_csv(output.speakers, separator="\t")
+        pl.read_csv(input.speeches, separator="\t", truncate_ragged_lines=True).filter(
+            pl.col("TEXT-ID").is_in(conll_ids)
+        ).write_csv(output.speeches, separator="\t")
+
+        from utils import make_conll_splits
+        pl.DataFrame(make_conll_splits()).write_csv(output.split, separator="\t")
+
+rule bla:

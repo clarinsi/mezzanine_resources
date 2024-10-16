@@ -87,8 +87,107 @@ def prettify(inpath: str, outpath: str, public=False):
     Path(outpath).write_bytes(et.tostring(doc, encoding="utf-8"))
 
 
-rogify(
-    "/home/peter/mezzanine_resources/Iriss-DA-disfl-conll-pros/Iriss-J-Gvecg-P500001.exb.xml",
-    "brisi.xml",
-    public=False,
-)
+# rogify(
+#     "/home/peter/mezzanine_resources/Iriss-DA-disfl-conll-pros/Iriss-J-Gvecg-P500001.exb.xml",
+#     "brisi.xml",
+#     public=False,
+# )
+def get_conll_ids():
+    from pathlib import Path
+    from conllu import parse
+
+    ids = []
+    for splt in "train dev test".split(" "):
+        data = parse(Path(f"../UD_Slovenian-SST/sl_sst-ud-{splt}.conllu").read_text())
+        ids.extend(list(set([i.metadata["sent_id"].split(".")[0] for i in data])))
+    return ids
+
+
+# get_conll_ids()
+
+
+def make_conll_splits():
+    from pathlib import Path
+    from conllu import parse
+    from subprocess import run
+
+    r = []
+    for splt in "train dev test".split(" "):
+        data = parse(Path(f"../UD_Slovenian-SST/sl_sst-ud-{splt}.conllu").read_text())
+        for i in data:
+            r.append({"Sent_id": i.metadata["sent_id"], "Split": splt})
+    return r
+
+
+def in_corpus(s: str, corpus: str) -> bool:
+    from subprocess import run
+
+    r = run(
+        f"""cat ../{corpus}/*.xml | grep '{s.strip()}"'""",
+        shell=True,
+        capture_output=True,
+    )
+    return r.returncode == 0
+
+
+def do_conllus():
+    import polars as pl
+    from pathlib import Path
+    from conllu import parse
+    from string import digits
+
+    r = make_conll_splits()
+    df = pl.DataFrame(r).with_columns(
+        pl.col("Sent_id").map_elements(lambda i: in_corpus(i, "SST"), return_dtype=pl.Boolean).alias("in_sst"),
+        pl.col("Sent_id").map_elements(lambda i: in_corpus(i, "SPOG"), return_dtype=pl.Boolean).alias("in_spog"),
+        pl.col("Sent_id").str.contains("Artur").alias("in_artur"),
+        pl.col("Sent_id").str.split(".").list[0].alias("file"),
+    )
+
+    def key(item):
+        sid = item.metadata["sent_id"]
+        l = sid.split(".")
+        l = ["".join([j for j in i if j in digits]) for i in l]
+        t = tuple([float(i) if bool(i) else 0 for i in l])
+        return t
+
+    data = (
+        parse(Path("../UD_Slovenian-SST/sl_sst-ud-train.conllu").read_text())
+        + parse(Path("../UD_Slovenian-SST/sl_sst-ud-train.conllu").read_text())
+        + parse(Path("../UD_Slovenian-SST/sl_sst-ud-train.conllu").read_text())
+    )
+    for file in df["file"].unique():
+        # SST -> GO1
+        subset = df.filter((pl.col("file") == file) & (pl.col("in_sst") == True))
+        if subset.shape[0] != 0:
+            subdata = [i for i in data if i.metadata["sent_id"] in subset["Sent_id"]]
+            subdata = sorted(subdata, key=key)
+
+            path = Path(f"../ROG/CONLLU/Rog-Go1-{file}.conllu")
+            path.parent.mkdir(exist_ok=True)
+            path.write_text("\n".join([i.serialize() for i in data]))
+            print("wrote")
+        # SPOG -> GO2
+        subset = df.filter((pl.col("file") == file) & (pl.col("in_spog") == True))
+        if subset.shape[0] != 0:
+            subdata = [i for i in data if i.metadata["sent_id"] in subset["Sent_id"]]
+            subdata = sorted(subdata, key=key)
+
+            path = Path(f"../ROG/CONLLU/Rog-Go2-{file}.conllu")
+            path.parent.mkdir(exist_ok=True)
+            path.write_text("\n".join([i.serialize() for i in data]))
+            print("wrote")
+        # Artur -> Rog-Art
+        subset = df.filter((pl.col("file") == file) & (pl.col("in_artur") == True))
+        if subset.shape[0] != 0:
+            subdata = [i for i in data if i.metadata["sent_id"] in subset["Sent_id"]]
+            subdata = sorted(subdata, key=key)
+
+            path = Path(f"../ROG/CONLLU/Rog-Art{file.replace('Artur-', '-')}.conllu")
+            path.parent.mkdir(exist_ok=True)
+            path.write_text("\n".join([i.serialize() for i in data]))
+            print("wrote")
+    2 + 2
+
+
+do_conllus()
