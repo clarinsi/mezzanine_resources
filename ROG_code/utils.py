@@ -228,8 +228,102 @@ def fix_trs(inpath: str, outpath: str):
     )
 
 
-# fix_trs(
-#     "/home/peter/mezzanine_resources/ROG/ROG-Art/TRS/Rog-Art-J-Gvecg-P500001-pog.trs",
-#     "brisi.xml",
-# )
-# do_conllus()
+def do_rog_speeches(inpath: str, outpath: str, artur_only=False):
+    import polars as pl
+    from pathlib import Path
+    from conllu import parse
+    from subprocess import run
+
+    df = pl.read_csv(
+        inpath,
+        separator="\t",
+        truncate_ragged_lines=True,
+    )
+
+    r = []
+    for splt in "train dev test".split(" "):
+        data = parse(Path(f"../UD_Slovenian-SST/sl_sst-ud-{splt}.conllu").read_text())
+        for i in data:
+            r.append(
+                {
+                    "wordlen": len(i),
+                    "speaker": i.metadata["speaker_id"],
+                    "speech": i.metadata["sent_id"].split(".")[0],
+                }
+            )
+    ndf = (
+        pl.DataFrame(r)
+        .group_by(pl.col("speech"))
+        .agg(
+            [
+                pl.col("wordlen").count().alias("SENTENCES"),
+                pl.col("wordlen").sum().alias("WORDS"),
+                pl.col("speaker").unique().alias("SPK-IDsUTTS"),
+            ]
+        )
+    )
+    df = (
+        df.select(pl.exclude(["SEGS", "WORDS", "SPK-IDsUTTS"]))
+        .join(ndf, left_on="TEXT-ID", right_on="speech")
+        .with_columns(
+            pl.col("TEXT-ID").str.replace("Artur", "Rog-Art"),
+            pl.col("SPK-IDsUTTS").list.join(" "),
+        )
+    )
+    if artur_only:
+        df = df.filter(pl.col("TEXT-ID").str.contains("Rog-Art"))
+    df.write_csv(outpath, separator="\t")
+
+    2 + 2
+
+
+def do_rog_speakers(inpath: str, outpath: str, artur_only=False):
+    import polars as pl
+    from pathlib import Path
+    from conllu import parse
+    from subprocess import run
+
+    df = pl.read_csv(
+        inpath,
+        separator="\t",
+        truncate_ragged_lines=True,
+    )
+
+    r = []
+    for splt in "train dev test".split(" "):
+        data = parse(Path(f"../UD_Slovenian-SST/sl_sst-ud-{splt}.conllu").read_text())
+        for i in data:
+            r.append(
+                {
+                    "wordlen": len(i),
+                    "speaker": i.metadata["speaker_id"],
+                    "speech": i.metadata["sent_id"].split(".")[0],
+                }
+            )
+    ndf = (
+        pl.DataFrame(r)
+        .group_by(pl.col("speech"), pl.col("speaker"))
+        .agg(
+            [
+                pl.col("wordlen").count().alias("SENTENCES"),
+                pl.col("wordlen").sum().alias("WORDS"),
+                # pl.col("speaker").unique().alias("SPK-IDsUTTS"),
+            ]
+        )
+    )
+    df = (
+        df.select(pl.exclude(["UTTS", "WORDS"]))
+        .join(ndf,
+              left_on=["TEXT-ID", "PRS-ID"],
+              right_on=["speech", "speaker"])
+        .with_columns(
+            pl.col("TEXT-ID").str.replace("Artur", "Rog-Art"),
+            # pl.col("SPK-IDsUTTS").list.join(" "),
+        )
+    )
+    if artur_only:
+        df = df.filter(pl.col("TEXT-ID").str.contains("Rog-Art"))
+    df.write_csv(outpath, separator="\t")
+
+
+do_rog_speakers("../Gos.TEI/Gos-speakers.tsv", "brisi.tsv")

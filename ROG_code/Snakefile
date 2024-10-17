@@ -5,7 +5,7 @@ exbs = [Path("../ROG", "ROG-Art", "EXB", i.name.replace("Iriss", "Rog-Art")) for
 wavs = [Path("../ROG", "ROG-Art", "AVD", i.name.replace("Iriss", "Rog-Art")).with_suffix("").with_suffix(".wav") for i in DAfiles]
 trss = [Path("../ROG/ROG-Art", "TRS", i.name.replace("Iriss", "Rog-Art")) for i in list(Path("../../mezzanine/iriss").glob("*.trs"))]
 # conll_ids = get_conll_ids()
-conlls = ["../ROG/CONLLU_done"]
+conlls = []
 others = [
     "../ROG/ROG-Art/ROG-Art-TrainDevTest-split.tsv",
     "../ROG/ROG-Art/ROG-Art-speakers.tsv",
@@ -13,6 +13,7 @@ others = [
     "../ROG/ROG-TrainDevTest-split.tsv",
     "../ROG/ROG-speakers.tsv",
     "../ROG/ROG-speeches.tsv",
+    "../ROG/CONLLU_done",
 ]
 public = False
 rule gather:
@@ -45,21 +46,13 @@ rule prep_artur_metadata:
         speeches="../ROG/ROG-Art/ROG-Art-speeches.tsv",
     run:
         import polars as pl
+        from utils import do_rog_speeches, do_rog_speakers
         pl.read_csv(input.split).with_columns(
             pl.col("Recording ID").str.replace("Artur", "Rog-Art").alias("TEXT-ID")
         ).select(pl.col("TEXT-ID"), pl.col("Split")).write_csv(output.split, separator="\t")
 
-        pl.read_csv(input.speakers, separator="\t", truncate_ragged_lines=True).filter(
-            pl.col("TEXT-ID").str.contains("Artur")
-        ).with_columns(
-            pl.col("TEXT-ID").str.replace("Artur", "Rog-Art")
-        ).write_csv(output.speakers, separator="\t")
-
-        pl.read_csv(input.speeches, separator="\t", truncate_ragged_lines=True).filter(
-            pl.col("TEXT-ID").str.contains("Artur")
-        ).with_columns(
-            pl.col("TEXT-ID").str.replace("Artur", "Rog-Art")
-        ).write_csv(output.speeches, separator="\t")
+        do_rog_speeches(input.speeches, output.speeches, artur_only=True)
+        do_rog_speakers(input.speakers, output.speakers, artur_only=True)
 rule do_conll:
     input:
         train="../UD_Slovenian-SST/sl_sst-ud-train.conllu",
@@ -83,13 +76,11 @@ rule prep_conll_metadata:
         speeches="../ROG/ROG-speeches.tsv",
     run:
         import polars as pl
-        pl.read_csv(input.speakers, separator="\t", truncate_ragged_lines=True).filter(
-            pl.col("TEXT-ID").is_in(conll_ids)
-        ).write_csv(output.speakers, separator="\t")
-        pl.read_csv(input.speeches, separator="\t", truncate_ragged_lines=True).filter(
-            pl.col("TEXT-ID").is_in(conll_ids)
-        ).write_csv(output.speeches, separator="\t")
-
+        from utils import do_rog_speeches, do_rog_speakers
+        do_rog_speeches(input.speeches, output.speeches, artur_only=False)
+        do_rog_speakers(input.speakers, output.speakers, artur_only=False)
         from utils import make_conll_splits
         pl.DataFrame(make_conll_splits()).write_csv(output.split, separator="\t")
-
+rule blabla:
+    shell:
+        ""
