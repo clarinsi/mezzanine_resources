@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE Trans SYSTEM "trans-14.dtd">
-<Trans scribe="Mitja" audio_filename="Iriss-J-Gvecg-P500054-avd" version="7" version_date="221028">
-<Topics>
-<Topic id="to1" desc="Okrogla miza"/>
-</Topics>
-<Speakers>
-<Speaker id="spk2" name="Artur-J-G3109" check="no" dialect="native" accent="standard" scope="local" type="male"/>
-<Speaker id="spk3" name="Artur-J-G3110" check="no" dialect="native" accent="standard" scope="local" type="female"/>
-</Speakers>
-<Episode>
-<Section type="report" startTime="0" endTime="2613.000" topic="to1">
-<Turn startTime="0" endTime="3.190" speaker="spk2" fidelity="high">
-<Sync time="0"/>
-</Turn>
-<Turn speaker="spk3" startTime="3.190" endTime="359.143" fidelity="high">
-<Sync time="3.190"/>
+<Trans scribe="Mitja" audio_filename="../AVD/Rog-Art-J-Gvecg-P500054.wav" version="8" version_date="2024-10-17T07:00:48.704666+00:00">
+  <Topics>
+    <Topic id="to1" desc="Okrogla miza"/>
+  </Topics>
+  <Speakers>
+    <Speaker id="spk2" name="Artur-J-G3109" check="no" dialect="native" accent="standard" scope="local" type="male"/>
+    <Speaker id="spk3" name="Artur-J-G3110" check="no" dialect="native" accent="standard" scope="local" type="female"/>
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0" endTime="2613.000" topic="to1">
+      <Turn startTime="0" endTime="3.190" speaker="spk2" fidelity="high">
+        <Sync time="0"/>
+      </Turn>
+      <Turn speaker="spk3" startTime="3.190" endTime="359.143" fidelity="high">
+        <Sync time="3.190"/>
 Hvala lepa za besedo, lep pozdrav vsem. 
 <Sync time="7.128"/>
 Jaz bom 
@@ -65,11 +65,10 @@ interesov. Zato peljemo programe, kot so Evropa v šoli,
 <Sync time="101.586"/>
 #e, šolski parlament in tako dalje in še bi lahko naštevala. 
 <Sync time="105.4"/>
-<Background time="105.4" type="other" level="high"/>
+        <Background time="105.4" type="other" level="high"/>
 Ampak poglejte, #eee, 
 <Background time="108.559" type="other" level="off"/>
-
-<Sync time="108.596"/>
+        <Sync time="108.596"/>
 kljub 
 <Sync time="109.407"/>
 dobrim gospodarskim kazalcem smo vendarli() smo vendarle soočeni 
@@ -192,14 +191,12 @@ finančnim stanjem družine. Mislim, da je to alarmanten podatek.
 <Sync time="357.138"/>
 Hvala lepa za zdaj. 
 </Turn>
-<Turn startTime="359.143" endTime="362.745">
-<Sync time="359.143"/>
-
-<Event desc="pause" type="noise" extent="instantaneous"/>
-
-</Turn>
-<Turn speaker="spk2" startTime="362.745" endTime="704.31" fidelity="high">
-<Sync time="362.745"/>
+      <Turn startTime="359.143" endTime="362.745">
+        <Sync time="359.143"/>
+        <Event desc="pause" type="noise" extent="instantaneous"/>
+      </Turn>
+      <Turn speaker="spk2" startTime="362.745" endTime="704.31" fidelity="high">
+        <Sync time="362.745"/>
 Ja, hvala lepa. 
 <Sync time="364.067"/>
 #Eee, najprej, #e, hvala Zvezi prijateljev mladine Slovenije za pobudo 
@@ -234,7 +231,7 @@ resolucije o družinski politiki osemnajst,
 <Sync time="431.053"/>
 sveta Republike Slovenije za otroke in družino. To so vse pozitivne stvari. 
 <Sync time="435.567"/>
-</Turn>
-</Section>
-</Episode>
+      </Turn>
+    </Section>
+  </Episode>
 </Trans>

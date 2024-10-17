@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE Trans SYSTEM "trans-14.dtd">
-<Trans scribe="Mitja" audio_filename="Iriss-J-Gvecg-P500034-avd" version="10" version_date="211201">
-<Topics>
-<Topic id="to1" desc="Novinarska konferenca"/>
-</Topics>
-<Speakers>
-<Speaker id="spk1" name="Artur-J-G3069" check="no" dialect="native" accent="standard" scope="local" type="female"/>
-</Speakers>
-<Episode>
-<Section type="report" startTime="0" endTime="620.320" topic="to1">
-<Turn startTime="0" endTime="339.949" speaker="spk1" fidelity="high">
-<Sync time="0"/>
+<Trans scribe="Mitja" audio_filename="../AVD/Rog-Art-J-Gvecg-P500034.wav" version="11" version_date="2024-10-17T07:00:38.780482+00:00">
+  <Topics>
+    <Topic id="to1" desc="Novinarska konferenca"/>
+  </Topics>
+  <Speakers>
+    <Speaker id="spk1" name="Artur-J-G3069" check="no" dialect="native" accent="standard" scope="local" type="female"/>
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0" endTime="620.320" topic="to1">
+      <Turn startTime="0" endTime="339.949" speaker="spk1" fidelity="high">
+        <Sync time="0"/>
 Ja, 
 <Sync time="0.562"/>
 hvala lepa, 
@@ -229,15 +229,13 @@ mislim, da tudi
 <Sync time="338.004"/>
 #eee zmoreta. 
 </Turn>
-<Turn startTime="339.949" endTime="382.321">
-<Sync time="339.949"/>
-<Background time="339.949" type="shh" level="high"/>
-
-<Background time="382.248" type="other" level="off"/>
-
-</Turn>
-<Turn speaker="spk1" startTime="382.321" endTime="536.186" fidelity="high">
-<Sync time="382.321"/>
+      <Turn startTime="339.949" endTime="382.321">
+        <Sync time="339.949"/>
+        <Background time="339.949" type="shh" level="high"/>
+        <Background time="382.248" type="other" level="off"/>
+      </Turn>
+      <Turn speaker="spk1" startTime="382.321" endTime="536.186" fidelity="high">
+        <Sync time="382.321"/>
 Ja, #e glejte, mi #eee vidimo, da 
 <Sync time="385.484"/>
 prav ta+pravega vira ... Težko rečemo, pokažemo, nanj kje, kje, je tisti glavni. 
@@ -264,7 +262,7 @@ v nekaj dneh pač #eee
 <Sync time="411.869"/>
 izkazal simptome, simptome bolezni. 
 <Sync time="414.596"/>
-</Turn>
-</Section>
-</Episode>
+      </Turn>
+    </Section>
+  </Episode>
 </Trans>

@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE Trans SYSTEM "trans-14.dtd">
-<Trans scribe="Mitja" audio_filename="Iriss-J-Gvecg-P500028-avd" version="7" version_date="221107">
-<Topics>
-<Topic id="to1" desc="Okrogla miza"/>
-</Topics>
-<Speakers>
-<Speaker id="spk2" name="Artur-J-G3063" check="no" dialect="native" accent="standard" scope="local" type="male"/>
-<Speaker id="spk3" name="Artur-J-G3062" check="no" dialect="native" accent="standard" scope="local" type="male"/>
-</Speakers>
-<Episode>
-<Section type="report" startTime="0" endTime="3299.120" topic="to1">
-<Turn startTime="0" endTime="341.004" speaker="spk2" fidelity="high">
-<Sync time="0"/>
-</Turn>
-<Turn speaker="spk2" startTime="341.004" endTime="367.743" fidelity="high">
-<Sync time="341.004"/>
+<Trans scribe="Mitja" audio_filename="../AVD/Rog-Art-J-Gvecg-P500028.wav" version="8" version_date="2024-10-16T17:30:31.058758+00:00">
+  <Topics>
+    <Topic id="to1" desc="Okrogla miza"/>
+  </Topics>
+  <Speakers>
+    <Speaker id="spk2" name="Artur-J-G3063" check="no" dialect="native" accent="standard" scope="local" type="male"/>
+    <Speaker id="spk3" name="Artur-J-G3062" check="no" dialect="native" accent="standard" scope="local" type="male"/>
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0" endTime="3299.120" topic="to1">
+      <Turn startTime="0" endTime="341.004" speaker="spk2" fidelity="high">
+        <Sync time="0"/>
+      </Turn>
+      <Turn speaker="spk2" startTime="341.004" endTime="367.743" fidelity="high">
+        <Sync time="341.004"/>
 Ja, hvala lepa za besedo. 
 <Sync time="342.608"/>
 Jaz mislim, da so razlogi zelo preprosti. 
@@ -35,14 +35,12 @@ Asimovih zakonih, ki se dotikajo robotike.
 <Sync time="362.235"/>
 Danes sicer lahko bi govorili tudi o kakšnih robotih, ki, #eee, imajo drugačen namen. 
 </Turn>
-<Turn startTime="367.743" endTime="369.538">
-<Sync time="367.743"/>
-
-<Event desc="pause" type="noise" extent="instantaneous"/>
-
-</Turn>
-<Turn speaker="spk2" startTime="369.538" endTime="469.313" fidelity="high">
-<Sync time="369.538"/>
+      <Turn startTime="367.743" endTime="369.538">
+        <Sync time="367.743"/>
+        <Event desc="pause" type="noise" extent="instantaneous"/>
+      </Turn>
+      <Turn speaker="spk2" startTime="369.538" endTime="469.313" fidelity="high">
+        <Sync time="369.538"/>
 #Eee, in, #eee, mogoče, če kar takoj omenim to temo na področju kemičnega orožja, obstajajo določene mednarodne, 
 <Sync time="377.38"/>
 #eee, deklaracije, sporazumi, #eee, ki govorijo o tem, da se to ne sme uporabljati, medtem ko na področju robotov pa 
@@ -99,14 +97,12 @@ industrijski roboti, prihajajoči, sodelujoči roboti, mobilni roboti,
 <Event desc="unintelligible" type="noise" extent="instantaneous"/>
  s tem. 
 </Turn>
-<Turn startTime="469.313" endTime="472.22">
-<Sync time="469.313"/>
-
-<Event desc="pause" type="noise" extent="instantaneous"/>
-
-</Turn>
-<Turn speaker="spk2" startTime="472.22" endTime="535.254" fidelity="high">
-<Sync time="472.22"/>
+      <Turn startTime="469.313" endTime="472.22">
+        <Sync time="469.313"/>
+        <Event desc="pause" type="noise" extent="instantaneous"/>
+      </Turn>
+      <Turn speaker="spk2" startTime="472.22" endTime="535.254" fidelity="high">
+        <Sync time="472.22"/>
 Sam bi rekel, da pravzaprav 
 <Sync time="474.885"/>
 ne vem, če je potrebno 
@@ -139,8 +135,7 @@ so bili drugačni pogledi.
 <Sync time="507.642"/>
 Tudi leta devetnajststo dvaindvajset, tako kot je prej omenjal 
 <Sync time="511.058"/>
-
-<Event desc="unintelligible" type="noise" extent="instantaneous"/>
+        <Event desc="unintelligible" type="noise" extent="instantaneous"/>
  robote, ali pa recimo, če omenim Slovenijo, isto mi delamo, imamo krasen primer, 
 <Sync time="516.362"/>
 #eee, tudi, #eee, začetek robotske 
@@ -157,14 +152,12 @@ kaj
 <Sync time="533.905"/>
 bo oziroma kje smo. 
 </Turn>
-<Turn startTime="535.254" endTime="537.418">
-<Sync time="535.254"/>
-
-<Event desc="pause" type="noise" extent="instantaneous"/>
-
-</Turn>
-<Turn speaker="spk3" startTime="537.418" endTime="929.926" fidelity="high">
-<Sync time="537.418"/>
+      <Turn startTime="535.254" endTime="537.418">
+        <Sync time="535.254"/>
+        <Event desc="pause" type="noise" extent="instantaneous"/>
+      </Turn>
+      <Turn speaker="spk3" startTime="537.418" endTime="929.926" fidelity="high">
+        <Sync time="537.418"/>
 Torej, #khm, ja, letos smo, 
 <Sync time="539.964"/>
 #eem 
@@ -285,7 +278,7 @@ nekako spadajo v ta okvir umetne inteligence,
 <Sync time="723.326"/>
 mikronivoju ali pa tudi na veliko, #eee, širšem nivoju, ne. 
 <Sync time="728.028"/>
-</Turn>
-</Section>
-</Episode>
+      </Turn>
+    </Section>
+  </Episode>
 </Trans>

@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE Trans SYSTEM "trans-14.dtd">
-<Trans scribe="Mitja" audio_filename="Iriss-J-Gvecg-P500001-avd" version="11" version_date="221028">
-<Topics>
-<Topic id="to1" desc="Okrogla miza"/>
-</Topics>
-<Speakers>
-<Speaker id="spk6" name="Artur-J-G3003" check="no" dialect="native" accent="standard" scope="local" type="male"/>
-</Speakers>
-<Episode>
-<Section type="report" startTime="0" endTime="6723.520" topic="to1">
-<Turn startTime="0" endTime="2082.132" speaker="spk6" fidelity="high">
-<Sync time="0"/>
-</Turn>
-<Turn speaker="spk6" startTime="2082.132" endTime="2415.501" fidelity="high">
-<Sync time="2082.132"/>
+<Trans scribe="Mitja" audio_filename="../AVD/Rog-Art-J-Gvecg-P500001.wav" version="12" version_date="2024-10-17T07:00:48.057266+00:00">
+  <Topics>
+    <Topic id="to1" desc="Okrogla miza"/>
+  </Topics>
+  <Speakers>
+    <Speaker id="spk6" name="Artur-J-G3003" check="no" dialect="native" accent="standard" scope="local" type="male"/>
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0" endTime="6723.520" topic="to1">
+      <Turn startTime="0" endTime="2082.132" speaker="spk6" fidelity="high">
+        <Sync time="0"/>
+      </Turn>
+      <Turn speaker="spk6" startTime="2082.132" endTime="2415.501" fidelity="high">
+        <Sync time="2082.132"/>
 Drage prijateljice, dragi prijatelji 
 <Sync time="2085.136"/>
 govorjene slovenščine. 
@@ -166,8 +166,7 @@ in to sem imel na prosojnici tudi napisano,
 <Background time="2277.35" type="shh" level="high"/>
 [ime in priimek], 
 <Background time="2278.413" type="other" level="off"/>
-
-<Sync time="2278.958"/>
+        <Sync time="2278.958"/>
 kjer je bilo zelo dosti 
 <Sync time="2280.576"/>
 izkušenj 
@@ -268,14 +267,12 @@ diplomsko nalogo,
 <Sync time="2414.734"/>
 ki je bila, 
 </Turn>
-<Turn startTime="2415.501" endTime="2417.198">
-<Sync time="2415.501"/>
-
-<Event desc="pause" type="noise" extent="instantaneous"/>
-
-</Turn>
-<Turn speaker="spk6" startTime="2417.198" endTime="2493.796" fidelity="high">
-<Sync time="2417.198"/>
+      <Turn startTime="2415.501" endTime="2417.198">
+        <Sync time="2415.501"/>
+        <Event desc="pause" type="noise" extent="instantaneous"/>
+      </Turn>
+      <Turn speaker="spk6" startTime="2417.198" endTime="2493.796" fidelity="high">
+        <Sync time="2417.198"/>
 mislim, da kar 
 <Sync time="2418.262"/>
 celovito 
@@ -326,7 +323,7 @@ raznolika in mislim, da to je stvar, v katero bi bilo dobro, da bi RTV Slovenija
 <Sync time="2488.93"/>
 tudi šla. 
 <Sync time="2490.361"/>
-</Turn>
-</Section>
-</Episode>
+      </Turn>
+    </Section>
+  </Episode>
 </Trans>

@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE Trans SYSTEM "trans-14.dtd">
-<Trans scribe="User1" audio_filename="Iriss-J-Gvecg-P500002-avd" version="8" version_date="220922">
-<Topics>
-<Topic id="to1" desc="Nagovor na dogodku"/>
-</Topics>
-<Speakers>
-<Speaker id="spk1" name="Artur-J-G3002" check="no" dialect="native" accent="standard" scope="local" type="female"/>
-</Speakers>
-<Episode>
-<Section type="report" startTime="0" endTime="424.200" topic="to1">
-<Turn startTime="0" endTime="423.072" speaker="spk1" fidelity="high">
-<Sync time="0"/>
+<Trans scribe="User1" audio_filename="../AVD/Rog-Art-J-Gvecg-P500002.wav" version="9" version_date="2024-10-16T17:30:14.852074+00:00">
+  <Topics>
+    <Topic id="to1" desc="Nagovor na dogodku"/>
+  </Topics>
+  <Speakers>
+    <Speaker id="spk1" name="Artur-J-G3002" check="no" dialect="native" accent="standard" scope="local" type="female"/>
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0" endTime="424.200" topic="to1">
+      <Turn startTime="0" endTime="423.072" speaker="spk1" fidelity="high">
+        <Sync time="0"/>
 Lepo pozdravljeni. Svojih pet minut bom namenila predstavitvi tistih vprašanj, s katerimi se srečujemo ob pripravi pravopisa,
 <Sync time="8.916"/>
 ki je na Slovenskem jezikovni priročnik z osnovnimi pravopisnimi in pravorečnimi pravili, napotki in priporočili.
@@ -183,8 +183,8 @@ in empirično podkrepljenih raziskav,
 <Sync time="352.277"/>
 o katerih se pogovarjamo s strokovno javnostjo.
 <Sync time="355.844"/>
-<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
-<Sync time="356.992"/>
+        <Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+        <Sync time="356.992"/>
 Saj ta strokovna javnost to kodifikacijo potem uresničuje u praksi.
 <Sync time="361.783"/>
 Najbrž si moramo večkrat ponoviti tudi,
@@ -193,10 +193,10 @@ da je knjižna slovenščina danes vitalen
 <Sync time="369.267"/>
 in razvit polnofunkcijski jezik v zreli dobi.
 <Sync time="373.066"/>
-<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
-<Sync time="373.758"/>
-<Event desc="pause" type="noise" extent="instantaneous"/>
-<Sync time="375.118"/>
+        <Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+        <Sync time="373.758"/>
+        <Event desc="pause" type="noise" extent="instantaneous"/>
+        <Sync time="375.118"/>
 Aktivno jo uporablja največje število govork
 <Sync time="378.891"/>
 in govorcev v njeni zgodovini,
@@ -225,9 +225,9 @@ Zato ga lahko uporabljamo tudi za kodifikacijsko merilo.
 <Sync time="421.547"/>
 Hvala lepa.
 </Turn>
-<Turn startTime="423.072" endTime="424.200">
-<Sync time="423.072"/>
-</Turn>
-</Section>
-</Episode>
+      <Turn startTime="423.072" endTime="424.200">
+        <Sync time="423.072"/>
+      </Turn>
+    </Section>
+  </Episode>
 </Trans>

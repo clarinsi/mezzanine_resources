@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE Trans SYSTEM "trans-14.dtd">
-<Trans scribe="Ariana Kupsek" audio_filename="Iriss-N-G6100-P610002-avd" version="7" version_date="220831">
-<Topics>
-<Topic id="to1" desc="Razlaganje in opisovanje"/>
-</Topics>
-<Speakers>
-<Speaker id="spk1" name="Artur-N-G6100" check="no" dialect="native" accent="colloquial" scope="local" type="male"/>
-</Speakers>
-<Episode>
-<Section type="report" startTime="0" endTime="993.097" topic="to1">
-<Turn startTime="0" endTime="244.239" speaker="spk1" fidelity="high">
-<Sync time="0"/>
+<Trans scribe="Ariana Kupsek" audio_filename="../AVD/Rog-Art-N-G6100-P610002.wav" version="8" version_date="2024-10-17T07:00:41.815439+00:00">
+  <Topics>
+    <Topic id="to1" desc="Razlaganje in opisovanje"/>
+  </Topics>
+  <Speakers>
+    <Speaker id="spk1" name="Artur-N-G6100" check="no" dialect="native" accent="colloquial" scope="local" type="male"/>
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0" endTime="993.097" topic="to1">
+      <Turn startTime="0" endTime="244.239" speaker="spk1" fidelity="high">
+        <Sync time="0"/>
 Se pravi, všeč mi je fil@m Gospodar prstanov,
 <Sync time="3.785"/>
 ker prikazuje, #e, različno zgodovino, #e, večih ljudst@v, ki so med seboj povezana.
@@ -107,12 +107,12 @@ vasi Borovnica, kjer s@m že opisal, #e, ta
 <Sync time="241.156"/>
 pot v P@k@l, kjer so te slapovi zelo lepi ...
 </Turn>
-<Turn startTime="244.239" endTime="246.855">
-<Sync time="244.239"/>
-<Event desc="pause" type="noise" extent="instantaneous"/>
-</Turn>
-<Turn speaker="spk1" startTime="246.855" endTime="993.097" fidelity="high">
-<Sync time="246.855"/>
+      <Turn startTime="244.239" endTime="246.855">
+        <Sync time="244.239"/>
+        <Event desc="pause" type="noise" extent="instantaneous"/>
+      </Turn>
+      <Turn speaker="spk1" startTime="246.855" endTime="993.097" fidelity="high">
+        <Sync time="246.855"/>
 Kateri poklic mi je všeč in zakaj? Provzaprov mi je všeč poklic, ki ga upravljam, zdi se mi, da
 <Sync time="253.22"/>
 lahko z@
@@ -143,12 +143,12 @@ delavnice ter praktična izvedba, ki jo delamo, presegla njihova pričakovanja i
 <Sync time="325.633"/>
 tudi veči(), veliko jih
 <Event desc="unintelligible" type="noise" extent="instantaneous"/>
-<Sync time="328.348"/>
+        <Sync time="328.348"/>
 te stvari bile pomembne, da bi se to že tudi vneslo v šolski sistem, če ne v osnovni šoli pa sigurno v srednji šoli bi mogu obstojat
 <Sync time="336.306"/>
 predmet Komunikacija in pa seveda tudi učenje o čustvih.
 <Sync time="340.34"/>
-</Turn>
-</Section>
-</Episode>
+      </Turn>
+    </Section>
+  </Episode>
 </Trans>

@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE Trans SYSTEM "trans-14.dtd">
-<Trans scribe="Nika" audio_filename="Iriss-J-Gvecg-P500014-avd" version="6" version_date="230105">
-<Topics>
-<Topic id="to1" desc="Spletni dogodek"/>
-</Topics>
-<Speakers>
-<Speaker id="spk1" name="Artur-J-G3018" check="no" dialect="native" accent="standard" scope="local" type="female"/>
-<Speaker id="spk3" name="Artur-J-G3020" check="no" dialect="native" accent="colloquial" scope="local" type="female"/>
-</Speakers>
-<Episode>
-<Section type="report" startTime="0" endTime="3275.480" topic="to1">
-<Turn startTime="0" endTime="579.299" speaker="spk1" fidelity="high">
-<Sync time="0"/>
-</Turn>
-<Turn speaker="spk3" startTime="579.299" endTime="909.335" fidelity="high">
-<Sync time="579.299"/>
+<Trans scribe="Nika" audio_filename="../AVD/Rog-Art-J-Gvecg-P500014.wav" version="7" version_date="2024-10-17T07:18:31.390799+00:00">
+  <Topics>
+    <Topic id="to1" desc="Spletni dogodek"/>
+  </Topics>
+  <Speakers>
+    <Speaker id="spk1" name="Artur-J-G3018" check="no" dialect="native" accent="standard" scope="local" type="female"/>
+    <Speaker id="spk3" name="Artur-J-G3020" check="no" dialect="native" accent="colloquial" scope="local" type="female"/>
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0" endTime="3275.480" topic="to1">
+      <Turn startTime="0" endTime="579.299" speaker="spk1" fidelity="high">
+        <Sync time="0"/>
+      </Turn>
+      <Turn speaker="spk3" startTime="579.299" endTime="909.335" fidelity="high">
+        <Sync time="579.299"/>
 Ja.
 <Sync time="580.163"/>
 #eee Ja, tako je, ko se je že nakazovalo, ane, da bo pač epidemija prišla iz tujine tudi v naše kraje,
@@ -127,7 +127,7 @@ je tudi tokrat #eee predstojnik Kliničnega oddelka za hematologijo profesor dok
 <Background time="771.69" type="shh" level="high"/>
 [ime in priimek]
 <Background time="772.421" type="other" level="off"/>
-<Sync time="772.421"/>
+        <Sync time="772.421"/>
 #eee pripravljal vsak ted@n #eem dolgo pismo za naše bolnike.
 <Sync time="778.217"/>
 #eee To smo tud objavljal na socialnih omrežjih
@@ -206,14 +206,12 @@ sva delali od doma, tudi naši prostovoljci so delali od doma tko.
 <Sync time="902.431"/>
 Ampak ti videokonferenčni sistemi so nam omogočal, da smo bli na vezi tko mi med sabo kot z bolniki in tudi strokovnjaki.
 </Turn>
-<Turn startTime="909.335" endTime="911.475">
-<Sync time="909.335"/>
-
-<Event desc="pause" type="noise" extent="instantaneous"/>
-
-</Turn>
-<Turn speaker="spk1" startTime="911.475" endTime="932.356" fidelity="high">
-<Sync time="911.475"/>
+      <Turn startTime="909.335" endTime="911.475">
+        <Sync time="909.335"/>
+        <Event desc="pause" type="noise" extent="instantaneous"/>
+      </Turn>
+      <Turn speaker="spk1" startTime="911.475" endTime="932.356" fidelity="high">
+        <Sync time="911.475"/>
 #eee Nekaj o odzivih ste #eee že povedali, zdejle lahko mogoče izklopiva tudi šer skrin.
 <Sync time="918.623"/>
 #eee
@@ -226,15 +224,15 @@ Je bilo veliko takih odzivov, da si želijo
 <Sync time="927.911"/>
 #eee tovrstne storitve tudi u() v vsakršnem času?
 </Turn>
-<Turn speaker="spk3" startTime="932.356" endTime="965.021" fidelity="high">
-<Sync time="932.356"/>
+      <Turn speaker="spk3" startTime="932.356" endTime="965.021" fidelity="high">
+        <Sync time="932.356"/>
 Ja, po eni strani moram povedat, no, da nekje polovica naših uporabnikov programov se je odlo() odločila za te onlajn #eem
 <Sync time="940.922"/>
 prilagoditve, ne, za Zume
 <Sync time="943.04"/>
 #eee in tko naprej.
 <Sync time="944.37"/>
-</Turn>
-</Section>
-</Episode>
+      </Turn>
+    </Section>
+  </Episode>
 </Trans>

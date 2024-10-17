@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE Trans SYSTEM "trans-14.dtd">
-<Trans scribe="Ariana Kup?ek" audio_filename="Iriss-J-Gvecg-P500051-avd" version="4" version_date="220125">
-<Topics>
-<Topic id="to1" desc="Novinarska konferenca"/>
-</Topics>
-<Speakers>
-<Speaker id="spk1" name="Artur-J-G3016" check="no" dialect="native" accent="colloquial" scope="local" type="male"/>
-</Speakers>
-<Episode>
-<Section type="report" startTime="0" endTime="1761.240" topic="to1">
-<Turn startTime="0" endTime="92.814" speaker="spk1" fidelity="high">
-<Sync time="0"/>
+<Trans scribe="Ariana Kup?ek" audio_filename="../AVD/Rog-Art-J-Gvecg-P500051.wav" version="5" version_date="2024-10-17T07:18:23.213836+00:00">
+  <Topics>
+    <Topic id="to1" desc="Novinarska konferenca"/>
+  </Topics>
+  <Speakers>
+    <Speaker id="spk1" name="Artur-J-G3016" check="no" dialect="native" accent="colloquial" scope="local" type="male"/>
+  </Speakers>
+  <Episode>
+    <Section type="report" startTime="0" endTime="1761.240" topic="to1">
+      <Turn startTime="0" endTime="92.814" speaker="spk1" fidelity="high">
+        <Sync time="0"/>
 #E, lepo pozdravlj@ni tudi z moje strani.
 <Sync time="3.093"/>
 #E, današnja
@@ -89,29 +89,29 @@ razvoja.
 <Sync time="91.854"/>
 #Eem ...
 </Turn>
-<Turn startTime="92.814" endTime="94.845">
-<Sync time="92.814"/>
-<Event desc="pause" type="noise" extent="instantaneous"/>
-</Turn>
-<Turn speaker="spk1" startTime="94.845" endTime="96.185" fidelity="high">
-<Sync time="94.845"/>
+      <Turn startTime="92.814" endTime="94.845">
+        <Sync time="92.814"/>
+        <Event desc="pause" type="noise" extent="instantaneous"/>
+      </Turn>
+      <Turn speaker="spk1" startTime="94.845" endTime="96.185" fidelity="high">
+        <Sync time="94.845"/>
 Tole pa ne gre naprej.
 </Turn>
-<Turn startTime="96.185" endTime="99.712">
-<Sync time="96.185"/>
-<Event desc="pause" type="noise" extent="instantaneous"/>
-</Turn>
-<Turn speaker="spk1" startTime="99.712" endTime="103.239" fidelity="high">
-<Sync time="99.712"/>
+      <Turn startTime="96.185" endTime="99.712">
+        <Sync time="96.185"/>
+        <Event desc="pause" type="noise" extent="instantaneous"/>
+      </Turn>
+      <Turn speaker="spk1" startTime="99.712" endTime="103.239" fidelity="high">
+        <Sync time="99.712"/>
 #Eem, zdaj, ogromno.
 </Turn>
-<Turn startTime="103.239" endTime="107.592">
-<Sync time="103.239"/>
-<Background time="103.239" type="speech" level="high"/>
-<Background time="107.591" type="other" level="off"/>
-</Turn>
-<Turn speaker="spk1" startTime="107.592" endTime="167.819" fidelity="high">
-<Sync time="107.592"/>
+      <Turn startTime="103.239" endTime="107.592">
+        <Sync time="103.239"/>
+        <Background time="103.239" type="speech" level="high"/>
+        <Background time="107.591" type="other" level="off"/>
+      </Turn>
+      <Turn speaker="spk1" startTime="107.592" endTime="167.819" fidelity="high">
+        <Sync time="107.592"/>
 #Eem,
 <Sync time="108.507"/>
 če pogledamo, kaj se je dogajalo,
@@ -166,12 +166,12 @@ razvoj
 <Sync time="166.279"/>
 teh otrok.
 </Turn>
-<Turn startTime="167.819" endTime="170.141">
-<Sync time="167.819"/>
-<Event desc="pause" type="noise" extent="instantaneous"/>
-</Turn>
-<Turn speaker="spk1" startTime="170.141" endTime="220.302" fidelity="high">
-<Sync time="170.141"/>
+      <Turn startTime="167.819" endTime="170.141">
+        <Sync time="167.819"/>
+        <Event desc="pause" type="noise" extent="instantaneous"/>
+      </Turn>
+      <Turn speaker="spk1" startTime="170.141" endTime="220.302" fidelity="high">
+        <Sync time="170.141"/>
 Takš@n je bil potem
 <Sync time="171.837"/>
 povpreč@n
@@ -218,12 +218,12 @@ znanstvenimi dokazi in, in, in, #e, strokovno,
 <Sync time="218.739"/>
 izobraževanja.
 </Turn>
-<Turn startTime="220.302" endTime="222.735">
-<Sync time="220.302"/>
-<Event desc="pause" type="noise" extent="instantaneous"/>
-</Turn>
-<Turn speaker="spk1" startTime="222.735" endTime="374.743" fidelity="high">
-<Sync time="222.735"/>
+      <Turn startTime="220.302" endTime="222.735">
+        <Sync time="220.302"/>
+        <Event desc="pause" type="noise" extent="instantaneous"/>
+      </Turn>
+      <Turn speaker="spk1" startTime="222.735" endTime="374.743" fidelity="high">
+        <Sync time="222.735"/>
 Delež otrok
 <Sync time="223.985"/>
 z debelostjo
@@ -254,8 +254,8 @@ zdaj so se ti podatki še dopolnili.
 <Sync time="260.047"/>
 in
 <Sync time="260.928"/>
-<Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
-<Sync time="261.538"/>
+        <Event desc="indeterminate voice" type="noise" extent="instantaneous"/>
+        <Sync time="261.538"/>
 te šole so dobile povratno informacijo,
 <Sync time="264.223"/>
 te šole so vedele, kaj se je zgodilo z otroki.
@@ -336,9 +336,9 @@ oziroma več kot trid@s@t v tistih šolah, ki niso
 <Sync time="372.047"/>
 dobile povratne informacije.
 </Turn>
-<Turn startTime="374.743" endTime="377.113">
-<Sync time="374.743"/>
-</Turn>
-</Section>
-</Episode>
+      <Turn startTime="374.743" endTime="377.113">
+        <Sync time="374.743"/>
+      </Turn>
+    </Section>
+  </Episode>
 </Trans>

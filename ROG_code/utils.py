@@ -138,11 +138,16 @@ def do_conllus():
 
     r = make_conll_splits()
     df = pl.DataFrame(r).with_columns(
-        pl.col("Sent_id").map_elements(lambda i: in_corpus(i, "SST"), return_dtype=pl.Boolean).alias("in_sst"),
-        pl.col("Sent_id").map_elements(lambda i: in_corpus(i, "SPOG"), return_dtype=pl.Boolean).alias("in_spog"),
+        pl.col("Sent_id")
+        .map_elements(lambda i: in_corpus(i, "SST"), return_dtype=pl.Boolean)
+        .alias("in_sst"),
+        pl.col("Sent_id")
+        .map_elements(lambda i: in_corpus(i, "SPOG"), return_dtype=pl.Boolean)
+        .alias("in_spog"),
         pl.col("Sent_id").str.contains("Artur").alias("in_artur"),
         pl.col("Sent_id").str.split(".").list[0].alias("file"),
     )
+    print("SST and SPOG segments assigned.")
 
     def key(item):
         sid = item.metadata["sent_id"]
@@ -156,7 +161,10 @@ def do_conllus():
         + parse(Path("../UD_Slovenian-SST/sl_sst-ud-train.conllu").read_text())
         + parse(Path("../UD_Slovenian-SST/sl_sst-ud-train.conllu").read_text())
     )
-    for file in df["file"].unique():
+    print("Conllu parsed.")
+    from tqdm import tqdm
+
+    for file in tqdm(df["file"].unique(), total=df["file"].unique().shape[0]):
         # SST -> GO1
         subset = df.filter((pl.col("file") == file) & (pl.col("in_sst") == True))
         if subset.shape[0] != 0:
@@ -166,7 +174,7 @@ def do_conllus():
             path = Path(f"../ROG/CONLLU/Rog-Go1-{file}.conllu")
             path.parent.mkdir(exist_ok=True)
             path.write_text("\n".join([i.serialize() for i in data]))
-            print("wrote")
+            # print("wrote")
         # SPOG -> GO2
         subset = df.filter((pl.col("file") == file) & (pl.col("in_spog") == True))
         if subset.shape[0] != 0:
@@ -176,7 +184,7 @@ def do_conllus():
             path = Path(f"../ROG/CONLLU/Rog-Go2-{file}.conllu")
             path.parent.mkdir(exist_ok=True)
             path.write_text("\n".join([i.serialize() for i in data]))
-            print("wrote")
+            # print("wrote")
         # Artur -> Rog-Art
         subset = df.filter((pl.col("file") == file) & (pl.col("in_artur") == True))
         if subset.shape[0] != 0:
@@ -186,8 +194,42 @@ def do_conllus():
             path = Path(f"../ROG/CONLLU/Rog-Art{file.replace('Artur-', '-')}.conllu")
             path.parent.mkdir(exist_ok=True)
             path.write_text("\n".join([i.serialize() for i in data]))
-            print("wrote")
+            # print("wrote")
     2 + 2
 
 
-do_conllus()
+def fix_trs(inpath: str, outpath: str):
+    from pathlib import Path
+    from lxml import etree as et
+    import datetime
+
+    doc = et.fromstring(Path(inpath).read_bytes())
+
+    doc.set(
+        "audio_filename",
+        "../AVD/"
+        + str(Path(inpath).with_suffix("").with_suffix(".wav").name)
+        .replace("Iriss", "Rog-Art")
+        .replace("-pog", "")
+        .replace("-std", ""),
+    )
+    import datetime
+
+    doc.set("version_date", f"{datetime.datetime.now(datetime.UTC).isoformat()}")
+    doc.set("version", str(int(doc.get("version")) + 1))
+    et.indent(doc)
+    Path(outpath).write_bytes(
+        et.tostring(
+            doc,
+            encoding="UTF-8",
+            xml_declaration=True,
+            doctype='<!DOCTYPE Trans SYSTEM "trans-14.dtd">',
+        )
+    )
+
+
+# fix_trs(
+#     "/home/peter/mezzanine_resources/ROG/ROG-Art/TRS/Rog-Art-J-Gvecg-P500001-pog.trs",
+#     "brisi.xml",
+# )
+# do_conllus()

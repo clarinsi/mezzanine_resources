@@ -31,8 +31,9 @@ rule cp_wavs:
 rule cp_trs:
     input: "../../mezzanine/iriss/Iriss-{file}-{pogorstd}.trs"
     output: "../ROG/ROG-Art/TRS/Rog-Art-{file}-{pogorstd}.trs"
-    shell:
-        "cp {input[0]} {output[0]}"
+    run:
+        from utils import fix_trs
+        fix_trs(input[0], output[0])
 rule prep_artur_metadata:
     input:
         split="../ROG-Artur-train-dev-test-split.csv",
@@ -64,7 +65,8 @@ rule do_conll:
         train="../UD_Slovenian-SST/sl_sst-ud-train.conllu",
         dev="../UD_Slovenian-SST/sl_sst-ud-dev.conllu",
         test="../UD_Slovenian-SST/sl_sst-ud-test.conllu",
-    output: temp("../ROG/CONLLU_done")
+    # output: temp("../ROG/CONLLU_done")
+    output: "../ROG/CONLLU_done"
     run:
         from pathlib import Path
         from utils import do_conllus
@@ -91,4 +93,3 @@ rule prep_conll_metadata:
         from utils import make_conll_splits
         pl.DataFrame(make_conll_splits()).write_csv(output.split, separator="\t")
 
-rule bla:
