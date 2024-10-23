@@ -63,9 +63,9 @@ def prettify(inpath: str, outpath: str, public=False):
     t = doc.find(".//referenced-file")
     t.set(
         "url",
-        str(Path("../AVD/", Path(inpath).with_suffix("").with_suffix(".wav"))).replace(
-            "Iriss", "RogArt"
-        ),
+        str(
+            Path("../AVD/", Path(inpath).with_suffix("").with_suffix(".wav").name)
+        ).replace("Iriss", "RogArt"),
     )
     t = doc.find(".//comment")
     t.text = (
@@ -313,9 +313,7 @@ def do_rog_speakers(inpath: str, outpath: str, artur_only=False):
     )
     df = (
         df.select(pl.exclude(["UTTS", "WORDS"]))
-        .join(ndf,
-              left_on=["TEXT-ID", "PRS-ID"],
-              right_on=["speech", "speaker"])
+        .join(ndf, left_on=["TEXT-ID", "PRS-ID"], right_on=["speech", "speaker"])
         .with_columns(
             pl.col("TEXT-ID").str.replace("Artur", "Rog-Art"),
             # pl.col("SPK-IDsUTTS").list.join(" "),
@@ -326,4 +324,4 @@ def do_rog_speakers(inpath: str, outpath: str, artur_only=False):
     df.write_csv(outpath, separator="\t")
 
 
-do_rog_speakers("../Gos.TEI/Gos-speakers.tsv", "brisi.tsv")
+# do_rog_speakers("../Gos.TEI/Gos-speakers.tsv", "brisi.tsv")
