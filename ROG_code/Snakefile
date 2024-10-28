@@ -69,7 +69,8 @@ rule do_conll:
 rule prep_conll_metadata:
     input:
         speakers="../Gos.TEI/Gos-speakers.tsv",
-        speeches="../Gos.TEI/Gos-speeches.tsv"
+        speeches="../Gos.TEI/Gos-speeches.tsv",
+        split="../ROG_code/"
     output:
         split="../ROG/ROG-TrainDevTest-split.tsv",
         speakers="../ROG/ROG-speakers.tsv",

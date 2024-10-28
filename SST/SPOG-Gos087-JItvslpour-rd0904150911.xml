@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Gos087" xml:lang="sl" source="#gos.P.G">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Predsednik Slovenije o zmagi novega ameriškega predsednika. [Gos1.1]</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>2.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="8" xml:lang="sl">8 govorov</measure>
+            <measure unit="speeches" quantity="8" xml:lang="en">8 speeches</measure>
+            <measure unit="words" quantity="205" xml:lang="sl">205 besed</measure>
+            <measure unit="words" quantity="205" xml:lang="en">205 words</measure>
+         </extent>
+         <publicationStmt>
+            <distributor>
+               <ref target="https://www.clarin.si/">CLARIN.SI</ref>
+            </distributor>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/XXXX</idno>
+            <date when="2023-06-09">2023-06-09</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Predsednik Slovenije o zmagi novega ameriškega predsednika.</title>
+               <date when="2009-04">2009-04</date>
+            </bibl>
+            <recordingStmt>
+               <recording>
+                  <media xml:id="SPOG-Gos087-JItvslpour-rd0904150911-avd.wav" mimeType="audio/wav" url="./SPOG-Gos087-JItvslpour-rd0904150911-avd.wav"/>
+                  <broadcast>
+                     <ab>ProPlus</ab>
+                  </broadcast>
+                  <date when="2009-04-30">2009-04-30</date>
+               </recording>
+            </recordingStmt>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <catRef target="#gos.T.J.I"/>
+            <catRef target="#gos.K.T"/>
+         </textClass>
+         <textDesc>
+            <channel/>
+            <constitution/>
+            <derivation/>
+            <domain>PopTV, 24ur</domain>
+            <factuality/>
+            <interaction/>
+            <preparedness/>
+            <purpose/>
+         </textDesc>
+         <particDesc>
+            <listPerson n="2">
+               <person sameAs="#Mm-novi-03537"/>
+               <person sameAs="#Dm-inte-02007"/>
+            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <place>
+               <settlement>Ljubljana</settlement>
+            </place>
+         </settingDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <timeline unit="seg" xml:id="JItvslpour-rd0904150911" origin="#JItvslpour-rd0904150911.t0" corresp="#JItvslpour-rd0904150911.wav">
+            <when xml:id="JItvslpour-rd0904150911.t0"/>
+            <when xml:id="JItvslpour-rd0904150911.t11.548" interval="11.548" since="#JItvslpour-rd0904150911.t0"/>
+            <when xml:id="JItvslpour-rd0904150911.t21.897" interval="21.897" since="#JItvslpour-rd0904150911.t0"/>
+            <when xml:id="JItvslpour-rd0904150911.t29.46" interval="29.46" since="#JItvslpour-rd0904150911.t0"/>
+            <when xml:id="JItvslpour-rd0904150911.t33.383" interval="33.383" since="#JItvslpour-rd0904150911.t0"/>
+            <when xml:id="JItvslpour-rd0904150911.t39.297" interval="39.297" since="#JItvslpour-rd0904150911.t0"/>
+            <when xml:id="JItvslpour-rd0904150911.t41.413" interval="41.413" since="#JItvslpour-rd0904150911.t0"/>
+            <when xml:id="JItvslpour-rd0904150911.t46.366" interval="46.366" since="#JItvslpour-rd0904150911.t0"/>
+            <when xml:id="JItvslpour-rd0904150911.t58.143" interval="58.143" since="#JItvslpour-rd0904150911.t0"/>
+            <when xml:id="JItvslpour-rd0904150911.t59.975" interval="59.975" since="#JItvslpour-rd0904150911.t0"/>
+            <when xml:id="JItvslpour-rd0904150911.t63.225" interval="63.225" since="#JItvslpour-rd0904150911.t0"/>
+            <when xml:id="JItvslpour-rd0904150911.t69.256" interval="69.256" since="#JItvslpour-rd0904150911.t0"/>
+            <when xml:id="JItvslpour-rd0904150911.t75.318" interval="75.318" since="#JItvslpour-rd0904150911.t0"/>
+            <when xml:id="JItvslpour-rd0904150911.t84.052" interval="84.052" since="#JItvslpour-rd0904150911.t0"/>
+            <when xml:id="JItvslpour-rd0904150911.t88.271" interval="88.271" since="#JItvslpour-rd0904150911.t0"/>
+            <when xml:id="JItvslpour-rd0904150911.t90.337" interval="90.337" since="#JItvslpour-rd0904150911.t0"/>
+         </timeline>
+         <u xml:id="Gos087.u2" who="#Dm-inte-02007" start="#JItvslpour-rd0904150911.t11.548" end="#JItvslpour-rd0904150911.t33.383">
+<seg xml:id="Gos087.s2" synch="#JItvslpour-rd0904150911.t11.548">
+<w xml:id="Gos087.tok20" lemma="prav" ana="mte:Rgp">prav</w>
+<w xml:id="Gos087.tok21" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos087.tok22" lemma="da" ana="mte:Cs">da</w>
+<w xml:id="Gos087.tok23" lemma="biti" ana="mte:Va-r2p-n">ste</w>
+<w xml:id="Gos087.tok24" lemma="uporabiti" ana="mte:Vmep-pm">uporabili</w>
+<w xml:id="Gos087.tok25" lemma="izraz" ana="mte:Ncmsan">izraz</w>
+<w xml:id="Gos087.tok26" lemma="zgodovinski" ana="mte:Agpfsa">zgodovinsko</w>
+<w xml:id="Gos087.tok27" function="filler" lemma="eee" ana="mte:I">eee</w>
+<w xml:id="Gos087.tok28" lemma="zlasti" ana="mte:Q">zlasti</w>
+<w xml:id="Gos087.tok29" lemma="za" ana="mte:Sa">za</w>
+<w xml:id="Gos087.tok30" lemma="rezultat" ana="mte:Ncmsan">rezultat</w>
+<w xml:id="Gos087.tok31" lemma="ta" ana="mte:Pd-fpg">teh</w>
+<w xml:id="Gos087.tok32" lemma="volitev" ana="mte:Ncfpg">volitev</w>
+<w xml:id="Gos087.tok33" lemma="ki" ana="mte:Cs">ki</w>
+<w xml:id="Gos087.tok34" lemma="biti" ana="mte:Va-r3p-n">so</w>
+<w xml:id="Gos087.tok35" lemma="pokazati" ana="mte:Vmep-pm">pokazali</w>
+<w xml:id="Gos087.tok36" lemma="prvič" ana="mte:Rgp">prvič</w>
+<w xml:id="Gos087.tok37" lemma="privrženost" ana="mte:Ncfsa">privrženost</w>
+<w xml:id="Gos087.tok38" lemma="Američan" ana="mte:Npmpg">Američanov</w>
+<w xml:id="Gos087.tok39" lemma="sprememba" ana="mte:Ncfpd">spremembam</w>
+            </seg>
+</u>
+         </body>
+   </text>
+</TEI>

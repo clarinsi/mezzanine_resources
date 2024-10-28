@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Gos088" xml:lang="sl" source="#gos.P.G">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Priznanja za hrabrost. [Gos1.1]</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>2.1</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="10" xml:lang="sl">10 govorov</measure>
+            <measure unit="speeches" quantity="10" xml:lang="en">10 speeches</measure>
+            <measure unit="words" quantity="236" xml:lang="sl">236 besed</measure>
+            <measure unit="words" quantity="236" xml:lang="en">236 words</measure>
+         </extent>
+         <publicationStmt>
+            <distributor>
+               <ref target="https://www.clarin.si/">CLARIN.SI</ref>
+            </distributor>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/XXXX</idno>
+            <date when="2023-06-09">2023-06-09</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Priznanja za hrabrost.</title>
+               <date when="2009-05">2009-05</date>
+            </bibl>
+            <recordingStmt>
+               <recording>
+                  <media xml:id="SPOG-Gos088-JItvslpour-rd0904150912-avd.wav" mimeType="audio/wav" url="./SPOG-Gos088-JItvslpour-rd0904150912-avd.wav"/>
+                  <broadcast>
+                     <ab>ProPlus</ab>
+                  </broadcast>
+                  <date when="2009-05-11">2009-05-11</date>
+               </recording>
+            </recordingStmt>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <catRef target="#gos.T.J.I"/>
+            <catRef target="#gos.K.T"/>
+         </textClass>
+         <textDesc>
+            <channel/>
+            <constitution/>
+            <derivation/>
+            <domain>PopTV, 24ur</domain>
+            <factuality/>
+            <interaction/>
+            <preparedness/>
+            <purpose/>
+         </textDesc>
+         <particDesc>
+            <listPerson n="4">
+               <person sameAs="#Af-novi-00001"/>
+               <person sameAs="#Bm-nast-02020"/>
+               <person sameAs="#Cm-nast-02021"/>
+               <person sameAs="#Dm-nast-02022"/>
+            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <place>
+               <settlement>Ljubljana</settlement>
+            </place>
+         </settingDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <timeline unit="seg" xml:id="JItvslpour-rd0904150912" origin="#JItvslpour-rd0904150912.t0" corresp="#JItvslpour-rd0904150912.wav">
+            <when xml:id="JItvslpour-rd0904150912.t0"/>
+            <when xml:id="JItvslpour-rd0904150912.t5.342" interval="5.342" since="#JItvslpour-rd0904150912.t0"/>
+            <when xml:id="JItvslpour-rd0904150912.t10.541" interval="10.541" since="#JItvslpour-rd0904150912.t0"/>
+            <when xml:id="JItvslpour-rd0904150912.t13.701" interval="13.701" since="#JItvslpour-rd0904150912.t0"/>
+            <when xml:id="JItvslpour-rd0904150912.t18.034" interval="18.034" since="#JItvslpour-rd0904150912.t0"/>
+            <when xml:id="JItvslpour-rd0904150912.t22.386" interval="22.386" since="#JItvslpour-rd0904150912.t0"/>
+            <when xml:id="JItvslpour-rd0904150912.t31.144" interval="31.144" since="#JItvslpour-rd0904150912.t0"/>
+            <when xml:id="JItvslpour-rd0904150912.t37.223" interval="37.223" since="#JItvslpour-rd0904150912.t0"/>
+            <when xml:id="JItvslpour-rd0904150912.t42.002" interval="42.002" since="#JItvslpour-rd0904150912.t0"/>
+            <when xml:id="JItvslpour-rd0904150912.t45.640" interval="45.640" since="#JItvslpour-rd0904150912.t0"/>
+            <when xml:id="JItvslpour-rd0904150912.t48.886" interval="48.886" since="#JItvslpour-rd0904150912.t0"/>
+            <when xml:id="JItvslpour-rd0904150912.t55.474" interval="55.474" since="#JItvslpour-rd0904150912.t0"/>
+            <when xml:id="JItvslpour-rd0904150912.t60.043" interval="60.043" since="#JItvslpour-rd0904150912.t0"/>
+            <when xml:id="JItvslpour-rd0904150912.t72.863" interval="72.863" since="#JItvslpour-rd0904150912.t0"/>
+         </timeline>
+         <u xml:id="Gos088.u3" who="#Af-novi-00001" start="#JItvslpour-rd0904150912.t22.386" end="#JItvslpour-rd0904150912.t37.223">
+<seg xml:id="Gos088.s6" synch="#JItvslpour-rd0904150912.t22.386">
+<w xml:id="Gos088.tok58" lemma="medalja" ana="mte:Ncfsa">medaljo</w>
+<w xml:id="Gos088.tok59" lemma="za" ana="mte:Sa">za</w>
+<w xml:id="Gos088.tok60" lemma="hrabrost" ana="mte:Ncfsa">hrabrost</w>
+<w xml:id="Gos088.tok61" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos088.tok62" lemma="dobiti" ana="mte:Vmep-sm">dobil</w>
+<w xml:id="Gos088.tok63" lemma="tudi" ana="mte:Q">tudi</w>
+<w xml:id="Gos088.tok64" lemma="občan" ana="mte:Ncmsn">občan</w>
+               <name type="personal">
+                  <gap reason="anon">
+                     <desc>[ime]</desc>
+                  </gap>
+                  <gap reason="anon">
+                     <desc>[priimek]</desc>
+                  </gap>
+               </name>
+<w xml:id="Gos088.tok65" lemma="ki" ana="mte:Cs">ki</w>
+<w xml:id="Gos088.tok66" lemma="biti" ana="mte:Va-r3s-n">je</w>
+<w xml:id="Gos088.tok67" lemma="priskočiti" ana="mte:Vmep-sm">priskočil</w>
+<w xml:id="Gos088.tok68" lemma="na" ana="mte:Sa">na</w>
+<w xml:id="Gos088.tok69" lemma="pomoč" ana="mte:Ncfsa">pomoč</w>
+<w xml:id="Gos088.tok70" lemma="v" ana="mte:Sl">v</w>
+<w xml:id="Gos088.tok71" lemma="prometen" ana="mte:Agpfsl">prometni</w>
+<w xml:id="Gos088.tok72" lemma="nesreča" ana="mte:Ncfsl">nesreči</w>
+<w xml:id="Gos088.tok73" lemma="in" ana="mte:Cc">in</w>
+<w xml:id="Gos088.tok74" lemma="iz" ana="mte:Sg">iz</w>
+<w xml:id="Gos088.tok75" lemma="goreč" ana="mte:Appmsg">gorečega</w>
+<w xml:id="Gos088.tok76" lemma="tovornjak" ana="mte:Ncmsg">tovornjaka</w>
+<w xml:id="Gos088.tok77" lemma="prav" ana="mte:Q">prav</w>
+<w xml:id="Gos088.tok78" lemma="tako" ana="mte:Rgp">tako</w>
+<w xml:id="Gos088.tok79" lemma="rešiti" ana="mte:Vmep-sm">rešil</w>
+<w xml:id="Gos088.tok80" lemma="nezavesten" ana="mte:Agpmsa">nezavestnega</w>
+<w xml:id="Gos088.tok81" lemma="voznik" ana="mte:Ncmsay">voznika</w>
+            </seg>
+</u>
+         </body>
+   </text>
+</TEI>
