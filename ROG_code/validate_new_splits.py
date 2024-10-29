@@ -13,7 +13,7 @@ for splt in "train dev test".split(" "):
                 "sent_id": i.metadata["sent_id"],
                 "speaker": i.metadata["speaker_id"],
                 "split": splt,
-                "doc": i.metadata["sent_id"].split(".")[0]
+                "doc": i.metadata["sent_id"].split(".")[0],
             }
         )
 # Data from current conllu
@@ -21,7 +21,7 @@ fc = pl.DataFrame(r)
 
 r = list()
 for splt in "train dev test".split(" "):
-    data = parse(Path(f"../UD_Slovenian-SST/sl_sst-ud-{splt}.conllu").read_text())
+    data = parse(Path(f"~/UD_Slovenian-SST/sl_sst-ud-{splt}.conllu").read_text())
     for i in data:
         r.append(
             {
@@ -29,7 +29,7 @@ for splt in "train dev test".split(" "):
                 "sent_id": i.metadata["sent_id"],
                 "speaker": i.metadata["speaker_id"],
                 "split": splt,
-                "doc": i.metadata["sent_id"].split(".")[0]
+                "doc": i.metadata["sent_id"].split(".")[0],
             }
         )
 # Data from OLD splits
@@ -39,14 +39,16 @@ fo = pl.DataFrame(r)
 ff = pl.read_csv("final_split.csv")
 
 
-
-
 # Test that we are not losing data
 assert ff.shape[0] == fc.shape[0]
 assert ff.shape[0] == fo.shape[0]
 assert set(fc["sent_id"].to_list()) == set(fo["sent_id"].to_list())
 # Test that all documents belong to only one split
-gb = fc.group_by("doc").agg(pl.col("split").n_unique().alias("in_splits"), pl.col("split").unique()).filter(pl.col("in_splits")>1)
+gb = (
+    fc.group_by("doc")
+    .agg(pl.col("split").n_unique().alias("in_splits"), pl.col("split").unique())
+    .filter(pl.col("in_splits") > 1)
+)
 assert gb.shape[0] == 0
 
 
@@ -56,8 +58,22 @@ right = fc.select(pl.col("sent_id"), pl.col("wordlen")).sort("sent_id")
 assert left["wordlen"].to_list() == right["wordlen"].to_list()
 
 
-
 # Test that we have all the sent_ids that were in the old data
 missing = fc.filter(~pl.col("sent_id").is_in(fo["sent_id"]))
 assert missing.shape[0] == 0
-2+2
+
+# Count tokens:
+
+counts = fc.with_columns(
+    pl.when(
+        pl.col("doc")
+        .str.contains("Artur"))
+        .then(pl.lit("Artur"))
+        .otherwise(
+            pl.when(pl.col("doc").str.contains("Gos"))
+            .then(pl.lit("Gos"))
+            .otherwise(None)
+          ).alias("subcorpus")
+).group_by(["subcorpus", "split"]).agg(pl.col("wordlen").sum()).pivot(on="subcorpus", index="split").sort("split")
+print("Counts:", counts)
+2 + 2

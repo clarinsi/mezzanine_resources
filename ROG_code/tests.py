@@ -26,7 +26,9 @@ def current_conllu_data():
 def old_conllu_data():
     r = []
     for splt in ["train", "dev", "test"]:
-        data = parse(Path(f"../UD_Slovenian-SST/sl_sst-ud-{splt}.conllu").read_text())
+        data = parse(
+            Path(f"/home/peter/UD_Slovenian-SST/sl_sst-ud-{splt}.conllu").read_text()
+        )
         for i in data:
             r.append(
                 {
@@ -45,9 +47,12 @@ def final_split_data():
     return pl.read_csv("final_split.csv")
 
 
-def test_data_shape(final_split_data, current_conllu_data, old_conllu_data):
+def test_shape_data_vs_metadata(final_split_data, current_conllu_data):
     assert final_split_data.shape[0] == current_conllu_data.shape[0]
-    assert final_split_data.shape[0] == old_conllu_data.shape[0]
+
+
+def test_shape_data_vs_old_data(current_conllu_data, old_conllu_data):
+    assert current_conllu_data.shape[0] == old_conllu_data.shape[0]
 
 
 def test_sent_id_consistency(current_conllu_data, old_conllu_data):
@@ -78,3 +83,34 @@ def test_missing_sent_ids(current_conllu_data, old_conllu_data):
         ~pl.col("sent_id").is_in(old_conllu_data["sent_id"])
     )
     assert missing.shape[0] == 0
+
+
+def test_nonleakage(current_conllu_data):
+    df = current_conllu_data
+    docs_occur = (
+        df.group_by("doc")
+        .agg(pl.col("split").n_unique())
+        .select(pl.col("split").max())["split"]
+        .to_list()
+    )
+    assert docs_occur == [1]
+
+
+def test_token_counts(current_conllu_data):
+    counts = (
+        current_conllu_data.with_columns(
+            pl.when(pl.col("doc").str.contains("Artur"))
+            .then(pl.lit("Artur"))
+            .otherwise(
+                pl.when(pl.col("doc").str.contains("Gos"))
+                .then(pl.lit("Gos"))
+                .otherwise(None)
+            )
+            .alias("subcorpus")
+        )
+        .group_by(["subcorpus", "split"])
+        .agg(pl.col("wordlen").sum())
+        .pivot(on="subcorpus", index="split")
+        .sort("split")
+    )
+    print("Counts:", counts)
