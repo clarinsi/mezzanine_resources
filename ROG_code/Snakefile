@@ -59,7 +59,7 @@ rule do_conll:
         dev="../UD_Slovenian-SST/sl_sst-ud-dev.conllu",
         test="../UD_Slovenian-SST/sl_sst-ud-test.conllu",
     # output: temp("../ROG/CONLLU_done")
-    output: "../ROG/CONLLU_done"
+    output: temp("../ROG/CONLLU_done")
     run:
         from pathlib import Path
         from utils import do_conllus
