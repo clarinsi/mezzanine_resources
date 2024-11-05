@@ -1,6 +1,13 @@
 # mezzanine_resources
 Repo for tracking resources for the Mezzanine project
 
+## ROG/
+|              |                                                                                     |
+| ------------ | ----------------------------------------------------------------------------------- |
+| Origin       | Iriss-DA-disfl-conll-pros                                                           |
+| Description: | Final ROG encoding: entire ROG in conllu + Rog-Artur directories EXB, TRS, TXT, AVD |
+| Created:     | 2024-11-05T10:36:17                                                                 |
+| By:          | Peter                                                                               |
 
 ## ROG-Artur-train-dev-test-split.csv
 |              |                                             |
