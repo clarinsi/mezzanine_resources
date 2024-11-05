@@ -13,7 +13,6 @@ others = [
     "../ROG/ROG-TrainDevTest-split.tsv",
     "../ROG/ROG-speakers.tsv",
     "../ROG/ROG-speeches.tsv",
-    "../ROG/CONLLU_done",
 ]
 public = False
 rule gather:
@@ -39,7 +38,8 @@ rule prep_artur_metadata:
     input:
         split="../ROG-Artur-train-dev-test-split.csv",
         speakers="../Gos.TEI/Gos-speakers.tsv",
-        speeches="../Gos.TEI/Gos-speeches.tsv"
+        speeches="../Gos.TEI/Gos-speeches.tsv",
+        tjasas_augmented_titles="../ROG_code/Gos-speeches-zaTjaso.xlsx",
     output:
         split="../ROG/ROG-Art/ROG-Art-TrainDevTest-split.tsv",
         speakers="../ROG/ROG-Art/ROG-Art-speakers.tsv",
@@ -51,15 +51,15 @@ rule prep_artur_metadata:
             pl.col("Recording ID").str.replace("Artur", "Rog-Art").alias("TEXT-ID")
         ).select(pl.col("TEXT-ID"), pl.col("Split")).write_csv(output.split, separator="\t")
 
-        do_rog_speeches(input.speeches, output.speeches, artur_only=True)
+        do_rog_speeches(input.speeches, output.speeches, artur_only=True, newtitles = input.tjasas_augmented_titles)
         do_rog_speakers(input.speakers, output.speakers, artur_only=True)
 rule do_conll:
     input:
         train="../UD_Slovenian-SST/sl_sst-ud-train.conllu",
         dev="../UD_Slovenian-SST/sl_sst-ud-dev.conllu",
         test="../UD_Slovenian-SST/sl_sst-ud-test.conllu",
-    # output: temp("../ROG/CONLLU_done")
     output: temp("../ROG/CONLLU_done")
+    # output: "../ROG/CONLLU_done"
     run:
         from pathlib import Path
         from utils import do_conllus
@@ -70,7 +70,9 @@ rule prep_conll_metadata:
     input:
         speakers="../Gos.TEI/Gos-speakers.tsv",
         speeches="../Gos.TEI/Gos-speeches.tsv",
-        split="../ROG_code/"
+        split="../ROG_code/",
+        is_conllu_done_already="../ROG/CONLLU_done",
+        tjasas_augmented_titles="../ROG_code/Gos-speeches-zaTjaso.xlsx",
     output:
         split="../ROG/ROG-TrainDevTest-split.tsv",
         speakers="../ROG/ROG-speakers.tsv",
@@ -78,7 +80,7 @@ rule prep_conll_metadata:
     run:
         import polars as pl
         from utils import do_rog_speeches, do_rog_speakers
-        do_rog_speeches(input.speeches, output.speeches, artur_only=False)
+        do_rog_speeches(input.speeches, output.speeches, artur_only=False, newtitles = input.tjasas_augmented_titles)
         do_rog_speakers(input.speakers, output.speakers, artur_only=False)
         from utils import make_conll_splits
         pl.DataFrame(make_conll_splits()).write_csv(output.split, separator="\t")

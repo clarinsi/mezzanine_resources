@@ -228,7 +228,7 @@ def fix_trs(inpath: str, outpath: str):
     )
 
 
-def do_rog_speeches(inpath: str, outpath: str, artur_only=False):
+def do_rog_speeches(inpath: str, outpath: str, artur_only=False, newtitles: str = ""):
     import polars as pl
     from pathlib import Path
     from conllu import parse
@@ -267,11 +267,31 @@ def do_rog_speeches(inpath: str, outpath: str, artur_only=False):
         .join(ndf, left_on="TEXT-ID", right_on="speech")
         .with_columns(
             pl.col("TEXT-ID").str.replace("Artur", "Rog-Art"),
-            pl.col("SPK-IDsUTTS").list.join(" "),
+            pl.col("SPK-IDsUTTS").list.sort().list.join(" "),
         )
     )
     if artur_only:
         df = df.filter(pl.col("TEXT-ID").str.contains("Rog-Art"))
+
+    # Update titles:
+    if newtitles != "":
+        assert Path(newtitles).exists()
+        excel = (
+            pl.read_excel(newtitles)
+            .with_columns(pl.col("TEXT-ID").str.replace("^Artur", "Rog-Art"))
+            .filter(pl.col("TEXT-ID").is_in(df["TEXT-ID"]))
+            .select(pl.col("TEXT-ID"), pl.col("TITLE"))
+        )
+        old_column_order = df.columns
+        ndf = df.select(pl.exclude("TITLE")).join(
+            excel,
+            on="TEXT-ID",
+            how="left",
+        )
+        ndf = ndf[old_column_order]
+        df = ndf
+        2 + 2
+
     df.write_csv(outpath, separator="\t")
 
     2 + 2
@@ -324,4 +344,4 @@ def do_rog_speakers(inpath: str, outpath: str, artur_only=False):
     df.write_csv(outpath, separator="\t")
 
 
-# do_rog_speakers("../Gos.TEI/Gos-speakers.tsv", "brisi.tsv")
+# do_rog_speeches("../Gos.TEI/Gos-speeches.tsv", "brisi.tsv", newtitles="../ROG_code/Gos-speeches-zaTjaso.xlsx",)
