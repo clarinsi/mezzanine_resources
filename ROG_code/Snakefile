@@ -47,8 +47,8 @@ rule do_conll:
         train="../UD_Slovenian-SST/sl_sst-ud-train.conllu",
         dev="../UD_Slovenian-SST/sl_sst-ud-dev.conllu",
         test="../UD_Slovenian-SST/sl_sst-ud-test.conllu",
-    output: temp("../ROG/CONLLU_done")
-    # output: "../ROG/CONLLU_done"
+    # output: temp("../ROG/CONLLU_done")
+    output: "../ROG/CONLLU_done"
     run:
         from pathlib import Path
         from utils import do_conllus
@@ -58,9 +58,11 @@ rule prep_artur_metadata:
     input:
         split="../ROG-Artur-train-dev-test-split.csv",
         is_conllu_done_already="../ROG/CONLLU_done",
-        speakers="../Gos.TEI/Gos-speakers.tsv",
-        speeches="GOS_metadata_fix/Gos-speeches.tsv",
-        tjasas_augmented_titles="../ROG_code/Gos-speeches-zaTjaso.xlsx",
+        # speakers="../Gos.TEI/Gos-speakers.tsv",
+        # speeches="GOS_metadata_fix/Gos-speeches.tsv",
+        # tjasas_augmented_titles="../ROG_code/Gos-speeches-zaTjaso.xlsx",
+        speakers="../ROG/ROG-speakers.tsv",
+        speeches="../ROG/ROG-speeches.tsv",
     output:
         split="../ROG/ROG-Art/ROG-Art-TrainDevTest-split.tsv",
         speakers="../ROG/ROG-Art/ROG-Art-speakers.tsv",
@@ -71,8 +73,10 @@ rule prep_artur_metadata:
         pl.read_csv(input.split).with_columns(
             pl.col("Recording ID").str.replace("Artur", "Rog-Art").alias("TEXT-ID")
         ).select(pl.col("TEXT-ID"), pl.col("Split")).write_csv(output.split, separator="\t")
-        do_rog_speeches(input.speeches, output.speeches, artur_only=True, newtitles = input.tjasas_augmented_titles)
-        do_rog_speakers(input.speakers, output.speakers, artur_only=True)
+        # do_rog_speeches(input.speeches, output.speeches, artur_only=True, newtitles = input.tjasas_augmented_titles)
+        # do_rog_speakers(input.speakers, output.speakers, artur_only=True)
+        pl.read_csv(input.speakers, separator="\t").filter(pl.col("TEXT-ID").str.contains("Art")).write_csv(output.speakers, separator="\t")
+        pl.read_csv(input.speeches, separator="\t").filter(pl.col("TEXT-ID").str.contains("Art")).write_csv(output.speeches, separator="\t")
 
 rule prep_conll_metadata:
     input:
@@ -89,7 +93,7 @@ rule prep_conll_metadata:
         import polars as pl
         from utils import do_rog_speeches, do_rog_speakers
         do_rog_speeches(input.speeches, output.speeches, artur_only=False, newtitles = input.tjasas_augmented_titles)
-        do_rog_speakers(input.speakers, output.speakers, artur_only=False)
+        do_rog_speakers(input.speakers, output.speakers, artur_only=False, speeches=output.speeches)
         from utils import make_conll_splits
         pl.DataFrame(make_conll_splits()).write_csv(output.split, separator="\t")
 

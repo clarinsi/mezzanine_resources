@@ -314,7 +314,7 @@ def do_rog_speeches(inpath: str, outpath: str, artur_only=False, newtitles: str 
     word_counter = dict()
     sentence_counter = dict()
     for i in df["TEXT-ID"]:
-        i = i.replace("Rog-Art", "")
+        # i = i.replace("Rog-Art", "Artur")
         candidate = [j for j in conllus if (i in j)][0]
         name_mapper[i] = candidate
         file = [
@@ -341,7 +341,7 @@ def do_rog_speeches(inpath: str, outpath: str, artur_only=False, newtitles: str 
     2 + 2
 
 
-def do_rog_speakers(inpath: str, outpath: str, artur_only=False):
+def do_rog_speakers(inpath: str, outpath: str, artur_only=False, speeches=str):
     import polars as pl
     from pathlib import Path
     from conllu import parse
@@ -385,6 +385,39 @@ def do_rog_speakers(inpath: str, outpath: str, artur_only=False):
     )
     if artur_only:
         df = df.filter(pl.col("TEXT-ID").str.contains("Rog-Art"))
+
+    # Implement TEXT-ID correction based on previously done speeches file:
+    speechesdf = (
+        pl.read_csv(speeches, separator="\t")
+        .select(["SOURCE-ID", "TEXT-ID", "RECORDING-ID"])
+        .with_columns(pl.col("SOURCE-ID").alias("key"))
+    )
+    df = (
+        df.with_columns(pl.col("TEXT-ID").str.replace("Rog-Art", "Artur"))
+        .join(
+            speechesdf, left_on="TEXT-ID", right_on="key", how="left", suffix="_right"
+        )
+        .with_columns(pl.col("TEXT-ID_right").alias("TEXT-ID"))
+        .select(pl.exclude("TEXT-ID_right"))
+        .select(
+            [
+                "TEXT-ID",
+                "SOURCE-ID",
+                "RECORDING-ID",
+                "SUBCORPUS",
+                "PRS-ID",
+                "SEX",
+                "AGE",
+                "1LANG",
+                "DIALECT",
+                "EDUCATION",
+                "PERM-RESD",
+                "CHILD-RESD",
+                "SENTENCES",
+                "WORDS",
+            ]
+        )
+    )
     df.write_csv(outpath, separator="\t")
 
 
@@ -395,6 +428,9 @@ def do_rog_speakers(inpath: str, outpath: str, artur_only=False):
 # )
 # print("Will call conllus")
 # do_conllus()
+do_rog_speakers(
+    "../Gos.TEI/Gos-speakers.tsv", "brisi.tsv", speeches="../ROG/ROG-speeches.tsv"
+)
 
 
 def fix_gos_metadata(inpath: str, outpath: str) -> None:
