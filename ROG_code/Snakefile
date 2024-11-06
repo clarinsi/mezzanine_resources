@@ -75,8 +75,8 @@ rule prep_artur_metadata:
         ).select(pl.col("TEXT-ID"), pl.col("Split")).write_csv(output.split, separator="\t")
         # do_rog_speeches(input.speeches, output.speeches, artur_only=True, newtitles = input.tjasas_augmented_titles)
         # do_rog_speakers(input.speakers, output.speakers, artur_only=True)
-        pl.read_csv(input.speakers, separator="\t").filter(pl.col("TEXT-ID").str.contains("Art")).write_csv(output.speakers, separator="\t")
-        pl.read_csv(input.speeches, separator="\t").filter(pl.col("TEXT-ID").str.contains("Art")).write_csv(output.speeches, separator="\t")
+        pl.read_csv(input.speakers, separator="\t").with_columns(pl.col("RECORDING-ID").str.replace("-avd.wav", ".wav")).filter(pl.col("TEXT-ID").str.contains("Art")).write_csv(output.speakers, separator="\t")
+        pl.read_csv(input.speeches, separator="\t").with_columns(pl.col("RECORDING-ID").str.replace("-avd.wav", ".wav")).filter(pl.col("TEXT-ID").str.contains("Art")).write_csv(output.speeches, separator="\t")
 
 rule prep_conll_metadata:
     input:
