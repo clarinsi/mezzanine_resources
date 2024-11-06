@@ -95,5 +95,15 @@ rule prep_conll_metadata:
         do_rog_speeches(input.speeches, output.speeches, artur_only=False, newtitles = input.tjasas_augmented_titles)
         do_rog_speakers(input.speakers, output.speakers, artur_only=False, speeches=output.speeches)
         from utils import make_conll_splits
-        pl.DataFrame(make_conll_splits()).write_csv(output.split, separator="\t")
+        df = pl.DataFrame(make_conll_splits()).with_columns(
+            pl.col("Sent_id").str.split(".").list.first().alias("SOURCE-ID")
+        ).select(pl.exclude("Sent_id")).unique()
+        speeches = pl.read_csv(output.speeches, separator="\t").select(["TEXT-ID", "SOURCE-ID"])
+        df = df.join(speeches, on="SOURCE-ID", how="left")
+        df.select(["TEXT-ID", "Split"]).with_columns(
+            pl.col("Split").str.to_titlecase()
+        ).sort("TEXT-ID").write_csv(output.split, separator="\t")
+
+
+
 
