@@ -34,25 +34,14 @@ rule cp_trs:
     run:
         from utils import fix_trs
         fix_trs(input[0], output[0])
-rule prep_artur_metadata:
-    input:
-        split="../ROG-Artur-train-dev-test-split.csv",
-        speakers="../Gos.TEI/Gos-speakers.tsv",
-        speeches="../Gos.TEI/Gos-speeches.tsv",
-        tjasas_augmented_titles="../ROG_code/Gos-speeches-zaTjaso.xlsx",
-    output:
-        split="../ROG/ROG-Art/ROG-Art-TrainDevTest-split.tsv",
-        speakers="../ROG/ROG-Art/ROG-Art-speakers.tsv",
-        speeches="../ROG/ROG-Art/ROG-Art-speeches.tsv",
-    run:
-        import polars as pl
-        from utils import do_rog_speeches, do_rog_speakers
-        pl.read_csv(input.split).with_columns(
-            pl.col("Recording ID").str.replace("Artur", "Rog-Art").alias("TEXT-ID")
-        ).select(pl.col("TEXT-ID"), pl.col("Split")).write_csv(output.split, separator="\t")
 
-        do_rog_speeches(input.speeches, output.speeches, artur_only=True, newtitles = input.tjasas_augmented_titles)
-        do_rog_speakers(input.speakers, output.speakers, artur_only=True)
+rule fix_GOS_speeches:
+    input: "../Gos.TEI/Gos-speeches.tsv"
+    output: "GOS_metadata_fix/Gos-speeches.tsv"
+    run:
+        from utils import fix_gos_metadata
+        fix_gos_metadata(input[0], output[0])
+
 rule do_conll:
     input:
         train="../UD_Slovenian-SST/sl_sst-ud-train.conllu",
@@ -65,11 +54,30 @@ rule do_conll:
         from utils import do_conllus
         do_conllus()
         Path(output[0]).write_text("")
+rule prep_artur_metadata:
+    input:
+        split="../ROG-Artur-train-dev-test-split.csv",
+        is_conllu_done_already="../ROG/CONLLU_done",
+        speakers="../Gos.TEI/Gos-speakers.tsv",
+        speeches="GOS_metadata_fix/Gos-speeches.tsv",
+        tjasas_augmented_titles="../ROG_code/Gos-speeches-zaTjaso.xlsx",
+    output:
+        split="../ROG/ROG-Art/ROG-Art-TrainDevTest-split.tsv",
+        speakers="../ROG/ROG-Art/ROG-Art-speakers.tsv",
+        speeches="../ROG/ROG-Art/ROG-Art-speeches.tsv",
+    run:
+        import polars as pl
+        from utils import do_rog_speeches, do_rog_speakers
+        pl.read_csv(input.split).with_columns(
+            pl.col("Recording ID").str.replace("Artur", "Rog-Art").alias("TEXT-ID")
+        ).select(pl.col("TEXT-ID"), pl.col("Split")).write_csv(output.split, separator="\t")
+        do_rog_speeches(input.speeches, output.speeches, artur_only=True, newtitles = input.tjasas_augmented_titles)
+        do_rog_speakers(input.speakers, output.speakers, artur_only=True)
 
 rule prep_conll_metadata:
     input:
         speakers="../Gos.TEI/Gos-speakers.tsv",
-        speeches="../Gos.TEI/Gos-speeches.tsv",
+        speeches="GOS_metadata_fix/Gos-speeches.tsv",
         split="../ROG_code/",
         is_conllu_done_already="../ROG/CONLLU_done",
         tjasas_augmented_titles="../ROG_code/Gos-speeches-zaTjaso.xlsx",
@@ -84,6 +92,4 @@ rule prep_conll_metadata:
         do_rog_speakers(input.speakers, output.speakers, artur_only=False)
         from utils import make_conll_splits
         pl.DataFrame(make_conll_splits()).write_csv(output.split, separator="\t")
-rule blabla:
-    shell:
-        ""
+

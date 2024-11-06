@@ -137,6 +137,7 @@ def do_conllus():
     from string import digits
 
     r = make_conll_splits()
+    print("Made conllu splits")
     df = pl.DataFrame(r).with_columns(
         pl.col("Sent_id")
         .map_elements(lambda i: in_corpus(i, "SST"), return_dtype=pl.Boolean)
@@ -158,43 +159,49 @@ def do_conllus():
 
     data = (
         parse(Path("../UD_Slovenian-SST/sl_sst-ud-train.conllu").read_text())
-        + parse(Path("../UD_Slovenian-SST/sl_sst-ud-train.conllu").read_text())
-        + parse(Path("../UD_Slovenian-SST/sl_sst-ud-train.conllu").read_text())
+        + parse(Path("../UD_Slovenian-SST/sl_sst-ud-test.conllu").read_text())
+        + parse(Path("../UD_Slovenian-SST/sl_sst-ud-dev.conllu").read_text())
     )
     print("Conllu parsed.")
     from tqdm import tqdm
 
-    for file in tqdm(df["file"].unique(), total=df["file"].unique().shape[0]):
-        # SST -> GO1
-        subset = df.filter((pl.col("file") == file) & (pl.col("in_sst") == True))
-        if subset.shape[0] != 0:
-            subdata = [i for i in data if i.metadata["sent_id"] in subset["Sent_id"]]
-            subdata = sorted(subdata, key=key)
-
-            path = Path(f"../ROG/CONLLU/Rog-Go1-{file}.conllu")
-            path.parent.mkdir(exist_ok=True)
-            path.write_text("\n".join([i.serialize() for i in data]))
-            # print("wrote")
-        # SPOG -> GO2
-        subset = df.filter((pl.col("file") == file) & (pl.col("in_spog") == True))
-        if subset.shape[0] != 0:
-            subdata = [i for i in data if i.metadata["sent_id"] in subset["Sent_id"]]
-            subdata = sorted(subdata, key=key)
-
-            path = Path(f"../ROG/CONLLU/Rog-Go2-{file}.conllu")
-            path.parent.mkdir(exist_ok=True)
-            path.write_text("\n".join([i.serialize() for i in data]))
-            # print("wrote")
-        # Artur -> Rog-Art
-        subset = df.filter((pl.col("file") == file) & (pl.col("in_artur") == True))
-        if subset.shape[0] != 0:
-            subdata = [i for i in data if i.metadata["sent_id"] in subset["Sent_id"]]
-            subdata = sorted(subdata, key=key)
-
-            path = Path(f"../ROG/CONLLU/Rog-Art{file.replace('Artur-', '-')}.conllu")
-            path.parent.mkdir(exist_ok=True)
-            path.write_text("\n".join([i.serialize() for i in data]))
-            # print("wrote")
+    spog_files = (
+        df.group_by("file")
+        .agg(pl.col("in_spog").any().alias("spog"))
+        .filter(pl.col("spog") == True)["file"]
+    ).to_list()
+    sst_files = (
+        df.group_by("file")
+        .agg(pl.col("in_sst").any().alias("sst"))
+        .filter((pl.col("sst") == True) & (~pl.col("file").is_in(spog_files)))["file"]
+    ).to_list()
+    artur_files = (
+        df.filter(pl.col("file").str.contains("Artur-"))["file"].unique().to_list()
+    )
+    for file in tqdm(artur_files, desc="Writing Artur"):
+        subset = df.filter((pl.col("file") == file))
+        assert subset.shape[0] != 0
+        subdata = [i for i in data if i.metadata["sent_id"] in subset["Sent_id"]]
+        subdata = sorted(subdata, key=key)
+        path = Path(f"../ROG/CONLLU/Rog-Art-{file.replace('Artur-', '')}.conllu")
+        path.parent.mkdir(exist_ok=True)
+        path.write_text("\n".join([i.serialize() for i in subdata]))
+    for file in tqdm(sst_files, desc="Writing GO1"):
+        subset = df.filter((pl.col("file") == file))
+        assert subset.shape[0] != 0
+        subdata = [i for i in data if i.metadata["sent_id"] in subset["Sent_id"]]
+        subdata = sorted(subdata, key=key)
+        path = Path(f"../ROG/CONLLU/Rog-Go1-{file}.conllu")
+        path.parent.mkdir(exist_ok=True)
+        path.write_text("\n".join([i.serialize() for i in subdata]))
+    for file in tqdm(spog_files, desc="Writing GO2"):
+        subset = df.filter((pl.col("file") == file))
+        assert subset.shape[0] != 0
+        subdata = [i for i in data if i.metadata["sent_id"] in subset["Sent_id"]]
+        subdata = sorted(subdata, key=key)
+        path = Path(f"../ROG/CONLLU/Rog-Go2-{file}.conllu")
+        path.parent.mkdir(exist_ok=True)
+        path.write_text("\n".join([i.serialize() for i in subdata]))
     2 + 2
 
 
@@ -290,8 +297,45 @@ def do_rog_speeches(inpath: str, outpath: str, artur_only=False, newtitles: str 
         )
         ndf = ndf[old_column_order]
         df = ndf
-        2 + 2
 
+    2 + 2
+    # Prep SOURCE-ID column:
+    old_order = df.columns
+    df = df.with_columns(
+        pl.col("TEXT-ID").str.replace("Rog-Art", "Artur").alias("SOURCE-ID")
+    ).select([old_order[0], "SOURCE-ID", *old_order[1:]])
+
+    # Sort out TITLE-ID column:
+    # Find new filenames (Rog-Go1...)
+    # Count the words and sentences
+    conllus = list(Path("../ROG/CONLLU").glob("*.conllu"))
+    conllus = [i.with_suffix("").name for i in conllus]
+    name_mapper = dict()
+    word_counter = dict()
+    sentence_counter = dict()
+    for i in df["TEXT-ID"]:
+        i = i.replace("Rog-Art", "")
+        candidate = [j for j in conllus if (i in j)][0]
+        name_mapper[i] = candidate
+        file = [
+            i
+            for i in list(Path("../ROG/CONLLU").glob("*.conllu"))
+            if i.with_suffix("").name == candidate
+        ][0]
+        data = parse(file.read_text())
+        sentence_counter[i] = len(data)
+        word_counter[i] = sum([len(i) for i in data])
+        2 + 2
+    df = df.with_columns(
+        pl.col("TEXT-ID")
+        .map_elements(sentence_counter.get, return_dtype=pl.Int32)
+        .alias("SENTENCES"),
+        pl.col("TEXT-ID")
+        .map_elements(word_counter.get, return_dtype=pl.Int32)
+        .alias("WORDS"),
+    ).with_columns(
+        pl.col("TEXT-ID").map_elements(name_mapper.get, return_dtype=pl.String)
+    )
     df.write_csv(outpath, separator="\t")
 
     2 + 2
@@ -344,4 +388,46 @@ def do_rog_speakers(inpath: str, outpath: str, artur_only=False):
     df.write_csv(outpath, separator="\t")
 
 
-# do_rog_speeches("../Gos.TEI/Gos-speeches.tsv", "brisi.tsv", newtitles="../ROG_code/Gos-speeches-zaTjaso.xlsx",)
+# do_rog_speeches(
+#     "GOS_metadata_fix/Gos-speeches.tsv",
+#     "brisi.tsv",
+#     newtitles="../ROG_code/Gos-speeches-zaTjaso.xlsx",
+# )
+# print("Will call conllus")
+# do_conllus()
+
+
+def fix_gos_metadata(inpath: str, outpath: str) -> None:
+    from pathlib import Path
+    from lxml import etree as et
+    import polars as pl
+
+    geese = (
+        list((Path(inpath).parent / "Gos").glob("*.xml"))
+        + list(Path(inpath).parent.glob("Artur-*/*.xml"))
+        + list(Path(inpath).parent.glob("GosVL/*.xml"))
+    )
+    gos_to_recording = dict()
+    for gos in geese:
+        doc = et.fromstring(gos.read_bytes())
+        elem = doc.find(".//{*}recording/{*}media")
+        assert elem is not None
+        elem_id = elem.get("{http://www.w3.org/XML/1998/namespace}id")
+        elem_url = elem.get("url")
+        assert Path(elem_id).with_suffix("").name == Path(elem_url).with_suffix("").name
+        gos_name = gos.with_suffix("").name
+        gos_to_recording[gos_name] = Path(elem_url).with_suffix(".wav").name
+    df = pl.read_csv(inpath, separator="\t", truncate_ragged_lines=True)
+    old_column_order = df.columns
+    df = df.with_columns(
+        pl.col("TEXT-ID")
+        .map_elements(gos_to_recording.get, return_dtype=pl.String)
+        .alias("RECORDING-ID")
+    )
+    assert df["RECORDING-ID"].is_null().sum() == 0
+    df = df.select([old_column_order[0], "RECORDING-ID", *old_column_order[1:]])
+    df.write_csv(outpath, separator="\t")
+    2 + 2
+
+
+# fix_gos_metadata("../Gos.TEI/Gos-speakers.tsv", "brisi.tsv")
