@@ -185,7 +185,7 @@ def do_conllus():
         subdata = sorted(subdata, key=key)
         path = Path(f"../ROG/CONLLU/Rog-Art-{file.replace('Artur-', '')}.conllu")
         path.parent.mkdir(exist_ok=True)
-        path.write_text("\n".join([i.serialize() for i in subdata]))
+        path.write_text("".join([i.serialize() for i in subdata]))
     for file in tqdm(sst_files, desc="Writing GO1"):
         subset = df.filter((pl.col("file") == file))
         assert subset.shape[0] != 0
@@ -193,7 +193,7 @@ def do_conllus():
         subdata = sorted(subdata, key=key)
         path = Path(f"../ROG/CONLLU/Rog-Go1-{file}.conllu")
         path.parent.mkdir(exist_ok=True)
-        path.write_text("\n".join([i.serialize() for i in subdata]))
+        path.write_text("".join([i.serialize() for i in subdata]))
     for file in tqdm(spog_files, desc="Writing GO2"):
         subset = df.filter((pl.col("file") == file))
         assert subset.shape[0] != 0
@@ -201,7 +201,7 @@ def do_conllus():
         subdata = sorted(subdata, key=key)
         path = Path(f"../ROG/CONLLU/Rog-Go2-{file}.conllu")
         path.parent.mkdir(exist_ok=True)
-        path.write_text("\n".join([i.serialize() for i in subdata]))
+        path.write_text("".join([i.serialize() for i in subdata]))
     2 + 2
 
 
@@ -427,7 +427,7 @@ def do_rog_speakers(inpath: str, outpath: str, artur_only=False, speeches=str):
 #     newtitles="../ROG_code/Gos-speeches-zaTjaso.xlsx",
 # )
 # print("Will call conllus")
-# do_conllus()
+
 do_rog_speakers(
     "../Gos.TEI/Gos-speakers.tsv", "brisi.tsv", speeches="../ROG/ROG-speeches.tsv"
 )
