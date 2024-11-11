@@ -10,7 +10,10 @@ files = (
     .Comm.unique()
     .tolist()
 )
-
+# files = [
+#     i.with_suffix("").with_suffix("").name
+#     for i in Path(f"/home/peter/mezzanine_resources/ROG/ROG-Art/EXB/").glob("*.exb.xml")
+# ]
 for file in files:
     conllufile = Path(f"/home/peter/mezzanine_resources/ROG/CONLLU/{file}.conllu")
     exbfile = Path(f"/home/peter/mezzanine_resources/ROG/ROG-Art/EXB/{file}.exb.xml")
